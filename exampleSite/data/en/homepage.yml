@@ -3,6 +3,11 @@ slider:
   enable: true
   bg_image: images/banner/banner-1.jpg
   slider_item:
+  - title: Welcome to the new vCoD community site
+    content: This some text about the site
+    animation_in: left
+    animation_out: right
+    button: ''
   - title: vCod Cup series 1
     content: The first instalment of the vCod Cup Series is now live and ready for
       sign ups.
