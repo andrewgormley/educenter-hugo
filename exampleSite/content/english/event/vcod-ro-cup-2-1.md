@@ -2,10 +2,10 @@
 apply_url = "#"
 bg_image = "/images/banner.jpg"
 date = 2020-03-25T09:27:17Z
-description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description = ""
 fee = "Free"
 image = "/images/banner.jpg"
-location = "Dhanmondi, Dhaka"
+location = "Call of Duty 1"
 publishDate = "2019-01-01T00:00:00Z"
 title = "vCod RO Cup #3"
 [[speaker]]
@@ -18,6 +18,24 @@ image = "images/event-speakers/speaker-4.jpg"
 name = "razRR"
 
 +++
-### About Event
+### About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+**Cup Information** **Dates:** 2nd of May (Saturday) & 3rd of May (Sunday) 
+
+**Time:** 2pm UK Time (3pm CET) start on both days 
+
+**Anti-cheat:** Veritas-AC 
+
+**Teams:** 16 (capped, first come first served) 
+
+**Group Format:** 4 groups of 4. Top 2 go qualify for the main event (double elim) and bottom 2 qualify for the plate event (double elim). 
+
+**Group Qualification:** Points -> Rounds Difference -> Head to Head round difference 
+
+**Group Matches:** 2 maps. Races to 11 on each map. 20 rounds max. You stop when a team hits 11 on a map. Think of it as two 'best of 1s' for each group match. Maps will be pre-picked (random on stream). You get 3 points per map win, 1 point for a map draw and 0 points for a loss.
+
+**Match Format:** 2 maps (normal scrim), teams picking their own map. However a team can only pick a map once through the bracket stage. This resets in the finals. If you pick harbor in the first bracket match, that map is eliminated from your pool unless your opponent picks it versus you. You will bash for first map and bash for first side as normal.
+
+* Round 1 - Harbor
+* Round 2 - Railyard
+* Round 3 - Hurtgen
