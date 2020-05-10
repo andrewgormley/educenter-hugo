@@ -44,7 +44,7 @@ contact_form_action = "#"
 description = "This is meta description"
 email = ""
 google_analitycs_id = ""
-logo = "images/codlogo-1.png"
+logo = "images/logo.png"
 mobile = ""
 top_header = false
 [params.map]
