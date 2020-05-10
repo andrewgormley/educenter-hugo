@@ -3,8 +3,8 @@ slider:
   enable: true
   bg_image: images/banner/banner-1.jpg
   slider_item:
-  - title: Welcome to the new vCoD community site
-    content: This some text about the site
+  - title: Welcome
+    content: ''
     animation_in: left
     animation_out: right
     button: ''
