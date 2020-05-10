@@ -10,21 +10,13 @@ location = "Dhanmondi, Dhaka"
 publishDate = "2019-01-01T00:00:00Z"
 title = "vCod RO Cup #3"
 [[speaker]]
-designation = "Teacher"
-image = "images/event-speakers/speaker-1.jpg"
-name = "Jack Mastio"
+designation = "Referee"
+image = "/images/teacher.jpg"
+name = "Shuya"
 [[speaker]]
-designation = "Teacher"
-image = "images/event-speakers/speaker-2.jpg"
-name = "John Doe"
-[[speaker]]
-designation = "Teacher"
-image = "images/event-speakers/speaker-3.jpg"
-name = "Randy Luis"
-[[speaker]]
-designation = "Teacher"
+designation = "Admin"
 image = "images/event-speakers/speaker-4.jpg"
-name = "Alfred Jin"
+name = "razRR"
 
 +++
 ### About Event
