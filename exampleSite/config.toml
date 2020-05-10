@@ -40,13 +40,17 @@ URL = "research"
 name = "research"
 weight = 1
 [[menu.main]]
+URL = "event"
+name = "Tournaments"
+weight = "2"
+[[menu.main]]
 URL = "about"
 name = "About"
-weight = 1
+weight = 2
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 2
+weight = 3
 [params]
 address = ""
 author = "Themefisher"
