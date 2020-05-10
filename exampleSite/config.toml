@@ -19,39 +19,24 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[[menu.footer]]
-URL = "research"
-name = "research"
-weight = 1
-[[menu.footer]]
-URL = "scholarship"
-name = "scholarship"
-weight = 2
-[[menu.footer]]
-URL = "event"
-name = "event"
-weight = 3
-[[menu.footer]]
-URL = "notice"
-name = "notice"
+[menu.main]
+name = "Tournaments"
 weight = 4
 [[menu.footer]]
 URL = "teacher"
 name = "teacher"
-weight = 5
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 3
-[[menu.main]]
-URL = "about"
-name = "About"
-weight = 2
-[[menu.main]]
+[[menu.footer]]
+URL = "notice"
+name = "notice"
+[[menu.footer]]
 URL = "event"
-name = "Events"
-parent = "Pages"
-weight = 1
+name = "event"
+[[menu.footer]]
+URL = "scholarship"
+name = "scholarship"
+[[menu.footer]]
+URL = "research"
+name = "research"
 [params]
 address = ""
 author = "Themefisher"
@@ -91,7 +76,7 @@ link = "plugins/filterizr/jquery.filterizr.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/gmap.js"
 [params.preloader]
-enable = true
+enable = false
 preloader = "images/preloader.gif"
 [params.subscription]
 enable = true
