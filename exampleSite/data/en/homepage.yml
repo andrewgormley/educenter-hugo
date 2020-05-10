@@ -3,30 +3,9 @@ slider:
   enable: true
   bg_image: images/banner/banner-1.jpg
   slider_item:
-  - title: Your bright future is our mission
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
-      exer
-    animation_in: left
-    animation_out: right
-    button:
-      enable: true
-      label: Apply now
-      link: contact
-  - title: Your bright future is our mission
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
-      exer
-    animation_in: left
-    animation_out: right
-    button:
-      enable: true
-      label: Apply now
-      link: contact
-  - title: Your bright future is our mission
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
-      exer
+  - title: vCod Cup series 1
+    content: The first instalment of the vCod Cup Series is now live and ready for
+      sign ups.
     animation_in: left
     animation_out: right
     button:
