@@ -1,13 +1,13 @@
 ---
 title: 'vCod RO Cup #1'
 publishDate: '2019-01-01T00:00:00Z'
-date: 2020-03-11T09:27:17+00:00
-bg_image: images/backgrounds/page-title.jpg
+date: 2020-03-11T09:27:17.000+00:00
+bg_image: "/images/banner.jpg"
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
   nostrud.
-image: images/events/event-2.jpg
-location: Dhanmondi, Dhaka
+image: "/images/banner.jpg"
+location: ''
 fee: Free
 apply_url: "#"
 speaker:
