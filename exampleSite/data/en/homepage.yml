@@ -3,12 +3,13 @@ slider:
   enable: true
   bg_image: images/banner.jpg
   slider_item:
-  - title: Welcome
-    content: ''
+  - title: Welcome to vCoD.gg
+    content: The brand new Call of Duty community website for the best leagues and
+      tournaments in vCoD.
     animation_in: left
     animation_out: right
     button:
-      enable: true
+      enable: false
       label: button
       link: contact
   - title: vCod Cup series 1
