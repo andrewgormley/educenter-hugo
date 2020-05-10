@@ -40,10 +40,6 @@ URL = "research"
 name = "research"
 weight = 1
 [[menu.main]]
-URL = "event"
-name = "Tournaments"
-weight = ""
-[[menu.main]]
 URL = "about"
 name = "About"
 weight = 2
