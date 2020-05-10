@@ -8,7 +8,7 @@ fee = "Free"
 image = "/images/banner.jpg"
 location = "Dhanmondi, Dhaka"
 publishDate = "2019-01-01T00:00:00Z"
-title = "vCod RO Cup #2"
+title = "vCod RO Cup #3"
 [[speaker]]
 designation = "Teacher"
 image = "images/event-speakers/speaker-1.jpg"
