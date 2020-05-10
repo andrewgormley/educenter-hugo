@@ -46,11 +46,11 @@ weight = "2"
 [[menu.main]]
 URL = "about"
 name = "About"
-weight = 2
+weight = "3"
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 3
+weight = "4"
 [params]
 address = ""
 author = "Themefisher"
