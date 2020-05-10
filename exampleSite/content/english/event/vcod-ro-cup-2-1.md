@@ -3,7 +3,6 @@ apply_url = "#"
 bg_image = "/images/banner.jpg"
 date = 2020-03-25T09:27:17Z
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
-draft = true
 fee = "Free"
 image = "/images/banner.jpg"
 location = "Dhanmondi, Dhaka"
