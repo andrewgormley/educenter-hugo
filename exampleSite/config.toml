@@ -20,37 +20,33 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.footer]]
-URL = "research"
-name = "research"
-weight = 1
-[[menu.footer]]
-URL = "scholarship"
-name = "scholarship"
-weight = 2
-[[menu.footer]]
-URL = "event"
-name = "event"
-weight = 3
+URL = "teacher"
+name = "teacher"
+weight = 5
 [[menu.footer]]
 URL = "notice"
 name = "notice"
 weight = 4
 [[menu.footer]]
-URL = "teacher"
-name = "teacher"
-weight = 5
-[[menu.main]]
-URL = "contact"
-name = "Contact"
+URL = "event"
+name = "event"
 weight = 3
+[[menu.footer]]
+URL = "scholarship"
+name = "scholarship"
+weight = 2
+[[menu.footer]]
+URL = "research"
+name = "research"
+weight = 1
 [[menu.main]]
 URL = "about"
 name = "About"
 weight = 2
 [[menu.main]]
-URL = "event"
-name = "Events"
-weight = 1
+URL = "contact"
+name = "Contact"
+weight = 3
 [params]
 address = ""
 author = "Themefisher"
