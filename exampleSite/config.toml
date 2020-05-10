@@ -1,4 +1,4 @@
-baseURL = "https://vcodgg.netlify.com"
+baseURL = "https://vcodgg.netlify.app"
 disableLanguages = []
 disqusShortname = "educenter"
 paginate = "6"
