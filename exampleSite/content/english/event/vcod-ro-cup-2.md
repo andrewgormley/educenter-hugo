@@ -2,7 +2,7 @@
 apply_url = "#"
 bg_image = "/images/banner.jpg"
 date = 2020-03-18T20:00:17Z
-description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description = ""
 fee = "Free"
 image = "/images/banner.jpg"
 location = "Call of Duty 1"
