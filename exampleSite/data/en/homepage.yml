@@ -9,9 +9,9 @@ slider:
     animation_in: left
     animation_out: right
     button:
-      enable: false
-      label: button
-      link: contact
+      enable: true
+      label: Tournaments
+      link: event
   - title: vCod Cup series 1
     content: The first instalment of the vCod Cup Series is now live and ready for
       sign ups.
