@@ -1,14 +1,13 @@
 +++
 apply_url = "#"
 bg_image = "images/backgrounds/page-title.jpg"
-date = 2020-03-18T09:27:17Z
+date = 2020-03-25T09:27:17Z
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
-draft = true
 fee = "Free"
 image = "images/events/event-2.jpg"
 location = "Dhanmondi, Dhaka"
 publishDate = "2019-01-01T00:00:00Z"
-title = "vCod RO Cup #2"
+title = "vCod RO Cup #3"
 [[speaker]]
 designation = "Teacher"
 image = "images/event-speakers/speaker-1.jpg"
