@@ -20,38 +20,57 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.footer]]
-URL = "research"
-name = "research"
-weight = 1
-[[menu.footer]]
-URL = "scholarship"
-name = "scholarship"
-weight = 2
-[[menu.footer]]
-URL = "event"
-name = "event"
-weight = 3
+URL = "teacher"
+name = "teacher"
 [[menu.footer]]
 URL = "notice"
 name = "notice"
-weight = 4
 [[menu.footer]]
-URL = "teacher"
-name = "teacher"
-weight = 5
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 3
+URL = "event"
+name = "event"
+[[menu.footer]]
+URL = "scholarship"
+name = "scholarship"
+[[menu.footer]]
+URL = "research"
+name = "research"
 [[menu.main]]
 URL = "about"
 name = "About"
+weight = 1
+[[menu.main]]
+URL = "course"
+name = "course"
 weight = 2
 [[menu.main]]
-URL = "event"
-name = "Events"
+URL = "teacher"
+name = "teacher"
 parent = "Pages"
-weight = 1
+[[menu.main]]
+URL = "notice"
+name = "notice"
+parent = "Pages"
+[[menu.main]]
+URL = "event"
+name = "event"
+parent = "Pages"
+weight = "1"
+[[menu.main]]
+URL = "scholarship"
+name = "scholarship"
+parent = "Pages"
+[[menu.main]]
+URL = "research"
+name = "research"
+parent = "Pages"
+[[menu.main]]
+URL = "blog"
+name = "blog"
+weight = 4
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 5
 [params]
 address = ""
 author = "Themefisher"
@@ -91,10 +110,10 @@ link = "plugins/filterizr/jquery.filterizr.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/gmap.js"
 [params.preloader]
-enable = true
+enable = false
 preloader = "images/preloader.gif"
 [params.subscription]
-enable = true
+enable = false
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
 [[params.social]]
