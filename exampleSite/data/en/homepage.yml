@@ -1,7 +1,7 @@
 ---
 slider:
   enable: true
-  bg_image: images/banner/banner-1.jpg
+  bg_image: images/banner.jpg
   slider_item:
   - title: Welcome
     content: ''
