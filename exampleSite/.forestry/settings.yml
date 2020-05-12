@@ -4,6 +4,8 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: heading
+  label: VCOD PAGES
 - type: directory
   path: exampleSite/content/english/event
   label: Event (en)
@@ -22,7 +24,27 @@ sections:
   create: none
   match: "*"
 - type: heading
-  label: Others Pages
+  label: Data
+- type: directory
+  path: exampleSite/data/en
+  label: Data (en)
+  create: all
+  match: "**/*"
+- type: directory
+  path: exampleSite/i18n
+  label: i18n
+  create: documents
+  match: "**/*"
+- type: heading
+  label: Configuration
+- type: directory
+  path: exampleSite
+  label: Configuration
+  create: all
+  match: "*.toml"
+  new_doc_ext: toml
+- type: heading
+  label: DO NOT USE
 - type: directory
   path: exampleSite/content/english/blog
   label: Post (en)
@@ -86,26 +108,6 @@ sections:
   match: "**/*"
   templates:
   - new-page
-- type: heading
-  label: Data
-- type: directory
-  path: exampleSite/data/en
-  label: Data (en)
-  create: all
-  match: "**/*"
-- type: directory
-  path: exampleSite/i18n
-  label: i18n
-  create: documents
-  match: "**/*"
-- type: heading
-  label: Configuration
-- type: directory
-  path: exampleSite
-  label: Configuration
-  create: all
-  match: "*.toml"
-  new_doc_ext: toml
 upload_dir: exampleSite/static/images
 public_path: "/images"
 front_matter_path: ''
