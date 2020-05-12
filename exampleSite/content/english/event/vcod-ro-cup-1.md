@@ -7,7 +7,7 @@ fee = "Free"
 image = "/images/banner.jpg"
 location = "Call of Duty 1"
 publishDate = "2019-01-01T00:00:00Z"
-title = "vCod RO Cup #1"
+title = "vCoD.gg - Rifles Only # 1"
 [[speaker]]
 designation = "Referee"
 image = "/images/teacher.jpg"
