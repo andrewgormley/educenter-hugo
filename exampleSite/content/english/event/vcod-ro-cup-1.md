@@ -1,7 +1,7 @@
 +++
 apply_url = "#"
 bg_image = "/images/banner.jpg"
-date = 2020-05-18T19:00:17Z
+date = 2020-05-18T17:00:17Z
 description = ""
 fee = "Free"
 image = "/images/banner.jpg"
@@ -9,9 +9,9 @@ location = "Call of Duty 1"
 publishDate = "2019-01-01T00:00:00Z"
 title = "vCoD.gg - Rifles Only # 1"
 [[speaker]]
-designation = "Referee"
+designation = "Admin"
 image = "/images/teacher.jpg"
-name = "Shuya"
+name = "razRR"
 
 +++
 ### About
