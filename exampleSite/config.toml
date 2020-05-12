@@ -91,21 +91,13 @@ mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463e
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
 [[params.social]]
 icon = "ti-facebook"
-link = "#"
-title = "facebook"
+link = "https://discord.gg/FA5vxDa"
+title = "Discord"
 [[params.social]]
 icon = "ti-twitter-alt"
-link = "#"
-title = "twitter"
+link = "https://www.twitch.tv/vcodseriesx"
+title = "Twitch"
 [[params.social]]
 icon = "ti-instagram"
-link = "#"
-title = "instagram"
-[[params.social]]
-icon = "ti-github"
-link = "#"
-title = "github"
-[[params.social]]
-icon = "ti-linkedin"
-link = "#"
-title = "linkedin"
+link = "https://www.youtube.com/channel/UCuzyM6hv_-eR13kKnOoYTPg?"
+title = "Youtube"
