@@ -14,7 +14,7 @@ image = "/images/teacher.jpg"
 name = "razRR"
 
 +++
-### About
+### Cup Information
 
 **Cup Information** **Dates:** 2nd of May (Saturday) & 3rd of May (Sunday)
 
