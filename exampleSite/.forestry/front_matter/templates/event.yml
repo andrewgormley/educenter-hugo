@@ -22,7 +22,7 @@ fields:
 - type: text
   name: location
   label: location
-  hidden: false
+  hidden: true
 - type: text
   name: fee
   label: fee
