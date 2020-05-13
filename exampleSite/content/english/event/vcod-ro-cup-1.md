@@ -18,24 +18,26 @@ name = "razRR"
 
 Rifles Only Community, we are back!
 
-We are pleased to announce that the registration for our first installment (yes, there will be more) of the latest vCoD.gg competitions will be going live on the 18th of May. Please find the registration form below.
+We are pleased to announce that the registration for our first installment (yes, there will be more) of the vCoD.gg competitions will be going live on the 18th of May. Please find the registration form below.
 
-**Date:** 2nd of May (Saturday) & 3rd of May (Sunday)
+**Registration Opens:** 18th May 2020, 18:00 GMT.
 
-**Time:** 2pm UK Time (3pm CET) start on both days
+**Registration Closes:** 22nd May 2020, 22:00 GMT.
 
-**Anti-cheat:** Veritas-AC
+**Cup Format:** Group stage followed by a double elimination knockout.
 
-**Teams:** 16 (capped, first come first served)
+**Maps:** Group stage - maps will be pre-decided. Knockout stage - teams can pick any map from the pool once.
 
-**Group Format:** 4 groups of 4. Top 2 go qualify for the main event (double elim) and bottom 2 qualify for the plate event (double elim).
+**Map Pool:** Bocage, Brecourt, Carentan, Dawnville, Depot, Harbor, Hurtgen, Neuville, Pavlov, Powcamp, Railyard, Rocket, Stalingrad and Tigertown.
 
-**Group Qualification:** Points -> Rounds Difference -> Head to Head round difference
+**Schedule:** The groups will be drawn on the 22nd of May, after registration closes. On the 24th of May, the competition will go live! Teams are expected to complete their matches before the 15th of June. A schedule will be put in place with suggested dates. Teams are free to play their games earlier or later, as long as they are complete before the deadline. A schedule will be put in place for the knockout phase. Only sign up if you are willing to complete all of your scheduled games! Not completing the fixtures will have an impact on your chances of entering future competition.
 
-**Group Matches:** 2 maps. Races to 11 on each map. 20 rounds max. You stop when a team hits 11 on a map. Think of it as two 'best of 1s' for each group match. Maps will be pre-picked (random on stream). You get 3 points per map win, 1 point for a map draw and 0 points for a loss.
+**Anti-Cheat:** Veritas 2.0.4.
 
-**Match Format:** 2 maps (normal scrim), teams picking their own map. However a team can only pick a map once through the bracket stage. This resets in the finals. If you pick harbor in the first bracket match, that map is eliminated from your pool unless your opponent picks it versus you. You will bash for first map and bash for first side as normal.
+**Stream:** https://www.twitch.tv/vcodseriesx.
 
-* Round 1 - Harbor
-* Round 2 - Railyard
-* Round 3 - Hurtgen
+If you are clanless and looking for a team, then head over to the Community Discord at: [https://discord.gg/FA5vxDa.](https://discord.gg/FA5vxDa. "https://discord.gg/FA5vxDa.")
+
+**Registered Teams:**
+
+* 
