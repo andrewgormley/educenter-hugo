@@ -7,6 +7,13 @@ sections:
 - type: heading
   label: VCOD PAGES
 - type: directory
+  path: exampleSite/content/english/blog
+  label: Post (en)
+  create: documents
+  match: "**/*"
+  templates:
+  - post
+- type: directory
   path: exampleSite/content/english/event
   label: Event (en)
   create: all
@@ -45,13 +52,6 @@ sections:
   new_doc_ext: toml
 - type: heading
   label: DO NOT USE
-- type: directory
-  path: exampleSite/content/english/blog
-  label: Post (en)
-  create: documents
-  match: "**/*"
-  templates:
-  - post
 - type: directory
   path: exampleSite/content/english/author
   label: Author (en)
