@@ -37,5 +37,4 @@ fields:
   default: post
   hidden: false
 pages:
-- exampleSite/content/english/blog/test-title.md
-- exampleSite/content/english/news/test-title.md
+- exampleSite/content/english/news/tests-1.md
