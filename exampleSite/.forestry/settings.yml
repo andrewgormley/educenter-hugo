@@ -7,8 +7,8 @@ sections:
 - type: heading
   label: VCOD PAGES
 - type: directory
-  path: exampleSite/content/english/blog
-  label: Post (en)
+  path: exampleSite/content/english/news
+  label: News (en)
   create: documents
   match: "**/*"
   templates:
