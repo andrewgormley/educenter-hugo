@@ -30,7 +30,7 @@ We are pleased to announce that the registration for our first installment (yes,
 
 **Map Pool:** Bocage, Brecourt, Carentan, Dawnville, Depot, Harbor, Hurtgen, Neuville, Pavlov, Powcamp, Railyard, Rocket, Stalingrad and Tigertown.
 
-**Schedule:** The groups will be drawn on the 22nd of May, after registration closes. On the 24th of May, the competition will go live! Teams are expected to complete their matches before the 15th of June. A schedule will be put in place with suggested dates. Teams are free to play their games earlier or later, as long as they are complete before the deadline. A schedule will be put in place for the knockout phase. Only sign up if you are willing to complete all of your scheduled games! Not completing the fixtures will have an impact on your chances of entering future competition.
+**Schedule:** The groups will be drawn on the 22nd of May, after registration closes. On the 24th of May, the competition will go live! Teams are expected to complete their matches before the 15th of June. A schedule will be put in place with suggested dates. Teams are free to play their games earlier or later, as long as they are complete before the deadline. A schedule will be put in place for the knockout phase. Only sign up if you are willing to complete all of your scheduled games! Not completing the fixtures will have an impact on your chances of entering future competitions.
 
 **Anti-Cheat:** Veritas 2.0.4.
 
