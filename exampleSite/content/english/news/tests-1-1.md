@@ -7,7 +7,7 @@ description = ""
 draft = true
 image = "/images/banner.jpg"
 tags = []
-title = "tests 1"
+title = "tests 2"
 type = "post"
 
 +++
