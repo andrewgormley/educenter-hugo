@@ -4,7 +4,7 @@ bg_image: images/banner.jpg
 description: ''
 
 ---
-### Contact Us
+### **Contact Us**
 
 If you have questions, ideas or thoughts then you can contact us on our Discord server.
 
