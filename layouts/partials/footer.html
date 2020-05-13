@@ -63,7 +63,7 @@
         <div class="col-lg-2 col-sm-6 col-6 mb-5 mb-md-0">
           <h4 class="text-white mb-5 text-uppercase">Tournaments</h4>
           <ul class="list-unstyled">
-            {{ range first 5 (where .Site.RegularPages "Type" "event")}}
+            {{ range first 5 (where .Site.RegularPages "Type" "tournaments")}}
             <li class="mb-3"><a class="text-color" href="{{ .Permalink }}">{{ .Title }}</a></li>
             {{ end }}
           </ul>
