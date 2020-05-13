@@ -12,15 +12,15 @@ slider:
       enable: true
       label: Tournaments
       link: event
-  - title: 'vCod RO Cup #1'
-    content: The first instalment of the vCod Cup Series is now live and ready for
-      sign ups.
+  - title: 'vCoD.gg - Rifles Only #1'
+    content: We are pleased to announce that the registration for our first instalment
+      of the vCoD.gg competitions will be going live on the 18th of May.
     animation_in: left
     animation_out: right
     button:
       enable: true
-      label: Apply now
-      link: contact
+      label: Find out more
+      link: event/vcod-ro-cup-1
 banner_feature:
   enable: false
   image: images/banner/banner-feature.png
