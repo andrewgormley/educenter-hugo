@@ -90,6 +90,6 @@ funfacts:
     count: "1000"
   - name: SATISFIED CLIENT
     count: "1400"
-blog:
+news:
   enable: true
   title: Latest News
