@@ -5,7 +5,7 @@ image: ''
 description: ''
 
 ---
-### **History:**
+### **History**
 
 In 2010, razRR and infeXio set up and founded the vCoDcupseries for the Rifles Only Community. The aim was to give the community new aspirations and of course, to inject competitiveness into the game.
 
@@ -15,10 +15,10 @@ We thrived with offering various competitions throughout the year, that were exc
 
 A lof of our success was down the community, and we thank you!
 
-### **About vCoD.gg:**
+### **About vCoD.gg**
 
 WE ARE BACK!
 
-Sporting a rejuvinated name, vCoD.gg, we are here to re-build this awesome community and provide competitions all year round.
+Sporting a rejuvenated name, vCoD.gg, we are here to re-build this awesome community and provide competitions all year round.
 
-Give us your support and we can achieve greatness.
+With your support and dedication, we can achieve greatness.
