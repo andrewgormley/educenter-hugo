@@ -33,13 +33,13 @@ URL = "research"
 name = "research"
 weight = 1
 [[menu.main]]
-URL = "event"
+URL = "tournaments"
 name = "Tournaments"
-weight = "3"
+weight = "2"
 [[menu.main]]
 URL = "about"
 name = "About"
-weight = "2"
+weight = "3"
 [[menu.main]]
 URL = "contact"
 name = "Contact"

@@ -20,7 +20,7 @@ slider:
     button:
       enable: true
       label: Find out more
-      link: event/vcod-ro-cup-1
+      link: tournaments/vcod-ro-cup-1
 banner_feature:
   enable: false
   image: images/banner/banner-feature.png
@@ -76,9 +76,9 @@ success_story:
 
     ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
   video_link: https://www.youtube.com/watch?v=ResipmZmpDU
-event:
+tournaments:
   enable: true
-  title: Upcoming Events
+  title: Upcoming Tournaments
 funfacts:
   enable: false
   funfact_item:
