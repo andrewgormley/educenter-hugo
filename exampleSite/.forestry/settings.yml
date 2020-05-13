@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url: 
+webhook_url:
 sections:
 - type: heading
   label: VCOD PAGES
@@ -14,12 +14,12 @@ sections:
   templates:
   - post
 - type: directory
-  path: exampleSite/content/english/event
-  label: Event (en)
+  path: exampleSite/content/english/tournaments
+  label: Tournaments (en)
   create: all
   match: "**/*"
   templates:
-  - event
+  - tournaments
 - type: directory
   path: exampleSite/content/english/about
   label: About (en)
