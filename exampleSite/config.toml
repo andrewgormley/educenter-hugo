@@ -33,6 +33,10 @@ URL = "research"
 name = "research"
 weight = 1
 [[menu.main]]
+URL = "news"
+name = "News"
+weight = "1"
+[[menu.main]]
 URL = "tournaments"
 name = "Tournaments"
 weight = "2"

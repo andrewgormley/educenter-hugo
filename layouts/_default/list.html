@@ -4,7 +4,7 @@
 <section class="section">
   <div class="container">
     <div class="row">
-      <div class="col-lg-8 order-2 order-lg-1">
+      <div class="">
         <div class="row">
           <!-- blog post -->
           {{ $paginator := .Paginate ( where .Data.Pages "Type" "post") }}
@@ -20,9 +20,9 @@
                   <li class="list-inline-item mr-3 ml-0"><i class="ti-calendar"></i>
                     {{ .PublishDate.Format "02 Jan, 2006" }}</li>
                   <!-- author -->
-                  <li class="list-inline-item mr-3 ml-0"><i class="ti-user"></i> <a
+                  <!-- <li class="list-inline-item mr-3 ml-0"><i class="ti-user"></i> <a
                       href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}">{{ .Params.Author | title }}</a>
-                  </li>
+                  </li> -->
                 </ul>
                 <h4 class="card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
                 <p class="card-text">{{ .Summary | truncate 100 }}</p>
@@ -36,7 +36,7 @@
           </div>
         </div>
       </div>
-      {{ partial "blog-sidebar.html" . }}
+      <!-- {{ partial "blog-sidebar.html" . }} -->
     </div>
   </div>
 </section>

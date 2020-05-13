@@ -4,24 +4,24 @@
 <section class="section-sm">
   <div class="container">
     <div class="row">
-      <div class="col-lg-8 order-2 order-lg-1">
+      <div class="">
         <div class="row">
           <div class="col-12 mb-4">
             <img src="{{ .Params.Image | relURL }}" alt="blog-thumb" class="img-fluid w-100">
           </div>
           <div class="col-12">
             <ul class="list-inline">
-              <li class="list-inline-item mr-4 mb-3 mb-md-0 text-light"><span class="font-weight-bold mr-2">{{ i18n "posted_by" }}
+              <!-- <li class="list-inline-item mr-4 mb-3 mb-md-0 text-light"><span class="font-weight-bold mr-2">{{ i18n "posted_by" }}
                   :</span><a
-                  href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}">{{ .Params.Author | title }}</a></li>
+                  href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}">{{ .Params.Author | title }}</a></li> -->
 
               <li class="list-inline-item mr-4 mb-3 mb-md-0 text-light"><span class="font-weight-bold mr-2">{{ i18n "date" }}
                   :</span>{{ .PublishDate.Format "02 Jan, 2006" }}</li>
 
-              <li class="list-inline-item mr-4 mb-3 mb-md-0 text-light"><span class="font-weight-bold mr-2">{{ i18n "category" }}
+              <!-- <li class="list-inline-item mr-4 mb-3 mb-md-0 text-light"><span class="font-weight-bold mr-2">{{ i18n "category" }}
                   :</span>{{ range $index, $elements:= .Params.Categories }}<a
                   href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}"> {{ if ne $index 0 }}, {{ end }}
-                  {{ . | title }}</a> {{ end}}</li>
+                  {{ . | title }}</a> {{ end}}</li> -->
 
             </ul>
           </div>
@@ -34,14 +34,14 @@
             {{ .Content }}
           </div>
           <!-- comments -->
-          {{ if .Site.DisqusShortname }}
+          <!-- {{ if .Site.DisqusShortname }}
           <div class="col-12">
             {{ template "_internal/disqus.html" . }}
           </div>
-          {{ end }}
+          {{ end }} -->
         </div>
       </div>
-      {{ partial "blog-sidebar.html" . }}
+      <!-- {{ partial "blog-sidebar.html" . }} -->
     </div>
   </div>
 </section>
