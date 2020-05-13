@@ -14,9 +14,13 @@ image = "/images/teacher.jpg"
 name = "razRR"
 
 +++
-### Cup Information
+### **Cup Information**
 
-**Cup Information** **Dates:** 2nd of May (Saturday) & 3rd of May (Sunday)
+Rifles Only Community, we are back!
+
+We are pleased to announce that the registration for our first installment (yes, there will be more) of the latest vCoD.gg competitions will be going live on the 18th of May. Please find the registration form below.
+
+**Date:** 2nd of May (Saturday) & 3rd of May (Sunday)
 
 **Time:** 2pm UK Time (3pm CET) start on both days
 
