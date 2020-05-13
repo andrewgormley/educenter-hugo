@@ -1,5 +1,5 @@
 +++
-apply_url = "#"
+apply_url = "https://forms.gle/5CS4oyHXMbcqjymdA"
 bg_image = "/images/banner.jpg"
 date = 2020-05-18T17:00:17Z
 description = ""
