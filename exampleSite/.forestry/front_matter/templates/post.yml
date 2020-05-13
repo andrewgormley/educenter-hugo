@@ -35,6 +35,6 @@ fields:
   name: type
   label: type
   default: post
-  hidden: true
+  hidden: false
 pages:
 - exampleSite/content/english/blog/test-title.md
