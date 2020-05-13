@@ -5,21 +5,20 @@ image: ''
 description: ''
 
 ---
-### **History**
+### **History:**
 
-In 2010, razRR and infeXio founded and set up the vCoDcupseries for the Rifles Only Community. The aim was to give the community new aspirations and of course, to inject competitiveness into the game.
+In 2010, razRR and infeXio set up and founded the vCoDcupseries for the Rifles Only Community. The aim was to give the community new aspirations and of course, to inject competitiveness into the game.
 
-Having support from a few select moderators ensured the vCoDcupseries competitions were a huge success and with the addition of dream to the admin team, we also hosted multiple successful competitions for United Offensive. In total, we hosted over 15 competitions in 4 years. 
+Having support from a few select moderators ensured the vCoDcupseries competitions were a huge success and with the addition of dream to the admin team, we also hosted multiple successful competitions for United Offensive. In total, we hosted over 15 Call of Duty competitions in just 4 years.
 
 We thrived with offering various competitions throughout the year, that were exciting and innovating. On top of this, we aimed to achieve clean competitions and encorporated a banlist to make sure this was possible.
 
-A lof of our success was down the commnity, and we thank you!
+A lof of our success was down the community, and we thank you!
 
-### **About vCoD.gg**
+### **About vCoD.gg:**
 
 WE ARE BACK!
 
 Sporting a rejuvinated name, vCoD.gg, we are here to re-build this awesome community and provide competitions all year round.
 
-Give us your support and we can achieve greatness.  
- 
+Give us your support and we can achieve greatness.
