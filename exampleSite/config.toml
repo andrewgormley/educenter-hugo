@@ -33,7 +33,7 @@ URL = "research"
 name = "research"
 weight = 1
 [[menu.main]]
-URL = "event"
+URL = "tournaments"
 name = "Tournaments"
 weight = "2"
 [[menu.main]]
