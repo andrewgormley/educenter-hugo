@@ -10,7 +10,7 @@ publishDate = "2019-01-01T00:00:00Z"
 title = "vCoD.gg - Rifles Only # 1"
 [[speaker]]
 designation = "Admin"
-image = "/images/teacher.jpg"
+image = "/images/groot.jpg"
 name = "razRR"
 
 +++
