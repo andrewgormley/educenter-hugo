@@ -1,12 +1,12 @@
 +++
 apply_url = "https://forms.gle/5CS4oyHXMbcqjymdA"
 bg_image = "/images/banner.jpg"
-date = 2020-05-18T17:00:17GMT
+date = 2020-05-18T17:00:17Z
 description = ""
 fee = "Free"
 image = "/images/banner.jpg"
 location = "Call of Duty 1"
-publishDate = 2019-12-04T16:00:00GMT
+publishDate = 2019-12-04T16:00:00Z
 title = "vCoD.gg - Rifles Only # 1"
 [[speaker]]
 designation = "Admin"
