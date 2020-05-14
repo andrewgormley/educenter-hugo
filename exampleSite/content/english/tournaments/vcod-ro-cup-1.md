@@ -1,12 +1,12 @@
 +++
 apply_url = "https://forms.gle/5CS4oyHXMbcqjymdA"
 bg_image = "/images/banner.jpg"
-date = 2020-05-18T17:00:17Z
+date = 2020-05-18T17:00:17GMT
 description = ""
 fee = "Free"
 image = "/images/banner.jpg"
 location = "Call of Duty 1"
-publishDate = 2019-12-04T16:00:00Z
+publishDate = 2019-12-04T16:00:00GMT
 title = "vCoD.gg - Rifles Only # 1"
 [[speaker]]
 designation = "Admin"
@@ -42,4 +42,4 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Registered Teams:**
 
-* 
+*
