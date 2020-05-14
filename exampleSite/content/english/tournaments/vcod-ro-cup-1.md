@@ -6,7 +6,7 @@ description = ""
 fee = "Free"
 image = "/images/banner.jpg"
 location = "Call of Duty 1"
-publishDate = 2019-01-01T00:00:00Z
+publishDate = 2020-05-18T15:00:00Z
 title = "vCoD.gg - Rifles Only # 1"
 [[speaker]]
 designation = "Admin"
