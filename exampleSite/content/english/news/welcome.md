@@ -6,7 +6,7 @@ date = 2020-05-16T07:00:00Z
 description = ""
 image = "/images/banner.jpg"
 tags = []
-title = "Welcome"
+title = "Registration Opens for vCoD.gg - Rifles Only #1"
 type = "post"
 
 +++
