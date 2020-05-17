@@ -6,7 +6,7 @@ date = 2020-05-16T07:00:00Z
 description = ""
 image = "/images/banner.jpg"
 tags = []
-title = "Registration Opens for our first competition"
+title = "Registration Opens For vCoD.gg #1"
 type = "post"
 
 +++
