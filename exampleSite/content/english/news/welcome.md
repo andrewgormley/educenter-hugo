@@ -20,4 +20,6 @@ If you wish to register your team for the upcoming competition, then visit our t
 
 More information regarding the rules of the competition can be found at: ??? or on our Community Discord at [**https://discord.gg/FA5vxDa**](https://discord.gg/FA5vxDa. "https://discord.gg/FA5vxDa."). ???
 
-We hope the community will embra
+We hope the community will embrace our new website and make this a cup to remember!
+
+vCoD.gg \~ team
