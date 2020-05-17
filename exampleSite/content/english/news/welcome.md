@@ -10,7 +10,7 @@ title = "Registration Opens for vCoD.gg - Rifles Only #1"
 type = "post"
 
 +++
-### **Registration Opens**
+### **Registration Opens!**
 
 We are pleased to announce that the registration for our first competition is now live!
 
