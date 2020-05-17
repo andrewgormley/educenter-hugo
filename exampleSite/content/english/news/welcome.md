@@ -15,3 +15,5 @@ type = "post"
 We are pleased to announce that the registration for our first competition is now live!
 
 After taking into consideration the community size and recent competitions, we are providing a competition which we feel is right for the Call of Duty 1 community. Our first competition will include all stock Call of Duty 1 maps; please note that german town will not be included in the map pool for this competition.
+
+If you wish to register your team for the upcoming competition, then visit our tournament page at: [https://www.vcod.gg/tournaments/vcod-ro-cup-1/](https://www.vcod.gg/tournaments/vcod-ro-cup-1/ "https://www.vcod.gg/tournaments/vcod-ro-cup-1/"). Please only sign up if you are able and willing to complete all of your matches.
