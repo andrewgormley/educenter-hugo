@@ -1,6 +1,6 @@
 +++
 author = ""
-bg_image = ""
+bg_image = "/images/newspostdummy.png"
 categories = []
 date = 2020-05-16T07:00:00Z
 description = ""
