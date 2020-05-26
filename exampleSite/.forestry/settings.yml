@@ -22,6 +22,11 @@ sections:
   - tournaments
 - type: directory
   path: exampleSite/content/english/about
+  label: Rules
+  create: all
+  match: "**/*"
+- type: directory
+  path: exampleSite/content/english/about
   label: About (en)
   create: none
   match: "*"
