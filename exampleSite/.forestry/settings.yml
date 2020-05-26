@@ -21,7 +21,7 @@ sections:
   templates:
   - tournaments
 - type: directory
-  path: exampleSite/content/english/about
+  path: exampleSite/content/english/rules
   label: Rules
   create: all
   match: "**/*"
