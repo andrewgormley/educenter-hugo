@@ -22,3 +22,5 @@ WE ARE BACK!
 Sporting a rejuvenated name, vCoD.gg, we are here to re-build this awesome community and provide competitions all year round.
 
 With your support and dedication, we can achieve greatness.
+
+vCoD.gg \~ team
