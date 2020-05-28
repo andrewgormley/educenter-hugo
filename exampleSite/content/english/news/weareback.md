@@ -14,6 +14,14 @@ type = "post"
 
 Welcome rifle only community, to the new home of vCoDcupseries.
 
-When our community Discord server was set up earlier this year, we never thought it would attract such an overwhelming amount of attention from the old players. 
+When our community Discord server was set up earlier this year, we never thought it would attract such an overwhelming amount of attention from the old players. We have seen a rise in the number of scrims being played and night cups being organised. Who would have thought that in 2020, 17 years after the game was first released, that Call of Duty 1 would make an astonishing return into our lives?
 
-Who would have thought that in 2020, 17 years after the game was first released, that Call of Duty 1 would make an astonishing return into our lives?
+Sporting a rejuvenated name, vCoD.gg, we are here to re-build this awesome community and provide competitions all year round. 
+
+Oh, and just to make sure you are as hyped as we are, check out the video below:
+
+VIDEO HERE
+
+Stay tuned to make sure you do not miss out on our competitions!
+
+vCoD.gg \~ team
