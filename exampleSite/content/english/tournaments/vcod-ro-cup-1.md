@@ -38,7 +38,7 @@ We are pleased to announce that the registration for our first installment (yes,
 
 **Prize:** Winner - 12 slot private Call of Duty 1 server - 1 month.
 
-If you are clanless and looking for a team, then head over to the Community Discord at: [https://discord.gg/FA5vxDa](https://discord.gg/FA5vxDa. "https://discord.gg/FA5vxDa.").
+If you are clanless and looking for a team, then head over to the Community Discord at: [**https://discord.gg/FA5vxDa**](https://discord.gg/FA5vxDa. "https://discord.gg/FA5vxDa.").
 
 **Registered Teams:**
 
