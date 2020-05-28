@@ -1,7 +1,7 @@
 +++
 apply_url = "https://forms.gle/5CS4oyHXMbcqjymdA"
 bg_image = "/images/banner.jpg"
-date = 2020-05-28T19:00:17Z
+date = 2020-05-28T19:30:17Z
 description = ""
 fee = "Free"
 image = "/images/banner.jpg"
