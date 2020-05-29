@@ -92,7 +92,7 @@ Here you will find the rules for our upcoming competiton. Please bear in mind, t
 
 1\.7.2 – Cup Supervisors
 
-* 1.7.21 – 
+* 1.7.21 –
 
 1\.7.3 – Cup Referees
 
@@ -124,14 +124,14 @@ Here you will find the rules for our upcoming competiton. Please bear in mind, t
 
 2\.1.6 – All server must have the latest vCoD.gg cvarlist file, which can be downloaded at: [**https://www.sendspace.com/file/0la7w5**](https://www.sendspace.com/file/6t8otf "https://www.sendspace.com/file/6t8otf").
 
-2\.1.7 – All server must have the latest vCoD.gg pbsv file, which can be downloaded at: [???](https://www.sendspace.com/file/0la7w5).
+2\.1.7 – All server must have the latest vCoD.gg pbsv file, which can be downloaded at: [**https://www.sendspace.com/file/36mmyz**](https://www.sendspace.com/file/36mmyz "https://www.sendspace.com/file/36mmyz").
 
 2\.1.8 – All server must have the latest vCoD.gg cvarlist, which can be downloaded at: [**https://www.sendspace.com/file/zjmpzh**](https://www.sendspace.com/file/6t8otf "https://www.sendspace.com/file/6t8otf").
 
 2\.1.9 – Default servers have been provided for the competition. These should be used if teams cannot agree on a server or if there are any ping issues:  
- /connect 1 ; password match  
- /connect 2 ; password match  
- /connect 3 ; password match
+/connect 1 ; password match  
+/connect 2 ; password match  
+/connect 3 ; password match
 
 #### **3. Client Rules**
 
