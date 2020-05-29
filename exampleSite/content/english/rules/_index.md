@@ -153,7 +153,7 @@ Here you will find the rules for our upcoming competiton. Please bear in mind, t
 
 **3.2 – Client Settings**
 
-3\.2.1 – In all competition matches, Veritas Anti-Cheat 2.0.4 will be mandatory and must be turned ON for the entire match. You can download Veritas at: [**https://www.sendspace.com/file/6t8otf**](https://www.sendspace.com/file/6t8otf "https://www.sendspace.com/file/6t8otf").
+3\.2.1 – In all competition matches, Veritas Anti-Cheat 2.0.4 will be mandatory and must be turned ON for the entire match. You can download Veritas at: [**https://www.sendspace.com/file/uratem**](https://www.sendspace.com/file/uratem "https://www.sendspace.com/file/uratem").
 
 3\.2.2 – Each player is responsible for making sure they are running it during the match. Open console and type: “/echo !info” to ensure Veritas is taking screenshots. We recommend you check this at least twice per side of a map.
 
