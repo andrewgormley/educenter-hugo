@@ -11,8 +11,9 @@ Here you will find the rules for our upcoming competiton. Please bear in mind, t
 
 #### **1. General**
 
-**1.1 – Punishment  
-**1.1.1 – Players which violate any of the vCoD.gg rules are subject to punishment.  
+**1.1 – Punishment**
+
+1\.1.1 – Players which violate any of the vCoD.gg rules are subject to punishment.  
 1\.1.2 – Punishment will result in receiving a card and in more serious cases, a temporary or permanent ban from all vCoD.gg competitions.  
 1\.1.3 – A player and/or clan can be given 2 types of card.
 
