@@ -122,11 +122,11 @@ Here you will find the rules for our upcoming competiton. Please bear in mind, t
 
 2\.1.5 – To properly configure vCoD.gg PAM for competition settings, use the following commands: "/rcon pam_mode vcodgg_bashround" and "/rcon pam_mode vcodgg_matchmod" (default modes for all competition matches).
 
-2\.1.6 – All server must have the latest vCoD.gg cvarlist file, which can be downloaded at: [**https://www.sendspace.com/file/0la7w5**](https://www.sendspace.com/file/6t8otf "https://www.sendspace.com/file/6t8otf").
+2\.1.6 – All server must have the latest vCoD.gg cvarlist file, which can be downloaded at: [**https://www.sendspace.com/file/0la7w5**](https://www.sendspace.com/file/0la7w5 "https://www.sendspace.com/file/0la7w5").
 
 2\.1.7 – All server must have the latest vCoD.gg pbsv file, which can be downloaded at: [**https://www.sendspace.com/file/36mmyz**](https://www.sendspace.com/file/36mmyz "https://www.sendspace.com/file/36mmyz").
 
-2\.1.8 – All server must have the latest vCoD.gg cvarlist, which can be downloaded at: [**https://www.sendspace.com/file/zjmpzh**](https://www.sendspace.com/file/6t8otf "https://www.sendspace.com/file/6t8otf").
+2\.1.8 – All server must have the latest vCoD.gg cvarlist, which can be downloaded at: [**https://www.sendspace.com/file/zjmpzh**](https://www.sendspace.com/file/zjmpzh "https://www.sendspace.com/file/zjmpzh").
 
 2\.1.9 – Default servers have been provided for the competition. These should be used if teams cannot agree on a server or if there are any ping issues:  
 /connect 1 ; password match  
@@ -153,7 +153,7 @@ Here you will find the rules for our upcoming competiton. Please bear in mind, t
 
 **3.2 – Client Settings**
 
-3\.2.1 – In all competition matches, Veritas Anti-Cheat 2.0.4 will be mandatory and must be turned ON for the entire match. You can download Veritas at: [**https://www.sendspace.com/file/uratem**](https://www.sendspace.com/file/6t8otf "https://www.sendspace.com/file/6t8otf").
+3\.2.1 – In all competition matches, Veritas Anti-Cheat 2.0.4 will be mandatory and must be turned ON for the entire match. You can download Veritas at: [**https://www.sendspace.com/file/6t8otf**](https://www.sendspace.com/file/6t8otf "https://www.sendspace.com/file/6t8otf").
 
 3\.2.2 – Each player is responsible for making sure they are running it during the match. Open console and type: “/echo !info” to ensure Veritas is taking screenshots. We recommend you check this at least twice per side of a map.
 
