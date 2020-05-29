@@ -7,7 +7,7 @@ description: ''
 ---
 ### **vCoD.gg - Rifles Only # 1 Rules**
 
-Here you will find the rules for our upcoming competiton. Please bear in mind, that although we are not new to hosting competitions, there may be a missing rule or a rule that is not clear. Please contact us if you find any issues with the rules via our contact page.
+Here you will find the rules for our upcoming competiton. Please bear in mind, that although we are not new to hosting competitions, there may ne a rule that is missing or a rule that is not clear. You can contact us on our contact page if you find any issues.
 
 #### **1. General**
 
