@@ -9,9 +9,9 @@ description: ''
 
 Here you will find the rules for our upcoming competiton. Please bear in mind, that although we are not new to hosting competitions, there may ne a rule that is missing or a rule that is not clear. You can contact us on our contact page if you find any issues.
 
-#### **1. General**
+### **1. General**
 
-**1.1 – Punishment**
+#### **1.1 – Punishment**
 
 1\.1.1 – Players which violate any of the vCoD.gg rules are subject to punishment.  
 1\.1.2 – Punishment will result in receiving a card and in more serious cases, a temporary or permanent ban from all vCoD.gg competitions.  
