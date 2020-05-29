@@ -88,15 +88,15 @@ Here you will find the rules for our upcoming competiton. Please bear in mind, t
 
 1\.7.1 – vCoD.gg Admins:
 
-1\.7.11 – razRR
+* 1.7.11 – razRR
 
 1\.7.2 – Cup Supervisors
 
-1\.7.21 – 
+* 1.7.21 – 
 
 1\.7.3 – Cup Referees
 
-1\.7.31 –
+* 1.7.31 –
 
 1\.7.4 – Only a referee from this list can be an official spectator. Anyone who falsely pretends to be a referee will receive punishment.
 
@@ -207,9 +207,8 @@ Here you will find the rules for our upcoming competiton. Please bear in mind, t
 
 5\.1.3 – In case of a conflict the following is required, or the conflict will be discarded:
 
-5\.1.31 – The clan must explain their reason(s) for their demo request.
-
-5\.1.32 – The clan must state round number(s) and time(s) within the round.
+* 5.1.31 – The clan must explain their reason(s) for their demo request.
+* 5.1.32 – The clan must state round number(s) and time(s) within the round.
 
 5\.1.4 – Failure to upload requested demos or uploading demos that are broken or incomplete will result in either a forfeit loss or rematch and punishment of the player in question.
 
@@ -241,33 +240,22 @@ Here you will find the rules for our upcoming competiton. Please bear in mind, t
 
 6\.2.1 – It is not allowed to take advantage of or abuse bugs. Any kind of bug abuse is considered cheating and will lead to a forfeit loss, unless otherwise mentioned specifically in the rules. Bug abuse consists of:
 
-6\.2.11 – Aim glitching.
-
-6\.2.12 – Fast reloading.
-
-6\.2.13 – Fast weapon switching.
-
-6\.2.14 – Shooting players through walls.
-
-6\.2.15 – Using map exploits.
+* 6.2.11 – Aim glitching.
+* 6.2.12 – Fast reloading.
+* 6.2.13 – Fast weapon switching.
+* 6.2.14 – Shooting players through walls.
+* 6.2.15 – Using map exploits.
 
 6\.2.2 – Any types of scripts proven to give a real advantage or are part of the not allowed binds/scripts below will not be tolerated and will result in either a forfeit loss or rematch. Disallowed bind and scripts are:
 
-6\.2.21 – Any 'exec' or 'vstr' bind (this does not include anything related to demos or demo players).
-
-6\.2.22 – Any script including 'lookdown'.
-
-6\.2.23 – Any bind including 'rate' cannot have a value outside 25000.
-
-6\.2.24 – Any bind including 'com_maxfps' cannot have a value below 40 or above 250.
-
-6\.2.25 – Any bind including 'attack' cannot be combined with any other command.
-
-6\.2.26 – Any bind including 'frag' cannot be combined with other commands/binds.
-
-6\.2.27 – Any bind including 'stand' cannot be combined with other commands/binds.
-
-6\.2.28 – Any bind including 'crouch' cannot be combined with other commands/binds.
+* 6.2.21 – Any 'exec' or 'vstr' bind (this does not include anything related to demos or demo players).
+* 6.2.22 – Any script including 'lookdown'.
+* 6.2.23 – Any bind including 'rate' cannot have a value outside 25000.
+* 6.2.24 – Any bind including 'com_maxfps' cannot have a value below 40 or above 250.
+* 6.2.25 – Any bind including 'attack' cannot be combined with any other command.
+* 6.2.26 – Any bind including 'frag' cannot be combined with other commands/binds.
+* 6.2.27 – Any bind including 'stand' cannot be combined with other commands/binds.
+* 6.2.28 – Any bind including 'crouch' cannot be combined with other commands/binds.
 
 6\.2.3 – All binds/scripts that are not covered above will be reviewed on a case-by-case basis to see if they do give an advantage.
 
@@ -289,95 +277,69 @@ Here you will find the rules for our upcoming competiton. Please bear in mind, t
 
 7\.1.1 – Brecourt:
 
-7\.1.11 – Shooting through spawn corner bush to kill mid bunker.
-
-7\.1.12 – Shooting over any bush that separates the centre of the map.
+* 7.1.11 – Shooting through spawn corner bush to kill mid bunker.
+* 7.1.12 – Shooting over any bush that separates the centre of the map.
 
 7\.1.2 – Carentan:
 
-7\.1.21 – Jumping onto the roof in the back of MG garden.
-
-7\.1.22 – Jumping onto the top roof of sniper house.
+* 7.1.21 – Jumping onto the roof in the back of MG garden.
+* 7.1.22 – Jumping onto the top roof of sniper house.
 
 7\.1.3 – Dawnville:
 
-7\.1.31 – Jumping onto the stick outside of orphanage to see back grave.
-
-7\.1.32 – Jumping onto the German FPS roof.
-
-7\.1.33 – Jumping onto the B building roofs.
-
-7\.1.34 – Jumping onto the archway near white house.
-
-7\.1.34 – Abusing the bush in grave to see into orphanage.
-
-7\.1.35 – Abusing the window in back sniper to see through walls.
+* 7.1.31 – Jumping onto the stick outside of orphanage to see back grave.
+* 7.1.32 – Jumping onto the German FPS roof.
+* 7.1.33 – Jumping onto the B building roofs.
+* 7.1.34 – Jumping onto the archway near white house.
+* 7.1.35 – Abusing the bush in grave to see into orphanage.
+* 7.1.36 – Abusing the window in back sniper to see through walls.
 
 7\.1.4 – Harbor:
 
-7\.1.41 – Jumping out of the map.
-
-7\.1.42 – Abusing a bug bottom police to become unhittable.
-
-7\.1.43 – Using prone on the Russian ramp into ramproom to become unhittable.
+* 7.1.41 – Jumping out of the map.
+* 7.1.42 – Abusing a bug bottom police to become unhittable.
+* 7.1.43 – Using prone on the Russian ramp into ramproom to become unhittable.
 
 7\.1.5 – Hurtgen:
 
-7\.1.51 – Using prone on the rock above A bunker.
+* 7.1.51 – Using prone on the rock above A bunker.
 
 7\.1.6 – Neuville:
 
-7\.1.61 – Jumping onto the outer ledge of jumphouse.
-
-7\.1.62 – Jumping onto the bookstore roof.
-
-7\.1.63 – Jumping onto the American spawn house roof.
-
-7\.1.64 – Jumping out of the map.
-
-7\.1.65 – Jumping on top of A mg.
-
-7\.1.66 – Jumping onto the ledge outside of butchers.
-
-7\.1.67 – Jumping onto mayors roof.
-
-7\.1.68 – Planting inside the B bomb.
+* 7.1.61 – Jumping onto the outer ledge of jumphouse.
+* 7.1.62 – Jumping onto the bookstore roof.
+* 7.1.63 – Jumping onto the American spawn house roof.
+* 7.1.64 – Jumping out of the map.
+* 7.1.65 – Jumping on top of A mg.
+* 7.1.66 – Jumping onto the ledge outside of butchers.
+* 7.1.67 – Jumping onto mayors roof.
+* 7.1.68 – Planting inside the B bomb.
 
 7\.1.7 – Powcamp:
 
-7\.1.71 – Jumping onto the German north roof.
-
-7\.1.72 – Jumping onto the Russian south roof from the boxes.
-
-7\.1.73 – Jumping onto the south roof next to hitler.
-
-7\.1.73 – Jumping onto the German spawn hut roof.
+* 7.1.71 – Jumping onto the German north roof.
+* 7.1.72 – Jumping onto the Russian south roof from the boxes.
+* 7.1.73 – Jumping onto the south roof next to hitler.
+* 7.1.74 – Jumping onto the German spawn hut roof.
 
 7\.1.8 – Railyard:
 
-7\.1.81 – Jumping onto the ledge in ruins.
-
-7\.1.82 – Jumping onto the ruins roof.
-
-7\.1.82 – Jumping onto the ledge besides the trains at B.
-
-7\.1.83 – Shooting through the A tank.
+* 7.1.81 – Jumping onto the ledge in ruins.
+* 7.1.82 – Jumping onto the ruins roof.
+* 7.1.83 – Jumping onto the ledge besides the trains at B.
+* 7.1.84 – Shooting through the A tank.
 
 7\.1.7 – Stalingrad:
 
-7\.1.71 – Jumping into the glitch room.
-
-7\.1.72 – Shooting through the A barrels.
-
-7\.1.73 – Using prone behind the little boxes in mid tunnel to go underground.
+* 7.1.71 – Jumping into the glitch room.
+* 7.1.72 – Shooting through the A barrels.
+* 7.1.73 – Using prone behind the little boxes in mid tunnel to go underground.
 
 7\.1.8 – Tigertown:
 
-7\.1.81 – Jumping onto the ledge in A alley.
-
-7\.1.82 – Jumping into the bathroom in top hotel.
-
-7\.1.83 – Using the glitch box outside of shoe and B bomb to become unhittable.
+* 7.1.81 – Jumping onto the ledge in A alley.
+* 7.1.82 – Jumping into the bathroom in top hotel.
+* 7.1.83 – Using the glitch box outside of shoe and B bomb to become unhittable.
 
 #### **8. Changes and Expectations**
 
