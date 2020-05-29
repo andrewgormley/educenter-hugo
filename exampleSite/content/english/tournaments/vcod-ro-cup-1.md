@@ -44,4 +44,4 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Registered Teams:**
 
-* aNimus \` – skz (5fc35d87), MORTEK (b11bff49), fear (e81bc4f3), vdk (0c5ab238), lwsk1LL (ad3dafab), Pol (12c95aad), LEGENDZ (6dd7809d), keiTa (ff171708)
+* 
