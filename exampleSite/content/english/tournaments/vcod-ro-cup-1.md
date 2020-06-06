@@ -49,4 +49,4 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * **germanite:** xa1ruZ (98ae2a96), opfii1ee (c9b894d4), snockz (c980a809), shaze (fa2af41b), FLAAASH (e4c12abe), prm (b1863fe5), adaiiR (513e3892), bAUMI (37748725), cAke (287ec31f), dom (d61a3292), rizle (8fc0c3a0)
 * **Defying Logics:** razRR (49d5ce5c), rONOx (876cc5c5), tanek (45395642), n00bster (cf6f35f6), ED (64bd15c5), Shuya (34902b76), 1ceyyy (7a5a1c92), faa1th (df4ace91)
 * **EURO Alpha:** explode (2ebeed51), reazon (7e240cf1), fantasy (4dca5c58), extence (e3fdfb11), buzah (919bc974), oane (3c94a672), sk4vs (2d03bccc)
-* 
+* **Minds in Sync:** VENXZRR (58a9ba94), icez (5ce858e7), Laoch (b322fa7c), Yurizan (ae626205), BRONX (ccb54c7c), Leon (39ca8f16), philinski (55be7b97), Anglhz (0b3c46f3)
