@@ -50,3 +50,4 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * **Defying Logics:** razRR (49d5ce5c), rONOx (876cc5c5), tanek (45395642), n00bster (cf6f35f6), ED (64bd15c5), Shuya (34902b76), 1ceyyy (7a5a1c92), faa1th (df4ace91)
 * **EURO Alpha:** explode (2ebeed51), reazon (7e240cf1), fantasy (4dca5c58), extence (e3fdfb11), buzah (919bc974), oane (3c94a672), sk4vs (2d03bccc)
 * **Minds in Sync:** VENXZRR (58a9ba94), icez (5ce858e7), Laoch (b322fa7c), Yurizan (ae626205), BRONX (ccb54c7c), Leon (39ca8f16), philinski (55be7b97), Anglhz (0b3c46f3)
+* **EURO Bravo:** Vicious (bb9b4c66), BILLAZ (07db0a98), fAKL (abe343dd), AKIM (db5d820a), Colin (5f144b40), Roalty (d078917), Toeter (83d20754), Serezhkeee (6eb98274)
