@@ -45,7 +45,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 **Registered Teams:**
 
 * **Unsung Heroes:** Efxtive (9a4e41b1), Brian (319185cb), Joozus (dcebf221), rapidz (597c3c5c), MnC (e1adbec6) Dev (f53b116d), ppengu (368ad09c)
-* **aNimus:** skz (5fc35d87), Fzn (505eee2c), lwsk1LL (ad3dafab), MORTEK (a029ca98), fe@r (e81bc4f3), vdk (0c5ab238), Pol (12c95aad), keiTa (ff171708)
+* **aNimus:** skz (5fc35d87), Fzn (505eee2c), lwsk1LL (ad3dafab), fe@r (e81bc4f3), Pol (12c95aad), keiTa (ff171708)
 * **germanite:** xa1ruZ (98ae2a96), opfii1ee (c9b894d4), snockz (c980a809), shaze (fa2af41b), FLAAASH (e4c12abe), prm (b1863fe5), adaiiR (513e3892), bAUMI (37748725), cAke (287ec31f), dom (d61a3292), rizle (8fc0c3a0)
 * **Defying Logics:** razRR (49d5ce5c), rONOx (876cc5c5), tanek (45395642), n00bster (cf6f35f6), ED (64bd15c5), Shuya (34902b76), 1ceyyy (7a5a1c92), faa1th (df4ace91)
 * **EURO Alpha:** explode (2ebeed51), reazon (7e240cf1), fantasy (4dca5c58), extence (e3fdfb11), buzah (919bc974), oane (3c94a672), sk4vs (2d03bccc)
