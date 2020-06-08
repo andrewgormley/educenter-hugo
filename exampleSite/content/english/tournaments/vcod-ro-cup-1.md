@@ -51,3 +51,5 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * **EURO Alpha:** explode (2ebeed51), reazon (7e240cf1), fantasy (4dca5c58), extence (e3fdfb11), buzah (919bc974), oane (3c94a672), sk4vs (2d03bccc)
 * **Minds in Sync:** VENXZRR (58a9ba94), icez (5ce858e7), Laoch (b322fa7c), Yurizan (ae626205), BRONX (ccb54c7c), Leon (39ca8f16), philinski (55be7b97), Anglhz (0b3c46f3)
 * **EURO Bravo:** Vicious (bb9b4c66), BILLAZ (07db0a98), fAKL (abe343dd), AKIM (db5d820a), Colin (5f144b40), Roalty (d078917), Toeter (83d20754), Serezhkeee (6eb98274)
+* **barbeque:** CRAWLER (38c4b307), IRADEXZ (1ea998ee), Masi (37740bfa), Dusty (78218880), Owner (668af291), Joey (dc2ccf68), Passion (494716c3), Achilles (8bd28c3f)
+* **Team USA:** b3nny (81ad26a3), nom (e642d303), moo (a74dc947), cippy (3d1ad93a), ashen (7a38f8d0), c1rca (2f2ee493)
