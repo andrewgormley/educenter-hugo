@@ -53,3 +53,4 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * **EURO Bravo:** Vicious (bb9b4c66), BILLAZ (07db0a98), fAKL (abe343dd), AKIM (db5d820a), Colin (5f144b40), Roalty (d078917), Toeter (83d20754), Serezhkeee (6eb98274)
 * **barbeque:** CRAWLER (38c4b307), IRADEXZ (1ea998ee), Masi (37740bfa), dusty (78218880), Owner (668af291), Joey (dc2ccf68), pass1on (494716c3), achilleS (8bd28c3f)
 * **Team USA:** b3nny (81ad26a3), nom (e642d303), moo (a74dc947), cippy (3d1ad93a), ashen (7a38f8d0), c1rca (2f2ee493)
+* **Affecto Gaming:** MAZU (3d66ead8), loftzu (8379bf96), MORTEK (a029ca98), pl3b (b7e022c8), Emy (4dcbc37c), vdk (0c5ab238)
