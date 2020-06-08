@@ -54,3 +54,4 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * **barbeque:** CRAWLER (38c4b307), IRADEXZ (1ea998ee), Masi (37740bfa), dusty (78218880), Owner (668af291), Joey (dc2ccf68), pass1on (494716c3), achilleS (8bd28c3f)
 * **Team USA:** b3nny (81ad26a3), nom (e642d303), moo (a74dc947), cippy (3d1ad93a), ashen (7a38f8d0), c1rca (2f2ee493)
 * **Affecto Gaming:** MAZU (3d66ead8), loftzu (8379bf96), MORTEK (a029ca98), pl3b (b7e022c8), Emy (4dcbc37c), vdk (0c5ab238)
+* **Last Stand Elite:** Mike (c12eb04e), rOb (2e8adb13), nana (22b45e3b), Arctic (a5f144e7), Fade (4fc0856b)
