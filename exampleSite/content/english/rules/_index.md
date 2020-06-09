@@ -155,7 +155,7 @@ Here you will find the rules for our upcoming competiton. Please bear in mind, t
 
 3\.1.6 – Clans have the right to refuse a player from participating if the GUID does not match what is registered on the website. In cases where the there is a slight mistake in the registered GUID, admins will decide on next steps to avoid conflicts.
 
-3\.1.4 – To show the GUIDs of all players in a match, open your console and type: “/pb_plist” or “pb_power”.
+3\.1.4 – To show the GUIDs of all players in a match, open your console and type: “/pb_plist” or “/pb_power”.
 
 **3.2 – Client Settings**
 
