@@ -321,14 +321,15 @@ Here you will find the rules for our upcoming competiton. Please bear in mind, t
 * 7.1.65 – Jumping on top of A mg.
 * 7.1.66 – Jumping onto the ledge outside of butchers.
 * 7.1.67 – Jumping onto mayors roof.
-* 7.1.68 – Planting inside the B bomb.
+* 7.1.68 – Jumping onto the roof of red house.
+* 7.1.69 – Planting inside the B bomb.
 
 7\.1.7 – Powcamp:
 
 * 7.1.71 – Jumping onto the German north roof.
 * 7.1.72 – Jumping onto the Russian south roof from the boxes.
-* 7.1.73 – Jumping onto the south roof next to hitler.
-* 7.1.74 – Jumping onto the German spawn hut roof.
+* 7.1.73 – Jumping onto the German spawn hut roof.
+* 7.1.74 – Jumping from the mid tower to the roof next to B bomb.
 
 7\.1.8 – Railyard:
 
