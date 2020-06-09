@@ -333,10 +333,11 @@ Here you will find the rules for our upcoming competiton. Please bear in mind, t
 
 7\.1.8 – Railyard:
 
-* 7.1.81 – Jumping onto the ledge in ruins.
-* 7.1.82 – Jumping onto the ruins roof.
-* 7.1.83 – Jumping onto the ledge besides the trains at B.
-* 7.1.84 – Shooting through the A tank.
+* 7.1.81 – Jumping onto the ruins roof.
+* 7.1.82 – Jumping onto the ledge besides the trains at B.
+* 7.1.83 – Jumping onto the B south hut roof from the ledge (hotel jump is allowed).
+* 7.1.84 – Hiding behind the spawn hut where your model becomes invisible.
+* 7.1.85 – Shooting through the A tank.
 
 7\.1.7 – Stalingrad:
 
@@ -348,7 +349,7 @@ Here you will find the rules for our upcoming competiton. Please bear in mind, t
 
 * 7.1.81 – Jumping onto the ledge in A alley.
 * 7.1.82 – Jumping into the bathroom in top hotel.
-* 7.1.83 – Using the glitch box outside of shoe and B bomb to become unhittable.
+* 7.1.83 – Using the glitch box near the B bomb to become unhittable.
 
 #### **8. Changes and Expectations**
 
