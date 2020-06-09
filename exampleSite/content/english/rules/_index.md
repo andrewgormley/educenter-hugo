@@ -286,6 +286,7 @@ Here you will find the rules for our upcoming competiton. Please bear in mind, t
 
 * 7.1.11 – Shooting through spawn corner bush to kill mid bunker.
 * 7.1.12 – Shooting over any bush that separates the centre of the map.
+* 7.1.13 – Shooting through the B bomb to small ruins where you cannot be hit.
 
 7\.1.2 – Carentan:
 
@@ -309,7 +310,7 @@ Here you will find the rules for our upcoming competiton. Please bear in mind, t
 
 7\.1.5 – Hurtgen:
 
-* 7.1.51 – Using prone on the rock above A bunker.
+* 7.1.51 – Using prone on the rock above A bunker to become unhittable.
 
 7\.1.6 – Neuville:
 
