@@ -133,11 +133,12 @@ Here you will find the rules for our upcoming competiton. Please bear in mind, t
 
 2\.1.8 – All server must have the latest vCoD.gg pbsvuser file, which can be downloaded at: [**https://www.sendspace.com/file/u34k8c**](https://www.sendspace.com/file/u34k8c "https://www.sendspace.com/file/u34k8c").
 
-2\.1.9 – Default servers have been provided for the competition. These should be used if teams cannot agree on a server or if there are any ping issues:  
-/connect 89.46.223.4:28960 ; password cupwar1  
-/connect 185.73.37.122:28960 ; password cupwar2  
-/connect 185.73.37.122:28961 ; password cupwar3  
-/connect 185.73.37.122:28962 ; password cupwar4
+2\.1.9 – Default servers have been provided for the competition. These should be used if teams cannot agree on a server or if there are any ping issues:
+
+* /connect 89.46.223.4:28960 ; password cupwar1
+* /connect 185.73.37.122:28960 ; password cupwar2
+* /connect 185.73.37.122:28961 ; password cupwar3
+* /connect 185.73.37.122:28962 ; password cupwar4
 
 #### **3. Client Rules**
 
