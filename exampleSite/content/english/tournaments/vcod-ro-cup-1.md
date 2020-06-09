@@ -55,3 +55,4 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * **Team USA:** b3nny (81ad26a3), nom (e642d303), moo (a74dc947), cippy (3d1ad93a), ashen (7a38f8d0), c1rca (2f2ee493)
 * **Affecto Gaming:** MAZU (3d66ead8), loftzu (8379bf96), MORTEK (a029ca98), pl3b (b7e022c8), Emy (4dcbc37c), vdk (0c5ab238)
 * **Last Stand Elite:** Mike (c12eb04e), rOb (2e8adb13), nana (22b45e3b), Arctic (a5f144e7), Fade (4fc0856b)
+* **Last Stand Ballbags:** reZ (264b492b) vint0 (6c7e4310), d1ver (031dcb59), Ad (f1e7b7db), plaaG (2272623), kRs (c7c82a82)
