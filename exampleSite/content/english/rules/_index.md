@@ -24,7 +24,7 @@ Here you will find the rules for our upcoming competiton. Please bear in mind, t
 
 1\.1.4 – Only one card can be given out each match. In case of several violations, only the most severe card will be issued. However, all extra punishments for each rule that was violated will still be applied.
 
-1\.1.5 – Abusive behaviour towards a vCoD.gg admin, referee or opponent, at any time during the competition is not acceptable. If the abusive behaviour is severe then an admin has the right to punish with a temporary or permanent ban from the competition.
+1\.1.5 – Abusive behaviour towards a vCoD.gg admin, referee or opponent, at any time during the competition is not acceptable. If the abusive behaviour is severe, then an admin has the right to punish with a temporary or permanent ban from the competition.
 
 1\.1.6 – The clan leader is responsible for his/her own members to know, understand and follow the rules.
 
@@ -88,15 +88,20 @@ Here you will find the rules for our upcoming competiton. Please bear in mind, t
 
 1\.7.1 – vCoD.gg Admins:
 
-* 1.7.11 – razRR
+* 1.7.11 – razRR (49d5ce5c)
 
 1\.7.2 – Cup Supervisors
 
-* 1.7.21 –
+* 1.7.21 – HanNiBaL (37740bfa)
+* 1.7.22 – xa1ruZ (98ae2a96)
+* 1.7.23 – OwneD (c12eb04e)
 
 1\.7.3 – Cup Referees
 
-* 1.7.31 –
+* 1.7.31 – skz (5fc35d87)
+* 1.7.32 – opfii1ee (c9b894d4)
+* 1.7.33 – tanek (45395642)
+* 1.7.34 – Fantasy (4dca5c58)
 
 1\.7.4 – Only a referee from this list can be an official spectator. Anyone who falsely pretends to be a referee will receive punishment.
 
@@ -122,11 +127,11 @@ Here you will find the rules for our upcoming competiton. Please bear in mind, t
 
 2\.1.5 – To properly configure vCoD.gg PAM for competition settings, use the following commands: "/rcon pam_mode vcodgg_bashround" and "/rcon pam_mode vcodgg_matchmod" (default modes for all competition matches).
 
-2\.1.6 – All server must have the latest vCoD.gg cvarlist file, which can be downloaded at: [**https://www.sendspace.com/file/0la7w5**](https://www.sendspace.com/file/0la7w5 "https://www.sendspace.com/file/0la7w5").
+2\.1.6 – All server must have the latest vCoD.gg cvarlist file, which can be downloaded at: [**https://www.sendspace.com/file/bu62h6**](https://www.sendspace.com/file/bu62h6 "https://www.sendspace.com/file/bu62h6").
 
-2\.1.7 – All server must have the latest vCoD.gg pbsv file, which can be downloaded at: [**https://www.sendspace.com/file/36mmyz**](https://www.sendspace.com/file/36mmyz "https://www.sendspace.com/file/36mmyz").
+2\.1.7 – All server must have the latest vCoD.gg pbsv file, which can be downloaded at: [**https://www.sendspace.com/file/v4he3o**](https://www.sendspace.com/file/v4he3o "https://www.sendspace.com/file/v4he3o").
 
-2\.1.8 – All server must have the latest vCoD.gg pbsvuser file, which can be downloaded at: [**https://www.sendspace.com/file/zjmpzh**](https://www.sendspace.com/file/zjmpzh "https://www.sendspace.com/file/zjmpzh").
+2\.1.8 – All server must have the latest vCoD.gg pbsvuser file, which can be downloaded at: [**https://www.sendspace.com/file/u34k8c**](https://www.sendspace.com/file/u34k8c "https://www.sendspace.com/file/u34k8c").
 
 2\.1.9 – Default servers have been provided for the competition. These should be used if teams cannot agree on a server or if there are any ping issues:  
 /connect 1 ; password match  
