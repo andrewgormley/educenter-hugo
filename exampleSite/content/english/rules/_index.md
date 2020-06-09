@@ -163,11 +163,11 @@ Here you will find the rules for our upcoming competiton. Please bear in mind, t
 
 3\.2.2 – Each player is responsible for making sure they are running it during the match. Open console and type: “/echo !info” to ensure Veritas is taking screenshots. We recommend you check this at least twice per side of a map.
 
-3\.2.3 – If a player closes Veritas during the match, the clan will receive either a forfeit loss or a rematch.
+3\.2.3 – If a player closes Veritas during the match, the player and clan will be punished.
 
 3\.2.4 – If a player crashes during the match, he must re-join Veritas immediately. Clans can use the following command: “/matchtimeout” at the start of the round to allow players to reconnect to Veritas.
 
-3\.2.5 – Screenshots from ALL players must be uploaded after each match. Screenshots not uploaded 48 hours after a match will result in either a forfeit loss or rematch and punishment of the player in question.
+3\.2.5 – Screenshots from ALL players must be uploaded after each match. Screenshots not uploaded 48 hours after a match will result in punishment of the player and clan in question.
 
 3\.2.6 – Missing screenshots will not be acceptable. Players should be using the “/echo !info” command to ensure Veritas is still taking screenshots.
 
@@ -209,20 +209,20 @@ Here you will find the rules for our upcoming competiton. Please bear in mind, t
 
 5\.1.1 – All players must record demos from the entire match. Demos can be requested as long as there is a valid reason and must be kept until the result has been accepted. Demos can be requested before a conflict is made.
 
-5\.1.2 – If you have an EYE, your demo must be uploaded after each match. Demos not uploaded 48 hours after a match will result in either a forfeit loss or rematch and punishment of the player in question.
+5\.1.2 – If you have an EYE, your demo must be uploaded after each match. Demos not uploaded 48 hours after a match will result in punishment of the player and clan in question.
 
 5\.1.3 – In case of a conflict the following is required, or the conflict will be discarded:
 
 * 5.1.31 – The clan must explain their reason(s) for their demo request.
 * 5.1.32 – The clan must state round number(s) and time(s) within the round.
 
-5\.1.4 – Failure to upload requested demos or uploading demos that are broken or incomplete will result in either a forfeit loss or rematch and punishment of the player in question.
+5\.1.4 – Failure to upload requested demos or uploading demos that are broken or incomplete will result in punishment of the player and clan in question.
 
 5\.1.5 – A demo is considered to be incomplete if it is missing 3 or more rounds. If a clan is manipulating the demo process (e.g. by stopping it in a live match on purpose), all the points gained in that period will be awarded to the opponent.
 
 **5.2 – Screenshots**
 
-5\.2.6 – Screenshots of the scoreboards should always be taken by each clan and posted in the match results section on Discord.
+5\.2.6 – Screenshots of the scoreboards should always be taken by each clan and posted in the #vcod_cup section on Discord.
 
 5\.2.7 – Only screenshots can be accepted as proof when there is a dispute about the score.
 
