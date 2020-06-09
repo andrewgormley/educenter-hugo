@@ -246,11 +246,10 @@ Here you will find the rules for our upcoming competiton. Please bear in mind, t
 
 6\.2.1 – It is not allowed to take advantage of or abuse bugs. Any kind of bug abuse is considered cheating and will lead to a forfeit loss, unless otherwise mentioned specifically in the rules. Bug abuse consists of:
 
-* 6.2.11 – Aim glitching.
-* 6.2.12 – Fast reloading.
-* 6.2.13 – Fast weapon switching.
-* 6.2.14 – Shooting players through walls.
-* 6.2.15 – Using map exploits.
+* 6.2.11 – Aim glitching (includes the short aim glitch after reloading).
+* 6.2.12 – Fast reloading (includes the fast weapon switch).
+* 6.2.13 – Shooting players through walls (includes hands of players clipping).
+* 6.2.14 – Using map exploits (includes crouch jumping in buildings).
 
 6\.2.2 – Any types of scripts proven to give a real advantage or are part of the not allowed binds/scripts below will not be tolerated and will result in either a forfeit loss or rematch. Disallowed bind and scripts are:
 
