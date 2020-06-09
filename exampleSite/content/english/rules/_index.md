@@ -250,17 +250,19 @@ Here you will find the rules for our upcoming competiton. Please bear in mind, t
 * 6.2.12 – Fast reloading (includes the fast weapon switch).
 * 6.2.13 – Shooting players through walls (includes hands of players clipping).
 * 6.2.14 – Using map exploits (includes crouch jumping in buildings).
+* 6.2.15 – Abusing player model speed (includes A+D spam).
 
-6\.2.2 – Any types of scripts proven to give a real advantage or are part of the not allowed binds/scripts below will not be tolerated and will result in either a forfeit loss or rematch. Disallowed bind and scripts are:
+6\.2.2 – Any types of scripts proven to give a real advantage or are part of the not allowed binds/scripts below, will not be tolerated and will result in punishment of the player and clan in question. Disallowed bind and scripts are:
 
 * 6.2.21 – Any 'exec' or 'vstr' bind (this does not include anything related to demos or demo players).
-* 6.2.22 – Any script including 'lookdown'.
-* 6.2.23 – Any bind including 'rate' cannot have a value outside 25000.
-* 6.2.24 – Any bind including 'com_maxfps' cannot have a value below 40 or above 250.
-* 6.2.25 – Any bind including 'attack' cannot be combined with any other command.
-* 6.2.26 – Any bind including 'frag' cannot be combined with other commands/binds.
-* 6.2.27 – Any bind including 'stand' cannot be combined with other commands/binds.
-* 6.2.28 – Any bind including 'crouch' cannot be combined with other commands/binds.
+* 6.2.22 – Any 'cmdcur' bind.
+* 6.2.23 – Any script including 'lookdown'.
+* 6.2.24 – Any bind including 'rate' cannot have a value outside 25000.
+* 6.2.25 – Any bind including 'com_maxfps' cannot have a value below 40 or above 250.
+* 6.2.26 – Any bind including 'attack' cannot be combined with any other command.
+* 6.2.27 – Any bind including 'frag' cannot be combined with other commands/binds.
+* 6.2.28 – Any bind including 'stand' or 'crouch' cannot be combined with other commands/binds.
+* 6.2.29 – Any bind including 'left' or 'right' cannot be combined with other commands/binds.
 
 6\.2.3 – All binds/scripts that are not covered above will be reviewed on a case-by-case basis to see if they do give an advantage.
 
