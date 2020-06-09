@@ -238,7 +238,7 @@ Here you will find the rules for our upcoming competiton. Please bear in mind, t
 
 6\.1.3 – Modified versions of the game's resource files are always forbidden, regardless of what they do. The use of any forbidden program or file by any clan member during a match leads to a forfeit loss and could lead to a removal and ban from the competition in major cases.
 
-6\.1.4 – Config settings that give a distinct advantage over the opponent may be deemed config abuse and can lead to a forfeit loss or rematch depending on severity of claim.
+6\.1.4 – Config settings that give a distinct advantage over the opponent may be deemed config abuse and can lead to punishment of the player and clan in question.
 
 6\.1.5 – When providing timestamps for demos, remember to state which player's demo and what map you are referring to. The round indication should be clear for everyone to be able to follow. If the match was interrupted by a map restart (for example because of a pause) or similar and the round ordering has changed, be sure to mark those to make everything clear. Every timestamp must be exact, saying "watch demo" or "whole round" are unacceptable and will not be taken into consideration while watching the demo.
 
