@@ -57,3 +57,5 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * **Last Stand Elite:** Mike (c12eb04e), rOb (2e8adb13), nana (22b45e3b), Arctic (a5f144e7), Fade (4fc0856b)
 * **Last Stand Ballbags:** reZ (264b492b) vint0 (6c7e4310), d1ver (031dcb59), Ad (f1e7b7db), plaaG (2272623), kRs (c7c82a82)
 * **BraVo:** ixc (55d0af7d), Yeti (581379bd), dazE (b67ba7f3), Dashie (0e5743f4), Benny (5cc07323)
+
+[eJE8KQQ](https://imgur.com/eJE8KQQ "eJE8KQQ")
