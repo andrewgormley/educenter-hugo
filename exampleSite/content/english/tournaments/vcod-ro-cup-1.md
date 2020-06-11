@@ -44,8 +44,8 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Registered Teams:**
 
-* **Unsung Heroes:** Efxtive (9a4e41b1-efxtive#7669), Brian (319185cb), Joozus (dcebf221), rapidz-**EYE** (597c3c5c), MnC (e1adbec6) Dev (f53b116d), ppengu (368ad09c)
-* **aNimus:** skz-**EYE** (5fc35d87-skzje#2642), Fzn-**EYE** (505eee2c), lwsk1LL-**EYE** (ad3dafab), fe@r-**EYE** (e81bc4f3), Pol (12c95aad), keiTa (ff171708), DEVIN (48561b1b), Many (0643008b), JDX-**EYE** (035652eb), Bastien (5539682e), Spln (4fa01519), Ttx (65976889)
+* **Unsung Heroes - efxtive#7669:** Efxtive (9a4e41b1), Brian (319185cb), Joozus (dcebf221), rapidz-**EYE** (597c3c5c), MnC (e1adbec6) Dev (f53b116d), ppengu (368ad09c)
+* **aNimus - skzje#2642:** skz-**EYE** (5fc35d87), Fzn-**EYE** (505eee2c), lwsk1LL-**EYE** (ad3dafab), fe@r-**EYE** (e81bc4f3), Pol (12c95aad), keiTa (ff171708), DEVIN (48561b1b), Many (0643008b), JDX-**EYE** (035652eb), Bastien (5539682e), Spln (4fa01519), Ttx (65976889)
 * **germanite:** xa1ruZ (98ae2a96-xa1ruZ#6662), opfii1ee (c9b894d4-supatroopa92#8123), snockz (c980a809), shaze (fa2af41b), FLAAASH (e4c12abe), prm-**EYE** (b1863fe5), adaiiR (513e3892), bAUMI (37748725), cAke-**EYE** (287ec31f), dom (d61a3292), rizle (8fc0c3a0), fzU (64eca371)
 * **Defying Logics:** razRR (49d5ce5c-razRR#9282), rONOx (876cc5c5), tanek-**EYE** (45395642), n00bster (cf6f35f6), ED-**EYE** (64bd15c5), Shuya (34902b76), 1ceyyy (7a5a1c92), faa1th (df4ace91)
 * **EURO Alpha:** Explode-**EYE** (2ebeed51-Explode#9497), reazon (7e240cf1), fantasy-**EYE** (4dca5c58), extence-**EYE** (e3fdfb11), buzah-**EYE** (919bc974), oane (3c94a672), sk4vs (2d03bccc)
