@@ -182,7 +182,7 @@ Here you will find the rules for our upcoming competiton. Please bear in mind, t
 
 4\.1.3 – Rounds are set at 2 minutes and 30 seconds.
 
-4\.1.4 – The first team to reach 21 rounds will be determined the winner. However, teams are encouraged to play the full 40 rounds during the group stage.
+4\.1.4 – The first team to reach 21 rounds will be determined the winner. However, teams must play the full 40 rounds during the group stage. Not playing the full 40 rounds or trolling the remaining rounds will result in punishment.
 
 4\.1.5 – The map pool for this competition is: Bocage, Brecourt, Carentan, Dawnville, Depot, Harbor, Hurtgen, Neuville, Pavlov, Powcamp, Railyard, Rocket, Stalingrad and Tigertown.
 
