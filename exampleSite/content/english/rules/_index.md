@@ -88,20 +88,20 @@ Here you will find the rules for our upcoming competiton. Please bear in mind, t
 
 1\.7.1 – vCoD.gg Admins:
 
-* 1.7.11 – razRR (49d5ce5c)
+* 1.7.11 – razRR-raRR#9282 (49d5ce5c)
 
 1\.7.2 – Cup Supervisors
 
-* 1.7.21 – HanNiBaL (37740bfa)
-* 1.7.22 – xa1ruZ (98ae2a96)
-* 1.7.23 – OwneD (c12eb04e)
+* 1.7.21 – HanNiBaL-K33NB34N#3227 (37740bfa)
+* 1.7.22 – xa1ruZ-xa1ruZ#6662 (98ae2a96)
+* 1.7.23 – OwneD-Mike#7822 (c12eb04e)
 
 1\.7.3 – Cup Referees
 
-* 1.7.31 – skz (5fc35d87)
-* 1.7.32 – opfii1ee (c9b894d4)
-* 1.7.33 – tanek (45395642)
-* 1.7.34 – Fantasy (4dca5c58)
+* 1.7.31 – skz-skzje#2642 (5fc35d87)
+* 1.7.32 – opfii1ee-supatroopa92#8123 (c9b894d4)
+* 1.7.33 – tanek-t4n3k#7003 (45395642)
+* 1.7.34 – Fantasy-Fantasy?#1116 (4dca5c58)
 
 1\.7.4 – Only a referee from this list can be an official spectator. Anyone who falsely pretends to be a referee will receive punishment.
 
