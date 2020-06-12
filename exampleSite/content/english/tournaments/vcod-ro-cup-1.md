@@ -58,5 +58,11 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * **Last Stand Ballbags – diver#1361:** d1ver (031dcb59), reZ (264b492b) vint0 (6c7e4310), Ad (f1e7b7db), plaaG (2272623), kRs-**EYE** (c7c82a82), Lost (63e42ce3)
 * **BraVo – ixc#4219:** ixc (55d0af7d), Yeti-**EYE** (581379bd), dazE (b67ba7f3), Dashie (0e5743f4), Benny (5cc07323), chubbY (4bb9dc0d)
 
-**Suggested Schedule:**![](/images/schedule-2.png)  
+**Suggested Schedule:**
+
+![](/images/schedule-2.png)  
 **Groups:**
+
+**![](/images/groupa-1.PNG)  
+![](/images/groupb-1.PNG)  
+![](/images/groupc-1.PNG)**
