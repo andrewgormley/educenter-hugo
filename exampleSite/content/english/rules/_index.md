@@ -302,8 +302,9 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 * 7.1.32 – Jumping onto the German FPS roof.
 * 7.1.33 – Jumping onto the B building roofs.
 * 7.1.34 – Jumping onto the archway near white house.
-* 7.1.35 – Abusing the bush in grave to see into orphanage.
-* 7.1.36 – Abusing the window in back sniper to see through walls.
+* 7.1.35 – Jumping onto the sign next to the allies tank is allowed, the ruins is not.
+* 7.1.36 – Abusing the bush in grave to see into orphanage.
+* 7.1.37 – Abusing the window in back sniper to see through walls.
 
 7\.1.4 – Harbor:
 
