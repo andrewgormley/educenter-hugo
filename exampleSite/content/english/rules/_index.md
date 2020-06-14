@@ -252,7 +252,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 * 6.2.11 – Aim glitching (includes the short aim glitch after reloading).
 * 6.2.12 – Fast reloading (includes the fast weapon switch).
 * 6.2.13 – Shooting players through walls (includes hands of players clipping).
-* 6.2.14 – Using map exploits (includes crouch jumping in buildings).
+* 6.2.14 – Using map exploits (includes crouch jumping to get stuck in buildings and see through them).
 * 6.2.15 – Abusing player model speed (includes A+D spam).
 
 6\.2.2 – Any types of scripts proven to give a real advantage or are part of the not allowed binds/scripts below, will not be tolerated and will result in punishment of the player and clan in question. Disallowed bind and scripts are:
