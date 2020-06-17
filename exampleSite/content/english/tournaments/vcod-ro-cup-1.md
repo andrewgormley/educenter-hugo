@@ -77,6 +77,6 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 ![](/images/groupa-2.PNG)
 
-![](/images/groupb-2.PNG)
+![](/images/groupb-4.PNG)
 
 ![](/images/groupc-2.PNG)
