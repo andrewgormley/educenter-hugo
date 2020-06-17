@@ -14,7 +14,7 @@ image = "/images/groot1.jpg"
 name = "razRR"
 [[speaker]]
 designation = "Supervisor"
-image = "http://www.images.com/blue.jpg"
+image = "/images/red.jpg"
 name = "xa1ruZ"
 [[speaker]]
 designation = "Supervisor"
