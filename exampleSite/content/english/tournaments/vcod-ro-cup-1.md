@@ -9,17 +9,20 @@ location = "Call of Duty 1"
 publishDate = 2019-12-04T16:00:00Z
 title = "vCoD.gg - Rifles Only # 1"
 [[speaker]]
-designation = "Supervisor"
-image = ""
-name = "OwneD"
+designation = "Admin"
+image = "/images/groot1.jpg"
+name = "razRR"
 [[speaker]]
 designation = "Supervisor"
 image = ""
 name = "xa1ruZ"
 [[speaker]]
-designation = "Admin"
-image = "/images/groot1.jpg"
-name = "razRR"
+designation = "Supervisor"
+image = ""
+name = "OwneD"
+[[speaker]]
+designation = "Supervisor"
+name = "Masi"
 
 +++
 ### **Cup Information**
