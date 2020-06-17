@@ -11,6 +11,10 @@ title = "vCoD.gg - Rifles Only # 1"
 [[speaker]]
 designation = "Supervisor"
 image = ""
+name = "OwneD"
+[[speaker]]
+designation = "Supervisor"
+image = ""
 name = "xa1ruZ"
 [[speaker]]
 designation = "Admin"
