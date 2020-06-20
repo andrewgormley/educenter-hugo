@@ -67,7 +67,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * **Team USA – DaVinci-_-#0898:** b3nny (81ad26a3), nom (e642d303), moo (a74dc947), cippy (3d1ad93a), ashen (7a38f8d0), c1rca (2f2ee493)
 * **Affecto Gaming – MAZU#2568:** MAZU (3d66ead8), loftzu-**EYE** (8379bf96), MORTEK-**EYE** (a029ca98), pl3b (b7e022c8), Emy (4dcbc37c), vdk-**EYE** (0c5ab238), qT-**EYE** (a54e60a9)
 * **Last Stand Elite – Mike#7822:** Mike (c12eb04e), rOb-**EYE** (2e8adb13), nana (22b45e3b), Arctic (a5f144e7), Fade (6a31cd93), ARTILLERY (69ab25e8)
-* **Last Stand Ballbags – diver#1361:** d1ver (031dcb59), reZ (264b492b) vint0 (6c7e4310), Ad (f1e7b7db), plaaG (02272623), kRs-**EYE** (c7c82a82), Lost (63e42ce3)
+* **Last Stand Ballbags – diver#1361:** d1ver (031dcb59), reZ (264b492b) vint0 (6c7e4310), Ad (f1e7b7db), plaaG (02272623), kRs-**EYE** (67c82a82), Lost (63e42ce3)
 * **BraVo – ixc#4219:** ixc (55d0af7d), Yeti-**EYE** (581379bd), dazE (b67ba7f3), Dashie (0e5743f4), Benny (5cc07323), chubbY (4bb9dc0d), virax-**EYE** (9a8b5a02)
 
 **Suggested Schedule:**
