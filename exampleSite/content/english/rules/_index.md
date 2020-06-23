@@ -269,6 +269,8 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 6\.2.3 – All binds/scripts that are not covered above will be reviewed on a case-by-case basis to see if they do give an advantage.
 
+6\.2.4 – Abusing the two monitor bug, which allows the play to see further and brightens / darkens bushes. 
+
 **6.3 – Match Conflicts**
 
 6\.3.1 – The match conflict system functions as a court room with vCoD.gg admins acting as judges. A match conflict can be made when the result entered by one clan is not accepted by the other.
