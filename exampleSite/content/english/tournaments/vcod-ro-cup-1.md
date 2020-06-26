@@ -72,11 +72,9 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Suggested Schedule:**
 
-![](/images/schedulezz.PNG)  
+![](/images/schedulezzz.PNG)  
 **Groups:**
 
-![](/images/group-a.PNG)
-
-![](/images/group-b.PNG)
+![](/images/group-a1.PNG)
 
 ![](/images/group-c.PNG)
