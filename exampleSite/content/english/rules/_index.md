@@ -102,6 +102,8 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 * 1.7.32 – opfii1ee-supatroopa92#8123 (c9b894d4)
 * 1.7.33 – tanek-t4n3k#7003 (45395642)
 * 1.7.34 – Fantasy-Fantasy?#1116 (4dca5c58)
+* 1.7.35 – Arctic-Arctic#8016 (a5f144e7)
+* 1.7.36 – MAZU-MAZU#2586 (3d66ead8)
 
 1\.7.4 – Only a referee from this list can be an official spectator. Anyone who falsely pretends to be a referee will receive punishment.
 
@@ -269,7 +271,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 6\.2.3 – All binds/scripts that are not covered above will be reviewed on a case-by-case basis to see if they do give an advantage.
 
-6\.2.4 – Abusing the two monitor bug, which allows the play to see further and brightens / darkens bushes. 
+6\.2.4 – Abusing the two monitor bug, which allows the play to see further and brightens / darkens bushes.
 
 **6.3 – Match Conflicts**
 
