@@ -77,7 +77,8 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - Group C:**
 
-d\`logics. \[26\] - \[14\] ^MiS \~ [harbor](https://i.imgur.com/itviaMj.jpg) + [neuville](https://i.imgur.com/m49eFIw.jpg)
+d\`logics. \[26\] - \[14\] ^MiS \~ [harbor](https://i.imgur.com/itviaMj.jpg) + [neuville](https://i.imgur.com/m49eFIw.jpg)  
+EURO Bravo \[10\] - \[30\] d\`logics. \~ [hurtgen](https://i.imgur.com/MhmopH0.jpg) + [carentan](https://i.imgur.com/26IyOmC.jpg)
 
 **Standings:**
 
