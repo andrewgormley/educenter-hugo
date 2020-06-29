@@ -73,6 +73,10 @@ If you are clanless and looking for a team, then head over to the Community Disc
 **Suggested Schedule:**
 
 ![](/images/sched.PNG)  
+**Results:**
+
+d\`logics. [26](https://cdn.discordapp.com/attachments/719233329689526282/725455737224167474/shot0016.jpg) - [14](https://cdn.discordapp.com/attachments/719233329689526282/725455737857507439/shot0017.jpg) ^MiS
+
 **Groups:**
 
 ![](/images/ga.PNG)
