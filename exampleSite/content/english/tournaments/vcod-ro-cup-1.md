@@ -75,6 +75,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 ![](/images/sched.PNG)  
 **Results - Group A:**
 
+* barbeque \[18\] - \[22\] LS. Elite\~ [Hurtgen](https://i.imgur.com/0fhiOXS.png) & [Carentan](https://i.imgur.com/h24FStj.png)
 * aNimus \` \[18\] - \[22\] barbeque \~ [Hurtgen](https://i.imgur.com/EFFxL6d.jpg) & [Carentan](https://i.imgur.com/VtN3QKM.jpg)
 
 **Results - Group B:**
