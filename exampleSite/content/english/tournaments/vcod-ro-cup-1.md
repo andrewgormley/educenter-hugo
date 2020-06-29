@@ -73,9 +73,15 @@ If you are clanless and looking for a team, then head over to the Community Disc
 **Suggested Schedule:**
 
 ![](/images/sched.PNG)  
-**Results:**
+**Results - Group A:**
 
-**Results - Group C:**
+* aNimus \` \[18\] - \[22\] barbeque \~ [Hurtgen](https://i.imgur.com/EFFxL6d.jpg) & [Carentan](https://i.imgur.com/VtN3QKM.jpg)
+
+**Results - Group B:**
+
+* **  
+  Results - Group C:**
+
 
 * d\`logics. \[26\] - \[14\] ^MiS \~ [Harbor](https://i.imgur.com/itviaMj.jpg) & [Neuville](https://i.imgur.com/m49eFIw.jpg)
 * EURO Bravo \[10\] - \[30\] d\`logics. \~ [Hurtgen](https://i.imgur.com/MhmopH0.jpg) & [Carentan](https://i.imgur.com/26IyOmC.jpg)
