@@ -75,9 +75,11 @@ If you are clanless and looking for a team, then head over to the Community Disc
 ![](/images/sched.PNG)  
 **Results:**
 
-d\`logics. [26](https://cdn.discordapp.com/attachments/719233329689526282/725455737224167474/shot0016.jpg) - [14](https://cdn.discordapp.com/attachments/719233329689526282/725455737857507439/shot0017.jpg) ^MiS
+**Results - Group C:**
 
-**Groups:**
+d\`logics. \[26\] - \[14\] ^MiS \~ [harbor](https://imgur.com/itviaMj) + [neuville](https://imgur.com/m49eFIw)
+
+**Standings:**
 
 ![](/images/ga.PNG)
 
