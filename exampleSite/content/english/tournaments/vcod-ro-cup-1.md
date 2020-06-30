@@ -75,7 +75,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 ![](/images/sched.PNG)  
 **Results - Group A:**
 
-* aNimus \` \[22\] - 18\] USH \~ Harbor & Neuville
+* aNimus \` \[22\] - 18\] USH \~ [Harbor](https://i.imgur.com/AHk50rx.png) & [Neuville](https://i.imgur.com/VJQ2W0v.jpg)
 * LS. Elite \[23\] - \[17\] USH \~ [Harbor](https://i.imgur.com/uNEfhd9.png) & [Neuville](https://i.imgur.com/lf2zg0Z.png)
 * LS. Elite \[21\] - \[19\] barbeque \~ [Hurtgen](https://i.imgur.com/0fhiOXS.png) & [Carentan]()
 * aNimus \` \[18\] - \[22\] barbeque \~ [Hurtgen](https://i.imgur.com/EFFxL6d.jpg) & [Carentan](https://i.imgur.com/VtN3QKM.jpg)
