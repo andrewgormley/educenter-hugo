@@ -83,6 +83,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 * ge/2manite \[25\] - \[15\] #BraVo \~ [Harbor](https://i.imgur.com/v6JGtz7.jpg) & [Neuville](https://i.imgur.com/eIixRHL.jpg)
 * ge/2manite \[29\] - \[11\] LS. Ballbags \~ [Hurtgen](https://i.imgur.com/gRjjxYy.jpg) & [Carentan](https://i.imgur.com/rtjYmNe.jpg)
+* ge/2manite \[08\] - \[21\] #AFFECTO \~ [Dawnville](https://i.imgur.com/fxfDeQb.jpg) & [Railyard](https://i.imgur.com/XB4xoSW.jpg)
 
 **Results - Group C:**
 
