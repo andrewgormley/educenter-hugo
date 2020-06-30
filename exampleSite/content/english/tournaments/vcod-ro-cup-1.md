@@ -93,7 +93,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - Group C:**
 
-* EURO Alpha \[30\] - \[10\] \~ Harbor & Neuville
+* EURO Alpha \[30\] - \[10\] EURO Bravo \~ [Harbor](https://i.imgur.com/WdkGSRa.jpg) & [Neuville](https://i.imgur.com/o8gUNEX.jpg)
 * d\`logics. \[26\] - \[14\] ^MiS \~ [Harbor](https://i.imgur.com/itviaMj.jpg) & [Neuville](https://i.imgur.com/m49eFIw.jpg)
 * EURO Bravo \[10\] - \[30\] d\`logics. \~ [Hurtgen](https://i.imgur.com/MhmopH0.jpg) & [Carentan](https://i.imgur.com/26IyOmC.jpg)
 * EURO Alpha \[??\] - \[??\] d\`logics. \~ Dawnville & Railyard
