@@ -75,22 +75,28 @@ If you are clanless and looking for a team, then head over to the Community Disc
 ![](/images/sched.PNG)  
 **Results - Group A:**
 
+* aNimus \` \[22\] - 18\] USH \~ Harbor & Neuville
 * LS. Elite \[23\] - \[17\] USH \~ [Harbor](https://i.imgur.com/uNEfhd9.png) & [Neuville](https://i.imgur.com/lf2zg0Z.png)
-* barbeque \[18\] - \[22\] LS. Elite \~ [Hurtgen](https://i.imgur.com/0fhiOXS.png) & [Carentan]()
+* LS. Elite \[21\] - \[19\] barbeque \~ [Hurtgen](https://i.imgur.com/0fhiOXS.png) & [Carentan]()
 * aNimus \` \[18\] - \[22\] barbeque \~ [Hurtgen](https://i.imgur.com/EFFxL6d.jpg) & [Carentan](https://i.imgur.com/VtN3QKM.jpg)
 * barbeque \[22\] - \[18\] USH \~ [Dawnville](https://i.imgur.com/cRX1gXO.jpg) + [Railyard](https://i.imgur.com/MvCzE9k.jpg)
+* LS. Elite \[??\] - \[??\] aNimus \` \~ Dawnville + Railyard
 
 **Results - Group B:**
 
 * ge/2manite \[25\] - \[15\] #BraVo \~ [Harbor](https://i.imgur.com/v6JGtz7.jpg) & [Neuville](https://i.imgur.com/eIixRHL.jpg)
+* #AFFECTO \[33\] - \[07\] LS. Ballbags \~ Harbor & Neuville
 * ge/2manite \[29\] - \[11\] LS. Ballbags \~ [Hurtgen](https://i.imgur.com/gRjjxYy.jpg) & [Carentan](https://i.imgur.com/rtjYmNe.jpg)
 * #BraVo \[11\] - \[29\] #AFFECTO \~ [Hurtgen](https://i.imgur.com/XOZVIGZ.jpg) & [Carentan](https://i.imgur.com/8tWdIHh.jpg)
 * ge/2manite \[08\] - \[21\] #AFFECTO \~ [Dawnville](https://i.imgur.com/fxfDeQb.jpg) & [Railyard](https://i.imgur.com/XB4xoSW.jpg)
+* #Bravo \[24\] - LS. Ballbags \~ [Dawnville](https://i.imgur.com/Tk7OiV3.jpg) & [Railyard](https://i.imgur.com/LEpiCts.jpg)
 
 **Results - Group C:**
 
+* EURO Alpha \[30\] - \[10\] \~ Harbor & Neuville
 * d\`logics. \[26\] - \[14\] ^MiS \~ [Harbor](https://i.imgur.com/itviaMj.jpg) & [Neuville](https://i.imgur.com/m49eFIw.jpg)
 * EURO Bravo \[10\] - \[30\] d\`logics. \~ [Hurtgen](https://i.imgur.com/MhmopH0.jpg) & [Carentan](https://i.imgur.com/26IyOmC.jpg)
+* EURO Alpha \[??\] - \[??\] d\`logics. \~ Dawnville & Railyard
 
 **Standings:**
 
