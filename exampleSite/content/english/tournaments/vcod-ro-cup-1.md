@@ -89,14 +89,16 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * ge/2manite \[29\] - \[11\] LS. Ballbags \~ [Hurtgen](https://i.imgur.com/gRjjxYy.jpg) & [Carentan](https://i.imgur.com/rtjYmNe.jpg)
 * #BraVo \[11\] - \[29\] #AFFECTO \~ [Hurtgen](https://i.imgur.com/XOZVIGZ.jpg) & [Carentan](https://i.imgur.com/8tWdIHh.jpg)
 * ge/2manite \[08\] - \[21\] #AFFECTO \~ [Dawnville](https://i.imgur.com/fxfDeQb.jpg) & [Railyard](https://i.imgur.com/XB4xoSW.jpg)
-* #Bravo \[24\] - LS. Ballbags \~ [Dawnville](https://i.imgur.com/Tk7OiV3.jpg) & [Railyard](https://i.imgur.com/LEpiCts.jpg)
+* #Bravo \[24\] - \[16\] LS. Ballbags \~ [Dawnville](https://i.imgur.com/Tk7OiV3.jpg) & [Railyard](https://i.imgur.com/LEpiCts.jpg)
 
 **Results - Group C:**
 
 * EURO Alpha \[30\] - \[10\] EURO Bravo \~ [Harbor](https://i.imgur.com/WdkGSRa.jpg) & [Neuville](https://i.imgur.com/o8gUNEX.jpg)
 * d\`logics. \[26\] - \[14\] ^MiS \~ [Harbor](https://i.imgur.com/itviaMj.jpg) & [Neuville](https://i.imgur.com/m49eFIw.jpg)
+* EURO Alpha \[??\] - \[??\] ^MiS \~ Hurtgen & Carentan
 * EURO Bravo \[10\] - \[30\] d\`logics. \~ [Hurtgen](https://i.imgur.com/MhmopH0.jpg) & [Carentan](https://i.imgur.com/26IyOmC.jpg)
 * EURO Alpha \[??\] - \[??\] d\`logics. \~ Dawnville & Railyard
+* EURO Bravo \[??\] - \[??\] ^MiS \~ Dawnville & Railyard
 
 **Standings:**
 
