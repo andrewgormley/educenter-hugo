@@ -62,7 +62,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * **Defying Logics – razRR#9282:** razRR (49d5ce5c), rONOx (876cc5c5), tanek-**EYE** (45395642), n00bster (cf6f35f6), ED-**EYE** (64bd15c5), Shuya (34902b76), 1ceyyy (7a5a1c92), faa1th (df4ace91)
 * **EURO Alpha – Explode#9497:** Explode-**EYE** (2ebeed51), reazon-**Y** (7e240cf1), fantasy-**EYE** (4dca5c58), extence-**EYE** (e3fdfb11), buzah-**EYE** (919bc974), oane (3c94a672), sk4vs (2d03bccc)
 * **Minds in Sync – VENXZRR#6867:** VENXZRR (58a9ba94), icez (5ce858e7), Laoch (b322fa7c), Yurizan (ae626205), BRONX-**EYE** (ccb54c7c), Leon-**EYE** (39ca8f16), philinski-**EYE** (55be7b97), Anglhz-**EYE** (0b3c46f3), mskr-**EYE** (d115f30f)
-* **EURO Bravo – Vicious#3515:** Vicious-**Y** (bb9b4c66), BILLAZ (07db0a98), fAKL-**EYE** (abe343dd), AKIM (db5d820a), Colin-**EYE** (5f144b40), Roalty (d078917), Toeter (83d20754), Serezhkeee (6eb98274)
+* **EURO Bravo – Vicious#3515:** Vicious-**Y** (bb9b4c66), BILLAZ (07db0a98), fAKL-**EYE** (abe343dd), AKIM (db5d820a), Colin-**EYE** (5f144b40), Roalty (d078917), Toeter (83d20754), Serezhkeee (6eb98274), WhiteShadow (fbb05bed)
 * **barbeque – CRAWLER#3452:** CRAWLER-**Y** (38c4b307), IRADEXZ-**Y**-**EYE** (1ea998ee), Masi (37740bfa), dusty (78218880), Owner (668af291), Joey-**EYE** (dc2ccf68), pass1on (494716c3), achilleS (8bd28c3f)
 * **Team USA – DaVinci-_-#0898:** b3nny (81ad26a3), nom (e642d303), moo (a74dc947), cippy (3d1ad93a), ashen (7a38f8d0), c1rca (2f2ee493)
 * **Affecto Gaming – MAZU#2568:** MAZU (3d66ead8), loftzu-**EYE** (8379bf96), MORTEK-**EYE** (a029ca98), pl3b (b7e022c8), Emy (4dcbc37c), vdk-**EYE** (0c5ab238), qT-**EYE** (a54e60a9), BROLY-**EYE** (4a07bf57)
