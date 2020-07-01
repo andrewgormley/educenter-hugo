@@ -80,7 +80,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * LS. Elite \[21\] - \[19\] barbeque \~ [Hurtgen](https://i.imgur.com/0fhiOXS.png) & [Carentan]()
 * aNimus \` \[18\] - \[22\] barbeque \~ [Hurtgen](https://i.imgur.com/EFFxL6d.jpg) & [Carentan](https://i.imgur.com/VtN3QKM.jpg)
 * barbeque \[22\] - \[18\] USH \~ [Dawnville](https://i.imgur.com/cRX1gXO.jpg) + [Railyard](https://i.imgur.com/MvCzE9k.jpg)
-* LS. Elite \[??\] - \[??\] aNimus \` \~ [Pavlov](https://i.imgur.com/ZbzhF4K.jpg) + [Tigertown](https://i.imgur.com/sf1lIbp.jpg)
+* LS. Elite \[24\] - \[16\] aNimus \` \~ [Pavlov](https://i.imgur.com/ZbzhF4K.jpg) + [Tigertown](https://i.imgur.com/sf1lIbp.jpg)
 
 **Results - Group B:**
 
