@@ -98,7 +98,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * EURO Alpha \[??\] - \[??\] ^MiS \~ Hurtgen & Carentan
 * EURO Bravo \[10\] - \[30\] d\`logics. \~ [Hurtgen](https://i.imgur.com/MhmopH0.jpg) & [Carentan](https://i.imgur.com/26IyOmC.jpg)
 * EURO Alpha \[??\] - \[??\] d\`logics. \~ Dawnville & Railyard
-* EURO Bravo \[??\] - \[??\] ^MiS \~ Dawnville & Railyard
+* EURO Bravo \[08\] - \[32\] ^MiS \~ [Dawnville](https://i.imgur.com/WXUhSrA.jpg) & [Railyard](https://i.imgur.com/NN0LbRH.jpg)
 
 **Standings:**
 
