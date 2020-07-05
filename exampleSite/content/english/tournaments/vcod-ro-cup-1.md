@@ -72,7 +72,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Suggested Schedule:**
 
-![](/images/schedting.PNG)  
+![](/images/schedting1.PNG)  
 **Results - Group A:**
 
 * aNimus \` \[22\] - 18\] USH \~ [Harbor](https://i.imgur.com/AHk50rx.png) & [Neuville](https://i.imgur.com/VJQ2W0v.jpg)
@@ -102,8 +102,6 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Standings:**
 
-![](/images/gra1.PNG)
+![](/images/graa1.PNG)
 
-![](/images/grb1.PNG)
-
-![](/images/grc1.PNG)
+![](/images/grbb1.PNG)
