@@ -106,6 +106,4 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 ![](/images/grbb1.PNG)
 
-![](/images/grcc1.PNG)
-
 **Knockouts**
