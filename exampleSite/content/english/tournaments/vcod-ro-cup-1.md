@@ -103,3 +103,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 **Standings:**
 
 ![](/images/gra1.PNG)
+
+![](/images/grb1.PNG)
+
+![](/images/grc1.PNG)
