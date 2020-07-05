@@ -95,9 +95,9 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 * EURO Alpha \[30\] - \[10\] EURO Bravo \~ [Harbor](https://i.imgur.com/WdkGSRa.jpg) & [Neuville](https://i.imgur.com/o8gUNEX.jpg)
 * d\`logics. \[26\] - \[14\] ^MiS \~ [Harbor](https://i.imgur.com/itviaMj.jpg) & [Neuville](https://i.imgur.com/m49eFIw.jpg)
-* EURO Alpha \[??\] - \[??\] ^MiS \~ Hurtgen & Carentan
+* EURO Alpha \[09\] - \[31\] ^MiS \~ Hurtgen & Carentan
 * EURO Bravo \[10\] - \[30\] d\`logics. \~ [Hurtgen](https://i.imgur.com/MhmopH0.jpg) & [Carentan](https://i.imgur.com/26IyOmC.jpg)
-* EURO Alpha \[??\] - \[??\] d\`logics. \~ Dawnville & Railyard
+* EURO Alpha \[15\] - \[25\] d\`logics. \~ Dawnville & Railyard
 * EURO Bravo \[08\] - \[32\] ^MiS \~ [Dawnville](https://i.imgur.com/WXUhSrA.jpg) & [Railyard](https://i.imgur.com/NN0LbRH.jpg)
 
 **Standings:**
@@ -105,3 +105,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 ![](/images/graa1.PNG)
 
 ![](/images/grbb1.PNG)
+
+![](/images/grcc1.PNG)
+
+**Knockouts**
