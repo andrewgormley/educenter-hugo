@@ -109,3 +109,5 @@ If you are clanless and looking for a team, then head over to the Community Disc
 ![](/images/grc111.PNG)
 
 **Knockouts:**
+
+![](/images/bracket.PNG)
