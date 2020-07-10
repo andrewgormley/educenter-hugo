@@ -110,4 +110,11 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Knockouts:**
 
-![](/images/bracket1.PNG)
+![](/images/scheeed.PNG)
+
+**Results - Quarter Finals:**
+
+* #AFFECTO (Harbor) \[21\] - \[18\] (Neuville) EURO Alpha
+* LS. Elite (Tigertown) \[21\] - \[??\] (Brecourt) ge/2manite
+* ^MiS (Tigertown) \[21\] - \[19\] (Neuville) barbeque
+* d\`logics. (Tigertown) \[21\] - \[06\] (Stalingrad) aNimus \` 
