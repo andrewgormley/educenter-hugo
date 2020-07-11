@@ -115,7 +115,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 **Results - UB Quarter Finals:**
 
 * #AFFECTO ([Harbor](https://i.imgur.com/g2r1D1F.jpg)) \[21\] - \[18\] ([Neuville](https://i.imgur.com/5z42KK7.jpg)) EURO Alpha
-* LS. Elite (Tigertown) \[21\] - \[??\] (Brecourt) ge/2manite
+* LS. Elite ([Tigertown](https://i.imgur.com/SZxlj9j.png)) \[21\] - \[10\] ([Brecourt](https://i.imgur.com/jhICESm.jpg)) ge/2manite
 * ^MiS ([Tigertown](https://i.imgur.com/X5UOPwP.jpg)) \[21\] - \[19\] ([Neuville](https://i.imgur.com/bCj7opU.jpg)) barbeque
 * d\`logics. ([Tigertown](https://i.imgur.com/WF88Fds.jpg)) \[21\] - \[06\] ([Stalingrad](https://i.imgur.com/WF88Fds.jpg)) aNimus \`
 
