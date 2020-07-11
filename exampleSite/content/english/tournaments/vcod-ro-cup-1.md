@@ -112,9 +112,39 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 ![](/images/scheeed.PNG)
 
-**Results - Quarter Finals:**
+**Results - UB Quarter Finals:**
 
 * #AFFECTO ([Harbor](https://i.imgur.com/g2r1D1F.jpg)) \[21\] - \[18\] ([Neuville](https://i.imgur.com/5z42KK7.jpg)) EURO Alpha
 * LS. Elite (Tigertown) \[21\] - \[??\] (Brecourt) ge/2manite
 * ^MiS ([Tigertown](https://i.imgur.com/X5UOPwP.jpg)) \[21\] - \[19\] ([Neuville](https://i.imgur.com/bCj7opU.jpg)) barbeque
 * d\`logics. ([Tigertown](https://i.imgur.com/WF88Fds.jpg)) \[21\] - \[06\] ([Stalingrad](https://i.imgur.com/WF88Fds.jpg)) aNimus \`
+
+**Results - LB Round 1:**
+
+* EURO Alpha vs ge/2manite
+* barbeque vs aNimus \`
+
+**Results - UB Semi Finals:**
+
+* #AFFECTO vs LS. Elite
+* ^MiS vs d\`logics.
+
+**Results - LB Round 2:**
+
+* Unknown
+
+**Results - LB Round 3:**
+
+* Unknown
+
+**Results - UB Final:**
+
+* Unknown
+
+**Results - LB Round 4:**
+
+* Unknown
+
+**Results - Grand Final**
+
+* Unknown
