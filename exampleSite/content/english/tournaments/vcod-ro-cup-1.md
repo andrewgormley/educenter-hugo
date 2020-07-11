@@ -48,7 +48,7 @@ We are pleased to announce, that the registration for our first installment of t
 
 **Anti-Cheat:** Veritas 2.0.4.
 
-**Stream:** https://www.twitch.tv/vcodseriesx.
+**Stream:** [**https://www.twitch.tv/vcodgg**](https://www.twitch.tv/vcodgg).
 
 **Prize:** Winner – 12 slot private Call of Duty 1 server - 1 month.
 
