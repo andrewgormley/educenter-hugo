@@ -168,11 +168,11 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 3\.2.2 – Each player is responsible for making sure they are running it during the match. Open console and type: “/echo !info” to ensure Veritas is taking screenshots. We recommend you check this at least twice per side of a map.
 
-3\.2.3 – If a player closes Veritas during the match, the player and clan will be punished.
+3\.2.3 – If a player closes Veritas during the match, the player will receive a yellow card and the clan will forfeit the match.
 
 3\.2.4 – If a player crashes during the match, he must re-join Veritas immediately. Clans can use the following command: “/matchtimeout” at the start of the round to allow players to reconnect to Veritas.
 
-3\.2.5 – Screenshots from ALL players must be uploaded after each match. Screenshots not uploaded 48 hours after a match will result in punishment of the player and clan in question.
+3\.2.5 – Screenshots from ALL players must be uploaded after each match. Screenshots not uploaded 48 hours after a match will result in the player receiving a yellow card and the clan will forfeit the match.
 
 3\.2.6 – Missing screenshots will not be acceptable. Players should be using the “/echo !info” command to ensure Veritas is still taking screenshots.
 
