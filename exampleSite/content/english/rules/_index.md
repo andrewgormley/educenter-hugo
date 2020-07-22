@@ -176,6 +176,8 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 3\.2.6 – Missing screenshots will not be acceptable. Players should be using the “/echo !info” command to ensure Veritas is still taking screenshots.
 
+3\.2.7 – If your Veritas crashes at the end of the match, the player in question must contact the cup administrator immediately.
+
 #### **4. Competition Rules**
 
 **4.1 – Match Rules**
@@ -216,7 +218,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 5\.1.1 – All players must record demos from the entire match. Demos can be requested as long as there is a valid reason and must be kept until the result has been accepted. Demos can be requested before a conflict is made.
 
-5\.1.2 – If you have an EYE, your demo must be uploaded after each match. Demos not uploaded 48 hours after a match will result in punishment of the player and clan in question.
+5\.1.2 – If you have an EYE, your demo must be uploaded after each match. Demos not uploaded 48 hours after a match will result in the player receiving a yellow card and the clan forfeiting the match.
 
 5\.1.3 – In case of a conflict the following is required, or the conflict will be discarded:
 
