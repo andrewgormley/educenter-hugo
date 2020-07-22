@@ -225,7 +225,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 * 5.1.31 – The clan must explain their reason(s) for their demo request.
 * 5.1.32 – The clan must state round number(s) and time(s) within the round.
 
-5\.1.4 – Failure to upload requested demos or uploading demos that are broken or incomplete will result in punishment of the player and clan in question.
+5\.1.4 – Failure to upload requested demos or uploading demos that are broken or incomplete will result in the player receiving a yellow card and the clan forfeiting the match.
 
 5\.1.5 – A demo is considered to be incomplete if it is missing 3 or more rounds. If a clan is manipulating the demo process (e.g. by stopping it in a live match on purpose), all the points gained in that period will be awarded to the opponent.
 
