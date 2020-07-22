@@ -40,7 +40,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 **1.3 – Arranging Matches**
 
-1\.3.1 – The deadline for reacting to a challenge is 2 days after the challenge has been made. Teams have 2 days into the match week to organise a date to play their set match or the match will be forced by a supervisor.
+1\.3.1 – Matches can be played from Monday through to the following Monday, 22:00 CET. If you cannot find an agreement with the enemy team, the match will be automatically set for a Sunday at 20:00 CET.
 
 1\.3.2 – Matches should be arranged by sending a personal message on Discord to a clan's admin.
 
@@ -76,7 +76,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 1\.6.1 – Clans which leave the competition or are removed for 2 no-shows/forfeits are likely to be excluded from future competitions.
 
-1\.6.2 – Reconnecting during the match without any valid reason is not allowed and will result in a yellow card.
+1\.6.2 – Reconnecting during the match without any valid reason is not allowed and will result in a yellow card and forfeit of the round.
 
 1\.6.3 – If a player drops connection because of a technical error, the match must be paused. You can call a time out by typing "/matchtimeout" in the console. A pause can only be made when a round has started or finished.
 
@@ -152,13 +152,15 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 3\.1.3 – A clan can only use players during a match who have not played in the same cup for another clan. Using a player who is not allowed to play will result in a red card and forfeit of the match.
 
-3\.1.4 – A clan can only register new players throughout the group stage as long as they have not played for another team.
+3\.1.4 – A clan can only register new players throughout the group stage as long as they have not signed up for another team.
 
-3\.1.5 – Players always have to be easily identifiable to the admins, referees and opponents. Therefore, players must use the nicknames registered on the website or nicks which are very similar.
+3\.1.5 – Swapping clans throughout the tournament is not allowed. 
 
-3\.1.6 – Clans have the right to refuse a player from participating if the GUID does not match what is registered on the website. In cases where the there is a slight mistake in the registered GUID, admins will decide on next steps to avoid conflicts.
+3\.1.6 – Players always have to be easily identifiable to the admins, referees and opponents. Therefore, players must use the nicknames registered on the website or nicks which are very similar.
 
-3\.1.4 – To show the GUIDs of all players in a match, open your console and type: “/pb_plist” or “/pb_power”.
+3\.1.7 – Clans have the right to refuse a player from participating if the GUID does not match what is registered on the website. In cases where the there is a slight mistake in the registered GUID, admins will decide on next steps to avoid conflicts.
+
+3\.1.8 – To show the GUIDs of all players in a match, open your console and type: “/pb_plist” or “/pb_power”.
 
 **3.2 – Client Settings**
 
