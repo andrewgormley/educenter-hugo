@@ -13,7 +13,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 **1.1 – Punishment**
 
-1\.1.1 – Players which violate any of the vCoD.gg rules are subject to punishment.
+1\.1.1 – Players who violate any of the vCoD.gg rules are subject to punishment.
 
 1\.1.2 – Punishment will result in receiving a card and in more serious cases, a temporary or permanent ban from all vCoD.gg competitions.
 
@@ -152,7 +152,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 3\.1.3 – A clan can only use players during a match who are registered to their team. Using a player who is not allowed to play will result in a red card and forfeit of the match.
 
-3\.1.4 – A clan can only register new players throughout the group stage as long as they have not signed up for another team. Swapping clans throughout the tournament is not allowed. 
+3\.1.4 – A clan can only register new players throughout the group stage as long as they have not signed up for another team. Swapping clans throughout the tournament is not allowed.
 
 3\.1.5 – Players always have to be easily identifiable to the admins, supervisors, referees and opponents. Therefore, players must use the nicknames registered on the website or nicks which are very similar.
 
