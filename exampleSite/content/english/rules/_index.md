@@ -255,7 +255,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 **6.2 – Bug Abuse**
 
-6\.2.1 – It is not allowed to take advantage of or abuse bugs. Any kind of bug abuse is considered cheating and will lead to a forfeit loss, unless otherwise mentioned specifically in the rules. Bug abuse consists of:
+6\.2.1 – It is not allowed to take advantage of or abuse bugs. Any kind of bug abuse is considered cheating and will lead to forfeiting rounds where the bug has been exploited, unless otherwise mentioned specifically in the rules. Bug abuse consists of:
 
 * 6.2.11 – Aim glitching (includes the short aim glitch after reloading).
 * 6.2.12 – Fast reloading (includes the fast weapon switch).
@@ -263,7 +263,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 * 6.2.14 – Using map exploits (includes crouch jumping to get stuck in buildings and see through them).
 * 6.2.15 – Abusing player model speed (includes A+D spam).
 
-6\.2.2 – Any types of scripts proven to give a real advantage or are part of the not allowed binds/scripts below, will not be tolerated and will result in punishment of the player and clan in question. Disallowed bind and scripts are:
+6\.2.2 – Any types of scripts proven to give a real advantage or are part of the not allowed binds/scripts below, will not be tolerated and will result in the player receiving a yellow card and the clan forfeiting the match. Disallowed binds and scripts are:
 
 * 6.2.21 – Any 'exec' or 'vstr' bind (this does not include anything related to demos or demo players).
 * 6.2.22 – Any 'cmdcur' bind.
@@ -271,13 +271,12 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 * 6.2.24 – Any bind including 'rate' cannot have a value outside 25000.
 * 6.2.25 – Any bind including 'com_maxfps' cannot have a value below 40 or above 250.
 * 6.2.26 – Any bind including 'attack' cannot be combined with any other command.
-* 6.2.27 – Any bind including 'frag' cannot be combined with other commands/binds.
-* 6.2.28 – Any bind including 'stand' or 'crouch' cannot be combined with other commands/binds.
-* 6.2.29 – Any bind including 'left' or 'right' cannot be combined with other commands/binds.
+* 6.2.27 – Any bind including 'stand' or 'crouch' cannot be combined with other command.
+* 6.2.28 – Any bind including 'left' or 'right' cannot be combined with other commands.
 
 6\.2.3 – All binds/scripts that are not covered above will be reviewed on a case-by-case basis to see if they do give an advantage.
 
-6\.2.4 – Abusing the two monitor bug, which allows the play to see further and brightens / darkens bushes.
+6\.2.4 – Any abuse of the two monitor bug will be reviewed case-by-case by the cup admin, supervisors and conflict team. You should avoid using this bug at all costs, as it may result in the player receiving a yellow card and the clan forfeiting the match.
 
 **6.3 – Match Conflicts**
 
