@@ -28,7 +28,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 1\.1.6 – The clan leader is responsible for his/her own members to know, understand and follow the rules.
 
-1\.1.7 – If a player is banned by PunkBuster during a match, the match will end immediately, and the opposing team will receive a default win. Please take a screenshot for evidence.
+1\.1.7 – If a player is banned by PunkBuster during a match, the match will end immediately, and the opposing team will receive a forfeit win. Please take a screenshot for evidence.
 
 **1.2 – Spectating**
 
