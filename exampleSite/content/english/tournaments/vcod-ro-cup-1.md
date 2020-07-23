@@ -110,7 +110,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Knockouts:**
 
-![](/images/scheeed.PNG)
+![](/images/sked.PNG)
 
 **Results - UB Quarter Finals:**
 
@@ -131,7 +131,8 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - LB Round 2:**
 
-* Unknown
+* EURO Alpha vs ?
+* ? vs aNimus \`
 
 **Results - LB Round 3:**
 
