@@ -229,6 +229,8 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 5\.1.5 – A demo is considered to be incomplete if it is missing 3 or more rounds. If a clan is manipulating the demo process (e.g. by stopping it in a live match on purpose), all the points gained in that period will be awarded to the opponent.
 
+5\.1.6 – A demo that is missing more than 10 rounds will result in the player receiving a yellow card and the clan forfeiting the match.
+
 **5.2 – Screenshots**
 
 5\.2.6 – Screenshots of the scoreboards should always be taken by each clan and posted in the #vcod_cup section on Discord.
@@ -241,7 +243,9 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 **6.1 – Cheating**
 
-6\.1.1 – If both clans cheated and/or used a suspended player in the match, both clans will receive either a forfeit loss or rematch.
+6\.1.1 – If a player is caught cheating during an official match, they will receive a red card and a permanent ban from all vCoD.gg competitions. The clan will also forfeit the match.
+
+6\.1.1 – If both clans cheated and/or used a suspended player, the match result will be void. Players will be permanently banned and clans will receive a yellow card.
 
 6\.1.2 – All programs or files, be they changed game files or new files, that change or edit the game or add to its functionality, or that interact with the game in any way, are strictly forbidden. The use of any forbidden programs or file by any clan member leads to a forfeit loss and could lead to a removal and ban from the competition in major cases.
 
