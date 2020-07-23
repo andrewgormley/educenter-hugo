@@ -105,7 +105,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 * 1.7.35 – Arctic-Arctic#8016 (a5f144e7)
 * 1.7.36 – MAZU-MAZU#2586 (3d66ead8)
 
-1\.7.4 – Only a referee from this list can be an official spectator. Anyone who falsely pretends to be a referee will receive punishment.
+1\.7.4 – Only a referee from this list can be an official spectator. Anyone who falsely pretends to be a referee will receive a temporary ban from vCoD.gg competitions.
 
 1\.7.5 – A referee should ensure the match is played according to the rules.
 
