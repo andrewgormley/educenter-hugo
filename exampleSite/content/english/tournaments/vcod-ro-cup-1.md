@@ -121,8 +121,8 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - LB Round 1:**
 
-* EURO Alpha vs ge/2manite
-* barbeque vs aNimus \`
+* EURO Alpha ([Bocage](https://i.imgur.com/M22n8PK.jpg)) \[21\] vs \[10\] ([Tigertown](https://i.imgur.com/RB86a5W.jpg)) ge/2manite
+* barbeque ([Bocage](https://i.imgur.com/EGVYdAi.jpg)) \[16\] vs \[21\] ([Harbor](https://i.imgur.com/NfBnzwZ.jpg)) aNimus \`
 
 **Results - UB Semi Finals:**
 
