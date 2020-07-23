@@ -150,7 +150,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 3\.1.2 – The last change of a GUID cannot be done later than 24 hours before a match (unless agreed by the opposition). Players who did not register the correct GUID before a match will be considered freelancers.
 
-3\.1.3 – A clan can only use players during a match who have not reistered and played in the same cup for another clan. Using a player who is not allowed to play will result in a red card and forfeit of the match.
+3\.1.3 – A clan can only use players during a match who have not registered and played in the same cup for another clan. Using a player who is not allowed to play will result in a red card and forfeit of the match.
 
 3\.1.4 – A clan can only register new players throughout the group stage as long as they have not signed up for another team.
 
