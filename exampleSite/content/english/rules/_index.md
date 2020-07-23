@@ -70,7 +70,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 1\.5.2 – Clans are expected to have proof of their match being played for one week after the score has been confirmed.
 
-1\.5.3 – Players who participated in an official match are expected to upload their Veritas files. Failure to do so or uploading the wrong files will lead to either a forfeit loss or rematch and punishment of the player in question.
+1\.5.3 – Players who participated in an official match are expected to upload their Veritas files. Failure to do so or uploading the wrong files will lead to a forfeit loss and a yellow card for the player(s) in question.
 
 **1.6 – Leaving**
 
@@ -245,13 +245,13 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 6\.1.1 – If a player is caught cheating during an official match, they will receive a red card and a permanent ban from all vCoD.gg competitions. The clan will also forfeit the match.
 
-6\.1.1 – If both clans cheated and/or used a suspended player, the match result will be void. Players will be permanently banned and clans will receive a yellow card.
+6\.1.2 – If both clans cheated and/or used a suspended player, the match result will be void. Players will receive a red card and a permanent ban from all vCoD.gg competitions.
 
 6\.1.2 – All programs or files, be they changed game files or new files, that change or edit the game or add to its functionality, or that interact with the game in any way, are strictly forbidden. The use of any forbidden programs or file by any clan member leads to a forfeit loss and could lead to a removal and ban from the competition in major cases.
 
 6\.1.3 – Modified versions of the game's resource files are always forbidden, regardless of what they do. The use of any forbidden program or file by any clan member during a match leads to a forfeit loss and could lead to a removal and ban from the competition in major cases.
 
-6\.1.4 – Config settings that give a distinct advantage over the opponent may be deemed config abuse and can lead to punishment of the player and clan in question.
+6\.1.4 – Config settings that give a distinct advantage over the opponent may be deemed config abuse and can lead to a
 
 6\.1.5 – When providing timestamps for demos, remember to state which player's demo and what map you are referring to. The round indication should be clear for everyone to be able to follow. If the match was interrupted by a map restart (for example because of a pause) or similar and the round ordering has changed, be sure to mark those to make everything clear. Every timestamp must be exact, saying "watch demo" or "whole round" are unacceptable and will not be taken into consideration while watching the demo.
 
