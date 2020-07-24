@@ -192,7 +192,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 4\.1.6 – During the group stage, the maps will be pre-chosen and will be played in the order listed on the website. Bash for side will take place before each map begins, with the winner deciding which side to start on.
 
-4\.1.7 – During the knockout stage, teams must state their map before bash takes place. The winner of bash will then choose whose map will be played first. Bash for side will take place at the start of each map to determine sides. Clans can only choose a map once until the final, where maps will be reset.
+4\.1.7 – During the knockout stage, teams must state their map before bash takes place. The winner of bash will then choose whose map will be played first. Bash for side will take place at the start of each map to determine sides. Clans can only choose a map once until the Grand Final, where maps will be reset.
 
 4\.1.8 – In the event of a draw (20 - 20) during the knockout stage, a golden map will be played. Bash for side will take place with the winner starting a veto of maps. The final map left from the veto will be played as a third map. Bash for side will take place to determine sides. The first team to reach 11 rounds will be determined the winner.
 
