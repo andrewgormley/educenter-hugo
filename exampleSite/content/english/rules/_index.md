@@ -22,7 +22,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 * 1.1.31 – Yellow card: This card is given out for small rule violations and will usually be given out as a warning. However, a yellow card can still end in the result of a match being amended. A second yellow card is equivalent to a red card.
 * 1.1.32 – Red card: This card is given for more serious offences and will in most cases lead to a forfeit loss and punishment of the player and/or clan in question. Receiving a red card may also lead to a temporary or permanent ban from all vcod.gg competitions.
 
-1\.1.4 – Only one card can be given out each match. In case of several violations, only the most severe card will be issued. However, all extra punishments for each rule that was violated will still be applied.
+1\.1.4 – A player and/or clan can be given more than one card in a match. In case of several violations, only the most severe card will be issued. However, all extra punishments for each rule that was violated will still be applied.
 
 1\.1.5 – Abusive behaviour towards a vCoD.gg admin, referee or opponent, at any time during the competition is not acceptable. If the abusive behaviour is severe, then an admin has the right to punish with a temporary or permanent ban from the competition.
 
