@@ -44,7 +44,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 1\.3.2 – Matches should be arranged by sending a personal message on Discord to a clan's admin.
 
-1\.3.3 – If a clan's admin refuses to communicate and agree on a time and date to play a match, you should contact a vCoD.gg admin.
+1\.3.3 – If a clan's admin refuses to communicate and agree on a time and date to play a match, you should contact a vcod.gg admin.
 
 1\.3.4 – A scheduled match can be cancelled up until 1 hour before the starting time by using a wildcard. Each clan has 1 wildcard throughout the group stage and 1 wildcard throughout the knockout stage.
 
