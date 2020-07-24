@@ -46,7 +46,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 1\.3.3 – If a clan's admin refuses to communicate and agree on a time and date to play a match, you should contact a vcod.gg admin.
 
-1\.3.4 – When both clans agree not to play a match, it can be cancelled for any reason after the scheduled starting time, as long as the match can still be completed in the scheduled game week.
+1\.3.4 – When both clans agree not to play a match, it can be cancelled for any reason after the scheduled starting time, only if the match can still be completed in the scheduled game week.
 
 **1.4 – Before the Match**
 
