@@ -46,9 +46,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 1\.3.3 – If a clan's admin refuses to communicate and agree on a time and date to play a match, you should contact a vcod.gg admin.
 
-1\.3.4 – A scheduled match can be cancelled up until 1 hour before the starting time by using a wildcard. Each clan has 1 wildcard throughout the group stage and 1 wildcard throughout the knockout stage.
-
-1\.3.5 – When both clans agree not to play a match it can be cancelled for any reason after the scheduled starting time.
+1\.3.4 – When both clans agree not to play a match it can be cancelled for any reason after the scheduled starting time.
 
 **1.4 – Before the Match**
 
