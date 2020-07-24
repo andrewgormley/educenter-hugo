@@ -110,7 +110,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Knockouts:**
 
-![](/images/sked.PNG)
+![](/images/skeddd.PNG)
 
 **Results - UB Quarter Finals:**
 
@@ -126,7 +126,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - UB Semi Finals:**
 
-* #AFFECTO vs LS. Elite
+* #AFFECTO (Tigertown) \[21\] vs \[00\] (Powcamp) LS. Elite
 * ^MiS vs d\`logics.
 
 **Results - LB Round 2:**
