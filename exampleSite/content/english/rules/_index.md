@@ -34,7 +34,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 1\.2.1 – vcod.gg reserves the right to broadcast every match.
 
-1\.2.2 – Spectating during an official match is not allowed unless you are an official vCoD.gg admin, referee or streamer. Should any spectator join who is not allowed, the game should be immediately paused whilst the spectator is removed from the server.
+1\.2.2 – Spectating during an official match is not allowed unless you are an official vcod.gg admin, supervisor, referee or streamer. Should any spectator join who is not allowed, the game should be immediately paused whilst the spectator is removed from the server.
 
 1\.2.3 – Admins have the right to teamview any player during the match.
 
