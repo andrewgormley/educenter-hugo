@@ -125,11 +125,11 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 2\.1.5 – To properly configure vcod.gg PAM for competition settings, use the following command: "/rcon pam_mode vcodgg_match" (default mode for all competition matches) and "/rcon pammode vcodgg_night" (default mode for all weekend competitions).
 
-2\.1.6 – All server must have the latest vCoD.gg cvarlist file, which can be downloaded at: [**https://www.sendspace.com/file/bu62h6**](https://www.sendspace.com/file/bu62h6 "https://www.sendspace.com/file/bu62h6").
+2\.1.6 – All server must have the latest vcod.gg cvarlist file, which can be downloaded at: [**https://www.sendspace.com/file/bu62h6**](https://www.sendspace.com/file/bu62h6 "https://www.sendspace.com/file/bu62h6").
 
-2\.1.7 – All server must have the latest vCoD.gg pbsv file, which can be downloaded at: [**https://www.sendspace.com/file/v4he3o**](https://www.sendspace.com/file/v4he3o "https://www.sendspace.com/file/v4he3o").
+2\.1.7 – All server must have the latest vcod.gg pbsv file, which can be downloaded at: [**https://www.sendspace.com/file/v4he3o**](https://www.sendspace.com/file/v4he3o "https://www.sendspace.com/file/v4he3o").
 
-2\.1.8 – All server must have the latest vCoD.gg pbsvuser file, which can be downloaded at: [**https://www.sendspace.com/file/u34k8c**](https://www.sendspace.com/file/u34k8c "https://www.sendspace.com/file/u34k8c").
+2\.1.8 – All server must have the latest vcod.gg pbsvuser file, which can be downloaded at: [**https://www.sendspace.com/file/u34k8c**](https://www.sendspace.com/file/u34k8c "https://www.sendspace.com/file/u34k8c").
 
 2\.1.9 – Default servers have been provided for the competition. These should be used if teams cannot agree on a server or if there are any ping issues:
 
