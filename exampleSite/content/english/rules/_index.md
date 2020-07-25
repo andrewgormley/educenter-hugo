@@ -169,7 +169,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 3\.2.5 – Screenshots from ALL players must be uploaded after each match. Screenshots not uploaded 48 hours after a match will result in the player receiving a yellow card and the clan forfeiting the match.
 
-3\.2.6 – It is not acceptable for a player to be missing Veritas screenshots if they made no attempt to ensure Veritas was running throughout the match. Players should be using the “/echo !info” command to ensure Veritas is still taking screenshots.
+3\.2.6 – Players should be using the “/echo !info” command to ensure Veritas is still taking screenshots. It is not acceptable for a player to be missing Veritas screenshots if no attempt was made to ensure Veritas was running throughout the match. 
 
 3\.2.7 – If your Veritas crashes at the end of the match, the player in question must contact the cup admin immediately.
 
@@ -183,9 +183,9 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 4\.1.3 – Rounds are set at 2 minutes and 30 seconds.
 
-4\.1.4 – The first team to reach 21 rounds will be determined the winner. However, teams must play the full 40 rounds during the group stage. Not playing the full 40 rounds or trolling the remaining rounds will result in punishment.
+4\.1.4 – The first team to reach 21 rounds will be determined the winner. However, teams must play the full 40 rounds during the group stage. Not playing the full 40 rounds or trolling the remaining rounds will result in a yellow card.
 
-4\.1.5 – The map pool for this competition is: Bocage, Brecourt, Carentan, Dawnville, Depot, Harbor, Hurtgen, Neuville, Pavlov, Powcamp, Railyard, Rocket, Stalingrad and Tigertown.
+4\.1.5 – The map pool for the competition is: Bocage, Brecourt, Carentan, Dawnville, Depot, Harbor, Hurtgen, Neuville, Pavlov, Powcamp, Railyard, Rocket, Stalingrad and Tigertown.
 
 4\.1.6 – During the group stage, the maps will be pre-chosen and will be played in the order listed on the website. Bash for side will take place before each map begins, with the winner deciding which side to start on.
 
