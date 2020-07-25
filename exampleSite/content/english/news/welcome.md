@@ -6,7 +6,7 @@ date = 2020-05-28T19:00:00Z
 description = ""
 image = "/images/bigsize_newspostdummy_1140x635-1.png"
 tags = []
-title = "Registration Opens For vCoD.gg #1"
+title = "Registration Opens For vcod.gg #1"
 type = "post"
 
 +++
@@ -27,4 +27,4 @@ Last but not least, if you are looking to take part in our upcoming competiton, 
 
 We hope the community will embrace our new website and make this a cup to remember!
 
-vCoD.gg \~ team
+vcod.gg \~ team
