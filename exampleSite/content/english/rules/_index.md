@@ -143,7 +143,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 **3.1 – Client Registration**
 
-3\.1.1 – Each player in your clan must have the last 8 characters of their GUID registered on the website to be eligible. GUIDs are unique identifiers used in game to recognise players. Open your console and type: “/pb_myguid” to find your GUID.
+3\.1.1 – Each player in your clan must have the last 8 characters of their GUID registered on the website to be eligible. GUIDs are unique identifiers used in game to recognise players. Join a PunkBuster enabled server, open your console and type: “/pb_myguid” to find your GUID.
 
 3\.1.2 – The last change of a GUID cannot be done later than 24 hours before a match (unless agreed by the opposition). Players who did not register the correct GUID before a match will be considered freelancers.
 
