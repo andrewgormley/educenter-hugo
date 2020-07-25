@@ -84,17 +84,17 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 **1.7 – vCoD.gg Organisation**
 
-1\.7.1 – vCoD.gg Admins:
+1\.7.1 – vcod.gg Admins:
 
 * 1.7.11 – razRR-raRR#9282 (49d5ce5c)
 
-1\.7.2 – Cup Supervisors
+1\.7.2 – vcod.gg Supervisors
 
 * 1.7.21 – HanNiBaL-K33NB34N#3227 (37740bfa)
 * 1.7.22 – xa1ruZ-xa1ruZ#6662 (98ae2a96)
 * 1.7.23 – OwneD-Mike#7822 (c12eb04e)
 
-1\.7.3 – Cup Referees
+1\.7.3 – vcod.gg Referees
 
 * 1.7.31 – skz-skzje#2642 (5fc35d87)
 * 1.7.32 – opfii1ee-supatroopa92#8123 (c9b894d4)
