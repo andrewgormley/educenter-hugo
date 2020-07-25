@@ -278,7 +278,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 **6.3 – Match Conflicts**
 
-6\.3.1 – The match conflict system functions as a court room with vcod.gg admin, supervisors and conflict team acting as judges. A match conflict can be made when the result entered by one clan is not accepted by the other.
+6\.3.1 – The match conflict system functions as a court room with vcod.gg admin, supervisors and conflict team acting as judges. A match conflict can be made on Discord when the result entered by one clan is not accepted by the other.
 
 6\.3.2 – In the conflict, both sides must explain the problem in a short but clear and complete way. Both sides should state the match result they claim, and only relevant and proven facts may be mentioned.
 
