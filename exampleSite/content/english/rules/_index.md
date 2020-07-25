@@ -109,7 +109,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 1\.7.7 – If you think a referee has made an incorrect decision, then contact an admin or supervisor.
 
-1\.7.8 – In case of no referee being available, ensure screenshots are kept of any rule breaking or violations. If you have a conflict, contact an admin or supervisor via Discord with your proof.
+1\.7.8 – In case of no referee being available, ensure screenshots are kept of any rule breaking or violations; if you have a conflict, post a ticket via Discord.
 
 #### **2. Server Rules**
 
