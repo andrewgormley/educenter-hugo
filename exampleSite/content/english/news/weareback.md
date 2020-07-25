@@ -24,4 +24,4 @@ Oh, and just to make sure you are as hyped as we are, check out the video below:
 
 Stay tuned to make sure you do not miss out on our competitions!
 
-vCoD.gg \~ team
+vcod.gg \~ team
