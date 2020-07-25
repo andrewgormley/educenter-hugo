@@ -284,7 +284,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 6\.3.3 – All proof and information on the match should be written within the ticket posted on Discord.
 
-6\.3.4 – Examples of valid proof are: demos, in-game screenshots and server logs that were obtained from a neutral party. If a demo is used as proof of cheating or other malicious actions, you must specify the exact moment(s) (down to the exact minute and second) where the cheating occurred, or you will get a conflict loss. Supervisors will not look at entire demos.
+6\.3.4 – Examples of valid proof are: demos, in-game screenshots and server logs that were obtained from a neutral party. If a demo is used as proof of cheating or other malicious actions, you must specify the exact moment(s) (down to the exact minute and second) where the cheating occurred, or you will get a conflict loss. The conflict team will not look at entire demos.
 
 6\.3.5 – If a clan does not give any new relevant information within 2 days (48 hours) since the last reply, it will be considered they have nothing more to add.
 
