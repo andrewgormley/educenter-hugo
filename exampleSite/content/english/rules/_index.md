@@ -199,7 +199,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 4\.2.1 –The default team size for clan matches is 5 vs 5, but you can specify a different team size if needed. The minimum team size is 4 vs 4 and the maximum team size is 6 vs 6.
 
-4\.2.2 – Substituting a player during the match is only allowed between sides and map change, or in case of extreme connection problems during the game. If the new player has not showed up after 5 minutes the match will resume.
+4\.2.2 – Substituting a player during the match is only allowed between sides and map change, or in case of extreme connection problems, during the game. If the new player has not showed up after 5 minutes, the match will resume.
 
 4\.2.3 – At map or side change, clans can take a maximum of 5 minutes for a break, the match is to resume after that time. When the 5 minutes are up, spectators can be removed freely. Staying in spectator will lead to the automatic loss of the round.
 
