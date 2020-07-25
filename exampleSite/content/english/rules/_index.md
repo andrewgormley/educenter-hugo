@@ -240,7 +240,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 6\.1.1 – If a player is caught cheating during an official match, they will receive a red card and a permanent ban from all vcod.gg competitions. The clan will also forfeit the match.
 
-6\.1.2 – If both clans cheated and/or used a suspended player, the match result will be void. Players will receive a red card and a permanent ban from all vCoD.gg competitions.
+6\.1.2 – If both clans cheated and/or used a suspended player, the match result will be void. Players will receive a red card and a permanent ban from all vcod.gg competitions.
 
 6\.1.2 – All programs or files, be they changed game files or new files, that change or edit the game or add to its functionality, or that interact with the game in any way, are strictly forbidden. The use of any forbidden programs or file by any clan member leads to a forfeit loss and could lead to a removal and ban from the competition in major cases.
 
