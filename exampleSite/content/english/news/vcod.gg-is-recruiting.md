@@ -12,7 +12,7 @@ type = "post"
 +++
 ### **We Need You!**
 
-With our first competition nearing closer to the finish line, it has given us chance to reflect on both the positives and negatives of our return to hosting Call of Duty 1 cups. Whilst we are incredibly happy with the overall outcome of the competition, we are very aware of the areas we need to improve on.
+With our first competition nearing closer to the finish line, it has given us chance to reflect on both the positives and negatives of our return to hosting Call of Duty 1 competitions. Whilst we are incredibly happy with the overall outcome of the competition, we are very aware of the areas we need to improve on.
 
 Looking towards the future, we
 
