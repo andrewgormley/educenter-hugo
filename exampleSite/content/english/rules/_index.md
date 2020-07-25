@@ -121,7 +121,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 2\.1.3 – All players will need the latest PunkBuster folder, which can be downloaded at: [**https://www.sendspace.com/file/6t8otf**](https://www.sendspace.com/file/6t8otf "https://www.sendspace.com/file/6t8otf").
 
-2\.1.4 – All matches must be played on the latest vCoD.gg PAM, which can be downloaded at: ???.
+2\.1.4 – All matches must be played on the latest vcod.gg PAM, which can be downloaded at: ???.
 
 2\.1.5 – To properly configure vCoD.gg PAM for competition settings, use the following command: "/rcon pam_mode vcodgg_match" (default modes for all competition matches).
 
