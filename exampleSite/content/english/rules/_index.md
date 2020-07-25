@@ -119,7 +119,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 2\.1.2 – All matches need to be played on a server that has PunkBuster enabled.
 
-2\.1.3 – All players will need the newest PunkBuster folder, which can be downloaded at: [**https://www.sendspace.com/file/6t8otf**](https://www.sendspace.com/file/6t8otf "https://www.sendspace.com/file/6t8otf").
+2\.1.3 – All players will need the latest PunkBuster folder, which can be downloaded at: [**https://www.sendspace.com/file/6t8otf**](https://www.sendspace.com/file/6t8otf "https://www.sendspace.com/file/6t8otf").
 
 2\.1.4 – All matches must be played on the latest vCoD.gg PAM, which can be downloaded at: ???.
 
