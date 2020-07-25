@@ -105,7 +105,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 1\.7.5 – A referee should ensure the match is played according to the rules.
 
-1\.7.6 – Clans have the right to refuse a referee but must state a specific reason why. Admins and supervisors cannot be refused.
+1\.7.6 – Clans have the right to refuse a referee, but must state a specific reason why. Admins and supervisors cannot be refused.
 
 1\.7.7 – If you think a referee has made an incorrect decision, then contact an admin or supervisor.
 
