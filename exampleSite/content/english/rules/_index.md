@@ -161,7 +161,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 3\.2.1 – In all competition matches, Veritas Anti-Cheat 2.0.4 will be mandatory and must be turned ON for the entire match. You can download Veritas at: [**https://www.sendspace.com/file/uratem**](https://www.sendspace.com/file/uratem "https://www.sendspace.com/file/uratem").
 
-3\.2.2 – Each player is responsible for making sure they are running it during the match. Open console and type: “/echo !info” to ensure Veritas is taking screenshots. We recommend you check this at least twice per side of a map.
+3\.2.2 – Each player is responsible for making sure they are running Veritas during the match. Open console and type: “/echo !info” to ensure Veritas is taking screenshots. We recommend you check this at least twice per side of a map.
 
 3\.2.3 – If a player closes Veritas during the match, the player will receive a yellow card and the clan will forfeit the match.
 
@@ -169,9 +169,9 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 3\.2.5 – Screenshots from ALL players must be uploaded after each match. Screenshots not uploaded 48 hours after a match will result in the player receiving a yellow card and the clan forfeiting the match.
 
-3\.2.6 – Missing screenshots will not be acceptable. Players should be using the “/echo !info” command to ensure Veritas is still taking screenshots.
+3\.2.6 – It is not acceptable for a player to be missing Veritas screenshots if they made no attempt to ensure Veritas was running throughout the match. Players should be using the “/echo !info” command to ensure Veritas is still taking screenshots.
 
-3\.2.7 – If your Veritas crashes at the end of the match, the player in question must contact the cup administrator immediately.
+3\.2.7 – If your Veritas crashes at the end of the match, the player in question must contact the cup admin immediately.
 
 #### **4. Competition Rules**
 
