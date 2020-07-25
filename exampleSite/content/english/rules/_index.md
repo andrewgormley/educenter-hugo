@@ -282,7 +282,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 6\.3.2 – In the conflict, both sides must explain the problem in a short but clear and complete way. Both sides should state the match result they claim, and only relevant and proven facts may be mentioned.
 
-6\.3.3 – All proof and information on the match should be written on the conflict page.
+6\.3.3 – All proof and information on the match should be written on the ticket posed on Discord.
 
 6\.3.4 – Examples of valid proof are: demos, in-game screenshots and server logs that were obtained from a neutral party. If a demo is used as proof of cheating or other malicious actions, you must specify the exact moment(s) (down to the exact minute and second) where the cheating occurred, or you will get a conflict loss. Supervisors will not look at entire demos.
 
