@@ -22,7 +22,7 @@ Looking towards the future, a restructure is on the horizon for vcod.gg. We are 
 
 **vcod.gg Referee Team (6 positions):**
 
-Please note, if you have been a referee throughout the first competition and would like to continue being a referee, you will also need to fill in the application form.
+Please note, if you have been a referee throughout the first competition and would like to continue being a referee, you will also need to fill in an application form.
 
 [**https://docs.google.com/forms/d/1kaVweZn2HIYsb4KkiJjvftmMxw2unjGU7ym5jeWnOnA/viewform?edit_requested=true**](https://docs.google.com/forms/d/1kaVweZn2HIYsb4KkiJjvftmMxw2unjGU7ym5jeWnOnA/viewform?edit_requested=true "https://docs.google.com/forms/d/1kaVweZn2HIYsb4KkiJjvftmMxw2unjGU7ym5jeWnOnA/viewform?edit_requested=true")
 
