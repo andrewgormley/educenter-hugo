@@ -127,7 +127,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 **Results - UB Semi Finals:**
 
 * #AFFECTO ([Tigertown](https://i.imgur.com/vsSHWMP.jpg)) \[21\] vs \[00\] ([Powcamp](https://i.imgur.com/VFtMPtd.jpg)) LS. Elite
-* ^MiS vs d\`logics.
+* ^MiS (Brecourt) \[00\] vs \[21\] (Dawnville) d\`logics.
 
 **Results - LB Round 2:**
 
