@@ -7,7 +7,7 @@ fee = "Free"
 image = "/images/banner.jpg"
 location = "Call of Duty 1"
 publishDate = 2019-12-04T16:00:00Z
-title = "vcod.gg - Rifles Only # 1"
+title = "vcod.gg - Rifles Only #1"
 [[speaker]]
 designation = "Admin"
 image = "/images/razrr.png"
