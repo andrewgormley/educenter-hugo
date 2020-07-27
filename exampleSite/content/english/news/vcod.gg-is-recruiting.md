@@ -14,7 +14,7 @@ type = "post"
 
 With our first competition nearing closer to the finish line, it has given us chance to reflect on both the positives and negatives of our return to hosting Call of Duty 1 competitions. Whilst we are incredibly happy with the overall outcome of the competition, we are very aware of the areas we need to improve on.
 
-Looking towards the future, a restructure is on the horizon for vcod.gg. We are looking for highly motivated individuals, who have experience with the rifles only community. The following positions are available:
+Looking towards the future, a restructure is on the horizon for vcod.gg. We are looking for highly motivated individuals, who have experience within the rifles only community. The following positions are available:
 
 * vcod.gg Cup Supervisor (1 position).
 * vcod.gg Conflict Team (3 positions).
