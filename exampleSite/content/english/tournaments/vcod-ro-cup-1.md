@@ -131,7 +131,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - LB Round 2:**
 
-* EURO Alpha (MAP) \[21\] vs \[00\] (Harbor) ^MiS
+* EURO Alpha (Hurtgen) \[21\] vs \[00\] (Harbor) ^MiS
 * LS. Elite vs aNimus \`
 
 **Results - LB Round 3:**
