@@ -14,11 +14,13 @@ type = "post"
 
 With our first competition nearing closer to the finish line, it has given us chance to reflect on both the positives and negatives of our return to hosting Call of Duty 1 competitions. Whilst we are incredibly happy with the overall outcome of the competition, we are very aware of the areas we need to improve on.
 
-Looking towards the future, a restructure is on the horizon for vcod.gg. We are looking for highly motivated individuals, who have experience within the rifles only community. The following positions are available:
+Looking towards the future, a restructure is on the horizon for vcod.gg. We are looking for highly motivated individuals, who have experience within the rifles only community and can bring something new to the team. 
 
-* vcod.gg Cup Supervisor (1 position).
-* vcod.gg Conflict Team (3 positions).
-* vcod.gg Referee Team (6 positions).
+**vcod.gg Cup Supervisor (1 position):**
+
+**vcod.gg Conflict Team (3 positions):**
+
+**vcod.gg Referee Team (6 positions):**
 
 Please note, if you have been a referee throughout the first competition and would like to continue being a referee, you will also need to fill in the application form.
 
