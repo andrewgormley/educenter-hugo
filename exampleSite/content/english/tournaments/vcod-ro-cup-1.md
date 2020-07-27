@@ -136,16 +136,16 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - LB Round 3:**
 
-* Unknown
+* EURO Alpha vs TBA
 
 **Results - UB Final:**
 
-* Unknown
+* #AFFECTO vs d\`logics.
 
 **Results - LB Round 4:**
 
-* Unknown
+* TBA vs TBA
 
 **Results - Grand Final**
 
-* Unknown
+* TBA vs TBA
