@@ -16,8 +16,9 @@ With our first competition nearing closer to the finish line, it has given us ch
 
 Looking towards the future, a restructure is on the horizon for vcod.gg. We are looking for highly motivated individuals, who have experience within the rifles only community and can bring something new to the team. 
 
-**vcod.gg Cup Supervisor 1 position  
-**You will be expected to work within a team to help make decisions regarding vcod.gg, as well as organising and running competitions throughout the year.
+**vcod.gg Cup Supervisor 1 position**
+
+You will be expected to work within a team to help make decisions regarding vcod.gg, as well as organising and running competitions throughout the year.
 
 **vcod.gg Conflict Team (3 positions):  
 **You will work alongside the cup supervisors, handling any conflicts which arise throughout our competitions. We are not recruiting for a demo crew, instead, this will become one of your roles within the conflict team.
