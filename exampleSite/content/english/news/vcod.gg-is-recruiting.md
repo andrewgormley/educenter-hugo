@@ -20,9 +20,10 @@ Looking towards the future, a restructure is on the horizon for vcod.gg. We are 
 **You will be expected to work within a team to help make decisions regarding vcod.gg, as well as organising and running competitions throughout the year.
 
 **vcod.gg Conflict Team (3 positions):  
-**You will be expected to handle conflicts that arise throughout competitions, working
+**You will work alongside the cup supervisors, handling any conflicts which arise throughout our competitions. We are not recruiting for a demo crew, instead, this will become one of your roles within the conflict team.
 
-**vcod.gg Referee Team (6 positions):**
+**vcod.gg Referee Team (6 positions):  
+**You will need to be an active individual with a keen interest in the game. You will work alongside the cup supervisors and conflict team by ensuring that our rules are adhered to and we minimilise conflicts within our competitions. 
 
 Please note, if you have been a referee throughout the first competition and would like to continue being a referee, you will also need to fill in an application form.
 
