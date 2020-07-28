@@ -32,6 +32,6 @@ Please note, if you have been a referee throughout the first competition and wou
 
 [**APPLY HERE**](https://docs.google.com/forms/d/1kaVweZn2HIYsb4KkiJjvftmMxw2unjGU7ym5jeWnOnA/viewform?edit_requested=true)
 
-We wish you the best of luck with applications!
+We wish you the best of luck with your application!
 
 vcod.gg \~ team
