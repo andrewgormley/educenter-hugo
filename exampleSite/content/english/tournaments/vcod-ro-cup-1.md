@@ -132,7 +132,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 **Results - LB Round 2:**
 
 * EURO Alpha (Hurtgen) \[21\] vs \[00\] (Harbor) ^MiS
-* LS. Elite vs aNimus \`
+* LS. Elite ([Carentan](https://i.imgur.com/bamdhV8.jpg)) \[21\] vs \[10\] ([Bocage](https://i.imgur.com/LAUBC7a.jpg)) aNimus \`
 
 **Results - LB Round 3:**
 
