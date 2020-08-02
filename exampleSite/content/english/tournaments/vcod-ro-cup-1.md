@@ -110,7 +110,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Knockouts:**
 
-![](/images/sked111.PNG)
+![](/images/s1ksks.PNG)
 
 **Results - UB Quarter Finals:**
 
@@ -136,7 +136,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - LB Round 3:**
 
-* EURO Alpha vs TBA
+* EURO Alpha vs LS. Elite
 
 **Results - UB Final:**
 
