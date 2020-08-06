@@ -140,7 +140,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - UB Final:**
 
-* #AFFECTO vs d\`logics.
+* #AFFECTO ([Brecourt](https://i.imgur.com/rfM1vru.jpg)) \[17\] vs \[21\] ([Powcamp](https://i.imgur.com/EkXB68Y.jpg)) d\`logics.
 
 **Results - LB Round 4:**
 
