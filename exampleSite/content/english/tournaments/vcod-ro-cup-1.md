@@ -126,12 +126,12 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - UB Semi Finals:**
 
-* #AFFECTO ([Tigertown](https://i.imgur.com/vsSHWMP.jpg)) \[21\] vs \[00\] ([Powcamp](https://i.imgur.com/VFtMPtd.jpg)) LS. Elite
-* ^MiS (Brecourt) \[00\] vs \[21\] (Dawnville) d\`logics.
+* #AFFECTO ([Tigertown](https://i.imgur.com/vsSHWMP.jpg)) \[21\] vs \[00\] ([Powcamp](https://i.imgur.com/VFtMPtd.jpg)) LS. Elite - [forfeit win](blob:https://imgur.com/4abe461e-b04b-4f1b-b80b-9093163f76c7).
+* ^MiS (Brecourt) \[00\] vs \[21\] (Dawnville) d\`logics. - [forfeit win](https://i.imgur.com/3Y59FHs.png).
 
 **Results - LB Round 2:**
 
-* EURO Alpha (Hurtgen) \[21\] vs \[00\] (Harbor) ^MiS
+* EURO Alpha ([Hurtgen](https://i.imgur.com/QobVZ4k.png)) \[21\] vs \[00\] ([Harbor](https://i.imgur.com/QobVZ4k.png)) ^MiS - [no show win](https://i.imgur.com/QobVZ4k.png).
 * LS. Elite ([Carentan](https://i.imgur.com/bamdhV8.jpg)) \[21\] vs \[10\] ([Bocage](https://i.imgur.com/LAUBC7a.jpg)) aNimus \`
 
 **Results - LB Round 3:**
