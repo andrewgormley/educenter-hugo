@@ -110,7 +110,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Knockouts:**
 
-![](/images/s1ksks.PNG)
+![](/images/skskskks.PNG)
 
 **Results - UB Quarter Finals:**
 
