@@ -179,7 +179,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 #### **4. Competition Rules**
 
-**4.1 – Match Rules**
+**4.1 – Match Rules - Long Cups**
 
 4\.1.1 – A match is played over two maps; each clan will play one time as defenders and one time as attackers on both maps.
 
