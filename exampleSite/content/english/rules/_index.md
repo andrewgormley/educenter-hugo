@@ -213,6 +213,10 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 4\.2.6 – In total, 8 teams will progress into the knockout stage. The top 3 from group A will automatically progress with the top 2 teams from groups B and C. The final place in the knockout stage will go to the best 3rd placed team from groups B and C.
 
+**4.3 – Match Rules - Weekend Cups**
+
+4\.3.1 **–** 
+
 #### **5. Demos and Screenshots**
 
 **5.1 – Demos**
