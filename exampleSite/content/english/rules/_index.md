@@ -197,7 +197,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 4\.2.0 – All maps from the map pool are eligible to be played as a golden map, even if a team has already played it during the knockout stage.
 
-4\.2.1 – In the Grand Final, the Upper Bracket team holds the advantage; if the Upper Bracket team reaches 21 rounds, they will be determined the winner. However, if the Lower Bracket team reaches 21 first, a golden map will be played. The first team to reach 11 rounds will be determined the winner.
+4\.2.1 – In the Grand Final, the Upper Bracket team holds the advantage; if the Upper Bracket team reaches 21 rounds, they will be determined the winner. However, if the Lower Bracket team reaches 21 rounds first, a golden map will be played. The first team to reach 11 rounds will be determined the winner.
 
 4\.2.2 –The default team size for clan matches is 5 vs 5, but you can specify a different team size if needed. The minimum team size is 4 vs 4 and the maximum team size is 6 vs 6.
 
