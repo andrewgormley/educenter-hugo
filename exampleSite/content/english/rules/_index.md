@@ -42,9 +42,11 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 1\.3.1 – Matches can be played from Monday through to the following Monday, 22:00 CET. If you cannot find an agreement with the enemy team, the match will be automatically set for the Sunday at 20:00 CET.
 
-1\.4 **– Arranging Matces – Weekend Cup Match Arrangements**
+1\.4 **– Arranging Matches – Weekend Cup Match Arrangements**
 
-1\.5 **–** **Match Arrangements – General** 
+1\.4.1 – Matches will be played from Saturday, 13:00 CET through to Sunday 23:00 CET. If you cannot find an agreement with the enemy team, the match will be automatically set on the tournament page.
+
+1\.5 **–** **Arranging Matches – General** 
 
 1\.3.2 – Matches should be arranged by sending a personal message on Discord to a clan's admin.
 
