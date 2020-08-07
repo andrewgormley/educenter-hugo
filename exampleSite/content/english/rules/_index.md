@@ -121,7 +121,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 2\.1.3 – All players will need the latest PunkBuster folder, which can be downloaded at: [**https://www.sendspace.com/file/6t8otf**](https://www.sendspace.com/file/6t8otf "https://www.sendspace.com/file/6t8otf").
 
-2\.1.4 – All matches must be played on the latest vcod.gg PAM, which can be downloaded at: ???. 
+2\.1.4 – All matches must be played on the latest vcod.gg PAM, which can be downloaded at: ???.
 
 2\.1.5 – To properly configure vcod.gg PAM for competition settings, use the following command: "/rcon pam_mode vcodgg_match" (default mode for all competition matches) and "/rcon pammode vcodgg_night" (default mode for all weekend competitions).
 
@@ -169,7 +169,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 3\.2.5 – Screenshots from ALL players must be uploaded after each match. Screenshots not uploaded 48 hours after a match will result in the player receiving a yellow card and the clan forfeiting the match.
 
-3\.2.6 – Players should be using the “/echo !info” command to ensure Veritas is still taking screenshots. It is not acceptable for a player to be missing Veritas screenshots if no attempt was made to ensure Veritas was running throughout the match. 
+3\.2.6 – Players should be using the “/echo !info” command to ensure Veritas is still taking screenshots. It is not acceptable for a player to be missing Veritas screenshots if no attempt was made to ensure Veritas was running throughout the match.
 
 3\.2.7 – If your Veritas crashes at the end of the match, the player in question must contact the cup admin immediately.
 
@@ -197,15 +197,17 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 4\.2.0 – All maps from the map pool are eligible to be played as a golden map, even if a team has already played it during the knockout stage.
 
-4\.2.1 –The default team size for clan matches is 5 vs 5, but you can specify a different team size if needed. The minimum team size is 4 vs 4 and the maximum team size is 6 vs 6.
+4\.2.1 – In the Grand Final, the Upper Bracket team holds the advantage; if the Upper Bracket team reaches 21 rounds, they will be determined the winner. However, if the Lower Bracket team reaches 21 first, a golden map will be played. The first team to reach 11 rounds will be determined the winner.
 
-4\.2.2 – Substituting a player during the match is only allowed between sides and map change, or in case of extreme connection problems, during the game. If the new player has not showed up after 5 minutes, the match will resume.
+4\.2.2 –The default team size for clan matches is 5 vs 5, but you can specify a different team size if needed. The minimum team size is 4 vs 4 and the maximum team size is 6 vs 6.
 
-4\.2.3 – At map or side change, clans can take a maximum of 5 minutes for a break, the match is to resume after that time. When the 5 minutes are up, spectators can be removed freely. Staying in spectator will lead to the automatic loss of the round.
+4\.2.3 – Substituting a player during the match is only allowed between sides and map change, or in case of extreme connection problems, during the game. If the new player has not showed up after 5 minutes, the match will resume.
 
-4\.2.4 – If a clan does not ready up in time after map change, it will lead to forfeiting rounds and eventually a forfeit loss for the violating clan.
+4\.2.4 – At map or side change, clans can take a maximum of 5 minutes for a break, the match is to resume after that time. When the 5 minutes are up, spectators can be removed freely. Staying in spectator will lead to the automatic loss of the round.
 
-4\.2.5 – In total, 8 teams will progress into the knockout stage. The top 3 from group A will automatically progress with the top 2 teams from groups B and C. The final place in the knockout stage will go to the best 3rd placed team from groups B and C.
+4\.2.5 – If a clan does not ready up in time after map change, it will lead to forfeiting rounds and eventually a forfeit loss for the violating clan.
+
+4\.2.6 – In total, 8 teams will progress into the knockout stage. The top 3 from group A will automatically progress with the top 2 teams from groups B and C. The final place in the knockout stage will go to the best 3rd placed team from groups B and C.
 
 #### **5. Demos and Screenshots**
 
