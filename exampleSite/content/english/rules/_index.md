@@ -38,11 +38,13 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 1\.2.3 – Admins have the right to teamview any player during the match.
 
-**1.3 – Arranging Matches**
+**1.3 – Arranging Matches – Long Cup Match Arrangements**
 
-1\.3.1 – **Long Cup Match Arrangements** – Matches can be played from Monday through to the following Monday, 22:00 CET. If you cannot find an agreement with the enemy team, the match will be automatically set for the Sunday at 20:00 CET.
+1\.3.1 – Matches can be played from Monday through to the following Monday, 22:00 CET. If you cannot find an agreement with the enemy team, the match will be automatically set for the Sunday at 20:00 CET.
 
-1\.3.2 – **Weekend Cup Match Arrangements** – 
+1\.4 **– Arranging Matces – Weekend Cup Match Arrangements**
+
+1\.5 **–** **Match Arrangements – General** 
 
 1\.3.2 – Matches should be arranged by sending a personal message on Discord to a clan's admin.
 
