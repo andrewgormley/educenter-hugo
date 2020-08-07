@@ -48,17 +48,15 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 1\.5 **–** **Arranging Matches – General** 
 
-1\.3.2 – Matches should be arranged by sending a personal message on Discord to a clan's admin.
+1\.5.1 – Matches should be arranged by sending a personal message on Discord to a clan's admin.
 
-1\.3.3 – If a clan's admin refuses to communicate and agree on a time and date to play a match, you should contact a vcod.gg admin.
-
-1\.3.4 – When both clans agree not to play a match, it can be cancelled for any reason after the scheduled starting time, only if the match can still be completed in the scheduled game week.
+1\.5.2 – When both clans agree not to play a match, it can be cancelled for any reason after the scheduled starting time, only if the match can still be completed in the scheduled game week or weekend.
 
 **1.4 – Before the Match**
 
 1\.4.1 – To find your opponent before a match, you should look on the website and add them on Discord.
 
-1\.4.2 – If you have still not managed to get in touch with your opponent 20 minutes after the scheduled starting time of the match, you can fill in a no-show.
+1\.4.2 – If you have still not managed to get in touch with your opponent 15 minutes after the scheduled starting time of the match, you can fill in a no-show.
 
 1\.4.3 – Matches can only start if a referee is present (unless both teams agree to play without).
 
