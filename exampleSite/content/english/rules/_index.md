@@ -207,9 +207,9 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 4\.2.3 – Substituting a player during the match is only allowed between sides and map change, or in case of extreme connection problems, during the game. If the new player has not showed up after 5 minutes, the match will resume.
 
-4\.2.4 – At map or side change, clans can take a maximum of 5 minutes for a break, the match is to resume after that time. When the 5 minutes are up, spectators can be removed freely. Staying in spectator will lead to the automatic loss of the round.
+4\.2.4 – At side or map change, clans can take a maximum of 5 minutes for a break, the match is to resume after that time. When the 5 minutes are up, spectators can be removed freely. Staying in spectator will lead to the automatic loss of the round.
 
-4\.2.5 – If a clan does not ready up in time after map change, it will lead to forfeiting rounds and eventually a forfeit loss for the violating clan.
+4\.2.5 – If a clan does not ready up in time after side or map change, it will lead to forfeiting rounds and eventually a forfeit loss for the violating clan.
 
 4\.2.6 – In total, 8 teams will progress into the knockout stage. The top 3 from group A will automatically progress with the top 2 teams from groups B and C. The final place in the knockout stage will go to the best 3rd placed team from groups B and C.
 
