@@ -217,33 +217,23 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 4\.3.1 – A match is played over one map; each clan will play one time as defenders and one time as attackers on both maps.
 
-4\.1.2 – Each map has a round limit of 26, in which both clans will play 13 rounds as defenders and 13 rounds as attackers.
+4\.3.2 – Each map has a round limit of 26, in which both clans will play 13 rounds as defenders and 13 rounds as attackers.
 
-4\.1.3 – Rounds are set at 2 minutes and 30 seconds.
+4\.3.3 – Rounds are set at 2 minutes and 30 seconds.
 
-4\.1.4 – The first team to reach 14 rounds will be determined the winner.
+4\.3.4 – The first team to reach 14 rounds will be determined the winner.
 
-4\.1.5 – The map pool for the competition is: Bocage, Brecourt, Carentan, Dawnville, Depot, Harbor, Hurtgen, Neuville, Pavlov, Powcamp, Railyard, Rocket, Stalingrad and Tigertown.
+4\.3.5 – The map pool for the competition is: Bocage, Brecourt, Carentan, Dawnville, Depot, Harbor, Hurtgen, Neuville, Pavlov, Powcamp, Railyard, Rocket, Stalingrad and Tigertown.
 
-4\.1.6 – During the group stage, the maps will be pre-chosen and will be played in the order listed on the website. Bash for side will take place before each map begins, with the winner deciding which side to start on.
+4\.3.6 – The maps will be pre-chosen and will be played in the order listed on the website. Bash for side will take place before each map begins, with the winner deciding which side to start on.
 
-4\.1.7 – During the knockout stage, teams must state their map before bash takes place. The winner of bash will then choose whose map will be played first. Bash for side will take place at the start of each map to determine sides. Clans can only choose a map once until the Grand Final, where maps will be reset.
+4\.3.7 –The default team size for clan matches is 5 vs 5, but you can specify a different team size if needed. The minimum team size is 4 vs 4 and the maximum team size is 6 vs 6.
 
-4\.1.8 – In the event of a draw (20 - 20) during the knockout stage, a golden map will be played. Bash for side will take place with the winner starting a veto of maps. The final map left from the veto will be played as a third map. Bash for side will take place to determine sides. The first team to reach 11 rounds will be determined the winner.
+4\.3.8 – Substituting a player during the match is only allowed between sides, or in case of extreme connection problems, during the game. If the new player has not showed up after 5 minutes, the match will resume.
 
-4\.1.9 – In the event of a draw (10 - 10) during the golden map, the second last map banned during the veto will be played. Bash for side will take place to determine sides. The first team to reach 11 rounds will be determined the winner.
+4\.3.9 – At side change, clans can take a maximum of 5 minutes for a break, the match is to resume after that time. When the 5 minutes are up, spectators can be removed freely. Staying in spectator will lead to the automatic loss of the round.
 
-4\.2.0 – All maps from the map pool are eligible to be played as a golden map, even if a team has already played it during the knockout stage.
-
-4\.2.1 – In the Grand Final, the Upper Bracket team holds the advantage; if the Upper Bracket team reaches 21 rounds, they will be determined the winner. However, if the Lower Bracket team reaches 21 rounds first, a golden map will be played. The first team to reach 11 rounds will be determined the winner.
-
-4\.2.2 –The default team size for clan matches is 5 vs 5, but you can specify a different team size if needed. The minimum team size is 4 vs 4 and the maximum team size is 6 vs 6.
-
-4\.2.3 – Substituting a player during the match is only allowed between sides and map change, or in case of extreme connection problems, during the game. If the new player has not showed up after 5 minutes, the match will resume.
-
-4\.2.4 – At map or side change, clans can take a maximum of 5 minutes for a break, the match is to resume after that time. When the 5 minutes are up, spectators can be removed freely. Staying in spectator will lead to the automatic loss of the round.
-
-4\.2.5 – If a clan does not ready up in time after map change, it will lead to forfeiting rounds and eventually a forfeit loss for the violating clan.
+4\.4.0 – If a clan does not ready up in time after side change, it will lead to forfeiting rounds and eventually a forfeit loss for the violating clan.
 
 4\.2.6 – In total, 8 teams will progress into the knockout stage. The top 3 from group A will automatically progress with the top 2 teams from groups B and C. The final place in the knockout stage will go to the best 3rd placed team from groups B and C.
 
