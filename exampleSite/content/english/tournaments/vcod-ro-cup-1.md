@@ -136,7 +136,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - LB Round 3:**
 
-* EURO Alpha vs LS. Elite
+* EURO Alpha ([Rocket](https://i.imgur.com/806rwTm.jpg)) \[21\] vs \[17\] ([Harbor](https://i.imgur.com/a8eq6Ir.jpg)) LS. Elite
 
 **Results - UB Final:**
 
