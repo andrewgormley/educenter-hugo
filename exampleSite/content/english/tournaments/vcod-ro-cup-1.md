@@ -144,7 +144,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - LB Round 4:**
 
-* TBA vs #AFFECTO
+* EURO Alpha vs #AFFECTO
 
 **Results - Grand Final**
 
