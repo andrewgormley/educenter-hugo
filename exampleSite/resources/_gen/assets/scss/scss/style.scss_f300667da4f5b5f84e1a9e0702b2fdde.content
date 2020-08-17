@@ -569,7 +569,6 @@ link:focus,
   position: relative;
   color: #1e1e4b;
   transition: .2s ease;
-  text-transform: capitalize;
   font-family: "Poppins", sans-serif; }
   @media (max-width: 991px) {
     .navbar .dropdown-item {

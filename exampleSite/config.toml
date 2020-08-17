@@ -44,6 +44,17 @@ weight = "2"
 URL = "rules"
 name = "Rules"
 weight = "3"
+hasChilden = true
+  [[menu.main]]
+    parent = "Rules"
+    name = "vCoD"
+    url = "rules/vcod"
+    weight = 1
+  [[menu.main]]
+    parent = "Rules"
+    name = "CoD:UO"
+    url = "rules/coduo"
+    weight = 2
 [[menu.main]]
 URL = "about"
 name = "About"
