@@ -137,8 +137,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 2\.1.9 – Default servers have been provided for the competition. These should be used if teams cannot agree on a server or if there are any ping issues:
 
-* /connect 149.210.235.207:28960 ; password cupwar1
-* /connect 149.210.235.207:28961 ; password cupwar2
+* /connect 147.135.184.165:28960 ; password cupwar1
 * /connect 185.73.37.122:28960 ; password cupwar3
 * /connect 185.73.37.122:28961 ; password cupwar4
 * /connect 185.73.37.122:28962 ; password cupwar5
