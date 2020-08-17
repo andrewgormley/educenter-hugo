@@ -144,7 +144,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - LB Round 4:**
 
-* EURO Alpha vs #AFFECTO
+* EURO Alpha ([Powcamp](https://i.imgur.com/jc1nXgl.jpg)) \[21\] vs \[19\] ([Railyard](https://i.imgur.com/btQdzmq.jpg)) #AFFECTO
 
 **Results - Grand Final**
 
