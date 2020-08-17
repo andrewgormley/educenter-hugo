@@ -301,11 +301,11 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 6\.2.3 – All binds/scripts that are not covered above will be reviewed on a case-by-case basis to see if they do give an advantage.
 
-6\.2.4 – Any abuse of the two monitor bug will be reviewed case-by-case by the cup admin, supervisors and conflict team. You should avoid using this bug at all costs, as it may result in the player receiving a yellow card and the clan forfeiting the match.
+6\.2.4 – Any abuse of the two monitor bug will be reviewed case-by-case by the cup supervisors and conflict team. You should avoid using this bug at all costs, as it may result in the player receiving a yellow card and the clan forfeiting the match.
 
 **6.3 – Match Conflicts**
 
-6\.3.1 – The match conflict system functions as a court room with vcod.gg admin, supervisors and conflict team acting as judges. A match conflict can be made on Discord when the result entered by one clan is not accepted by the other.
+6\.3.1 – The match conflict system functions as a court room with cup supervisors and conflict team acting as judges. A match conflict can be made on Discord when the result entered by one clan is not accepted by the other.
 
 6\.3.2 – In the conflict, both sides must explain the problem in a short but clear and complete way. Both sides should state the match result they claim, and only relevant and proven facts may be mentioned.
 
