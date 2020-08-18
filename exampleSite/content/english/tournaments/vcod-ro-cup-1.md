@@ -148,4 +148,4 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - Grand Final**
 
-* d\`logics. vs #AFFECTO
+* d\`logics. vs EURO Alpha
