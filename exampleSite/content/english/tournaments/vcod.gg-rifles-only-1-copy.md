@@ -3,7 +3,6 @@ apply_url = "https://forms.gle/5CS4oyHXMbcqjymdA"
 bg_image = "/images/banner.jpg"
 date = 2020-05-28T19:30:17Z
 description = ""
-draft = true
 fee = "Free"
 image = "/images/banner.jpg"
 location = "Call of Duty 1"
