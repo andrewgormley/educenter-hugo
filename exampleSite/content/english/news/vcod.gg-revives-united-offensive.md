@@ -6,7 +6,7 @@ date = 2020-08-19T13:00:00Z
 description = ""
 image = "/images/coduoriflesreborn.png"
 tags = []
-title = "vcod.gg Revives United Offensive"
+title = "The Revival of United Offensive"
 type = "post"
 
 +++
