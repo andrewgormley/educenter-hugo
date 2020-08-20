@@ -21,7 +21,7 @@ Please ensure you have read the cup information before clicking 'Apply Now'. We 
 More information regarding the cup can be found below:
 
 Cup Information: [**https://www.vcod.gg/tournaments/vcod-ro-cup-1/**](https://www.vcod.gg/tournaments/vcod-ro-cup-1/ "https://www.vcod.gg/tournaments/vcod-ro-cup-1/").  
-Cup Rules: [**https://www.vcod.gg/rules/**](https://www.vcod.gg/rules/ "https://www.vcod.gg/rules/").
+Cup Rules: [**https://www.vcod.gg/rules/vcod/**](https://www.vcod.gg/rules/vcod/ "https://www.vcod.gg/rules/vcod/").
 
 Last but not least, if you are looking to take part in our upcoming competiton, make sure you join our Community Discord at: [**discord.gg/FA5vxDa**](https://discord.gg/FA5vxDa. "https://discord.gg/FA5vxDa.").
 
