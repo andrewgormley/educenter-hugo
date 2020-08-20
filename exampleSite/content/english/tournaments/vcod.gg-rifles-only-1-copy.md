@@ -47,11 +47,11 @@ We are pleased to announce, that the registration for our vcod.gg United Offensi
 
 **Players:** You will need to include the GUIDs of your players when registering. We are not accepting teams with missing GUIDs.
 
-**Anti-Cheat:** Veritas 2.0.4.
+**Anti-Cheat:** TBA.
 
 **Stream:** [**https://www.twitch.tv/vcodgg**](https://www.twitch.tv/vcodgg).
 
-**Prize:** Winner – 12 slot private Call of Duty 1 server - 1 month.
+**Prize:** Winner – 12 slot private Call of Duty: United Offensive server - 1 month.
 
 If you are clanless and looking for a team, then head over to the Community Discord at: [**https://discord.gg/FA5vxDa**](https://discord.gg/FA5vxDa. "https://discord.gg/FA5vxDa.").
 
