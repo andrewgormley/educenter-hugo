@@ -41,9 +41,9 @@ We are pleased to announce, that the registration for our vcod.gg United Offensi
 
 **Maps:** Group stage – maps will be pre-decided. Knockout stage - teams can pick any map from the pool once.
 
-**Map Pool:** Arnhem, Bocage, Brecourt, Carentan, Cassino, Dawnville, Depot, Harbor, Hurtgen, Neuville, Pavlov, Peaks, Powcamp, Railyard, Rocket, Sicily, Stalingrad, Streets, Tigertown, UO Carentan, UO Dawnville, UO Depot, UO Harbor, UO Hurtgen, UO Powcamp, UO Stanjel
+**Map Pool:** Arnhem, Berlin, Bocage, Brecourt, Carentan, Cassino, Dawnville, Depot, Harbor, Hurtgen, Neuville, Pavlov, Peaks, Powcamp, Railyard, Rocket, Sicily, Stalingrad, Streets, Tigertown, UO Carentan, UO Dawnville, UO Depot, UO Harbor, UO Hurtgen, UO Powcamp, UO Stanjel
 
-**Schedule:** The groups will be drawn on the 11th of June, after registration has closed. On the 12th of June, the competition will go live! Teams are expected to complete their matches before the 4th of July, 22:00 GMT. A schedule will be put in place with suggested dates. Teams are free to play their games earlier or later, as long as they are complete before the deadline. A schedule will be put in place for the knockout phase. Only sign up if you are willing to complete all of your scheduled games! Not completing the fixtures will have an impact on your chances of entering future competitions.
+**Schedule:** The groups will be drawn on the 5th of September, after registration has closed. On the 6th of September, the competition will go live! Teams are expected to complete their matches before the 27th of September, 22:00 GMT. A schedule will be put in place with suggested dates. Teams are free to play their games earlier or later, as long as they are complete before the deadline. A schedule will be put in place for the knockout phase. Only sign up if you are willing to complete all of your scheduled games! Not completing the fixtures will have an impact on your chances of entering future competitions.
 
 **Players:** You will need to include the GUIDs of your players when registering. We are not accepting teams with missing GUIDs.
 
