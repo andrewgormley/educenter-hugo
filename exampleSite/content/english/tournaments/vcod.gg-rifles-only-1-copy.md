@@ -1,13 +1,13 @@
 +++
 apply_url = "https://docs.google.com/forms/d/1s3lZ6Z-gaJhh8uuYQfKv7qBYf8EPeC0uq-JZi84SDX8/"
 bg_image = "/images/banner.jpg"
-date = 2020-08-20T14:00:17Z
+date = 2020-08-20T13:00:17Z
 description = ""
 fee = "Free"
 image = "/images/banner.jpg"
 location = "Call of Duty: United Offensive"
-publishDate = 2020-08-20T14:00:00Z
-title = "vcod.gg - UO Rifles Reborn #1"
+publishDate = 2020-08-20T13:00:00Z
+title = "vcod.gg - Rifles Reborn #UO"
 [[speaker]]
 designation = "Admin"
 image = "/images/razrr.png"
