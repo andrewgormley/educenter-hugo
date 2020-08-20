@@ -4,7 +4,6 @@ bg_image = "/images/banner.jpg"
 categories = []
 date = 2020-08-19T13:00:00Z
 description = ""
-draft = true
 image = "/images/coduoriflesreborn.png"
 tags = []
 title = "vcod.gg Revives United Offensive"
