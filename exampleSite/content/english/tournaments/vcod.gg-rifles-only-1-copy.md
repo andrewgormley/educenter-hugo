@@ -3,11 +3,12 @@ apply_url = "https://forms.gle/5CS4oyHXMbcqjymdA"
 bg_image = "/images/banner.jpg"
 date = 2020-05-28T19:30:17Z
 description = ""
+draft = true
 fee = "Free"
 image = "/images/banner.jpg"
 location = "Call of Duty 1"
 publishDate = 2019-12-04T16:00:00Z
-title = "vcod.gg - Rifles Reborn?"
+title = "vcod.gg - UO Rifles Reborn #1"
 [[speaker]]
 designation = "Admin"
 image = "/images/razrr.png"
