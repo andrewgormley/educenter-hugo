@@ -30,9 +30,9 @@ name = "Masi"
 
 With the recent resurgence of the United Offensive all weapons scene, we have decided to revive what is left of the riflers!
 
-We are pleased to announce, that the registration for our vcod.gg United Offensive competition will be going live on the 21st of August. Please find information about the upcoming competition below.
+We are pleased to announce, that the registration for our vcod.gg United Offensive competition will be going live on the 20th of August. Please find information about the upcoming competition below.
 
-**Registration Opens:** 21st of August 2020, 18:00 GMT.
+**Registration Opens:** 20th of August 2020, 18:00 GMT.
 
 **Registration Closes:** 4th of September 2020, 18:00 GMT.
 
