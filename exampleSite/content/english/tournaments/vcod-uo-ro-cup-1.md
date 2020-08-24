@@ -53,3 +53,4 @@ If you are clanless and looking for a team, then head over to the Community Disc
 **Registered Teams:**
 
 * **iMMORTALiS – stvno#6559:** STVNO (5c31691a), Daxi (833fb40b), SLy (9abf4bfc), CobR4csKa (f6ce5389), L1MEWAX (efce3002), BAVARI (2fa07d99), cartz (e9db4020), camel (267411e0)
+* **fatality – xa1ruZ#6662:** xa1ruZ (b2e34e06), opfii1ee (28997e1d), Anglhz (0b3c46f3), mskr (41ef065a), oane (3c94a672), prm (3ac7ce54), reazon (adaf2f77)
