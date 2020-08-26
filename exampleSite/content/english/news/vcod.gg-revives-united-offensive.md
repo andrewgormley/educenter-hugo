@@ -10,7 +10,7 @@ title = "The Revival of United Offensive"
 type = "post"
 
 +++
-### **United Offensive - Revival!**
+### **United Offensive - Reborn!**
 
 We are pleased to announce, that the registration for our vcod.gg United Offensive competition is now live!
 
