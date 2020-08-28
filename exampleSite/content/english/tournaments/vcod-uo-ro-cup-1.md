@@ -59,3 +59,4 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * **iMMORTALiS – stvno#6559:** STVNO (5c31691a), Daxi (833fb40b), SLy (9abf4bfc), CobR4csKa (f6ce5389), L1MEWAX (efce3002), BAVARI (2fa07d99), cartz (e9db4020), camel (267411e0)
 * **fatality – xa1ruZ#6662:** xa1ruZ (b2e34e06), opfii1ee (28997e1d), Anglhz (1286399f), mskr (41ef065a), oane (3c94a672), prm (3ac7ce54), reazon (adaf2f77), qT (f53b116d)
 * **Defying Logics** **– razRR#9282:** razRR (a052b8f1), 1ceyyy (43a0c885), n00bster (6ab256b9), tanek (3d582a16), fzU (803e93af)
+* **Boeren Power – BASSIE#6994:** BASSIE (cc96212b), Dikke Muj (9f4f0a3c), Fr1tuur (c4cae07d), Gerlo (086d14e3), Sharp (4384d104)
