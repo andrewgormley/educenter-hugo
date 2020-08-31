@@ -12,7 +12,7 @@ type = "post"
 +++
 ### **United Offensive - Reborn!**
 
-We are pleased to announce, that the registration for our vcod.gg United Offensive competition is now live!
+We are pleased to announce that the registration for our vcod.gg United Offensive competition is now live!
 
 We have been paying close attention to the comeback of the old Call of Duty games and were very excited when we heard that there was an all weapons competition being held on United Offensive.
 
