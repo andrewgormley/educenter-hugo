@@ -8,7 +8,7 @@ fee = "Free"
 image = "/images/coduoriflesreborn.png"
 location = "Call of Duty: United Offensive"
 publishDate = 2020-08-20T13:00:00Z
-title = "vcod.gg - Divisions Season #1"
+title = "vcod.gg - Season #1"
 [[speaker]]
 designation = "Admin"
 image = "/images/razrr.png"
