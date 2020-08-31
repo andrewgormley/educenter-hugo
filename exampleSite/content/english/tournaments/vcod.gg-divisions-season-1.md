@@ -35,7 +35,7 @@ We are pleased to announce that the registration for season #1 of our weekend di
 
 **Registration Closes:** 16th of September 2020, 18:00 GMT.
 
-**Cup Format:** 
+**Cup Format:** Divisions with promotions and relegations
 
 **Maps:** Group stage – maps will be pre-decided. Knockout stage - teams can pick any map from the pool once.
 
