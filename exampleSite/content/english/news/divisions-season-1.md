@@ -29,3 +29,13 @@ After the recent success in the All Weapons scene, we are following in their foo
 * Teams which finish in the 5th position will be relegated into a lower tiered division - unless their is no lower active tier.
 * Teams which finish in the 2nd position will play a promotion playoff match against the 4th placed team in a higher tiered division.
 * Teams which finish in the 4th position will play a relegation playoff match against the 2nd placed team in a lower tiered division. 
+* When a season ends, teams will respectively hold their position in a tiered division in preparation for the next season.
+
+More information regarding the cup can be found below:
+
+Cup Information: [**https://www.vcod.gg/tournaments/vcod-ro-cup-1/**](https://www.vcod.gg/tournaments/vcod-ro-cup-1/ "https://www.vcod.gg/tournaments/vcod-ro-cup-1/").  
+Cup Rules: [**https://www.vcod.gg/rules/vcod/**](https://www.vcod.gg/rules/vcod/ "https://www.vcod.gg/rules/vcod/").
+
+Last but not least, if you are looking to take part in our upcoming competiton, make sure you join our Community Discord at: [**discord.gg/FA5vxDa**](https://discord.gg/FA5vxDa. "https://discord.gg/FA5vxDa.").
+
+vcod.gg \~ team
