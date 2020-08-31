@@ -37,6 +37,7 @@ fields:
   default: post
   hidden: false
 pages:
+- exampleSite/content/english/news/divisions-season-1.md
 - exampleSite/content/english/news/vcod.gg-is-recruiting.md
 - exampleSite/content/english/news/vcod.gg-is-recruiting.md
 - exampleSite/content/english/news/vcod.gg-revives-united-offensive.md
