@@ -6,7 +6,7 @@ description = ""
 draft = true
 fee = "Free"
 image = "/images/vcodtiers.png"
-location = "Call of Duty"
+location = "Call of Duty 1"
 publishDate = 2020-08-31T18:00:00Z
 title = "vcod.gg - Season #1"
 [[speaker]]
@@ -16,7 +16,7 @@ name = "razRR"
 [[speaker]]
 designation = "Supervisor"
 image = ""
-name = "dream"
+name = "prm"
 [[speaker]]
 designation = "Supervisor"
 image = "/images/tim.png"
