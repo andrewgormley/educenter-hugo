@@ -62,3 +62,4 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * **Boeren Power – BASSIE#6994:** BASSIE (cc96212b), Dikke Muj (9f4f0a3c), Fr1tuur (c4cae07d), Gerlo (086d14e3), Sharp (4384d104)
 * **UNDERDOGZ – K33NB34N#3227:** dusty (31f6ae23), PAKSENBURG (428267a7), nana (60a8a8ee), owner (f5fbe5c2), donkey (7522147e), achilleS (C4134760)
 * **inferno – Explode#9497:** Explode (58125759), Toeter (bc32086c), Walrus (8bfb3a32), Efxtive (49d5d456), extence (09376868), rapidzjeh (529bd87c), Roalty (b2eaf5ad), Juicy (e47cd409), skz (98b8ed17)
+* **First Poker Squad – dietchi#8910:** dietchi (36645e67), xratEd (8da6ea75), Jsons (d5f33a6a), Inv!sible (c90c715f), TjEEEBi (869bc5b6), dONNIE (498843c7), pROTEC (f6249262), Banksy (7480896b), SnuRk (0cf2a5e6), Davy (4e94ed27), GONAAA (d8525987)
