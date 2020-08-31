@@ -26,7 +26,7 @@ Groups will be limited to 5 teams in Season 1.
 
 **What are the dates for the tournament?**
 
-Matches will take place over two weekends. Week 1: 18th-21st September. You will play each team once - maps are pre-decided. Week 2: 2nd-5th October. You will play each team once - maps are pre-decided. In total you will play each team twice.
+Matches will take place over two weekends. Week 1, 18th to the 21st September. You will play each team once - maps are pre-decided. Week 2, 2nd to the 5th October. You will play each team once - maps are pre-decided. In total you will play each team twice.
 
 **How does promotion and relegation work?**
 
