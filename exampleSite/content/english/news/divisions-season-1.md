@@ -17,7 +17,7 @@ We are pleased to announce that the registration for our next competition on Cal
 After the recent success in the All Weapons scene, we are following in their footsteps with a divisions style competition. However, we have a a slight twist!
 
 **How will the tiered divisions be decided?  
-**Tiered divisions will be decided by Cup Supervisors.
+**Tiered divisions will be decided by the Cup Supervisors.
 
 **How will the groups work?  
 **Groups will be limited to 5 teams in Season 1.
