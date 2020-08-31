@@ -4,7 +4,6 @@ bg_image = "/images/banner.jpg"
 categories = []
 date = 2020-08-30T16:00:00Z
 description = ""
-draft = true
 image = "/images/vcodtiers.png"
 tags = []
 title = "Divisions - Season #1"
