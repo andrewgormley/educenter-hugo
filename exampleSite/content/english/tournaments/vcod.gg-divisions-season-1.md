@@ -33,7 +33,7 @@ We are pleased to announce that the registration for season #1 of our weekend di
 
 **Registration Opens:** 31st of August 2020, 18:00 GMT.
 
-**Registration Closes:** 16th of September 2020, 18:00 GMT.
+**Registration Closes:** 15th of September 2020, 18:00 GMT.
 
 **Cup Format:** Tiered divisions with promotions and relegations.
 
@@ -41,7 +41,7 @@ We are pleased to announce that the registration for season #1 of our weekend di
 
 **Map Pool:** Bocage, Brecourt, Carentan, Dawnville, Depot, German_Town, Harbor, Hurtgen, Neuville, Pavlov, Powcamp, Railyard, Rocket, Stalingrad, Tigertown, 
 
-**Schedule:** The groups will be drawn on the 5th of September, after registration has closed. On the 6th of September, the competition will go live! Teams are expected to complete their matches before the 27th of September, 22:00 GMT. A schedule will be put in place with suggested dates. Teams are free to play their games earlier or later, as long as they are complete before the deadline. A schedule will be put in place for the knockout phase. Only sign up if you are willing to complete all of your scheduled games! Not completing the fixtures will have an impact on your chances of entering future competitions.
+**Schedule:** The groups will be decided by the Cup Supervisors on the 16th of September, after registration has closed. On the 18th of September, the competition will go live! Teams are expected to complete their matches before the 21st of September, 22:00 BST. A schedule will be put in place with suggested dates. Teams are free to play their games earlier or later, as long as they are complete before the deadline. A schedule will be put in place for the knockout phase. Only sign up if you are willing to complete all of your scheduled games! Not completing the fixtures will have an impact on your chances of entering future competitions.
 
 **Players:** You will need to include the GUIDs of your players when registering. We are not accepting teams with missing GUIDs.
 
