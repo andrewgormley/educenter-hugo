@@ -1,13 +1,13 @@
 +++
-apply_url = "https://docs.google.com/forms/d/1s3lZ6Z-gaJhh8uuYQfKv7qBYf8EPeC0uq-JZi84SDX8/"
+apply_url = "https://docs.google.com/forms/d/1b99l7PWa3a181nXK1eDPT7vD1F2Rx4YHuMY4Faeh_yo/"
 bg_image = "/images/banner.jpg"
-date = 2020-08-20T13:00:17Z
+date = 2020-08-31T18:00:17Z
 description = ""
 draft = true
 fee = "Free"
 image = "/images/vcodtiers.png"
-location = "Call of Duty: United Offensive"
-publishDate = 2020-08-20T13:00:00Z
+location = "Call of Duty"
+publishDate = 2020-08-31T18:00:00Z
 title = "vcod.gg - Season #1"
 [[speaker]]
 designation = "Admin"
