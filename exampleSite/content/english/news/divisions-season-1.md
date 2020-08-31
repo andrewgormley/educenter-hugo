@@ -32,7 +32,7 @@ Matches will take place over two weekends. Week 1, 18th to the 21st September. Y
 
 Teams which finish in the 1st position will be promoted into a higher tiered division - unless you are in the diamond league. Teams which finish in the 5th position will be relegated into a lower tiered division - unless their is no lower active tier.
 
-**Are there any playoffs?**
+**Will there be playoff matches?**
 
 Teams which finish in the 2nd position will play a promotion playoff match against the 4th placed team in a higher tiered division. Teams which finish in the 4th position will play a relegation playoff match against the 2nd placed team in a lower tiered division.
 
