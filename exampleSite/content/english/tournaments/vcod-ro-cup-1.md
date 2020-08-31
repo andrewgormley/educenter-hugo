@@ -30,7 +30,7 @@ name = "Masi"
 
 WE ARE BACK!
 
-We are pleased to announce, that the registration for our first installment of the vcod.gg competitions will be going live on the 29th of May. Please find information about the upcoming competition below.
+We are pleased to announce that the registration for our first installment of the vcod.gg competitions will be going live on the 29th of May. Please find information about the upcoming competition below.
 
 **Registration Opens:** 29th of May 2020, 18:00 GMT.
 
