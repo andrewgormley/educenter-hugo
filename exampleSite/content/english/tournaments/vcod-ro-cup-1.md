@@ -148,4 +148,4 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - Grand Final**
 
-* d\`logics.  \[21\] vs \[17\] EURO Alpha
+* d\`logics. ([Tigertown](https://i.imgur.com/tcPUzKZ.jpg)) \[21\] vs \[17\] ([Brecourt](https://i.imgur.com/SoteibN.jpg)) EURO Alpha
