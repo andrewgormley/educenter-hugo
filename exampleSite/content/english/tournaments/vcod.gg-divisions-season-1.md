@@ -29,15 +29,13 @@ name = "Masi"
 +++
 ### **Cup Information**
 
-With the recent resurgence of the United Offensive all weapons scene, we have decided to revive what is left of the riflers!
+We are pleased to announce that the registration for season #1 of our weekend division cup will be going live on the 31st of August. Please find information about the upcoming competition below.
 
-We are pleased to announce, that the registration for our vcod.gg United Offensive competition will be going live on the 20th of August. Please find information about the upcoming competition below.
+**Registration Opens:** 31st of August 2020, 18:00 GMT.
 
-**Registration Opens:** 20th of August 2020, 18:00 GMT.
+**Registration Closes:** 16th of September 2020, 18:00 GMT.
 
-**Registration Closes:** 4th of September 2020, 18:00 GMT.
-
-**Cup Format:** Group stage followed by a double elimination knockout.
+**Cup Format:** 
 
 **Maps:** Group stage – maps will be pre-decided. Knockout stage - teams can pick any map from the pool once.
 
