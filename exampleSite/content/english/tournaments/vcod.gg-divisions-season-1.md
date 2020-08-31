@@ -54,3 +54,5 @@ We are pleased to announce that the registration for season #1 of our weekend di
 If you are clanless and looking for a team, then head over to the Community Discord at: [**https://discord.gg/FA5vxDa**](https://discord.gg/FA5vxDa. "https://discord.gg/FA5vxDa.").
 
 **Registered Teams:**
+
+* 
