@@ -38,7 +38,7 @@ We are pleased to announce that the registration for season #1 of our weekend di
 
 **Maps:** Maps will be pre-decided.
 
-**Map Pool:** Bocage, Brecourt, Carentan, Dawnville, Depot, German_Town, Harbor, Hurtgen, Neuville, Pavlov, Powcamp, Railyard, Rocket, Stalingrad, Tigertown, 
+**Map Pool:** Bocage, Brecourt, Carentan, Dawnville, Depot, German_Town, Harbor, Hurtgen, Neuville, Pavlov, Powcamp, Railyard, Rocket, Stalingrad, Tigertown,
 
 **Schedule:** The groups will be decided by the Cup Supervisors on the 16th of September, after registration has closed. The cup will take place over two weekends. Week 1: On the 18th of September, the competition will go live! Teams are expected to complete their matches before the 21st of September, 22:00 BST. Week 2: On the 2nd of October, the competition will go live again! Teams are expected to complete their matches before the 5th of October, 22:00 BST. A schedule will be put in place with suggested dates. Teams are free to play their games earlier or later, as long as they are complete before the deadline. If a date or time cannot be agreed, teams will be expected to play on the suggested date. Only sign up if you are willing to complete all of your scheduled games! Not completing the fixtures will have an impact on your chances of entering future competitions.
 
@@ -48,7 +48,7 @@ We are pleased to announce that the registration for season #1 of our weekend di
 
 **Stream:** [**https://www.twitch.tv/vcodgg**](https://www.twitch.tv/vcodgg).
 
-**Prize:** Winner – 12 slot private Call of Duty 1 server - 1 month.
+**Prize:** N/A.
 
 If you are clanless and looking for a team, then head over to the Community Discord at: [**https://discord.gg/FA5vxDa**](https://discord.gg/FA5vxDa. "https://discord.gg/FA5vxDa.").
 
