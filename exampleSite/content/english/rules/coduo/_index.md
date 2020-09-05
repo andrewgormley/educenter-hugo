@@ -116,7 +116,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 **2.1 – Server Settings**
 
-2\.1.1 – All matches hosted by vcod.gg will be played on the original Call of Duty 1.51 patch.
+2\.1.1 – All matches hosted by vcod.gg will be played on the original Call of Duty: United Offensive 1.51 patch.
 
 2\.1.2 – All matches need to be played on a server that has PunkBuster enabled.
 
