@@ -122,23 +122,20 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 2\.1.3 – All players will need the latest PunkBuster folder, which can be downloaded at: [**https://www.sendspace.com/file/6t8otf**](https://www.sendspace.com/file/6t8otf "https://www.sendspace.com/file/6t8otf").
 
-2\.1.4 – All matches must be played on the latest vcod.gg PAM, which can be downloaded at: ???. Teams can refuse to play on a server if the vcod.gg ruleset has been edited.
+2\.1.4 – All matches must be played on the latest vcod.gg PAM, which can be downloaded at: **LINK COMING**. Teams can refuse to play on a server if the vcod.gg ruleset has been edited.
 
 2\.1.5 – To properly configure vcod.gg PAM for competition settings, use the following command: "/rcon pam_mode vcodgg_match" (default mode for all competition matches) and "/rcon pammode vcodgg_night" (default mode for all weekend competitions).
 
-2\.1.6 – All server must have the latest vcod.gg cvarlist file, which can be downloaded at: [**https://www.sendspace.com/file/bu62h6**](https://www.sendspace.com/file/bu62h6 "https://www.sendspace.com/file/bu62h6").
+2\.1.6 – All server must have the latest vcod.gg cvarlist file, which can be downloaded at: **LINK COMING**.
 
-2\.1.7 – All server must have the latest vcod.gg pbsv file, which can be downloaded at: [**https://www.sendspace.com/file/v4he3o**](https://www.sendspace.com/file/v4he3o "https://www.sendspace.com/file/v4he3o").
+2\.1.7 – All server must have the latest vcod.gg pbsv file, which can be downloaded at: **LINK COMING**.
 
-2\.1.8 – All server must have the latest vcod.gg pbsvuser file, which can be downloaded at: [**https://www.sendspace.com/file/u34k8c**](https://www.sendspace.com/file/u34k8c "https://www.sendspace.com/file/u34k8c").
+2\.1.8 – All server must have the latest vcod.gg pbsvuser file, which can be downloaded at: **LINK COMING**.
 
 2\.1.9 – Default servers have been provided for the competition. These should be used if teams cannot agree on a server or if there are any ping issues:
 
-* /connect 149.210.235.207:28960 ; password cupwar1
-* /connect 149.210.235.207:28961 ; password cupwar2
-* /connect 185.73.37.122:28960 ; password cupwar3
-* /connect 185.73.37.122:28961 ; password cupwar4
-* /connect 185.73.37.122:28962 ; password cupwar5
+* /c
+* 
 
 #### **3. Client Rules**
 
@@ -156,7 +153,9 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 3\.1.6 – Clans have the right to refuse a player from participating if the GUID does not match what is registered on the website. In cases where the there is a slight mistake in the registered GUID, admins will decide on next steps to avoid conflicts.
 
-3\.1.7 – To show the GUIDs of all players in a match, open your console and type: “/pb_plist” or “/pb_power”.
+3\.1.7 – All players will need the Call of Duty: United Offensive map pack, which can be downloaded at: [**https://www.sendspace.com/file/czbsdu**](https://www.sendspace.com/file/czbsdu "https://www.sendspace.com/file/czbsdu").
+
+3\.1.8 – To show the GUIDs of all players in a match, open your console and type: “/pb_plist” or “/pb_power”.
 
 **3.2 – Client Settings**
 
