@@ -86,3 +86,9 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * brn'pwr| vs fatality \~ Harbor & UO_Powcamp
 * fatality vs inferno - \~ Sicily & Arnhem
 * brn'pwr| vs fpS::: \~ Sicily & Arnhem
+
+**Standings:**
+
+![](/images/uogroupa.PNG)
+
+![](/images/uogroupb.PNG)
