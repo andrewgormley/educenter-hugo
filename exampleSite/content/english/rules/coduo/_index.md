@@ -167,7 +167,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 4\.1.3 – Rounds are set at 2 minutes and 30 seconds.
 
-4\.1.4 – The first team to reach 21 rounds will be determined the winner. 
+4\.1.4 – The first team to reach 21 rounds will be determined the winner.
 
 4\.1.5 – The map pool for the competition is: Arnhem, Bocage, Brecourt, Carentan, Cassino, Dawnville, Depot, Harbor, Hurtgen, Neuville, Pavlov, Peaks, Powcamp, Railyard, Rocket, Sicily, Stalingrad, Streets, Tigertown, UO Carentan, UO Dawnville, UO Depot, UO Harbor, UO Hurtgen, UO Powcamp, UO Stanjel.
 
@@ -203,7 +203,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 4\.3.4 – The first team to reach 14 rounds will be determined the winner.
 
-4\.3.5 – The map pool for the competition is: Bocage, Brecourt, Carentan, Dawnville, Depot, Harbor, Hurtgen, Neuville, Pavlov, Powcamp, Railyard, Rocket, Stalingrad and Tigertown.
+4\.3.5 – The map pool for the competition is: Arnhem, Bocage, Brecourt, Carentan, Cassino, Dawnville, Depot, Harbor, Hurtgen, Neuville, Pavlov, Peaks, Powcamp, Railyard, Rocket, Sicily, Stalingrad, Streets, Tigertown, UO Carentan, UO Dawnville, UO Depot, UO Harbor, UO Hurtgen, UO Powcamp, UO Stanjel.
 
 4\.3.6 – The maps will be pre-chosen and will be played in the order listed on the website. Bash for side will take place before each map begins, with the winner deciding which side to start on.
 
