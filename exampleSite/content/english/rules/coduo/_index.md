@@ -157,6 +157,10 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 3\.1.8 – To show the GUIDs of all players in a match, open your console and type: “/pb_plist” or “/pb_power”.
 
+**3.2 – Client Settings**
+
+3\.2.1 –
+
 #### **4. Competition Rules**
 
 **4.1 – Match Rules - Cups**
