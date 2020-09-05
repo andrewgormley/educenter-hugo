@@ -296,86 +296,129 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 6\.3.2 – In the conflict, both sides must explain the problem in a short but clear and complete way. Both sides should state the match result they claim, and only relevant and proven facts may be mentioned.
 
-6\.3.3 – All proof and information on the match should be written within the ticket posted on Discord.
+6\.3.3 – All proof and information on the match should be written within the ticket posted in the #vcod_conflicts board on Discord.
 
 6\.3.4 – Examples of valid proof are: demos, in-game screenshots and server logs that were obtained from a neutral party. If a demo is used as proof of cheating or other malicious actions, you must specify the exact moment(s) (down to the exact minute and second) where the cheating occurred, or you will get a conflict loss. Admins, supervisors and the conflict team will not look at entire demos.
 
-6\.3.5 – If a clan does not give any new relevant information within 2 days (48 hours) since the last reply, it will be considered they have nothing more to add.
+6\.3.5 – If a clan does not give any new relevant information within 48 hours since the last reply, it will be considered they have nothing more to add.
 
 #### **7. Disallowed Jumps and Exploits**
 
 **7.1 – Jumps and Exploits Abuse**
 
-7\.1.1 – Brecourt:
+7\.1.1 – Arnhem
 
-* 7.1.11 – Shooting through spawn corner bush to kill mid bunker.
-* 7.1.12 – Shooting over any bush that separates the centre of the map.
-* 7.1.13 – Shooting through the B bomb to small ruins where you cannot be hit.
+* 7.1.1 – Jump to church.
+* 7.1.2 – Glitching behind the buildings in the allies spawn.
 
-7\.1.2 – Carentan:
+7\.1.2 – Brecourt
 
-* 7.1.21 – Jumping onto the roof in the back of MG garden.
-* 7.1.22 – Jumping onto the top roof of sniper house.
+* 7.1.21 – Shooting through spawn corner bush to kill mid bunker.
+* 7.1.22 – Shooting over any bush that separates the centre of the map.
+* 7.1.23 – Shooting through the B bomb to small ruins where you cannot be hit.
 
-7\.1.3 – Dawnville:
+7\.1.3 – Carentan
 
-* 7.1.31 – Jumping onto the stick outside of orphanage to see back grave.
-* 7.1.32 – Jumping onto the German FPS roof.
-* 7.1.33 – Jumping onto the B building roofs.
-* 7.1.34 – Jumping onto the archway near white house.
-* 7.1.35 – Jumping onto the sign next to the allies tank is allowed, the ruins is not.
-* 7.1.36 – Shooting through the orphanage bush.
-* 7.1.37 – Abusing the bush in grave to see into orphanage.
-* 7.1.38 – Abusing the window in back sniper to see through walls.
+* 7.1.31 – Jumping onto the roof in the back of MG garden.
+* 7.1.32 – Jumping onto the top roof of sniper house.
 
-7\.1.4 – Harbor:
+7\.1.4 – Cassino
 
-* 7.1.41 – Jumping out of the map.
-* 7.1.42 – Abusing a bug bottom police to become unhittable.
-* 7.1.43 – Using prone on the Russian ramp into ramproom to become unhittable.
+* 7.1.41 – Planting on top of the lanterns on the B bomb.
+* 7.1.42 – Glitching and shooting through the closed windows in mid house.
+* 7.1.43 – Going to the roofs in west ruins and spawn buildings.
 
-7\.1.5 – Hurtgen:
+7\.1.5 – Dawnville
 
-* 7.1.51 – Using prone on the rock above A bunker to become unhittable.
+* 7.1.51 – Jumping onto the stick outside of orphanage to see back grave.
+* 7.1.52 – Jumping onto the German FPS roof.
+* 7.1.53 – Jumping onto the B building roofs.
+* 7.1.54 – Jumping onto the archway near white house.
+* 7.1.55 – Jumping onto the sign next to the allies tank is allowed, the ruins is not.
+* 7.1.56 – Shooting through the orphanage bush.
+* 7.1.57 – Abusing the bush in grave to see into orphanage.
+* 7.1.58 – Abusing the window in back sniper to see through walls.
 
-7\.1.6 – Neuville:
+7\.1.6 – Harbor
 
-* 7.1.61 – Jumping onto the outer ledge of jumphouse.
-* 7.1.62 – Jumping onto the bookstore roof.
-* 7.1.63 – Jumping onto the American spawn house roof.
-* 7.1.64 – Jumping out of the map.
-* 7.1.65 – Jumping on top of A mg.
-* 7.1.66 – Jumping onto the ledge outside of butchers.
-* 7.1.67 – Jumping onto mayors roof.
-* 7.1.68 – Jumping onto the roof of red house.
-* 7.1.69 – Planting inside the B bomb.
+* 7.1.61 – Jumping out of the map.
+* 7.1.62 – Abusing a bug bottom police to become unhittable.
+* 7.1.63 – Using prone on the Russian ramp into ramproom to become unhittable.
 
-7\.1.7 – Powcamp:
+7\.1.7 – Hurtgen
 
-* 7.1.71 – Jumping onto the German north roof.
-* 7.1.72 – Jumping onto the Russian south roof from the boxes.
-* 7.1.73 – Jumping onto the German spawn hut roof.
-* 7.1.74 – Jumping from the mid tower to the roof next to B bomb.
+* 7.1.71 – Using prone on the rock above A bunker to become unhittable.
 
-7\.1.8 – Railyard:
+7\.1.8 – Neuville
 
-* 7.1.81 – Jumping onto the ruins roof.
-* 7.1.82 – Jumping onto the ledge besides the trains at B.
-* 7.1.83 – Jumping onto the B south hut roof from the ledge (hotel jump is allowed).
-* 7.1.84 – Hiding behind the spawn hut where your model becomes invisible.
-* 7.1.85 – Shooting through the A tank.
+* 7.1.81 – Jumping onto the outer ledge of jumphouse.
+* 7.1.82 – Jumping onto the bookstore roof.
+* 7.1.83 – Jumping onto the American spawn house roof.
+* 7.1.84 – Jumping out of the map.
+* 7.1.85 – Jumping on top of A mg.
+* 7.1.86 – Jumping onto the ledge outside of butchers.
+* 7.1.87 – Jumping onto mayors roof.
+* 7.1.88 – Jumping onto the roof of red house.
+* 7.1.89 – Planting inside the B bomb.
 
-7\.1.7 – Stalingrad:
+7\.1.9 – Peaks
 
-* 7.1.71 – Jumping into the glitch room.
-* 7.1.72 – Shooting through the A barrels.
-* 7.1.73 – Using prone behind the little boxes in mid tunnel to go underground.
+* 7.1.91 – Glitching to top barn.
+* 7.1.92 – Jumping on top of the snow hill near B bomb.
+* 7.1.93 – Jumping on top of the fences near B bomb.
+* 7.1.94 – Jumping on top of dog house near B bomb.
+* 7.1.95 – Headglitch in burned house.
+* 7.1.96 – Proning in the window frame at MG.
+* 7.1.97 – Jumping to burned from A flak cannon.
 
-7\.1.8 – Tigertown:
+7\.2.0 – Powcamp
 
-* 7.1.81 – Jumping onto the ledge in A alley.
-* 7.1.82 – Jumping into the bathroom in top hotel.
-* 7.1.83 – Using the glitch box near the B bomb to become unhittable.
+* 7.2.01 – Jumping onto the German north roof.
+* 7.2.02 – Jumping onto the Russian south roof from the boxes.
+* 7.2.03 – Jumping onto the German spawn hut roof.
+* 7.2.04 – Jumping from the mid tower to the roof next to B bomb.
+
+7\.2.1 – Railyard
+
+* 7.2.11 – Jumping onto the ruins roof.
+* 7.2.12 – Jumping onto the ledge besides the trains at B.
+* 7.2.13 – Jumping onto the B south hut roof from the ledge (hotel jump is allowed).
+* 7.2.14 – Hiding behind the spawn hut where your model becomes invisible.
+* 7.2.15 – Shooting through the A tank.
+
+7\.2.2 – Sicily 
+
+* 7.2.21 – Jumping to the roofs.
+* 7.2.22 – Glitching under the map.
+* 7.2.23 – Jumping over the wall in the village to get behind the houses.
+* 7.2.24 – Jumping into the trees on A bomb.
+* 7.2.25 – Jumping out of the map.
+* 7.2.26 – Jumping on the rocks outside B on water side.
+* 7.2.27 – Proning on top of the rocks to head glitch.
+
+7\.2.3 – Stalingrad
+
+* 7.2.31 – Jumping into the glitch room.
+* 7.2.32 – Shooting through the A barrels.
+* 7.2.33 – Using prone behind the little boxes in mid tunnel to go underground.
+
+7\.2.4 – Stanjel
+
+* 7.2.41 – Jumping out of the map.
+* 7.2.42 – Glitching under the map.
+* 7.2.43 – Jumping to other roofs from the balcony.
+* 7.2.44 – Jumping on top of the green house from the bush.
+* 7.2.45 – Jumping into the big tree on east defence spawn.
+
+7\.2.5 – Streets
+
+* 7.2.51 – Jumping to the roofs from balcony house.
+
+7\.2.6 – Tigertown
+
+* 7.2.61 – Jumping onto the ledge in A alley.
+* 7.2.62 – Jumping into the bathroom in top hotel.
+* 7.2.63 – Using the glitch box near the B bomb to become unhittable.
 
 #### **8. Changes and Expectations**
 
