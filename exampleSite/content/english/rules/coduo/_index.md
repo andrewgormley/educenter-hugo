@@ -72,7 +72,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 1\.5.1 – Either clan can post the result of a match, unless the other has already done so. Your result should be posted in the #vcod_cup board on Discord.
 
-1\.5.2 – Clans are expected to have proof of their match being played for one week after the score has been confirmed.
+1\.5.2 – Clans are expected to have proof of their match being played for 48 hours after the score has been confirmed.
 
 1\.5.3 – Players who participated in an official match are expected to upload their Veritas files. Failure to do so or uploading the wrong files will lead to a forfeit loss and a yellow card for the player(s) in question.
 
