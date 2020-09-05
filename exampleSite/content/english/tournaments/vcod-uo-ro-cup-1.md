@@ -34,6 +34,9 @@ name = "nana"
 [[speaker]]
 designation = "Conflict Team"
 name = "fe@r"
+[[speaker]]
+designation = "Conflict Team"
+name = "Fantasy"
 
 +++
 ### **Cup Information**
