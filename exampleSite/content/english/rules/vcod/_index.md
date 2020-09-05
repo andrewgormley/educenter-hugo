@@ -5,7 +5,7 @@ image: ''
 description: ''
 
 ---
-### **vcod.gg - Rifles Only Rules**
+### **vcod.gg - CoD1 Rifles Only Rules**
 
 Here you will find the rules for our upcoming competition. Please bear in mind, that although we are not new to hosting competitions, there may be a rule that is missing or a rule that is not clear. You can contact us on our contact page if you find any issues.
 
