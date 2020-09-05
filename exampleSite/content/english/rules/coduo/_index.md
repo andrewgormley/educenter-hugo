@@ -240,11 +240,13 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 **5.2 – Screenshots**
 
-5\.2.6 – Screenshots of the scoreboards should always be taken by each clan and posted in the #vcod_cup board on Discord.
+5\.2.1 – Screenshots of the scoreboards should always be taken by each clan and posted in the #vcod_cup board on Discord.
 
-5\.2.7 – Only screenshots can be accepted as proof when there is a dispute about the score.
+5\.2.2 – Only screenshots can be accepted as proof when there is a dispute about the score.
 
-5\.2.8 – Screenshots or demos can be requested by admins at any time.
+5\.2.3 – All players must upload their in-game screenshots requested by referees during the game. Screenshots not uploaded 48 hours after a match will result in the player receiving a yellow card and the clan forfeiting the match.
+
+5\.2.4 – Screenshots or demos can be requested by admins at any time.
 
 #### **6. Cheating and Bug Abuse**
 
