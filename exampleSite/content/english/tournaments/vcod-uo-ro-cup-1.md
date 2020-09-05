@@ -9,10 +9,6 @@ location = "Call of Duty: United Offensive"
 publishDate = 2020-08-20T13:00:00Z
 title = "vcod.gg - UO Rifles Reborn"
 [[speaker]]
-designation = "Supervisor"
-image = ""
-name = "prm"
-[[speaker]]
 designation = "Admin"
 image = "/images/razrr.png"
 name = "razRR"
@@ -28,6 +24,10 @@ name = "xa1ruZ"
 designation = "Supervisor"
 image = "/images/masi.png"
 name = "Masi"
+[[speaker]]
+designation = "Supervisor"
+image = ""
+name = "prm"
 
 +++
 ### **Cup Information**
