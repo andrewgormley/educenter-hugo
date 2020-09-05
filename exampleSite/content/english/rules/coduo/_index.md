@@ -94,13 +94,13 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 1\.7.2 – vcod.gg Supervisors:
 
-* 1.7.21 – dream-mrd#7168 (********)
+* 1.7.21 – dream-mrd#7168 (821129fd)
 * 1.7.21 – HanNiBaL-K33NB34N#3227 (37740bfa)
 * 1.7.22 – xa1ruZ-xa1ruZ#6662 (98ae2a96)
 
 1\.7.3 – vcod.gg Referees:
 
-* 1.7.31 – ********
+* 1.7.31 – opfii1ee-supatroopa#8123 (28997e1d)
 
 1\.7.4 – Only a referee from this list can be an official spectator. Anyone who falsely pretends to be a referee will receive a temporary ban from vcod.gg competitions.
 
@@ -161,7 +161,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 3\.2.1 – Players will be required to take a screenshot of their in-game screen at a random point during each match.
 
-3\.2.2 – 
+3\.2.2 –
 
 #### **4. Competition Rules**
 
@@ -388,7 +388,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 * 7.2.14 – Hiding behind the spawn hut where your model becomes invisible.
 * 7.2.15 – Shooting through the A tank.
 
-7\.2.2 – Sicily 
+7\.2.2 – Sicily
 
 * 7.2.21 – Jumping to the roofs.
 * 7.2.22 – Glitching under the map.
