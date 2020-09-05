@@ -24,7 +24,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 1\.1.4 – A player and/or clan can be given more than one card in a match. In case of several violations, only the most severe card will be issued. However, all extra punishments for each rule that was violated will still be applied.
 
-1\.1.5 – Abusive behaviour towards a vcod.gg admin, supervisor, referee or opponent, at any time during the competition is not acceptable. If the abusive behaviour is severe, then an admin has the right to punish with a temporary or permanent ban from the competition.
+1\.1.5 – Abusive behaviour towards a vcod.gg Admin, Supervisor, Referee or opponent, at any time during the competition is not acceptable. If the abusive behaviour is severe, then a vcod.gg Admin has the right to punish with a temporary or permanent ban from the competition.
 
 1\.1.6 – The clan leader is responsible for his/her own members to know, understand and follow the rules.
 
@@ -34,9 +34,9 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 1\.2.1 – vcod.gg reserves the right to broadcast every match.
 
-1\.2.2 – Spectating during an official match is not allowed unless you are an official vcod.gg admin, supervisor, referee or streamer. Should any spectator join who is not allowed, the game should be immediately paused whilst the spectator is removed from the server.
+1\.2.2 – Spectating during an official match is not allowed unless you are an official vcod.gg Admin, Supervisor, Referee or Streamer. Should any spectator join who is not allowed, the game should be immediately paused whilst the spectator is removed from the server.
 
-1\.2.3 – Admins have the right to teamview any player during the match.
+1\.2.3 – The vcod.gg Admin has the right to teamview any player during the match.
 
 **1.3 – Arranging Matches – Cups**
 
@@ -48,7 +48,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 1\.5 **–** **Arranging Matches – General**
 
-1\.5.1 – Matches should be arranged by sending a personal message on Discord to a clan's admin.
+1\.5.1 – Matches should be arranged by sending a personal message on Discord to a Clan's Admin.
 
 1\.5.2 – When both clans agree not to play a match, it can be cancelled for any reason after the scheduled starting time, only if the match can still be completed in the scheduled game week or weekend.
 
@@ -62,11 +62,11 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 1\.4.4 – All players will will be teamviewed upon entering the game. Anyone refusing to be teamviewed will not be allowed to participate.
 
-1\.4.5 – An admin, supervisor or referee should teamview EYE players upon entering the game. In case admins, supervisors or referees are unavailable, the opposing clan admin will be allowed to teamview their opponent's EYE players onto the server.
+1\.4.5 – A vcod.gg Admin, Supervisor or Referee should teamview EYE players upon entering the game. In case the vcod.gg Admin, Supervisors or Referees are unavailable, the opposing Clan's Admin will be allowed to teamview their opponent's EYE players onto the server.
 
-1\.4.6 – Players listed without an EYE do not need to be teamviewed by an admin, supervisor or referee; opposing clan admins will be allowed to teamview players without an EYE. Clan admins can agree for players without an EYE to join without teamview. You must provide proof if this is agreed.
+1\.4.6 – Players listed without an EYE do not need to be teamviewed by a vcod.gg Admin, Supervisor or Referee; an opposing Clan's Admin will be allowed to teamview players without an EYE. Clan Admins can agree for players without an EYE to join without teamview. You must provide proof if this is agreed.
 
-1\.4.6 – Before each game can start, the server admin should always ensure that both teams are ready. If one member of a team says that his team is ready, he is considered to speak for the whole team, regardless of his status in the clan.
+1\.4.6 – Before each game can start, the Referee should always ensure that both teams are ready. If one member of a team says that his team is ready, he is considered to speak for the whole team, regardless of his status in the clan.
 
 **1.5 – After the Match**
 
@@ -88,17 +88,17 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 **1.7 – vCoD.gg Organisation**
 
-1\.7.1 – vcod.gg admins:
+1\.7.1 – vcod.gg Admins:
 
 * 1.7.11 – razRR-raRR#9282 (49d5ce5c)
 
-1\.7.2 – vcod.gg supervisors:
+1\.7.2 – vcod.gg Supervisors:
 
 * 1.7.21 – dream-mrd#7168 (********)
 * 1.7.21 – HanNiBaL-K33NB34N#3227 (37740bfa)
 * 1.7.22 – xa1ruZ-xa1ruZ#6662 (98ae2a96)
 
-1\.7.3 – vcod.gg referees:
+1\.7.3 – vcod.gg Referees:
 
 * 1.7.31 – ********
 
@@ -106,9 +106,9 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 1\.7.5 – A referee should ensure the match is played according to the rules.
 
-1\.7.6 – Clans have the right to refuse a referee, but must state a specific reason why. Admins and supervisors cannot be refused.
+1\.7.6 – Clans have the right to refuse a vcod.gg Referee, but must state a specific reason why. The vcod.gg Admin and Supervisors cannot be refused.
 
-1\.7.7 – If you think a referee has made an incorrect decision, then contact an admin or supervisor.
+1\.7.7 – If you think a referee has made an incorrect decision, then contact a vcod.gg Admin or Supervisor.
 
 1\.7.8 – In case of no referee being available, ensure screenshots are kept of any rule breaking or violations; if you have a conflict, post a ticket via Discord.
 
@@ -149,9 +149,9 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 3\.1.4 – A clan can only register new players throughout the group stage as long as they have not signed up for another team. Swapping clans throughout the tournament is not allowed.
 
-3\.1.5 – Players always have to be easily identifiable to the admins, supervisors, referees and opponents. Therefore, players must use the nicknames registered on the website or nicks which are very similar.
+3\.1.5 – Players always have to be easily identifiable to the vcod.gg Admin, Supervisors, Referees and opponents. Therefore, players must use the nicknames registered on the website or nicks which are very similar.
 
-3\.1.6 – Clans have the right to refuse a player from participating if the GUID does not match what is registered on the website. In cases where the there is a slight mistake in the registered GUID, admins will decide on next steps to avoid conflicts.
+3\.1.6 – Clans have the right to refuse a player from participating if the GUID does not match what is registered on the website. In cases where the there is a slight mistake in the registered GUID, vcod.gg Admin will decide on next steps to avoid conflicts.
 
 3\.1.7 – All players will need the Call of Duty: United Offensive map pack, which can be downloaded at: [**https://www.sendspace.com/file/czbsdu**](https://www.sendspace.com/file/czbsdu "https://www.sendspace.com/file/czbsdu").
 
@@ -246,7 +246,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 5\.2.3 – All players must upload their in-game screenshots requested by referees during the game. Screenshots not uploaded 48 hours after a match will result in the player receiving a yellow card and the clan forfeiting the match.
 
-5\.2.4 – Screenshots or demos can be requested by admins at any time.
+5\.2.4 – Screenshots or demos can be requested by a vcod.gg Admin, Supervisors, Referee or the opposing Clan's Admin at any time.
 
 #### **6. Cheating and Bug Abuse**
 
@@ -288,17 +288,17 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 6\.2.3 – All binds/scripts that are not covered above will be reviewed on a case-by-case basis to see if they do give an advantage.
 
-6\.2.4 – Any abuse of the two monitor bug will be reviewed case-by-case by the cup admin, supervisors and conflict team. You should avoid using this bug at all costs, as it may result in the player receiving a yellow card and the clan forfeiting the match.
+6\.2.4 – Any abuse of the two monitor bug will be reviewed case-by-case by the cup vcod.gg Admin, Supervisors and Conflict Team. You should avoid using this bug at all costs, as it may result in the player receiving a yellow card and the clan forfeiting the match.
 
 **6.3 – Match Conflicts**
 
-6\.3.1 – The match conflict system functions as a court room with vcod.gg admin, supervisors and conflict team acting as judges. A match conflict can be made on Discord when the result entered by one clan is not accepted by the other.
+6\.3.1 – The match conflict system functions as a court room with vcod.gg Admin, Supervisors and Conflict Team acting as judges. A match conflict can be made on Discord when the result entered by one clan is not accepted by the other.
 
 6\.3.2 – In the conflict, both sides must explain the problem in a short but clear and complete way. Both sides should state the match result they claim, and only relevant and proven facts may be mentioned.
 
 6\.3.3 – All proof and information on the match should be written within the ticket posted in the #vcod_conflicts board on Discord.
 
-6\.3.4 – Examples of valid proof are: demos, in-game screenshots and server logs that were obtained from a neutral party. If a demo is used as proof of cheating or other malicious actions, you must specify the exact moment(s) (down to the exact minute and second) where the cheating occurred, or you will get a conflict loss. Admins, supervisors and the conflict team will not look at entire demos.
+6\.3.4 – Examples of valid proof are: demos, in-game screenshots and server logs that were obtained from a neutral party. If a demo is used as proof of cheating or other malicious actions, you must specify the exact moment(s) (down to the exact minute and second) where the cheating occurred, or you will get a conflict loss. The vcod.gg Admin, Supervisors and the Conflict Team will not look at entire demos.
 
 6\.3.5 – If a clan does not give any new relevant information within 48 hours since the last reply, it will be considered they have nothing more to add.
 
@@ -426,4 +426,4 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 8\.1.1 – These rules are subject to change at any time. All clans are expected to know the rules; not knowing them is no valid excuse for not following them.
 
-8\.1.2 – Any issue that affects a vCoD.gg admin’s clan or a referee’s clan may not be handled by that person.
+8\.1.2 – Any issue that affects a vCoD.gg Admin, Supervisor or referee's clan may not be handled by that person.
