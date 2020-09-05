@@ -36,7 +36,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 1\.2.2 – Spectating during an official match is not allowed unless you are an official vcod.gg Admin, Supervisor, Referee or Streamer. Should any spectator join who is not allowed, the game should be immediately paused whilst the spectator is removed from the server.
 
-1\.2.3 – The vcod.gg Admin has the right to teamview any player during the match.
+1\.2.3 – The vcod.gg Admin has the right to TeamView any player during the match.
 
 **1.3 – Arranging Matches – Cups**
 
@@ -60,11 +60,11 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 1\.4.3 – Matches can only start if a referee is present (unless both teams agree to play without).
 
-1\.4.4 – All players will will be teamviewed upon entering the game. Anyone refusing to be teamviewed will not be allowed to participate.
+1\.4.4 – All players will will be TeamViewed upon entering the game. Anyone refusing to be TeamViewed will not be allowed to participate.
 
-1\.4.5 – A vcod.gg Admin, Supervisor or Referee should teamview EYE players upon entering the game. In case the vcod.gg Admin, Supervisors or Referees are unavailable, the opposing Clan's Admin will be allowed to teamview their opponent's EYE players onto the server.
+1\.4.5 – A vcod.gg Admin, Supervisor or Referee should TeamView EYE players upon entering the game. In case the vcod.gg Admin, Supervisors or Referees are unavailable, the opposing Clan's Admin will be allowed to TeamView their opponent's EYE players onto the server.
 
-1\.4.6 – Players listed without an EYE do not need to be teamviewed by a vcod.gg Admin, Supervisor or Referee; an opposing Clan's Admin will be allowed to teamview players without an EYE. Clan Admins can agree for players without an EYE to join without teamview. You must provide proof if this is agreed.
+1\.4.6 – Players listed without an EYE do not need to be TeamViewed by a vcod.gg Admin, Supervisor or Referee; an opposing Clan's Admin will be allowed to TeamView players without an EYE. Clan Admins can agree for players without an EYE to join without TeamView. You must provide proof if this is agreed.
 
 1\.4.6 – Before each game can start, the Referee should always ensure that both teams are ready. If one member of a team says that his team is ready, he is considered to speak for the whole team, regardless of his status in the clan.
 
