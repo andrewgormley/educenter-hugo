@@ -240,7 +240,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 **5.2 – Screenshots**
 
-5\.2.6 – Screenshots of the scoreboards should always be taken by each clan and posted on Discord.
+5\.2.6 – Screenshots of the scoreboards should always be taken by each clan and posted in the #vcod_cup board on Discord.
 
 5\.2.7 – Only screenshots can be accepted as proof when there is a dispute about the score.
 
