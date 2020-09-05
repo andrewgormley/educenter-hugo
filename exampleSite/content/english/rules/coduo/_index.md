@@ -169,7 +169,9 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 3\.2.1 – Players will be required to take a screenshot of their in-game screen at a random point during each match.
 
-3\.2.2 –
+3\.2.2 – A referee will pause the match and instruct players to take an in-game screenshot. Players should ensure that Screenshot in Options has a key binded. Once players have taken a screenshot, they should open their Console to see a message "wrote screenshots/shot****.jpg".
+
+3\.2.3 – Players that fail to upload their screenshots will receive a yellow card. A decision will be made by the vcod.gg Admin, Supervisors and Conflict Team if further punishment is necessary.
 
 #### **4. Competition Rules**
 
