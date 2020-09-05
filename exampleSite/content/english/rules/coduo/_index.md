@@ -44,7 +44,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 1\.4 **– Arranging Matches – Division Series**
 
-1\.4.1 – Matches will be played from Saturday, 13:00 CET through to Sunday 23:00 CET. If you cannot find an agreement with the enemy team, the match will be automatically set on the tournament page.
+1\.4.1 – Matches will be played from Friday, 13:00 CET through to Monday 23:00 CET. If you cannot find an agreement with the enemy team, the match will be automatically set on the tournament page.
 
 1\.5 **–** **Arranging Matches – General**
 
