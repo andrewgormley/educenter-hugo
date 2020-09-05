@@ -88,19 +88,25 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 **1.7 – vCoD.gg Organisation**
 
-1\.7.1 – vcod.gg Admins:
+1\.7.1 – vcod.gg Admins
 
 * 1.7.11 – razRR-raRR#9282 (49d5ce5c)
 
-1\.7.2 – vcod.gg Supervisors:
+1\.7.2 – vcod.gg Supervisors
 
 * 1.7.21 – dream-mrd#7168 (821129fd)
 * 1.7.21 – HanNiBaL-K33NB34N#3227 (37740bfa)
 * 1.7.22 – xa1ruZ-xa1ruZ#6662 (98ae2a96)
 
-1\.7.3 – vcod.gg Referees:
+1\.7.3 – vcod.gg Conflict Team
 
-* 1.7.31 – opfii1ee-supatroopa#8123 (28997e1d)
+* 1.7.4 – nana-steve#0802 (60a8a8ee)
+* 1.7.5 – fe@r-dragounet#9647 (********)
+* 1.7.6 – Fantasy-Fantasy?#1116 (********)
+
+1\.7.4 – vcod.gg Referees:
+
+* 1.7.41 – opfii1ee-supatroopa#8123 (28997e1d)
 
 1\.7.4 – Only a referee from this list can be an official spectator. Anyone who falsely pretends to be a referee will receive a temporary ban from vcod.gg competitions.
 
