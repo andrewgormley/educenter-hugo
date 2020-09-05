@@ -74,8 +74,6 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 1\.5.2 – Clans are expected to have proof of their match being played for 48 hours after the score has been confirmed.
 
-1\.5.3 – Players who participated in an official match are expected to upload their Veritas files. Failure to do so or uploading the wrong files will lead to a forfeit loss and a yellow card for the player(s) in question.
-
 **1.6 – Leaving**
 
 1\.6.1 – Clans which leave the competition or are removed for 2 no-shows/forfeits are likely to be excluded from future competitions.
