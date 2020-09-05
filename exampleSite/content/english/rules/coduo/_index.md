@@ -95,8 +95,9 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 1\.7.2 – vcod.gg Supervisors
 
 * 1.7.21 – dream-mrd#7168 (821129fd)
-* 1.7.21 – HanNiBaL-K33NB34N#3227 (37740bfa)
-* 1.7.22 – xa1ruZ-xa1ruZ#6662 (98ae2a96)
+* 1.7.22 – HanNiBaL-K33NB34N#3227 (37740bfa)
+* 1.7.23 – xa1ruZ-xa1ruZ#6662 (98ae2a96)
+* 7.7.24 – prm-prm#2642 (3ac7ce54)
 
 1\.7.3 – vcod.gg Conflict Team
 
