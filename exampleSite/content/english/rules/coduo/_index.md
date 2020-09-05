@@ -60,9 +60,11 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 1\.4.3 – Matches can only start if a referee is present (unless both teams agree to play without).
 
-1\.4.4 – Players listed with an EYE will be teamviewed upon entering the game. Anyone refusing to be teamviewed will not be allowed to participate.
+1\.4.4 – All players will will be teamviewed upon entering the game. Anyone refusing to be teamviewed will not be allowed to participate.
 
 1\.4.5 – An admin, supervisor or referee should teamview EYE players upon entering the game. In case admins, supervisors or referees are unavailable, the opposing clan admin will be allowed to teamview their opponent's EYE players onto the server.
+
+1\.4.6 – Players listed without an EYE do not need to be teamviewed by an admin, supervisor or referee; opposing clan admins will be allowed to teamview players without an EYE. Clan admins can agree for players without an EYE to join without teamview. You must provide proof if this is agreed.
 
 1\.4.6 – Before each game can start, the server admin should always ensure that both teams are ready. If one member of a team says that his team is ready, he is considered to speak for the whole team, regardless of his status in the clan.
 
