@@ -159,7 +159,9 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 **3.2 – Client Settings**
 
-3\.2.1 –
+3\.2.1 – Players will be required to take a screenshot of their in-game screen at a random point during each match.
+
+3\.2.2 – 
 
 #### **4. Competition Rules**
 
