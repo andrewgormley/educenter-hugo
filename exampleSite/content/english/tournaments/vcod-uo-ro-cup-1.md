@@ -28,6 +28,9 @@ name = "Masi"
 designation = "Supervisor"
 image = ""
 name = "prm"
+[[speaker]]
+designation = "Conflict Team"
+name = "nana"
 
 +++
 ### **Cup Information**
