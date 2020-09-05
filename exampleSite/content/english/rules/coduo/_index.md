@@ -107,7 +107,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 1\.7.4 – vcod.gg Referees:
 
 * 1.7.41 – opfii1ee-supatroopa#8123 (28997e1d)
-* 1.7.42 
+* 1.7.42 – nana-steve#0802 (60a8a8ee)
 
 1\.7.4 – Only a referee from this list can be an official spectator. Anyone who falsely pretends to be a referee will receive a temporary ban from vcod.gg competitions.
 
