@@ -94,16 +94,13 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 1\.7.2 – vcod.gg supervisors:
 
+* 1.7.21 – dream-mrd#7168 (********)
 * 1.7.21 – HanNiBaL-K33NB34N#3227 (37740bfa)
 * 1.7.22 – xa1ruZ-xa1ruZ#6662 (98ae2a96)
 
 1\.7.3 – vcod.gg referees:
 
-* 1.7.31 – skz-skzje#2642 (5fc35d87)
-* 1.7.32 – opfii1ee-supatroopa92#8123 (c9b894d4)
-* 1.7.33 – tanek-t4n3k#7003 (45395642)
-* 1.7.34 – Fantasy-Fantasy?#1116 (4dca5c58)
-* 1.7.35 – Arctic-Arctic#8016 (a5f144e7)
+* 1.7.31 – ********
 
 1\.7.4 – Only a referee from this list can be an official spectator. Anyone who falsely pretends to be a referee will receive a temporary ban from vcod.gg competitions.
 
