@@ -159,7 +159,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 3\.1.6 – Clans have the right to refuse a player from participating if the GUID does not match what is registered on the website. In cases where the there is a slight mistake in the registered GUID, vcod.gg Admin will decide on next steps to avoid conflicts.
 
-3\.1.7 – All players will need the Call of Duty: United Offensive map pack, which can be downloaded at: [**https://www.sendspace.com/file/czbsdu**](https://www.sendspace.com/file/czbsdu "https://www.sendspace.com/file/czbsdu").
+3\.1.7 – All players will need to install the Call of Duty: United Offensive map pack, which can be downloaded at: [**https://www.sendspace.com/file/czbsdu**](https://www.sendspace.com/file/czbsdu "https://www.sendspace.com/file/czbsdu"). If the installation does not work, you can download the uomappack00.pk3 at: [**https://www.sendspace.com/file/66trw6**](https://www.sendspace.com/file/66trw6 "https://www.sendspace.com/file/66trw6").
 
 3\.1.8 – To show the GUIDs of all players in a match, open your console and type: “/pb_plist” or “/pb_power”.
 
