@@ -167,13 +167,15 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 **3.2 – Client Settings**
 
-3\.2.1 – Players will be required to take a screenshot of their in-game screen at a random point during each match.
+3\.2.1 – In all competition matches, MOSS Anti-Cheat will be mandatory and must be turned on for the entire match. You can download MOSS at: [**https://www.sendspace.com/file/cqory2**](https://www.sendspace.com/file/cqory2 "https://www.sendspace.com/file/cqory2").
 
-3\.2.2 – A referee will pause the match and instruct players to take an in-game screenshot at a random interval during the match. 
+3\.2.2 – Each player is responsible for making sure they are running MOSS during the match. 
 
-3\.2.3 – Players should ensure that Screenshot in Options has a key binded; you can also use the following command: bind F12 "screenshotJPEG". Once players have taken a screenshot, they should open their Console to see a message "wrote screenshots/shot****.jpg" to ensure a screenshot has been made.
+3\.2.3 – If a player closes MOSS during the match, the player will receive a yellow card and the clan will forfeit the match. In cases where the player experiences an unknown bug, the vcod.gg Admin, Supervisors and Conflict Team will decide on the next steps.
 
-3\.2.4 – Players that fail to upload their screenshots will receive a yellow card. A decision will be made by the vcod.gg Admin, Supervisors and Conflict Team if further punishment is necessary.
+3\.2.4 – If a player crashes during the match, he must re-join MOSS immediately. Clans can use the following command: “/matchtimeout” at the start of the round to allow players to reconnect to MOSS.
+
+3\.2.5 – Screenshots from ALL players must be uploaded after each match. Screenshots not uploaded 48 hours after a match will result in the player receiving a yellow card and the clan forfeiting the match. In cases where the player experiences an unknown bug, the vcod.gg Admin, Supervisors and Conflict Team will decide on the next steps.
 
 #### **4. Competition Rules**
 
