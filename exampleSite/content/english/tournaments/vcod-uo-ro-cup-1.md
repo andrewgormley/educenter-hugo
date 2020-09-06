@@ -80,7 +80,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Suggested Schedule:**
 
-![](/images/uosched.PNG)
+![](/images/uosched1.PNG)
 
 **Results – Group A:**
 
@@ -104,4 +104,4 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 ![](/images/uogroupa.PNG)
 
-![](/images/uogroupb.PNG)
+![](/images/uogroupb1.PNG)
