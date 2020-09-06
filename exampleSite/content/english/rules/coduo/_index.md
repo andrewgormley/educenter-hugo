@@ -260,7 +260,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 5\.2.2 – Only screenshots can be accepted as proof when there is a dispute about the score.
 
-5\.2.3 – Screenshots or demos can be requested by admins at any time.
+5\.2.3 – Screenshots or demos can be requested by the vcod.gg Admin, Supervisors or Referees at any time.
 
 #### **6. Cheating and Bug Abuse**
 
