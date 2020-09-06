@@ -54,4 +54,4 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Registered Teams:**
 
-* 
+* **germanite – xa1ruZ#6662:** Tim (98ae2a96), Julian (c9b894d4), Wladi (c980a809), Alex (e4c12abe), Sean (513e3892), Thomas (37748725), Dom (d61a3292), Andy (fa2af41b), Paddy (b1863fe5), Kai (a1b2233c), Patrick (7d2118e5)
