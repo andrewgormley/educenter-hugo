@@ -42,83 +42,81 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 1\.3.1 – Matches can be played from Monday through to the following Monday, 22:00 CET. If you cannot find an agreement with the enemy team, the match will be automatically set for the Sunday at 20:00 CET.
 
-1\.4 **– Arranging Matches – Division Series**
+**1.4** **– Arranging Matches – Division Series**
 
 1\.4.1 – Matches will be played from Friday, 13:00 CET through to Monday 23:00 CET. If you cannot find an agreement with the enemy team, the match will be automatically set on the tournament page.
 
-1\.5 **–** **Arranging Matches – General**
+**1.5 –** **Arranging Matches – General**
 
 1\.5.1 – Matches should be arranged by sending a personal message on Discord to a Clan's Admin.
 
 1\.5.2 – When both clans agree not to play a match, it can be cancelled for any reason after the scheduled starting time, only if the match can still be completed in the scheduled game week or weekend.
 
-**1.4 – Before the Match**
+**1.6 – Before the Match**
 
-1\.4.1 – To find your opponent before a match, you should look on the website and add them on Discord.
+1\.6.1 – To find your opponent before a match, you should look on the website and add them on Discord.
 
-1\.4.2 – If you have still not managed to get in touch with your opponent 15 minutes after the scheduled starting time of the match, you can fill in a no-show.
+1\.6.2 – If you have still not managed to get in touch with your opponent 15 minutes after the scheduled starting time of the match, you can fill in a no-show.
 
-1\.4.3 – Matches can only start if a referee is present (unless both teams agree to play without).
+1\.6.3 – Matches can only start if a referee is present (unless both teams agree to play without).
 
-1\.4.4 – All players will will be TeamViewed upon entering the game. Anyone refusing to be TeamViewed will not be allowed to participate.
+1\.6.4 – Players listed with an EYE will be teamviewed upon entering the game. Anyone refusing to be teamviewed will not be allowed to participate.
 
-1\.4.5 – A vcod.gg Admin, Supervisor or Referee should TeamView EYE players upon entering the game. In case the vcod.gg Admin, Supervisors or Referees are unavailable, the opposing Clan's Admin will be allowed to TeamView their opponent's EYE players onto the server.
+1\.6.5 – A vcod.gg Admin, Supervisor or Referee should TeamView EYE players upon entering the game. In case the vcod.gg Admin, Supervisors or Referees are unavailable, the opposing Clan's Admin will be allowed to TeamView their opponent's EYE players onto the server.
 
-1\.4.6 – Players listed without an EYE do not need to be TeamViewed by a vcod.gg Admin, Supervisor or Referee; an opposing Clan's Admin will be allowed to TeamView players without an EYE. Clan Admins can agree for players without an EYE to join without TeamView. You must provide proof if this is agreed.
+1\.6.6 – Before each game can start, the Referee should always ensure that both teams are ready. If one member of a team says that his team is ready, he is considered to speak for the whole team, regardless of his status in the clan.
 
-1\.4.6 – Before each game can start, the Referee should always ensure that both teams are ready. If one member of a team says that his team is ready, he is considered to speak for the whole team, regardless of his status in the clan.
+**1.7 – After the Match**
 
-**1.5 – After the Match**
+1\.7.1 – Either clan can post the result of a match, unless the other has already done so. Your result should be posted in the #vcod_cup board on Discord.
 
-1\.5.1 – Either clan can post the result of a match, unless the other has already done so. Your result should be posted in the #vcod_cup board on Discord.
+1\.7.2 – Clans are expected to have proof of their match being played for 48 hours after the score has been confirmed.
 
-1\.5.2 – Clans are expected to have proof of their match being played for 48 hours after the score has been confirmed.
+**1.8 – Leaving**
 
-**1.6 – Leaving**
+1\.8.1 – Clans which leave the competition or are removed for 2 no-shows/forfeits are likely to be excluded from future competitions.
 
-1\.6.1 – Clans which leave the competition or are removed for 2 no-shows/forfeits are likely to be excluded from future competitions.
+1\.8.2 – Reconnecting during the match without any valid reason is not allowed and will result in a yellow card and forfeit of the round.
 
-1\.6.2 – Reconnecting during the match without any valid reason is not allowed and will result in a yellow card and forfeit of the round.
+1\.8.3 – If a player drops connection because of a technical error, the match must be paused. You can call a time out by typing "/matchtimeout" in the console. A pause can only be made when a round has started or finished.
 
-1\.6.3 – If a player drops connection because of a technical error, the match must be paused. You can call a time out by typing "/matchtimeout" in the console. A pause can only be made when a round has started or finished.
+1\.8.4 – The maximum time you can pause for is 5 minutes. After this time, the match will resume. The maximum total pause time is 5 minutes per map, per team. You do not need a reason to call a time-out.
 
-1\.6.4 – The maximum time you can pause for is 5 minutes. After this time, the match will resume. The maximum total pause time is 5 minutes per map, per team. You do not need a reason to call a time-out.
+1\.8.5 – In extreme cases, it can be agreed for teams to have an extra 5 minutes to resolve issues.
 
-1\.6.5 – In extreme cases, it can be agreed for teams to have an extra 5 minutes to resolve issues.
+**1.9 – vCoD.gg Organisation**
 
-**1.7 – vCoD.gg Organisation**
+1\.9.1 – vcod.gg Admins
 
-1\.7.1 – vcod.gg Admins
+* 1.9.11 – razRR-raRR#9282 (49d5ce5c)
 
-* 1.7.11 – razRR-raRR#9282 (49d5ce5c)
+1\.9.2 – vcod.gg Supervisors
 
-1\.7.2 – vcod.gg Supervisors
+* 1.9.21 – dream-mrd#7168 (821129fd)
+* 1.9.22 – HanNiBaL-K33NB34N#3227 (37740bfa)
+* 1.9.23 – xa1ruZ-xa1ruZ#6662 (98ae2a96)
+* 1.9.24 – prm-prm#2642 (3ac7ce54)
 
-* 1.7.21 – dream-mrd#7168 (821129fd)
-* 1.7.22 – HanNiBaL-K33NB34N#3227 (37740bfa)
-* 1.7.23 – xa1ruZ-xa1ruZ#6662 (98ae2a96)
-* 7.7.24 – prm-prm#2642 (3ac7ce54)
+1\.9.3 – vcod.gg Conflict Team
 
-1\.7.3 – vcod.gg Conflict Team
+* 1.9.31 – nana-steve#0802 (60a8a8ee)
+* 1.9.32 – fe@r-dragounet#9647 (********)
+* 1.9.33 – Fantasy-Fantasy?#1116 (********)
 
-* 1.7.31 – nana-steve#0802 (60a8a8ee)
-* 1.7.32 – fe@r-dragounet#9647 (********)
-* 1.7.33 – Fantasy-Fantasy?#1116 (********)
+1\.9.4 – vcod.gg Referees:
 
-1\.7.4 – vcod.gg Referees:
+* 1.9.41 – opfii1ee-supatroopa#8123 (28997e1d)
+* 1.9.42 – nana-steve#0802 (60a8a8ee)
 
-* 1.7.41 – opfii1ee-supatroopa#8123 (28997e1d)
-* 1.7.42 – nana-steve#0802 (60a8a8ee)
+1\.9.5 – Only a referee from this list can be an official spectator. Anyone who falsely pretends to be a referee will receive a temporary ban from vcod.gg competitions.
 
-1\.7.4 – Only a referee from this list can be an official spectator. Anyone who falsely pretends to be a referee will receive a temporary ban from vcod.gg competitions.
+1\.9.6 – A referee should ensure the match is played according to the rules.
 
-1\.7.5 – A referee should ensure the match is played according to the rules.
+1\.9.7 – Clans have the right to refuse a vcod.gg Referee, but must state a specific reason why. The vcod.gg Admin and Supervisors cannot be refused.
 
-1\.7.6 – Clans have the right to refuse a vcod.gg Referee, but must state a specific reason why. The vcod.gg Admin and Supervisors cannot be refused.
+1\.9.8 – If you think a referee has made an incorrect decision, then contact a vcod.gg Admin or Supervisor.
 
-1\.7.7 – If you think a referee has made an incorrect decision, then contact a vcod.gg Admin or Supervisor.
-
-1\.7.8 – In case of no referee being available, ensure screenshots are kept of any rule breaking or violations; if you have a conflict, post a ticket via Discord.
+1\.9.9 – In case of no referee being available, ensure screenshots are kept of any rule breaking or violations; if you have a conflict, post a ticket via Discord.
 
 #### **2. Server Rules**
 
@@ -169,7 +167,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 3\.2.1 – In all competition matches, MOSS Anti-Cheat will be mandatory and must be turned on for the entire match. You can download MOSS at: [**https://www.sendspace.com/file/cqory2**](https://www.sendspace.com/file/cqory2 "https://www.sendspace.com/file/cqory2").
 
-3\.2.2 – Each player is responsible for making sure they are running MOSS during the match. 
+3\.2.2 – Each player is responsible for making sure they are running MOSS during the match.
 
 3\.2.3 – If a player closes MOSS during the match, the player will receive a yellow card and the clan will forfeit the match. In cases where the player experiences an unknown bug, the vcod.gg Admin, Supervisors and Conflict Team will decide on the next steps.
 
