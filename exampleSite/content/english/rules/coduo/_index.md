@@ -86,7 +86,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 **1.9 – vCoD.gg Organisation**
 
-1\.9.1 – vcod.gg Admins
+1\.9.1 – vcod.gg Admin
 
 * 1.9.11 – razRR-raRR#9282 (49d5ce5c)
 
