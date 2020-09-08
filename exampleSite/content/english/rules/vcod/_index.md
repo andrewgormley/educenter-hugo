@@ -75,13 +75,13 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 1\.6.6 – Before each game can start, the vcod.gg Referee should always ensure that both teams are ready. If one member of a team says that his team is ready, he is considered to speak for the whole team, regardless of his status in the clan.
 
-**1.5 – After the Match**
+**1.7 – After the Match**
 
-1\.5.1 – Either clan can post the result of a match, unless the other has already done so.
+1\.7.1 – Either clan can post the result of a match, unless the other has already done so.
 
-1\.5.2 – Clans are expected to have proof of their match being played for one week after the score has been confirmed.
+1\.7.2 – Clans are expected to have proof of their match being played for 48 hours after the score has been confirmed.
 
-1\.5.3 – Players who participated in an official match are expected to upload their Veritas files. Failure to do so or uploading the wrong files will lead to a forfeit loss and a yellow card for the player(s) in question.
+1\.7.3 – Players who participated in an official match are expected to upload their Veritas files. Failure to do so or uploading the wrong files will lead to a forfeit loss and a yellow card for the player(s) in question. In cases where the player experiences an unknown bug,the vcod.gg Admin, Supervisors and Conflict Team will decide on the next steps.
 
 **1.6 – Leaving**
 
