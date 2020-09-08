@@ -119,15 +119,15 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 * 1.9.41 – opfii1ee-supatroopa#8123 (28997e1d)
 * 1.9.42 – nana-steve#0802 (60a8a8ee)
 
-1\.7.4 – Only a referee from this list can be an official spectator. Anyone who falsely pretends to be a referee will receive a temporary ban from vcod.gg competitions.
+1\.9.5 – Only a vcod.gg Referee from this list can be an official spectator. Anyone who falsely pretends to be a vcod.gg Referee will receive a temporary ban from vcod.gg competitions.
 
-1\.7.5 – A referee should ensure the match is played according to the rules.
+1\.9.6 – A vcod.gg referee should ensure the match is played according to the rules.
 
-1\.7.6 – Clans have the right to refuse a referee, but must state a specific reason why. Admins and supervisors cannot be refused.
+1\.9.7 – Clans have the right to refuse a vcod.gg Referee, but must state a specific reason why. The vcod.gg Admin and Supervisors cannot be refused.
 
-1\.7.7 – If you think a referee has made an incorrect decision, then contact an admin or supervisor.
+1\.9.8 – If you think a vcod.gg Referee has made an incorrect decision, then contact the vcod.gg Admin or Supervisors.
 
-1\.7.8 – In case of no referee being available, ensure screenshots are kept of any rule breaking or violations; if you have a conflict, post a ticket via Discord.
+1\.9.9 – In case of no vcod.gg Referee being available, ensure screenshots are kept of any rule breaking or violations; if you have a conflict, post a ticket via Discord.
 
 #### **2. Server Rules**
 
