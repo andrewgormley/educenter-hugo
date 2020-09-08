@@ -83,17 +83,17 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 1\.7.3 – Players who participated in an official match are expected to upload their Veritas files. Failure to do so or uploading the wrong files will lead to a forfeit loss and a yellow card for the player(s) in question. In cases where the player experiences an unknown bug,the vcod.gg Admin, Supervisors and Conflict Team will decide on the next steps.
 
-**1.6 – Leaving**
+**1.8 – Leaving**
 
-1\.6.1 – Clans which leave the competition or are removed for 2 no-shows/forfeits are likely to be excluded from future competitions.
+1\.8.1 – Clans which leave the competition or are removed for 2 no-shows/forfeits are likely to be excluded from future competitions.
 
-1\.6.2 – Reconnecting during the match without any valid reason is not allowed and will result in a yellow card and forfeit of the round.
+1\.8.2 – Reconnecting during the match without any valid reason is not allowed and will result in a yellow card and forfeit of the round.
 
-1\.6.3 – If a player drops connection because of a technical error, the match must be paused. You can call a time out by typing "/matchtimeout" in the console. A pause can only be made when a round has started or finished.
+1\.8.3 – If a player drops connection because of a technical error, the match must be paused. You can call a time out by typing "/matchtimeout" in the console. A pause can only be made when a round has started or finished.
 
-1\.6.4 – The maximum time you can pause for is 5 minutes. After this time, the match will resume. The maximum total pause time is 5 minutes per map, per team. You do not need a reason to call a time-out.
+1\.8.4 – The maximum time you can pause for is 5 minutes. After this time, the match will resume. The maximum total pause time is 5 minutes per map, per team. You do not need a reason to call a time-out.
 
-1\.6.5 – In extreme cases, it can be agreed for teams to have an extra 5 minutes to resolve issues.
+1\.8.5 – In extreme cases, it can be agreed for teams to have an extra 5 minutes to resolve issues.
 
 **1.7 – vCoD.gg Organisation**
 
