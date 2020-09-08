@@ -315,7 +315,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 6\.2.3 – All binds/scripts that are not covered above will be reviewed on a case-by-case basis to see if they do give an advantage.
 
-6\.2.4 – Any abuse of the two monitor bug will be reviewed case-by-case by the cup supervisors and conflict team. You should avoid using this bug at all costs, as it may result in the player receiving a yellow card and the clan forfeiting the match.
+6\.2.4 – Any abuse of the two monitor bug will be reviewed case-by-case by the cup vcod.gg Admin, Supervisors and Conflict Team. You should avoid using this bug at all costs, as it may result in the player receiving a yellow card and the clan forfeiting the match.
 
 **6.3 – Match Conflicts**
 
