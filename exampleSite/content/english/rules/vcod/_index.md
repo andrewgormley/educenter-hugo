@@ -43,15 +43,15 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 1\.2.1 – vcod.gg reserves the right to broadcast every match.
 
-1\.2.2 – Spectating during an official match is not allowed unless you are an official vcod.gg admin, supervisor, referee or streamer. Should any spectator join who is not allowed, the game should be immediately paused whilst the spectator is removed from the server.
+1\.2.2 – Spectating during an official match is not allowed unless you are an official vcod.gg Admin, Supervisor, Referee or Streamer. Should any spectator join who is not allowed, the game should be immediately paused whilst the spectator is removed from the server.
 
 1\.2.3 – Admins have the right to teamview any player during the match.
 
-**1.3 – Arranging Matches – Long Cups**
+**1.3 – Arranging Matches – Cups**
 
 1\.3.1 – Matches can be played from Monday through to the following Monday, 22:00 CET. If you cannot find an agreement with the enemy team, the match will be automatically set for the Sunday at 20:00 CET.
 
-1\.4 **– Arranging Matches – Weekend Cups**
+1\.4 **– Arranging Matches – Division Series**
 
 1\.4.1 – Matches will be played from Saturday, 13:00 CET through to Sunday 23:00 CET. If you cannot find an agreement with the enemy team, the match will be automatically set on the tournament page.
 
