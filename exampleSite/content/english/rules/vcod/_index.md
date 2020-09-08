@@ -71,9 +71,9 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 1\.6.4 – Players listed with an EYE will be teamviewed upon entering the game. Anyone refusing to be teamviewed will not be allowed to participate.
 
-1\.6.5 – An admin, supervisor or referee should teamview EYE players upon entering the game. In case admins, supervisors or referees are unavailable, the opposing clan admin will be allowed to teamview their opponent's EYE players onto the server.
+1\.6.5 – A vcod.gg Admin, Supervisor or Referee should TeamView EYE players upon entering the game. In case the vcod.gg Admin, Supervisors or Referees are unavailable, the opposing Clan's Admin will be allowed to TeamView their opponent's EYE players onto the server.
 
-1\.6.6 – Before each game can start, the server admin should always ensure that both teams are ready. If one member of a team says that his team is ready, he is considered to speak for the whole team, regardless of his status in the clan.
+1\.6.6 – Before each game can start, the vcod.gg Referee should always ensure that both teams are ready. If one member of a team says that his team is ready, he is considered to speak for the whole team, regardless of his status in the clan.
 
 **1.5 – After the Match**
 
