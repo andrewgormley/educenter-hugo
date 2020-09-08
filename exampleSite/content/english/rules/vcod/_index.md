@@ -139,7 +139,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 2\.1.3 – All players will need the latest PunkBuster folder, which can be downloaded at: [**https://www.sendspace.com/file/6t8otf**](https://www.sendspace.com/file/6t8otf "https://www.sendspace.com/file/6t8otf").
 
-2\.1.4 – All matches must be played on the latest vcod.gg PAM, which can be downloaded at: ???. Teams can refuse to play on a server if the vcod.gg ruleset has been edited. 
+2\.1.4 – All matches must be played on the latest vcod.gg PAM, which can be downloaded at: ???. Teams can refuse to play on a server if the vcod.gg ruleset has been edited.
 
 2\.1.5 – To properly configure vcod.gg PAM for competition settings, use the following command: "/rcon pam_mode vcodgg_match" (default mode for all cup matches) and "/rcon pammode vcodgg_night" (default mode for all division series competitions).
 
@@ -168,9 +168,9 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 3\.1.4 – A clan can only register new players throughout the group stage as long as they have not signed up for another team. Swapping clans throughout the tournament is not allowed.
 
-3\.1.5 – Players always have to be easily identifiable to the admins, supervisors, referees and opponents. Therefore, players must use the nicknames registered on the website or nicks which are very similar.
+3\.1.5 – Players always have to be easily identifiable to the vcod.gg Admin, Supervisors, Referees and opponents. Therefore, players must use the nicknames registered on the website or nicks which are very similar.
 
-3\.1.6 – Clans have the right to refuse a player from participating if the GUID does not match what is registered on the website. In cases where the there is a slight mistake in the registered GUID, admins will decide on next steps to avoid conflicts.
+3\.1.6 – Clans have the right to refuse a player from participating if the GUID does not match what is registered on the website. In cases where the there is a slight mistake in the registered GUID, the vcod.gg Admin will decide on next steps to avoid conflicts.
 
 3\.1.7 – To show the GUIDs of all players in a match, open your console and type: “/pb_plist” or “/pb_power”.
 
