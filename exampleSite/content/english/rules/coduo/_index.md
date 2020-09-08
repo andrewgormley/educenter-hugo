@@ -141,7 +141,6 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 2\.1.9 – Default servers have been provided for the competition. These should be used if teams cannot agree on a server or if there are any ping issues:
 
 * /c
-* 
 
 #### **3. Client Rules**
 
