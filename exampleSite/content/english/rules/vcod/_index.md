@@ -57,7 +57,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 1\.5 **–** **Arranging Matches – General**
 
-1\.5.1 – Matches should be arranged by sending a personal message on Discord to a clan's admin.
+1\.5.1 – Matches should be arranged by sending a personal message on Discord to a Clan's Admin.
 
 1\.5.2 – When both clans agree not to play a match, it can be cancelled for any reason after the scheduled starting time, only if the match can still be completed in the scheduled game week or weekend.
 
