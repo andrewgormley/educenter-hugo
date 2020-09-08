@@ -58,13 +58,13 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 1\.6.2 – If you have still not managed to get in touch with your opponent 15 minutes after the scheduled starting time of the match, you can fill in a no-show.
 
-1\.6.3 – Matches can only start if a referee is present (unless both teams agree to play without).
+1\.6.3 – Matches can only start if a vcod.gg Referee is present (unless both teams agree to play without).
 
 1\.6.4 – Players listed with an EYE will be teamviewed upon entering the game. Anyone refusing to be teamviewed will not be allowed to participate.
 
 1\.6.5 – A vcod.gg Admin, Supervisor or Referee should TeamView EYE players upon entering the game. In case the vcod.gg Admin, Supervisors or Referees are unavailable, the opposing Clan's Admin will be allowed to TeamView their opponent's EYE players onto the server.
 
-1\.6.6 – Before each game can start, the Referee should always ensure that both teams are ready. If one member of a team says that his team is ready, he is considered to speak for the whole team, regardless of his status in the clan.
+1\.6.6 – Before each game can start, the vcod.gg Referee should always ensure that both teams are ready. If one member of a team says that his team is ready, he is considered to speak for the whole team, regardless of his status in the clan.
 
 **1.7 – After the Match**
 
