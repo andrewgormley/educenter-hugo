@@ -26,7 +26,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 1\.1.5 – Abusive behaviour towards a vcod.gg Admin, Supervisor, Referee or opponent, at any time during the competition is not acceptable. If the abusive behaviour is severe, then a vcod.gg Admin has the right to punish with a temporary or permanent ban from the competition.
 
-1\.1.6 – The clan leader is responsible for his/her own members to know, understand and follow the rules.
+1\.1.6 – The Clan Leader is responsible for his/her own members to know, understand and follow the rules.
 
 1\.1.7 – If a player is banned by PunkBuster during a match, the match will end immediately, and the opposing team will receive a forfeit win; please take a screenshot for evidence.
 
