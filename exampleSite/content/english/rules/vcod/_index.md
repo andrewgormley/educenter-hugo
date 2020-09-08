@@ -51,29 +51,29 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 1\.3.1 – Matches can be played from Monday through to the following Monday, 22:00 CET. If you cannot find an agreement with the enemy team, the match will be automatically set for the Sunday at 20:00 CET.
 
-1\.4 **– Arranging Matches – Division Series**
+**1.4** **– Arranging Matches – Division Series**
 
 1\.4.1 – Matches will be played from Saturday, 13:00 CET through to Sunday 23:00 CET. If you cannot find an agreement with the enemy team, the match will be automatically set on the tournament page.
 
-1\.5 **–** **Arranging Matches – General**
+**1.5** **–** **Arranging Matches – General**
 
 1\.5.1 – Matches should be arranged by sending a personal message on Discord to a Clan's Admin.
 
 1\.5.2 – When both clans agree not to play a match, it can be cancelled for any reason after the scheduled starting time, only if the match can still be completed in the scheduled game week or weekend.
 
-**1.4 – Before the Match**
+**1.6 – Before the Match**
 
-1\.4.1 – To find your opponent before a match, you should look on the website and add them on Discord.
+1\.6.1 – To find your opponent before a match, you should look on the website and add them on Discord.
 
-1\.4.2 – If you have still not managed to get in touch with your opponent 15 minutes after the scheduled starting time of the match, you can fill in a no-show.
+1\.6.2 – If you have still not managed to get in touch with your opponent 15 minutes after the scheduled starting time of the match, you can fill in a no-show.
 
-1\.4.3 – Matches can only start if a referee is present (unless both teams agree to play without).
+1\.6.3 – Matches can only start if a vcod.gg Referee is present (unless both teams agree to play without).
 
-1\.4.4 – Players listed with an EYE will be teamviewed upon entering the game. Anyone refusing to be teamviewed will not be allowed to participate.
+1\.6.4 – Players listed with an EYE will be teamviewed upon entering the game. Anyone refusing to be teamviewed will not be allowed to participate.
 
-1\.4.5 – An admin, supervisor or referee should teamview EYE players upon entering the game. In case admins, supervisors or referees are unavailable, the opposing clan admin will be allowed to teamview their opponent's EYE players onto the server.
+1\.6.5 – An admin, supervisor or referee should teamview EYE players upon entering the game. In case admins, supervisors or referees are unavailable, the opposing clan admin will be allowed to teamview their opponent's EYE players onto the server.
 
-1\.4.6 – Before each game can start, the server admin should always ensure that both teams are ready. If one member of a team says that his team is ready, he is considered to speak for the whole team, regardless of his status in the clan.
+1\.6.6 – Before each game can start, the server admin should always ensure that both teams are ready. If one member of a team says that his team is ready, he is considered to speak for the whole team, regardless of his status in the clan.
 
 **1.5 – After the Match**
 
