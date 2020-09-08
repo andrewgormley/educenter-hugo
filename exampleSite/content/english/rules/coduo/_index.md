@@ -208,7 +208,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 4\.2.5 – If a clan does not ready up in time after side or map change, it will lead to forfeiting rounds and eventually a forfeit loss for the violating clan.
 
-4\.2.6 – In total, all 8 teams will progress into the knockout stage. Teams which finish in first position will face off against teams which finish in fourth position of opposing groups. Teams which finish in second position will face off against teams which finish in third position of opposing groups.
+4\.2.6 – In total, all 8 teams will progress into the knockout stage. 
 
 **4.3 – Match Rules - Division Series**
 
