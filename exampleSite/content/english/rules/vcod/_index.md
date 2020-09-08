@@ -180,15 +180,15 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 3\.2.2 – Each player is responsible for making sure they are running Veritas during the match. Open console and type: “/echo !info” to ensure Veritas is taking screenshots. We recommend you check this at least twice per side of a map.
 
-3\.2.3 – If a player closes Veritas during the match, the player will receive a yellow card and the clan will forfeit the match. In cases where the player experiences an unknown bug, cup supervisors and the conflict team will decide on the next steps.
+3\.2.3 – If a player closes Veritas during the match, the player will receive a yellow card and the clan will forfeit the match. In cases where the player experiences an unknown bug, the vcod.gg Admin, Supervisors and Conflict Team will decide on the next steps.
 
 3\.2.4 – If a player crashes during the match, he must re-join Veritas immediately. Clans can use the following command: “/matchtimeout” at the start of the round to allow players to reconnect to Veritas.
 
-3\.2.5 – Screenshots from ALL players must be uploaded after each match. Screenshots not uploaded 48 hours after a match will result in the player receiving a yellow card and the clan forfeiting the match. In cases where the player experiences an unknown bug, cup supervisors and the conflict team will decide on the next steps.
+3\.2.5 – Screenshots from ALL players must be uploaded after each match. Screenshots not uploaded 48 hours after a match will result in the player receiving a yellow card and the clan forfeiting the match. In cases where the player experiences an unknown bug, the vcod.gg Admin, Supervisors and Conflict Team will decide on the next steps.
 
-3\.2.6 – Players should be using the “/echo !info” command to ensure Veritas is still taking screenshots. It is not acceptable for a player to be missing Veritas screenshots if no attempt was made to ensure Veritas was running throughout the match. In cases where the player experiences an unknown bug, cup supervisors and the conflict team will decide on the next steps.
+3\.2.6 – Players should be using the “/echo !info” command to ensure Veritas is still taking screenshots. It is not acceptable for a player to be missing Veritas screenshots if no attempt was made to ensure Veritas was running throughout the match. In cases where the player experiences an unknown bug, the vcod.gg Admin, Supervisors and Conflict Team will decide on the next steps.
 
-3\.2.7 – If your Veritas crashes at the end of the match, the player in question must contact the cup admin immediately.
+3\.2.7 – If your Veritas crashes at the end of the match, the player in question must contact the vcod.gg Admin immediately.
 
 #### **4. Competition Rules**
 
