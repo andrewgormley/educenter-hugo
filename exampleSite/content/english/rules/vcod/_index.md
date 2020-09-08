@@ -224,7 +224,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 4\.2.5 – If a clan does not ready up in time after side or map change, it will lead to forfeiting rounds and eventually a forfeit loss for the violating clan.
 
-4\.2.6 – In total, 8 teams will progress into the knockout stage. The top 3 from group A will automatically progress with the top 2 teams from groups B and C. The final place in the knockout stage will go to the best 3rd placed team from groups B and C.
+4\.2.6 – In total, 8 teams will progress into the knockout stage. 
 
 **4.3 – Match Rules - Weekend Cups**
 
