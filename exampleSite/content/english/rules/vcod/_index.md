@@ -319,15 +319,15 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 **6.3 – Match Conflicts**
 
-6\.3.1 – The match conflict system functions as a court room with cup supervisors and conflict team acting as judges. A match conflict can be made on Discord when the result entered by one clan is not accepted by the other.
+6\.3.1 – The match conflict system functions as a court room with vcod.gg Admin, Supervisors and Conflict Team acting as judges. A match conflict can be made on Discord when the result entered by one clan is not accepted by the other.
 
 6\.3.2 – In the conflict, both sides must explain the problem in a short but clear and complete way. Both sides should state the match result they claim, and only relevant and proven facts may be mentioned.
 
-6\.3.3 – All proof and information on the match should be written within the ticket posted on Discord.
+6\.3.3 – All proof and information on the match should be written within the ticket posted in the #vcod_conflicts board on Discord.
 
-6\.3.4 – Examples of valid proof are: demos, in-game screenshots and server logs that were obtained from a neutral party. If a demo is used as proof of cheating or other malicious actions, you must specify the exact moment(s) (down to the exact minute and second) where the cheating occurred, or you will get a conflict loss. Admins, supervisors and the conflict team will not look at entire demos.
+6\.3.4 – Examples of valid proof are: demos, in-game screenshots and server logs that were obtained from a neutral party. If a demo is used as proof of cheating or other malicious actions, you must specify the exact moment(s) (down to the exact minute and second) where the cheating occurred, or you will get a conflict loss. The vcod.gg Admin, Supervisors and the Conflict Team will not look at entire demos.
 
-6\.3.5 – If a clan does not give any new relevant information within 2 days (48 hours) since the last reply, it will be considered they have nothing more to add.
+6\.3.5 – If a clan does not give any new relevant information within 48 hours since the last reply, it will be considered they have nothing more to add.
 
 #### **7. Disallowed Jumps and Exploits**
 
