@@ -58,3 +58,5 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * **the2gaming – f4KL#7044:** f4KL-**EYE** (abe343dd), DzR (6eb98274), vanja (d0737ecd), hepsio-**EYE** (b9b98af2), h (5e83660f), motya (418fd8f6)
 * **Defying Logics – razRR#9282:** razRR (49d5ce5c), rONOx (876cc5c5), tanek-**EYE** (45395642), n00bster (cf6f35f6), ED-**EYE** (64bd15c5), Shuya (34902b76), 1ceyyy (7a5a1c92), faa1th (df4ace91), fzU (64eca371)
 * **EURO – Explode#9497:** Explode-**EYE** (2ebeed51), reazon (7e240cf1), fantasy-**EYE** (4dca5c58), extence-**EYE** (e3fdfb11), buzah-**EYE** (919bc974), oane (3c94a672), rapidzjeh-**EYE** (597c3c5c)
+* **barbeque - K33NB34N#3227:** Masi (37740bfa), Crawler (38c4b307), iradexz (1ea998ee), dusty (78218880), Owner (668af291), skz (5fc35d87)
+* **LS#1 - Arctic#8016:** Arctic (a5f144e7), bananamessi2pwn (22b45e3b), Mike (c12eb04e), Fade (6a31cd93), ARTILLERY (69ab25e8), rapidzjEh (597c3c5c), d1ver (031dcb59), reZ (264b492b), rOb (2e8adb13)
