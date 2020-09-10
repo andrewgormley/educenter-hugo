@@ -94,7 +94,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 **Results – Group B:**
 
 * fatality vs fpS::: \~ Powcamp & Depot
-* brn'pwr| vs inferno - \~ Powcamp & Depot
+* brn'pwr| \[13\] vs \[21\] inferno - \~ [Powcamp](https://i.imgur.com/KQ4bLGM.jpg) & [Depot](https://i.imgur.com/9XxQMRo.jpg)
 * fpS::: vs inferno - \~ Harbor & UO_Powcamp
 * brn'pwr| vs fatality \~ Harbor & UO_Powcamp
 * fatality vs inferno - \~ Sicily & Arnhem
