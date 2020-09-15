@@ -44,7 +44,7 @@ We are pleased to announce that the registration for season #1 of our weekend di
 
 **Players:** You will need to include the GUIDs of your players when registering. We are not accepting teams with missing GUIDs.
 
-**Anti-Cheat:** Vertias 2.0.4.
+**Anti-Cheat:** Veritas 2.0.4.
 
 **Stream:** [**https://www.twitch.tv/vcodgg**](https://www.twitch.tv/vcodgg).
 
