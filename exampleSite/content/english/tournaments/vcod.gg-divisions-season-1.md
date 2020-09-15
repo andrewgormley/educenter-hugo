@@ -61,3 +61,4 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * **barbeque – K33NB34N#3227:** Masi (37740bfa), Crawler (38c4b307), iradexz-**EYE** (1ea998ee), dusty (78218880), Owner (668af291), skz-**EYE** (5fc35d87)
 * **LS#1 – Arctic#8016:** Arctic (a5f144e7), nana-**EYE** (22b45e3b), Mike (c12eb04e), Fade (6a31cd93), ARTILLERY (69ab25e8), rapidzjEh-**EYE** (597c3c5c), d1ver (031dcb59), reZ (264b492b), rOb-**EYE** (2e8adb13)
 * **inferno – Vicious#3515:** Vic (bb9b4c66), Toeter (83d20754), ax1fer (0f363765), Efxtive (9a4e41b1), taLent (85e9a760), juicy (84fd71a3), Cliste (9d3a3054), Quickshot (c0e89b5d), Psyho (0fcef38e), AKIM (db5d820a)
+* **ninja – ppengu#5338:** ppengu (368ad09c), MORTEK-**EYE** (a029ca98), Dieharder (3c46881f), Coldbolt (9c1eb544), fe@r-**EYE** (e81bc4f3), Livez (389122cb)
