@@ -56,7 +56,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 * **germanite – xa1ruZ#6662:** Tim (98ae2a96), Julian (c9b894d4), Wladi (c980a809), Alex (e4c12abe), Sean (513e3892), Thomas (37748725), Dom (d61a3292), Andy (fa2af41b), Paddy-**EYE** (b1863fe5), Kai (a1b2233c), Patrick (7d2118e5)
 * **the2gaming – f4KL#7044:** f4KL-**EYE** (abe343dd), DzR (6eb98274), vanja (d0737ecd), hepsio-**EYE** (b9b98af2), h (5e83660f), motya (418fd8f6)
-* **Defying Logics – razRR#9282:** razRR (49d5ce5c), rONOx (876cc5c5), tanek-**EYE** (45395642), n00bster (cf6f35f6), ED-**EYE** (64bd15c5), Shuya (34902b76), 1ceyyy (7a5a1c92), faa1th (df4ace91), fzU (64eca371), faa1th (5a09d0f7)
+* **Defying Logics – razRR#9282:** razRR (49d5ce5c), rONOx (876cc5c5), tanek-**EYE** (45395642), n00bster (cf6f35f6), ED-**EYE** (64bd15c5), Shuya (34902b76), 1ceyyy (7a5a1c92), faa1th (df4ace91), fzU (64eca371)
 * **EURO – Explode#9497:** Explode-**EYE** (2ebeed51), reazon (7e240cf1), fantasy-**EYE** (4dca5c58), extence-**EYE** (e3fdfb11), buzah-**EYE** (919bc974), oane (3c94a672), sk4vs (2d03bccc), Roalty (d078917)
 * **barbeque – K33NB34N#3227:** Masi (37740bfa), Crawler (38c4b307), iradexz-**EYE** (1ea998ee), dusty (78218880), Owner (668af291), skz-**EYE** (5fc35d87)
 * **LS#1 – Arctic#8016:** Arctic (a5f144e7), nana-**EYE** (22b45e3b), Mike (c12eb04e), Fade (6a31cd93), ARTILLERY (69ab25e8), rapidzjEh-**EYE** (597c3c5c), d1ver (031dcb59), reZ (264b492b), rOb-**EYE** (2e8adb13)

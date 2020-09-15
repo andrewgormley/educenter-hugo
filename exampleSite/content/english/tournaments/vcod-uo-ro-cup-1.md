@@ -71,7 +71,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 * **iMMORTALiS – stvno#6559:** STVNO (5c31691a), Daxi (83ce0a65), SLy (9abf4bfc), CobR4csKa (f6ce5389), L1MEWAX (efce3002), BAVARI (2fa07d99), cartz (e9db4020), camel-**EYE** (267411e0)
 * **fatality – supatroopa#8123:** opfii1ee (28997e1d), mskr (41ef065a), prm-**EYE** (3ac7ce54), reazon (adaf2f77), qT (f53b116d), VENXZRR (3af0ce85), Cillian (f8a704dc)
-* **Defying Logics** **– razRR#9282:** razRR (a052b8f1), 1ceyyy (43a0c885), n00bster (6ab256b9), tanek (3d582a16), fzU (803e93af), dream (821129fd)
+* **Defying Logics** **– razRR#9282:** razRR (a052b8f1), 1ceyyy (43a0c885), n00bster (6ab256b9), tanek (3d582a16), fzU (803e93af), dream (821129fd), faa1th (5a09d0f7)
 * **Boeren Power – BASSIE#6994:** BASSIE-**EYE** (cc96212b), Dikke Muj (9f4f0a3c), Fr1tuur (c4cae07d), Gerlo (086d14e3), Sharp (4384d104), e1kk1p-**EYE** (dd553f0c)
 * **UNDERDOGZ – K33NB34N#3227:** dusty (31f6ae23), PAKSENBURG (428267a7), nana-**EYE** (60a8a8ee), owner (f5fbe5c2), donkey-**EYE** (7522147e), achilleS (C4134760), iradexz-**EYE** (82bc0a52), FLAAASH (52b8e802)
 * **inferno – Explode#9497:** Explode (58125759), Toeter (bc32086c), Walrus (8bfb3a32), Efxtive (49d5d456), extence-**EYE** (09376868), rapidzjeh-**EYE** (529bd87c), Roalty (b2eaf5ad), Juicy (e47cd409), skz-**EYE** (98b8ed17)
