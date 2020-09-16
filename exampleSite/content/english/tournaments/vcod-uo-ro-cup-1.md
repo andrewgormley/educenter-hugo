@@ -102,6 +102,6 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Standings:**
 
-![](/images/uogroupa.PNG)
+![](/images/uoanew1.PNG)
 
-![](/images/uogroupb1.PNG)
+![](/images/uobnew1.PNG)
