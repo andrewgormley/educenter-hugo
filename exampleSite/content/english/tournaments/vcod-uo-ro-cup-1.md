@@ -85,7 +85,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 **Results – Group A:**
 
 * intuitive - \[12\] vs \[21\] UNDERDOGZ \~ [Powcamp](https://i.imgur.com/JDtBdCC.jpg) & [Depot](https://i.imgur.com/w5FEjd9.jpg)
-* d\`logics. \[21\] vs \[03\] iMMORTALiS* \~ [Powcamp]() & Depot
+* d\`logics. \[21\] vs \[03\] iMMORTALiS* \~ [Powcamp](https://i.imgur.com/p46J1iC.jpg) & [Depot](https://i.imgur.com/cbTO7Kj.jpg)
 * UNDERDOGZ vs iMMORTALiS* \~ Harbor & UO_Powcamp
 * d\`logics. vs intuitive - \~ Harbor & UO_Powcamp
 * intuitive - vs iMMORTALiS* \~ Sicily & Arnhem
