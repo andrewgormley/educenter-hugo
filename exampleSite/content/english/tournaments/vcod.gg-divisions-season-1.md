@@ -68,32 +68,31 @@ If you are clanless and looking for a team, then head over to the Community Disc
 **Suggested Schedule:**
 
 ![](/images/s1sched.PNG)  
-**Results - Group A:**
+**Results – Diamnd – Week 1:**
 
-* aNimus \` \[22\] - 18\] USH \~ [Harbor](https://i.imgur.com/AHk50rx.png) & [Neuville](https://i.imgur.com/VJQ2W0v.jpg)
-* LS. Elite \[23\] - \[17\] USH \~ [Harbor](https://i.imgur.com/uNEfhd9.png) & [Neuville](https://i.imgur.com/lf2zg0Z.png)
-* LS. Elite \[21\] - \[19\] barbeque \~ [Hurtgen](https://i.imgur.com/0fhiOXS.png) & [Carentan](https://i.imgur.com/YaPE0fy.png)
-* aNimus \` \[18\] - \[22\] barbeque \~ [Hurtgen](https://i.imgur.com/EFFxL6d.jpg) & [Carentan](https://i.imgur.com/VtN3QKM.jpg)
-* barbeque \[22\] - \[18\] USH \~ [Dawnville](https://i.imgur.com/cRX1gXO.jpg) + [Railyard](https://i.imgur.com/MvCzE9k.jpg)
-* LS. Elite \[24\] - \[16\] aNimus \` \~ [Pavlov](https://i.imgur.com/ZbzhF4K.jpg) + [Tigertown](https://i.imgur.com/sf1lIbp.jpg)
+* barbeque vs LS#1 \~ Carentan
+* d\`logics. vs fatality \~ Carentan
+* barbeque vs d\`logics. \~ Harbor
+* fatality vs EURO \~ Harbor
+* barbeque vs fatality \~ Brecourt
+* LS#1 vs EURO \~ Brecourt
+* barbeque vs EURO \~ Dawnville
+* LS#1 vs d\`logics. \~ Dawnville
+* LS#1 vs fatality \~ Pavlov
+* d\`logics. vs EURO \~ Pavlov
 
-**Results - Group B:**
+**Results – Gold – Week 1:**
 
-* ge/2manite \[25\] - \[15\] #BraVo \~ [Harbor](https://i.imgur.com/v6JGtz7.jpg) & [Neuville](https://i.imgur.com/eIixRHL.jpg)
-* #AFFECTO \[33\] - \[07\] LS. Ballbags \~ [Harbor](https://i.imgur.com/pPRvIDJ.jpg) & [Neuville](https://i.imgur.com/TwTE3ld.jpg)
-* ge/2manite \[29\] - \[11\] LS. Ballbags \~ [Hurtgen](https://i.imgur.com/gRjjxYy.jpg) & [Carentan](https://i.imgur.com/rtjYmNe.jpg)
-* #BraVo \[11\] - \[29\] #AFFECTO \~ [Hurtgen](https://i.imgur.com/XOZVIGZ.jpg) & [Carentan](https://i.imgur.com/8tWdIHh.jpg)
-* ge/2manite \[08\] - \[21\] #AFFECTO \~ [Dawnville](https://i.imgur.com/fxfDeQb.jpg) & [Railyard](https://i.imgur.com/XB4xoSW.jpg)
-* #Bravo \[24\] - \[16\] LS. Ballbags \~ [Dawnville](https://i.imgur.com/Tk7OiV3.jpg) & [Railyard](https://i.imgur.com/LEpiCts.jpg)
-
-**Results - Group C:**
-
-* EURO Alpha \[30\] - \[10\] EURO Bravo \~ [Harbor](https://i.imgur.com/WdkGSRa.jpg) & [Neuville](https://i.imgur.com/o8gUNEX.jpg)
-* d\`logics. \[26\] - \[14\] ^MiS \~ [Harbor](https://i.imgur.com/itviaMj.jpg) & [Neuville](https://i.imgur.com/m49eFIw.jpg)
-* EURO Alpha \[09\] - \[31\] ^MiS \~ [Hurtgen](https://i.imgur.com/ThCJe6e.jpg) & [Carentan](https://i.imgur.com/ViGoCzu.jpg)
-* EURO Bravo \[10\] - \[30\] d\`logics. \~ [Hurtgen](https://i.imgur.com/MhmopH0.jpg) & [Carentan](https://i.imgur.com/26IyOmC.jpg)
-* EURO Alpha \[15\] - \[25\] d\`logics. \~ [Dawnville](https://i.imgur.com/egy4fIw.jpg) & [Railyard](https://i.imgur.com/ll5mrXL.jpg)
-* EURO Bravo \[08\] - \[32\] ^MiS \~ [Dawnville](https://i.imgur.com/WXUhSrA.jpg) & [Railyard](https://i.imgur.com/NN0LbRH.jpg)
+* the2gaming vs intuitive - \~ Carentan
+* ninja / vs inferno - \~ Carentan
+* the2gaming vs ninja / \~ Harbor
+* inferno  vs lobiiX \~ Harbor
+* the2gaming vs inferno  \~ Brecourt
+* intuitive - vs lobiiX \~ Brecourt
+* the2gaming vs lobiiX \~ Dawnville
+* intuitive - vs ninja / \~ Dawnville
+* intuitive - vs inferno  \~ Pavlov
+* ninja / vs lobiiX \~ Pavlov
 
 **Standings:**
 
