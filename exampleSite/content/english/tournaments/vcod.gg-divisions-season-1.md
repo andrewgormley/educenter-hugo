@@ -64,3 +64,37 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * **ninja – ppengu#5338:** ppengu (368ad09c), Sam Fisher-**EYE** (a029ca98), Dieharder (3c46881f), Coldbolt (9c1eb544), Sensei-**EYE** (e81bc4f3), Livez (389122cb)
 * **intuitive – T1MSKE#1859:** t1MSKE-**EYE** (0f5eaefe), aluM-**EYE** (90e5682a), Anglhz-**EYE** (0b3c46f3), oane (3c94a672), Virax-**EYE** (9a8b5a02), PELE (8e11b236)
 * **lobiiX – POPO_DD#9118:** JANNUSZZZ (505373f9), bASSIE-**EYE** (cc96212b), dEVIN (3ab091be) JDX-**EYE** (035652eb), WhiteShadow (fbb05bed), Portiss (1f9e4109), Windje (59f1df04)
+
+**Suggested Schedule:**
+
+![](/images/s1sched.PNG)  
+**Results - Group A:**
+
+* aNimus \` \[22\] - 18\] USH \~ [Harbor](https://i.imgur.com/AHk50rx.png) & [Neuville](https://i.imgur.com/VJQ2W0v.jpg)
+* LS. Elite \[23\] - \[17\] USH \~ [Harbor](https://i.imgur.com/uNEfhd9.png) & [Neuville](https://i.imgur.com/lf2zg0Z.png)
+* LS. Elite \[21\] - \[19\] barbeque \~ [Hurtgen](https://i.imgur.com/0fhiOXS.png) & [Carentan](https://i.imgur.com/YaPE0fy.png)
+* aNimus \` \[18\] - \[22\] barbeque \~ [Hurtgen](https://i.imgur.com/EFFxL6d.jpg) & [Carentan](https://i.imgur.com/VtN3QKM.jpg)
+* barbeque \[22\] - \[18\] USH \~ [Dawnville](https://i.imgur.com/cRX1gXO.jpg) + [Railyard](https://i.imgur.com/MvCzE9k.jpg)
+* LS. Elite \[24\] - \[16\] aNimus \` \~ [Pavlov](https://i.imgur.com/ZbzhF4K.jpg) + [Tigertown](https://i.imgur.com/sf1lIbp.jpg)
+
+**Results - Group B:**
+
+* ge/2manite \[25\] - \[15\] #BraVo \~ [Harbor](https://i.imgur.com/v6JGtz7.jpg) & [Neuville](https://i.imgur.com/eIixRHL.jpg)
+* #AFFECTO \[33\] - \[07\] LS. Ballbags \~ [Harbor](https://i.imgur.com/pPRvIDJ.jpg) & [Neuville](https://i.imgur.com/TwTE3ld.jpg)
+* ge/2manite \[29\] - \[11\] LS. Ballbags \~ [Hurtgen](https://i.imgur.com/gRjjxYy.jpg) & [Carentan](https://i.imgur.com/rtjYmNe.jpg)
+* #BraVo \[11\] - \[29\] #AFFECTO \~ [Hurtgen](https://i.imgur.com/XOZVIGZ.jpg) & [Carentan](https://i.imgur.com/8tWdIHh.jpg)
+* ge/2manite \[08\] - \[21\] #AFFECTO \~ [Dawnville](https://i.imgur.com/fxfDeQb.jpg) & [Railyard](https://i.imgur.com/XB4xoSW.jpg)
+* #Bravo \[24\] - \[16\] LS. Ballbags \~ [Dawnville](https://i.imgur.com/Tk7OiV3.jpg) & [Railyard](https://i.imgur.com/LEpiCts.jpg)
+
+**Results - Group C:**
+
+* EURO Alpha \[30\] - \[10\] EURO Bravo \~ [Harbor](https://i.imgur.com/WdkGSRa.jpg) & [Neuville](https://i.imgur.com/o8gUNEX.jpg)
+* d\`logics. \[26\] - \[14\] ^MiS \~ [Harbor](https://i.imgur.com/itviaMj.jpg) & [Neuville](https://i.imgur.com/m49eFIw.jpg)
+* EURO Alpha \[09\] - \[31\] ^MiS \~ [Hurtgen](https://i.imgur.com/ThCJe6e.jpg) & [Carentan](https://i.imgur.com/ViGoCzu.jpg)
+* EURO Bravo \[10\] - \[30\] d\`logics. \~ [Hurtgen](https://i.imgur.com/MhmopH0.jpg) & [Carentan](https://i.imgur.com/26IyOmC.jpg)
+* EURO Alpha \[15\] - \[25\] d\`logics. \~ [Dawnville](https://i.imgur.com/egy4fIw.jpg) & [Railyard](https://i.imgur.com/ll5mrXL.jpg)
+* EURO Bravo \[08\] - \[32\] ^MiS \~ [Dawnville](https://i.imgur.com/WXUhSrA.jpg) & [Railyard](https://i.imgur.com/NN0LbRH.jpg)
+
+**Standings:**
+
+![](/images/s1dia.PNG)
