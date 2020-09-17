@@ -98,3 +98,5 @@ If you are clanless and looking for a team, then head over to the Community Disc
 **Standings:**
 
 ![](/images/s1dia.PNG)
+
+![](/images/s1gold.PNG)
