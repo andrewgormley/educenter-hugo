@@ -63,3 +63,4 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * **inferno – Vicious#3515:** Vic (bb9b4c66), Toeter (83d20754), ax1fer (0f363765), Efxtive (9a4e41b1), taLent (85e9a760), juicy (84fd71a3), Cliste (9d3a3054), Quickshot (c0e89b5d), Psyho (0fcef38e), AKIM (db5d820a)
 * **ninja – ppengu#5338:** ppengu (368ad09c), Sam Fisher-**EYE** (a029ca98), Dieharder (3c46881f), Coldbolt (9c1eb544), Sensei-**EYE** (e81bc4f3), Livez (389122cb)
 * **intuitive – T1MSKE#1859:** t1MSKE-**EYE** (0f5eaefe), aluM-**EYE** (90e5682a), Anglhz-**EYE** (0b3c46f3), oane (3c94a672), Virax-**EYE** (9a8b5a02), PELE (8e11b236)
+* **lobiiX – POPO_DD#9118:** JANNUSZZZ (505373f9), bASSIE-**EYE** (cc96212b), dEVIN (3ab091be) JDX-**EYE** (035652eb), WhiteShadow (fbb05bed), Portiss (1f9e4109), Windje (59f1df04)
