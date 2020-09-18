@@ -60,7 +60,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * **EURO – Explode#9497:** Explode-**EYE** (2ebeed51), reazon (7e240cf1), fantasy-**EYE** (4dca5c58), extence-**EYE** (e3fdfb11), buzah-**EYE** (919bc974), sk4vs (2d03bccc), Roalty (d078917), Faberjayy (759eb2d5)
 * **barbeque – K33NB34N#3227:** Masi (37740bfa), Crawler (38c4b307), iradexz-**EYE** (1ea998ee), dusty (78218880), Owner (668af291), skz-**EYE** (5fc35d87), DonKey (2ded8475)
 * **LS#1 – Arctic#8016:** Arctic (a5f144e7), nana-**EYE** (22b45e3b), Mike (c12eb04e), Fade (6a31cd93), ARTILLERY (69ab25e8), rapidzjEh-**EYE** (597c3c5c), d1ver (031dcb59), reZ (264b492b), rOb-**EYE** (2e8adb13)
-* **inferno – Vicious#3515:** Vic (bb9b4c66), Toeter (83d20754), ax1fer (0f363765), Efxtive (9a4e41b1), taLent (85e9a760), juicy (84fd71a3), Cliste (9d3a3054), Quickshot (c0e89b5d), Psyho (0fcef38e), AKIM (db5d820a)
+* **inferno – Vicious#3515:** Vic (bb9b4c66), Toeter (83d20754), ax1fer (0f363765), Efxtive (9a4e41b1), taLent (85e9a760), juicy (84fd71a3), Cliste (9d3a3054), Quickshot (c0e89b5d), Psyho (0fcef38e), AKIM (db5d820a), ninja (78c8a62f)
 * **ninja – ppengu#5338:** ppengu (368ad09c), Sam Fisher-**EYE** (a029ca98), Dieharder (3c46881f), Coldbolt (9c1eb544), Sensei-**EYE** (e81bc4f3), Livez (389122cb)
 * **intuitive – T1MSKE#1859:** t1MSKE-**EYE** (0f5eaefe), aluM-**EYE** (90e5682a), Anglhz-**EYE** (0b3c46f3), oane (3c94a672), Virax-**EYE** (9a8b5a02), PELE (8e11b236)
 * **lobiiX – POPO_DD#9118:** JANNUSZZZ (505373f9), bASSIE-**EYE** (cc96212b), dEVIN (3ab091be) JDX-**EYE** (035652eb), WhiteShadow (fbb05bed), Portiss (1f9e4109), Windje (59f1df04)
