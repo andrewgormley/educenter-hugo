@@ -83,15 +83,15 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results – Gold – Week 1:**
 
-* the2gaming vs intuitive - \~ [Carentan](https://i.imgur.com/0ED0SgO.jpg)
+* the2gaming \[14\] vs \[08\] intuitive - \~ [Carentan](https://i.imgur.com/0ED0SgO.jpg)
 * ninja / vs inferno - \~ Carentan
 * the2gaming vs ninja / \~ Harbor
 * inferno  vs lobiiX \~ Harbor
-* the2gaming vs inferno - \~ [Brecourt](https://imgur.com/a/b3YghVx)
+* the2gaming \[14\] vs \[09\] inferno - \~ [Brecourt](https://imgur.com/a/b3YghVx)
 * intuitive - vs lobiiX \~ Brecourt
-* the2gaming vs lobiiX \~ [Dawnville](https://sun9-25.userapi.com/P_lNoMTZzN2tsITxRKK0qEGfLap_PSdUta0FaA/okoFOnRMaeM.jpg)
+* the2gaming \[13\] vs \[13\] lobiiX \~ [Dawnville](https://sun9-25.userapi.com/P_lNoMTZzN2tsITxRKK0qEGfLap_PSdUta0FaA/okoFOnRMaeM.jpg)
 * intuitive - vs ninja / \~ Dawnville
-* intuitive - vs inferno - \~ [Pavlov](https://i.imgur.com/mVUpREW.jpg)
+* intuitive - \[14\] vs \[03\] inferno - \~ [Pavlov](https://i.imgur.com/mVUpREW.jpg)
 * ninja / vs lobiiX \~ Pavlov
 
 **Standings:**
