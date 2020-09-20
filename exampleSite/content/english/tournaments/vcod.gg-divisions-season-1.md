@@ -74,12 +74,12 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * d\`logics. vs fatality \~ Carentan
 * barbeque vs d\`logics. \~ Harbor
 * fatality vs EURO \~ Harbor
-* barbeque vs fatality \~ Brecourt
+* barbeque vs fatality \~ [Brecourt](https://i.imgur.com/JJF1HXg.jpg)
 * LS#1 vs EURO \~ Brecourt
 * barbeque \[13\] vs \[13\] EURO \~ [Dawnville](https://i.imgur.com/BUQ5Y9q.jpg)
 * LS#1 vs d\`logics. \~ Dawnville
 * LS#1 vs fatality \~ Pavlov
-* d\`logics. vs EURO \~ Pavlov
+* d\`logics. vs EURO \~ [Pavlov](https://i.imgur.com/kIBQhB8.jpg)
 
 **Results – Gold – Week 1:**
 
