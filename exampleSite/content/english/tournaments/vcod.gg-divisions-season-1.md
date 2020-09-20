@@ -83,7 +83,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results – Gold – Week 1:**
 
-* the2gaming \[14\] vs \[08\] intuitive - \~ [Carentan](https://i.imgur.com/0ED0SgO.jpg)
+* the2gaming \[08\] vs \[14\] intuitive - \~ [Carentan](https://i.imgur.com/0ED0SgO.jpg)
 * ninja / vs inferno - \~ Carentan
 * the2gaming vs ninja / \~ Harbor
 * inferno  vs lobiiX \~ Harbor
