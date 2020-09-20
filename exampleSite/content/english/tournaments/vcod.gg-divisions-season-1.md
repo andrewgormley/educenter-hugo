@@ -87,11 +87,11 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * ninja / vs inferno - \~ Carentan
 * the2gaming vs ninja / \~ Harbor
 * inferno  vs lobiiX \~ Harbor
-* the2gaming vs inferno  \~ Brecourt
+* the2gaming vs inferno - \~ [Brecourt](https://imgur.com/a/b3YghVx)
 * intuitive - vs lobiiX \~ Brecourt
 * the2gaming vs lobiiX \~ Dawnville
 * intuitive - vs ninja / \~ Dawnville
-* intuitive - vs inferno  \~ Pavlov
+* intuitive - vs inferno - \~ Pavlov
 * ninja / vs lobiiX \~ Pavlov
 
 **Standings:**
