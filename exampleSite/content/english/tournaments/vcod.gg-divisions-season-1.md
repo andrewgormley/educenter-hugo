@@ -70,7 +70,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 ![](/images/s1sched.PNG)  
 **Results – Diamnd – Week 1:**
 
-* barbeque vs LS#1 \~ Carentan
+* barbeque vs LS#1 \~ [Carentan](https://i.imgur.com/fAlZvoU.jpg)
 * d\`logics. vs fatality \~ Carentan
 * barbeque \[14\] vs \[03\] d\`logics. \~ [Harbor](https://i.imgur.com/6FUk30p.jpg)
 * fatality vs EURO \~ Harbor
