@@ -91,7 +91,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * intuitive - vs lobiiX \~ Brecourt
 * the2gaming vs lobiiX \~ [Dawnville](https://sun9-25.userapi.com/P_lNoMTZzN2tsITxRKK0qEGfLap_PSdUta0FaA/okoFOnRMaeM.jpg)
 * intuitive - vs ninja / \~ Dawnville
-* intuitive - vs inferno - \~ Pavlov
+* intuitive - vs inferno - \~ [Pavlov](https://i.imgur.com/mVUpREW.jpg)
 * ninja / vs lobiiX \~ Pavlov
 
 **Standings:**
