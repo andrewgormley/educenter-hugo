@@ -98,4 +98,4 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 ![](/images/diamond2.PNG)
 
-![](/images/gold1.PNG)
+![](/images/goldleague.PNG)
