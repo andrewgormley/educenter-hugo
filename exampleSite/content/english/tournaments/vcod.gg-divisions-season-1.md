@@ -96,6 +96,6 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Standings:**
 
-![](/images/diamond2.PNG)
+![](/images/4ga.PNG)
 
-![](/images/goldleague.PNG)
+![](/images/5gb.PNG)
