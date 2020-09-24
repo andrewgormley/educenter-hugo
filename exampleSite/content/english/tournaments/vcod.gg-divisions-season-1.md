@@ -75,7 +75,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * barbeque \[14\] vs \[03\] d\`logics. \~ [Harbor](https://i.imgur.com/6FUk30p.jpg)
 * fatality vs EURO \~ [Harbor](https://i.imgur.com/pvXtvlF.jpg)
 * barbeque \[11\] vs \[14\] fatality \~ [Brecourt](https://i.imgur.com/JJF1HXg.jpg)
-* LS#1 vs EURO \~ Brecourt
+* LS#1 \[11\] vs \[14\] EURO \~ [Brecourt](https://i.imgur.com/QIvKezD.jpg)
 * barbeque \[13\] vs \[13\] EURO \~ [Dawnville](https://i.imgur.com/BUQ5Y9q.jpg)
 * LS#1 vs d\`logics. \~ Dawnville
 * LS#1 vs fatality \~ Pavlov
