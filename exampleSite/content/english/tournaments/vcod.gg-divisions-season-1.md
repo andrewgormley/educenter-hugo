@@ -73,7 +73,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * barbeque \[08\] vs \[14\] LS#1 \~ [Carentan](https://i.imgur.com/fAlZvoU.jpg)
 * d\`logics. vs fatality \~ Carentan
 * barbeque \[14\] vs \[03\] d\`logics. \~ [Harbor](https://i.imgur.com/6FUk30p.jpg)
-* fatality vs EURO \~ [Harbor](https://i.imgur.com/pvXtvlF.jpg)
+* fatality \[11\] vs \[14\] EURO \~ [Harbor](https://i.imgur.com/pvXtvlF.jpg)
 * barbeque \[11\] vs \[14\] fatality \~ [Brecourt](https://i.imgur.com/JJF1HXg.jpg)
 * LS#1 \[11\] vs \[14\] EURO \~ [Brecourt](https://i.imgur.com/QIvKezD.jpg)
 * barbeque \[13\] vs \[13\] EURO \~ [Dawnville](https://i.imgur.com/BUQ5Y9q.jpg)
