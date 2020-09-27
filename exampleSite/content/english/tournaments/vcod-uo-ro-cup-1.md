@@ -95,9 +95,9 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 * fatality \[21\] vs \[07\] fpS::: \~ [Powcamp](https://i.imgur.com/BUnJyVF.jpg) & [Depot](https://i.imgur.com/vR3WBjD.jpg)
 * brn'pwr| \[13\] vs \[21\] inferno - \~ [Powcamp](https://i.imgur.com/KQ4bLGM.jpg) & [Depot](https://i.imgur.com/9XxQMRo.jpg)
-* fpS::: vs inferno - \~ Harbor & UO_Powcamp
+* fpS::: \[08\] vs \[21\] inferno - \~ [Harbor](https://i.imgur.com/YKgVML4.jpg) & [UO_Powcamp](https://i.imgur.com/FeV7FSF.jpg)
 * brn'pwr| \[00\] vs \[21\] fatality \~ Harbor & UO_Powcamp
-* fatality vs inferno - \~ Sicily & Arnhem
+* fatality \[15\] vs \[21\] inferno - \~ [Sicily](https://i.imgur.com/Ny855Se.jpg) & Arnhem
 * brn'pwr| \[00\] vs \[21\] fpS::: \~ Sicily & Arnhem
 
 **Standings:**
