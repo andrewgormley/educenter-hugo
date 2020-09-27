@@ -116,7 +116,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 ![](/images/goldddddddd.PNG)
 
-**Results – Diamond – Week 1:**
+**Results – Diamond – Week 2:**
 
 * LS#1 vs LS#1barbeque \~ Bocage
 * fatality vs d\`logics. \~ Bocage
