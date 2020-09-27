@@ -9,6 +9,10 @@ location = "Call of Duty 1"
 publishDate = 2020-08-31T18:00:00Z
 title = "vcod.gg - Season #1"
 [[speaker]]
+designation = "Conflict Team"
+image = ""
+name = "Fantasy"
+[[speaker]]
 designation = "Admin"
 image = "/images/razrr.png"
 name = "razRR"
