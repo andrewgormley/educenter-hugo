@@ -68,7 +68,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 **Suggested Schedule:**
 
 ![](/images/s1sched.PNG)  
-**Results – Diamnd – Week 1:**
+**Results – Diamond – Week 1:**
 
 * barbeque \[08\] vs \[14\] LS#1 \~ [Carentan](https://i.imgur.com/fAlZvoU.jpg)
 * d\`logics. vs fatality \~ Carentan
@@ -100,7 +100,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 ![](/images/1111111111.PNG)
 
-**Results – Diamnd – Week 1:**
+**Results – Diamond – Week 1:**
 
 * LS#1 vs LS#1barbeque \~ Bocage
 * fatality vs d\`logics. \~ Bocage
