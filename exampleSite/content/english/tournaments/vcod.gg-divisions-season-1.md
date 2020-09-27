@@ -78,7 +78,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * LS#1 \[11\] vs \[14\] EURO \~ [Brecourt](https://i.imgur.com/QIvKezD.jpg)
 * barbeque \[13\] vs \[13\] EURO \~ [Dawnville](https://i.imgur.com/BUQ5Y9q.jpg)
 * LS#1 vs d\`logics. \~ Dawnville
-* LS#1 vs fatality \~ Pavlov
+* LS#1 \[09\] vs \[14\] fatality \~ [Pavlov](https://i.imgur.com/rWBi6Oh.png)
 * d\`logics. \[11\] vs \[14\] EURO \~ [Pavlov](https://i.imgur.com/kIBQhB8.jpg)
 
 **Results – Gold – Week 1:**
