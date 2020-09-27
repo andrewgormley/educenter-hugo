@@ -11,7 +11,7 @@ title = "vcod.gg - Season #1"
 [[speaker]]
 designation = "Conflict Team"
 image = ""
-name = "nana"
+name = "fe@r"
 [[speaker]]
 designation = "Admin"
 image = "/images/razrr.png"
@@ -32,6 +32,10 @@ name = "dream"
 designation = "Supervisor"
 image = "/images/masi.png"
 name = "Masi"
+[[speaker]]
+designation = "Conflict Team"
+image = ""
+name = "nana"
 [[speaker]]
 designation = "Conflict Team"
 image = ""
