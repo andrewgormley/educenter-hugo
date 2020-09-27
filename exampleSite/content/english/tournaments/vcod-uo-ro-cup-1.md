@@ -73,7 +73,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * **fatality – supatroopa#8123:** opfii1ee (28997e1d), mskr (41ef065a), prm-**EYE** (3ac7ce54), reazon (adaf2f77), qT (f53b116d), VENXZRR (3af0ce85), Cillian (f8a704dc), icez (c14331bf), xa1ruZ (b2e34e06)
 * **Defying Logics** **– razRR#9282:** razRR (a052b8f1), 1ceyyy (43a0c885), n00bster (6ab256b9), tanek (3d582a16), fzU (803e93af), dream (821129fd), faa1th (5a09d0f7), FLAAASH (52b8e802)
 * **Boeren Power – BASSIE#6994:** BASSIE-**EYE** (cc96212b), Dikke Muj (9f4f0a3c), Fr1tuur (c4cae07d), Gerlo (086d14e3), Sharp (4384d104), e1kk1p-**EYE** (dd553f0c)
-* **UNDERDOGZ – K33NB34N#3227:** dusty (31f6ae23), PAKSENBURG (428267a7), nana-**EYE** (60a8a8ee), owner (f5fbe5c2), donkey-**EYE** (7522147e), achilleS (C4134760), iradexz-**EYE** (82bc0a52),
+* **UNDERDOGZ – K33NB34N#3227:** dusty (31f6ae23), PAKSENBURG (428267a7), nana-**EYE** (60a8a8ee), owner (f5fbe5c2), donkey-**EYE** (7522147e), achilleS (C4134760), iradexz-**EYE** (82bc0a52), portiss (8877cd19), bloxx (abe2c120)
 * **inferno – Explode#9497:** Explode (58125759), Toeter (bc32086c), Walrus (8bfb3a32), Efxtive (49d5d456), extence-**EYE** (09376868), rapidzjeh-**EYE** (529bd87c), Roalty (b2eaf5ad), Juicy (e47cd409), skz-**EYE** (98b8ed17), Cliste (acd85995)
 * **First Poker Squad – dietchi#8910:** dietchi (36645e67), xratEd (8da6ea75), Jsons (d5f33a6a), Inv!sible (c90c715f), TjEEEBi (869bc5b6), dONNIE (498843c7), pROTEC (f6249262), Banksy (7480896b), SnuRk (0cf2a5e6), Davy (4e94ed27), GONAAA (d8525987), bAUMi (7058fa44)
 * **Intuitive – \[OMBD\]Anglhz#7860:** Anglhz-**EYE** (1286399f), t1mske-**EYE** (17fd90e5), aluM-**EYE** (bfef3a3f), virax-**EYE** (d76bf19a), oane (3c94a672), buzah-**EYE** (869a5dd3), fe@r (cfd97341)
@@ -87,7 +87,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * intuitive - \[12\] vs \[21\] UNDERDOGZ \~ [Powcamp](https://i.imgur.com/JDtBdCC.jpg) & [Depot](https://i.imgur.com/w5FEjd9.jpg)
 * d\`logics. \[21\] vs \[03\] iMMORTALiS* \~ [Powcamp](https://i.imgur.com/p46J1iC.jpg) & [Depot](https://i.imgur.com/cbTO7Kj.jpg)
 * UNDERDOGZ vs iMMORTALiS* \~ Harbor & UO_Powcamp
-* d\`logics. vs intuitive - \~ Harbor & UO_Powcamp
+* d\`logics. \[21\] vs \[12\] intuitive - \~ [Harbor](https://i.imgur.com/9yEmRdQ.jpg) & [UO_Powcamp](https://i.imgur.com/Wf5cV8v.jpg)
 * intuitive - vs iMMORTALiS* \~ Sicily & Arnhem
 * d\`logics. vs UNDERDOGZ \~ Sicily & Arnhem
 
