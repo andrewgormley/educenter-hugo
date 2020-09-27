@@ -92,10 +92,36 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * the2gaming \[13\] vs \[13\] lobiiX \~ [Dawnville](https://sun9-25.userapi.com/P_lNoMTZzN2tsITxRKK0qEGfLap_PSdUta0FaA/okoFOnRMaeM.jpg)
 * intuitive - \[14\] vs \[06\] ninja / \~ [Dawnville](https://i.imgur.com/661bMp0.png)
 * intuitive - \[14\] vs \[03\] inferno - \~ [Pavlov](https://i.imgur.com/mVUpREW.jpg)
-* ninja / \[10\] vs \[14\] lobiiX \~ [Pavlov](https://i.imgur.com/R0lsbRE.png)
+* ninja / \[14\] vs \[10\] lobiiX \~ [Pavlov](https://i.imgur.com/R0lsbRE.png)
 
 **Standings:**
 
 ![](/images/4ga.PNG)
 
 ![](/images/1111111111.PNG)
+
+**Results – Diamnd – Week 1:**
+
+* barbeque \[08\] vs \[14\] LS#1 \~ Bocage
+* d\`logics. vs fatality \~ Bocage
+* barbeque \[14\] vs \[03\] d\`logics. \~ Rocket
+* fatality \[11\] vs \[14\] EURO \~ Rocket
+* barbeque \[11\] vs \[14\] fatality \~ Powcamp
+* LS#1 \[11\] vs \[14\] EURO \~ Powcamp
+* barbeque \[13\] vs \[13\] EURO \~ Tigertown
+* LS#1 vs d\`logics. \~ Tigertown
+* LS#1 vs fatality \~ Neuville
+* d\`logics. \[11\] vs \[14\] EURO \~ Neuville
+
+**Results – Gold – Week 2:**
+
+* the2gaming \[08\] vs \[14\] intuitive - \~ Bocage
+* ninja / \[14\] vs \[08\] inferno - \~ Bocage
+* the2gaming \[05\] vs \[14\] ninja / \~ Rocket
+* inferno - \[00\] vs \[14\] lobiiX \~ Rocket
+* the2gaming \[14\] vs \[09\] inferno - \~ Powcamp
+* intuitive - vs lobiiX \~ Powcamp
+* the2gaming \[13\] vs \[13\] lobiiX \~ Tigertown
+* intuitive - \[14\] vs \[06\] ninja / \~ Tigertown
+* intuitive - \[14\] vs \[03\] inferno - \~ Neuville
+* ninja / \[14\] vs \[10\] lobiiX \~ Neuville
