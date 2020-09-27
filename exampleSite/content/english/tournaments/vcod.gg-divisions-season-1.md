@@ -102,26 +102,26 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results – Diamnd – Week 1:**
 
-* barbeque vs LS#1 \~ Bocage
-* d\`logics. vs fatality \~ Bocage
-* barbeque vs d\`logics. \~ Rocket
-* fatality vs EURO \~ Rocket
-* barbeque vs fatality \~ Powcamp
-* LS#1 vs EURO \~ Powcamp
-* barbeque vs EURO \~ Tigertown
-* LS#1 vs d\`logics. \~ Tigertown
-* LS#1 vs fatality \~ Neuville
-* d\`logics. vs EURO \~ Neuville
+* LS#1 vs LS#1barbeque \~ Bocage
+* fatality vs d\`logics. \~ Bocage
+* d\`logics. vs barbeque \~ Rocket
+* EURO vs fatality \~ Rocket
+* fatality vs barbeque \~ Powcamp
+* EURO vs LS#1 \~ Powcamp
+* EURO vs barbeque \~ Tigertown
+* d\`logics. vs LS#1 \~ Tigertown
+* fatality vs LS#1 \~ Neuville
+* EURO vs d\`logics. \~ Neuville
 
 **Results – Gold – Week 2:**
 
-* the2gaming vs intuitive - \~ Bocage
-* ninja / \[14\] vs \[02\] inferno - \~ [Bocage](https://i.imgur.com/m8AHXue.jpg)
-* the2gaming \[05\] vs \[14\] ninja / \~ Rocket
-* inferno - \[00\] vs \[14\] lobiiX \~ Rocket
-* the2gaming \[14\] vs \[09\] inferno - \~ Powcamp
-* intuitive - vs lobiiX \~ Powcamp
-* the2gaming \[13\] vs \[13\] lobiiX \~ Tigertown
-* intuitive - \[14\] vs \[06\] ninja / \~ Tigertown
-* intuitive - \[14\] vs \[03\] inferno - \~ Neuville
-* ninja / \[14\] vs \[10\] lobiiX \~ Neuville
+* intuitive - vs the2gaming \~ Bocage
+* inferno - \[02\] vs \[14\] ninja / \~ [Bocage](https://i.imgur.com/m8AHXue.jpg)
+* ninja / vs the2gaming \~ Rocket
+* lobiiX vs inferno - \~ Rocket
+* inferno - vs the2gaming \~ Powcamp
+* lobiiX vs intuitive - \~ Powcamp
+* lobiiX vs the2gaming \~ Tigertown
+* ninja / vs intuitive - \~ Tigertown
+* inferno - vs inferno -intuitive - \~ Neuville
+* lobiiX vs lobiiXninja / \~ Neuville
