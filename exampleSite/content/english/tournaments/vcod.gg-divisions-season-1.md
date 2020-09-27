@@ -94,11 +94,11 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * intuitive - \[14\] vs \[03\] inferno - \~ [Pavlov](https://i.imgur.com/mVUpREW.jpg)
 * ninja / \[14\] vs \[10\] lobiiX \~ [Pavlov](https://i.imgur.com/R0lsbRE.png)
 
-**Standings:**
+**Standings – Week 1:**
 
-![](/images/4ga.PNG)
+![](/images/diam1.PNG)
 
-![](/images/1111111111.PNG)
+![](/images/goldddddddd.PNG)
 
 **Results – Diamond – Week 1:**
 
@@ -125,3 +125,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * ninja / vs intuitive - \~ Tigertown
 * inferno - vs inferno -intuitive - \~ Neuville
 * lobiiX vs lobiiXninja / \~ Neuville
+
+**Standings – Week 2:**
+
+![](/images/gold11.PNG)
