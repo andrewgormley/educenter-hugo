@@ -14,10 +14,6 @@ image = "/images/razrr.png"
 name = "razRR"
 [[speaker]]
 designation = "Supervisor"
-image = ""
-name = "dream"
-[[speaker]]
-designation = "Supervisor"
 image = "/images/tim.png"
 name = "xa1ruZ"
 [[speaker]]
@@ -28,6 +24,10 @@ name = "Masi"
 designation = "Supervisor"
 image = ""
 name = "prm"
+[[speaker]]
+designation = "Supervisor"
+image = ""
+name = "dream"
 [[speaker]]
 designation = "Conflict Team"
 name = "nana"
