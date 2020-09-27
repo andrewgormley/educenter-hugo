@@ -102,21 +102,21 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results – Diamnd – Week 1:**
 
-* barbeque \[08\] vs \[14\] LS#1 \~ Bocage
+* barbeque vs LS#1 \~ Bocage
 * d\`logics. vs fatality \~ Bocage
-* barbeque \[14\] vs \[03\] d\`logics. \~ Rocket
-* fatality \[11\] vs \[14\] EURO \~ Rocket
-* barbeque \[11\] vs \[14\] fatality \~ Powcamp
-* LS#1 \[11\] vs \[14\] EURO \~ Powcamp
-* barbeque \[13\] vs \[13\] EURO \~ Tigertown
+* barbeque vs d\`logics. \~ Rocket
+* fatality vs EURO \~ Rocket
+* barbeque vs fatality \~ Powcamp
+* LS#1 vs EURO \~ Powcamp
+* barbeque vs EURO \~ Tigertown
 * LS#1 vs d\`logics. \~ Tigertown
 * LS#1 vs fatality \~ Neuville
-* d\`logics. \[11\] vs \[14\] EURO \~ Neuville
+* d\`logics. vs EURO \~ Neuville
 
 **Results – Gold – Week 2:**
 
-* the2gaming \[08\] vs \[14\] intuitive - \~ Bocage
-* ninja / \[14\] vs \[08\] inferno - \~ Bocage
+* the2gaming vs intuitive - \~ Bocage
+* ninja / \[14\] vs \[02\] inferno - \~ [Bocage](https://i.imgur.com/m8AHXue.jpg)
 * the2gaming \[05\] vs \[14\] ninja / \~ Rocket
 * inferno - \[00\] vs \[14\] lobiiX \~ Rocket
 * the2gaming \[14\] vs \[09\] inferno - \~ Powcamp
