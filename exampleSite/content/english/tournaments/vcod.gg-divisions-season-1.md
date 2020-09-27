@@ -140,7 +140,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * lobiiX vs the2gaming \~ Tigertown
 * ninja / vs intuitive - \~ Tigertown
 * inferno - vs inferno -intuitive - \~ Neuville
-* lobiiX vs lobiiXninja / \~ Neuville
+* lobiiX vs ninja / \~ Neuville
 
 **Standings – Week 2:**
 
