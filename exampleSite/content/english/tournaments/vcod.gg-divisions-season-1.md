@@ -88,7 +88,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * the2gaming \[05\] vs \[14\] ninja / \~ [Harbor](https://imgur.com/a/2j4ESlU)
 * inferno - \[00\] vs \[14\] lobiiX \~ Harbor
 * the2gaming \[14\] vs \[09\] inferno - \~ [Brecourt](https://imgur.com/a/b3YghVx)
-* intuitive - vs lobiiX \~ Brecourt
+* intuitive - \[14\] vs \[08\] lobiiX \~ [Brecourt](https://i.imgur.com/NwaZPkV.jpg)
 * the2gaming \[13\] vs \[13\] lobiiX \~ [Dawnville](https://sun9-25.userapi.com/P_lNoMTZzN2tsITxRKK0qEGfLap_PSdUta0FaA/okoFOnRMaeM.jpg)
 * intuitive - \[14\] vs \[06\] ninja / \~ [Dawnville](https://i.imgur.com/661bMp0.png)
 * intuitive - \[14\] vs \[03\] inferno - \~ [Pavlov](https://i.imgur.com/mVUpREW.jpg)
