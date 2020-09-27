@@ -14,20 +14,20 @@ image = "/images/razrr.png"
 name = "razRR"
 [[speaker]]
 designation = "Supervisor"
-image = ""
-name = "prm"
-[[speaker]]
-designation = "Supervisor"
 image = "/images/tim.png"
 name = "xa1ruZ"
 [[speaker]]
 designation = "Supervisor"
-image = ""
-name = "dream"
-[[speaker]]
-designation = "Supervisor"
 image = "/images/masi.png"
 name = "Masi"
+[[speaker]]
+designation = "Supervisor"
+image = ""
+name = "prm"
+[[speaker]]
+designation = "Supervisor"
+image = ""
+name = "dream"
 [[speaker]]
 designation = "Conflict Team"
 image = ""
