@@ -112,7 +112,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Standings – Week 1:**
 
-![](/images/diam1.PNG)
+![](/images/ddiiaa.PNG)
 
 ![](/images/goldddddddd.PNG)
 
