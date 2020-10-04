@@ -102,6 +102,48 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Standings:**
 
-![](/images/capture.PNG)
+![](/images/gafinal.PNG)
 
 ![](/images/uocup2.PNG)
+
+**Knockouts:**
+
+![](/images/kouo.PNG)
+
+**Results - UB Quarter Finals:**
+
+* l
+* l
+* l
+* l
+
+**Results - LB Round 1:**
+
+* TBA vs TBA
+* TBA vs TBA
+
+**Results - UB Semi Finals:**
+
+* TBA vs TBA
+* TBA vs TBA
+
+**Results - LB Round 2:**
+
+* TBA vs TBA
+* TBA vs TBA
+
+**Results - LB Round 3:**
+
+* TBA vs TBA
+
+**Results - UB Final:**
+
+* TBA vs TBA
+
+**Results - LB Round 4:**
+
+* TBA vs TBA
+
+**Results - Grand Final**
+
+* TBA vs TBA
