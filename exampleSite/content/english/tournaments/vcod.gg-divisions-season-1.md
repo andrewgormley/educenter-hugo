@@ -136,7 +136,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * ninja / vs the2gaming \~ Rocket
 * lobiiX vs inferno - \~ Rocket
 * inferno - vs the2gaming \~ Powcamp
-* lobiiX vs intuitive - \~ Powcamp
+* lobiiX \[02\] vs \[14\] intuitive - \~ [Powcamp](https://i.imgur.com/XOSmAX1.jpg)
 * lobiiX vs the2gaming \~ Tigertown
 * ninja / vs intuitive - \~ Tigertown
 * inferno - vs intuitive - \~ Neuville
