@@ -131,7 +131,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results – Gold – Week 2:**
 
-* intuitive - vs the2gaming \~ Bocage
+* intuitive - \[11\] vs \[14\] the2gaming \~ [Bocage](https://i.imgur.com/5gWOUa9.jpg)
 * inferno - \[02\] vs \[14\] ninja / \~ [Bocage](https://i.imgur.com/m8AHXue.jpg)
 * ninja / \[13\] vs \[13\] the2gaming \~ [Rocket](https://i.imgur.com/QLAgHkH.jpg)
 * lobiiX vs inferno - \~ Rocket
