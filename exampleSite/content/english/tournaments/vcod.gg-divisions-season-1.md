@@ -122,7 +122,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * fatality vs d\`logics. \~ Bocage
 * d\`logics. \[08\] vs \[14\] barbeque \~ [Rocket](https://i.imgur.com/b2eh7uU.jpg)
 * EURO vs fatality \~ Rocket
-* fatality vs barbeque \~ Powcamp
+* fatality \[14\] vs \[08\] barbeque \~ [Powcamp](https://i.imgur.com/u2OIND0.jpg)
 * EURO vs LS#1 \~ Powcamp
 * EURO \[13\] vs \[13\] barbeque \~ [Tigertown](https://i.imgur.com/8aXBzwy.jpg)
 * d\`logics. vs LS#1 \~ Tigertown
