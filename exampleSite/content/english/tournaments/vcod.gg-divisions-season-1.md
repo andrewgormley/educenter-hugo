@@ -120,11 +120,11 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 * LS#1 vs LS#1barbeque \~ Bocage
 * fatality vs d\`logics. \~ Bocage
-* d\`logics. vs barbeque \~ Rocket
+* d\`logics. \[08\] vs \[14\] barbeque \~ [Rocket](https://i.imgur.com/b2eh7uU.jpg)
 * EURO vs fatality \~ Rocket
 * fatality vs barbeque \~ Powcamp
 * EURO vs LS#1 \~ Powcamp
-* EURO vs barbeque \~ Tigertown
+* EURO \[13\] vs \[13\] barbeque \~ [Tigertown](https://i.imgur.com/8aXBzwy.jpg)
 * d\`logics. vs LS#1 \~ Tigertown
 * fatality vs LS#1 \~ Neuville
 * EURO vs d\`logics. \~ Neuville
