@@ -133,7 +133,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 * intuitive - vs the2gaming \~ Bocage
 * inferno - \[02\] vs \[14\] ninja / \~ [Bocage](https://i.imgur.com/m8AHXue.jpg)
-* ninja / vs the2gaming \~ Rocket
+* ninja / \[13\] vs \[13\] the2gaming \~ [Rocket](https://i.imgur.com/QLAgHkH.jpg)
 * lobiiX vs inferno - \~ Rocket
 * inferno - vs the2gaming \~ Powcamp
 * lobiiX \[02\] vs \[14\] intuitive - \~ [Powcamp](https://i.imgur.com/XOSmAX1.jpg)
