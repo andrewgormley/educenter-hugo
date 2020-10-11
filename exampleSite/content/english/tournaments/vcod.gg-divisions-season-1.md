@@ -112,7 +112,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Standings – Week 1:**
 
-![](/images/ddiiaa.PNG)
+![](/images/diaaa.PNG)
 
 ![](/images/goldddddddd.PNG)
 
@@ -143,5 +143,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * lobiiX \[14\] vs \[08\] ninja / \~ [Neuville]()
 
 **Standings – Week 2:**
+
+![](/images/diaaaaaa.PNG)
 
 ![](/images/gold11.PNG)
