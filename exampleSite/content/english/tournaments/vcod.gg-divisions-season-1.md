@@ -135,7 +135,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * inferno - \[02\] vs \[14\] ninja / \~ [Bocage](https://i.imgur.com/m8AHXue.jpg)
 * ninja / \[13\] vs \[13\] the2gaming \~ [Rocket](https://i.imgur.com/QLAgHkH.jpg)
 * lobiiX vs inferno - \~ Rocket
-* inferno - vs the2gaming \~ Powcamp
+* inferno - \[06\] vs \[14\] the2gaming \~ [Powcamp](https://i.imgur.com/375AUyf.jpg)
 * lobiiX \[02\] vs \[14\] intuitive - \~ [Powcamp](https://i.imgur.com/XOSmAX1.jpg)
 * lobiiX \[01\] vs \[14\] the2gaming \~ [Tigertown](https://i.imgur.com/lAf8rRD.jpg)
 * ninja / \[12\] vs \[14\] intuitive - \~ [Tigertown](https://i.imgur.com/loG3NUl.jpg)
