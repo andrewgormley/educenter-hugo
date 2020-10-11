@@ -146,4 +146,4 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 ![](/images/diaaaaaa.PNG)
 
-![](/images/gold.PNG)
+![](/images/goldtinh.PNG)
