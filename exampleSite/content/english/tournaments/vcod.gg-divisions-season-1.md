@@ -87,7 +87,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 **Results – Diamond – Week 1:**
 
 * barbeque \[08\] vs \[14\] LS#1 \~ [Carentan](https://i.imgur.com/fAlZvoU.jpg)
-* d\`logics. vs fatality \~ Carentan
+* d\`logics. \[11\] vs \[14\] fatality \~ [Carentan](https://i.imgur.com/9yc8CNH.jpg)
 * barbeque \[14\] vs \[03\] d\`logics. \~ [Harbor](https://i.imgur.com/6FUk30p.jpg)
 * fatality \[11\] vs \[14\] EURO \~ [Harbor](https://i.imgur.com/pvXtvlF.jpg)
 * barbeque \[11\] vs \[14\] fatality \~ [Brecourt](https://i.imgur.com/JJF1HXg.jpg)
