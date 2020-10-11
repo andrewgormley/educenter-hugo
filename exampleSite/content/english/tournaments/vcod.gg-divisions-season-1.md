@@ -123,7 +123,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * d\`logics. \[08\] vs \[14\] barbeque \~ [Rocket](https://i.imgur.com/b2eh7uU.jpg)
 * EURO \[01\] vs \[14\] fatality \~ [Rocket](https://i.imgur.com/NJ81Xt5.jpg)
 * fatality \[14\] vs \[08\] barbeque \~ [Powcamp](https://i.imgur.com/u2OIND0.jpg)
-* EURO vs LS#1 \~ Powcamp
+* EURO \[14\] vs \[09\] LS#1 \~ [Powcamp](https://i.imgur.com/t2j7rdJ.jpg)
 * EURO \[13\] vs \[13\] barbeque \~ [Tigertown](https://i.imgur.com/8aXBzwy.jpg)
 * d\`logics. vs LS#1 \~ Tigertown
 * fatality \[10\] vs \[14\] LS#1 \~ [Neuville](https://imgur.com/a/uddvDkA)
