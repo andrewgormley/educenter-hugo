@@ -140,7 +140,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * lobiiX \[01\] vs \[14\] the2gaming \~ [Tigertown](https://i.imgur.com/lAf8rRD.jpg)
 * ninja / \[12\] vs \[14\] intuitive - \~ [Tigertown](https://i.imgur.com/loG3NUl.jpg)
 * inferno - vs intuitive - \~ Neuville
-* lobiiX \[14\] vs \[08\] ninja / \~ [Neuville]()
+* lobiiX \[14\] vs \[08\] ninja / \~ [Neuville](https://i.imgur.com/c0T1gt9.jpg)
 
 **Standings – Week 2:**
 
