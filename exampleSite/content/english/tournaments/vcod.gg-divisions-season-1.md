@@ -38,7 +38,7 @@ image = ""
 name = "fe@r"
 [[speaker]]
 designation = "Conflict Team"
-image = ""
+image = "/images/fan.png"
 name = "Fantasy"
 
 +++
