@@ -112,19 +112,19 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - UB Quarter Finals:**
 
-* l
-* l
-* l
-* l
+* UNDERDOGZ \[21\] vs \[00\] brn'pwr| - [forfeit win.](https://i.imgur.com/bdSYxYn.jpg)
+* inferno - vs intuitive - 
+* d\`logics. vs fpS:::
+* fatality vs iMMORTALiS*
 
 **Results - LB Round 1:**
 
-* TBA vs TBA
+* brn'pwr| \[00\] vs \[21\] TBA
 * TBA vs TBA
 
 **Results - UB Semi Finals:**
 
-* TBA vs TBA
+* UNDERDOGZ vs TBA
 * TBA vs TBA
 
 **Results - LB Round 2:**
