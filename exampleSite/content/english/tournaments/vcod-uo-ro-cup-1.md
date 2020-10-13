@@ -30,6 +30,7 @@ image = ""
 name = "dream"
 [[speaker]]
 designation = "Conflict Team"
+image = "/images/nana.png"
 name = "nana"
 [[speaker]]
 designation = "Conflict Team"
