@@ -22,7 +22,7 @@ image = "/images/masi.png"
 name = "Masi"
 [[speaker]]
 designation = "Supervisor"
-image = ""
+image = "/images/prm.jpg"
 name = "prm"
 [[speaker]]
 designation = "Supervisor"
@@ -37,6 +37,7 @@ designation = "Conflict Team"
 name = "fe@r"
 [[speaker]]
 designation = "Conflict Team"
+image = "/images/fan.png"
 name = "Fantasy"
 
 +++
