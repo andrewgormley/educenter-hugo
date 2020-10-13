@@ -127,7 +127,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * EURO \[13\] vs \[13\] barbeque \~ [Tigertown](https://i.imgur.com/8aXBzwy.jpg)
 * d\`logics. vs LS#1 \~ Tigertown
 * fatality \[12\] vs \[14\] LS#1 \~ [Neuville](https://imgur.com/a/uddvDkA)
-* EURO vs d\`logics. \~ Neuville
+* EURO \[14\] vs \[09\] d\`logics. \~ [Neuville](https://i.imgur.com/feB3pAv.jpg)
 
 **Results – Gold – Week 2:**
 
