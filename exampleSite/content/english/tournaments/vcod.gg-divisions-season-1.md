@@ -148,6 +148,14 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 ![](/images/goldfinal.PNG)
 
+**Relegated:**
+
+* d\`logics.
+
+**Promoted:**
+
+* intuitive -
+
 **Promotion / Relegation Playoff:**
 
 * LS#1 vs the2gaming
