@@ -111,7 +111,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Knockouts:**
 
-![](/images/kouo.PNG)
+![](/images/uoknockout.PNG)
 
 **Results - UB Quarter Finals:**
 
@@ -123,11 +123,11 @@ If you are clanless and looking for a team, then head over to the Community Disc
 **Results - LB Round 1:**
 
 * brn'pwr| ([Streets](https://i.imgur.com/28ChZmG.jpg)) \[00\] vs \[21\] (TBA) inferno - [forfeit win](https://i.imgur.com/28ChZmG.jpg).
-* TBA vs TBA
+* d\`logics. vs TBA
 
 **Results - UB Semi Finals:**
 
-* UNDERDOGZ vs TBA
+* UNDERDOGZ vs intuitive -
 * TBA vs TBA
 
 **Results - LB Round 2:**
