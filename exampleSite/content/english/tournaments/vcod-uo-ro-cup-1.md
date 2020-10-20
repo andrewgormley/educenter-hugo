@@ -115,7 +115,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - UB Quarter Finals:**
 
-* UNDERDOGZ \[21\] vs \[00\] brn'pwr| - [forfeit win.](https://i.imgur.com/bdSYxYn.jpg)
+* UNDERDOGZ (TBA) \[21\] vs \[00\] (TBA) brn'pwr| - [forfeit win.](https://i.imgur.com/bdSYxYn.jpg)
 * inferno - ([Peaks](https://i.imgur.com/Iq6nnWz.jpg)) \[13\] vs \[21\] ([Sicily](https://i.imgur.com/g67oHDu.jpg)) intuitive -
 * d\`logics. ([Tigertown](https://i.imgur.com/1fRa3Dt.jpg)) \[21\] vs \[08\] ([UO_Dawnville](https://i.imgur.com/nZ6JPpI.jpg)) fpS:::
 * fatality vs iMMORTALiS*
