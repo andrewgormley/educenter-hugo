@@ -125,7 +125,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * fatality \[14\] vs \[08\] barbeque \~ [Powcamp](https://i.imgur.com/u2OIND0.jpg)
 * EURO \[14\] vs \[09\] LS#1 \~ [Powcamp](https://i.imgur.com/t2j7rdJ.jpg)
 * EURO \[13\] vs \[13\] barbeque \~ [Tigertown](https://i.imgur.com/8aXBzwy.jpg)
-* d\`logics. vs LS#1 \~ Tigertown
+* d\`logics. \[14\] vs \[00\] LS#1 \~ [Tigertown](https://i.imgur.com/c7mOKBo.png)
 * fatality \[12\] vs \[14\] LS#1 \~ [Neuville](https://imgur.com/a/uddvDkA)
 * EURO \[14\] vs \[09\] d\`logics. \~ [Neuville](https://i.imgur.com/feB3pAv.jpg)
 
@@ -134,7 +134,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * intuitive - \[11\] vs \[14\] the2gaming \~ [Bocage](https://i.imgur.com/5gWOUa9.jpg)
 * inferno - \[02\] vs \[14\] ninja / \~ [Bocage](https://i.imgur.com/m8AHXue.jpg)
 * ninja / \[13\] vs \[13\] the2gaming \~ [Rocket](https://i.imgur.com/QLAgHkH.jpg)
-* lobiiX vs inferno - \~ Rocket
+* lobiiX \[14\] vs \[07\] inferno - \~ [Rocket](https://i.imgur.com/JfyUlee.jpg)
 * inferno - \[06\] vs \[14\] the2gaming \~ [Powcamp](https://i.imgur.com/375AUyf.jpg)
 * lobiiX \[02\] vs \[14\] intuitive - \~ [Powcamp](https://i.imgur.com/XOSmAX1.jpg)
 * lobiiX \[01\] vs \[14\] the2gaming \~ [Tigertown](https://i.imgur.com/lAf8rRD.jpg)
