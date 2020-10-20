@@ -144,6 +144,10 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Standings – Week 2:**
 
-![](/images/diaiaiai.PNG)
+![](/images/diafinal.PNG)
 
-![](/images/goldtinh.PNG)
+![](/images/goldfinal.PNG)
+
+**Promotion / Relegation Playoff:**
+
+* LS#1 vs the2gaming
