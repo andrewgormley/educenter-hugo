@@ -123,12 +123,12 @@ If you are clanless and looking for a team, then head over to the Community Disc
 **Results - LB Round 1:**
 
 * brn'pwr| ([Streets](https://i.imgur.com/28ChZmG.jpg)) \[00\] vs \[21\] (TBA) inferno - [forfeit win](https://i.imgur.com/28ChZmG.jpg).
-* d\`logics. vs fatality
+* fpS::: vs iMMORTALiS
 
 **Results - UB Semi Finals:**
 
 * UNDERDOGZ vs intuitive -
-* TBA vs TBA
+* d\`logics. vs fatality
 
 **Results - LB Round 2:**
 
