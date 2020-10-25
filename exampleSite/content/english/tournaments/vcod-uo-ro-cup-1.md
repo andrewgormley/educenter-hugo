@@ -132,7 +132,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - LB Round 2:**
 
-* inferno - (Arnhem) \[\] vs \[\] (Peaks) intuitive - third map (Sicily).
+* inferno - (Arnhem) \[\] vs \[\] ([Peaks](https://i.imgur.com/NpnDfsS.jpg)) intuitive - third map (Sicily).
 * d\`logics. vs TBA
 
 **Results - LB Round 3:**
