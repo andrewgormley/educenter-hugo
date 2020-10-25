@@ -132,16 +132,16 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - LB Round 2:**
 
-* inferno - (Arnhem) \[\] vs \[\] ([Peaks](https://i.imgur.com/NpnDfsS.jpg)) intuitive - third map (Sicily).
+* inferno - (Arnhem) \[31\] vs \[26\] ([Peaks](https://i.imgur.com/NpnDfsS.jpg)) intuitive - third map ([Sicily](https://i.imgur.com/h4Nee2d.jpg)).
 * d\`logics. vs TBA
 
 **Results - LB Round 3:**
 
-* UNDERDOGZ vs fatality
+* intuitive vs TBA
 
 **Results - UB Final:**
 
-* TBA vs TBA
+* UNDERDOGZ vs fatality
 
 **Results - LB Round 4:**
 
