@@ -127,7 +127,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - UB Semi Finals:**
 
-* UNDERDOGZ vs intuitive -
+* UNDERDOGZ ([UO_Stanjel](https://i.imgur.com/fzdIFZZ.jpg)) \[21\] vs \[18\] ([Brecourt](https://i.imgur.com/wmJtkcy.jpg)) intuitive -
 * d\`logics. ([Cassino](https://i.imgur.com/j7ylCOY.jpg)) \[16\] vs \[21\] ([Brecourt](https://i.imgur.com/52xATi1.jpg)) fatality
 
 **Results - LB Round 2:**
