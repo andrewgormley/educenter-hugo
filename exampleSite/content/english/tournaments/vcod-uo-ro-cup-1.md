@@ -132,9 +132,8 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - LB Round 2:**
 
-* inferno - ([Arnhem](https://i.imgur.com/IvoKMaF.jpg)) \[20\] vs \[20\] ([Peaks](https://i.imgur.com/NpnDfsS.jpg)) intuitive -
-
-  Golden Map ([Sicily](https://i.imgur.com/h4Nee2d.jpg)) inferno - \[06\] vs \[11\] intuitive -
+* inferno - ([Arnhem](https://i.imgur.com/IvoKMaF.jpg)) \[20\] vs \[20\] ([Peaks](https://i.imgur.com/NpnDfsS.jpg)) intuitive - 
+* inferno - ([Sicily](https://i.imgur.com/h4Nee2d.jpg)) \[06\] vs \[11\] ([Sicily](https://i.imgur.com/h4Nee2d.jpg)) intuitive - golden map.
 * d\`logics. vs TBA
 
 **Results - LB Round 3:**
