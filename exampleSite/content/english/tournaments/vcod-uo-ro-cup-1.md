@@ -79,7 +79,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * **UNDERDOGZ – K33NB34N#3227:** PAKSENBURG (428267a7), dusty (31f6ae23), nana-**EYE** (60a8a8ee), owner (f5fbe5c2), donkey-**EYE** (7522147e), achilleS (C4134760), iradexz-**EYE** (82bc0a52), portiss (8877cd19), bloxx (abe2c120)
 * **inferno – Explode#9497:** Explode (58125759), Toeter (bc32086c), Walrus (8bfb3a32), Efxtive (49d5d456), extence-**EYE** (09376868), rapidzjeh-**EYE** (529bd87c), Roalty (b2eaf5ad), Juicy (e47cd409), skz-**EYE** (98b8ed17), Cliste (acd85995)
 * **First Poker Squad – dietchi#8910:** dietchi (36645e67), xratEd (8da6ea75), Jsons (d5f33a6a), Inv!sible (c90c715f), TjEEEBi (869bc5b6), dONNIE (498843c7), pROTEC (f6249262), Banksy (7480896b), SnuRk (0cf2a5e6), Davy (4e94ed27), GONAAA (d8525987), bAUMi (7058fa44)
-* **Intuitive – \[OMBD\]Anglhz#7860:** Anglhz-**EYE** (1286399f), t1mske-**EYE** (17fd90e5), aluM-**EYE** (bfef3a3f), virax-**EYE** (d76bf19a), oane (3c94a672), buzah-**EYE** (869a5dd3), fe@r (cfd97341)
+* **Intuitive – \[OMBD\]Anglhz#7860:** Anglhz-**EYE** (1286399f), t1mske-**EYE** (17fd90e5), aluM-**EYE** (bfef3a3f), virax-**EYE** (7322cb5d), oane (3c94a672), buzah-**EYE** (869a5dd3), fe@r (cfd97341)
 
 **Suggested Schedule:**
 
