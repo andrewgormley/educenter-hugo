@@ -111,7 +111,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Knockouts:**
 
-![](/images/uououo1.PNG)
+![](/images/uououo2.PNG)
 
 **Results - UB Quarter Finals:**
 
@@ -132,7 +132,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - LB Round 2:**
 
-* inferno - ([Arnhem](https://i.imgur.com/IvoKMaF.jpg)) \[20\] vs \[20\] ([Peaks](https://i.imgur.com/NpnDfsS.jpg)) intuitive - 
+* inferno - ([Arnhem](https://i.imgur.com/IvoKMaF.jpg)) \[20\] vs \[20\] ([Peaks](https://i.imgur.com/NpnDfsS.jpg)) intuitive -
 * inferno - \[06\] vs \[11\] intuitive - ([Golden Map](https://i.imgur.com/h4Nee2d.jpg))
 * d\`logics. vs TBA
 
