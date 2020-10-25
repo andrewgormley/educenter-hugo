@@ -111,7 +111,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Knockouts:**
 
-![](/images/uououo.PNG)
+![](/images/uououo1.PNG)
 
 **Results - UB Quarter Finals:**
 
@@ -132,12 +132,12 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - LB Round 2:**
 
-* inferno - vs TBA
-* TBA vs TBA
+* inferno - (Arnhem) \[\] vs \[\] (Peaks) intuitive - third map (Sicily).
+* d\`logics. vs TBA
 
 **Results - LB Round 3:**
 
-* TBA vs TBA
+* UNDERDOGZ vs fatality
 
 **Results - UB Final:**
 
