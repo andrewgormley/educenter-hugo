@@ -11,7 +11,7 @@ title = "Divisions - Season #1-(copy)"
 type = "post"
 
 +++
-### **The vcod.gg Mix Cup!**
+### **The First Ever Mix Cup!**
 
 We are pleased to announce that the registration for our next competition is now live!
 
