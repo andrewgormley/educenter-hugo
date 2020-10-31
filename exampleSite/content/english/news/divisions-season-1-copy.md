@@ -19,7 +19,7 @@ Our next competition is something new, something fresh, something exciting. The 
 
 **How will this work?**
 
-Players will sign up as an individual and once the registration period ends, team captains will be chosen to lead and organise a completely random mix team. 
+Players will sign up as an individual, and once the registration period ends, team captains will be chosen to lead and organise a completely random mix team. 
 
 In the registration form, players will be asked to rate themselves to help the vcod.gg team place players into tiers, to ensure the competition is fair.
 
