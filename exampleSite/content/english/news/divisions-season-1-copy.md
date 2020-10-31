@@ -21,7 +21,7 @@ Our next competition is something new, something fresh, something exciting. The 
 
 Players will sign up as an individual, and once the registration period ends, team captains will be chosen to lead and organise a completely random mix team. 
 
-In the registration form, players will be asked to rate themselves to help the vcod.gg team place players into tiers, to ensure the competition is fair.
+To help us organise players and make the competition fair, when completing the registration form, players will be asked to rate their skill level out of three. We will use this, alongside team performance / individual performance in competitions to organise players into a tier system, before randomly selecting players to join a team captain.
 
 Cup Information: [**https://www.vcod.gg/tournaments/vcod-ro-cup-1/**](https://www.vcod.gg/tournaments/vcod-ro-cup-1/ "https://www.vcod.gg/tournaments/vcod-ro-cup-1/").  
  Cup Rules: [**https://www.vcod.gg/rules/vcod/**](https://www.vcod.gg/rules/vcod/ "https://www.vcod.gg/rules/vcod/").
