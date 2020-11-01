@@ -42,7 +42,7 @@ When a season ends, teams will respectively hold their position in a tiered divi
 
 More information regarding the cup can be found below:
 
-Cup Information: [**https://www.vcod.gg/tournaments/vcod.gg-divisions-season-1/**](https://www.vcod.gg/tournaments/vcod.gg-divisions-season-1/ "https://www.vcod.gg/tournaments/vcod.gg-divisions-season-1/").  
+Cup Information and Registration: [**https://www.vcod.gg/tournaments/vcod.gg-divisions-season-1/**](https://www.vcod.gg/tournaments/vcod.gg-divisions-season-1/ "https://www.vcod.gg/tournaments/vcod.gg-divisions-season-1/").  
 Cup Rules: [**https://www.vcod.gg/rules/vcod/**](https://www.vcod.gg/rules/vcod/ "https://www.vcod.gg/rules/vcod/").
 
 Last but not least, if you are looking to take part in our upcoming competiton, make sure you join our Community Discord at: [**discord.gg/FA5vxDa**](https://discord.gg/FA5vxDa. "https://discord.gg/FA5vxDa.").
