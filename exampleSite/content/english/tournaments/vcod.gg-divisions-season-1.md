@@ -46,9 +46,9 @@ name = "Fantasy"
 
 We are pleased to announce that the registration for season #1 of our weekend division cup will be going live on the 31st of August. Please find information about the upcoming competition below.
 
-**Registration Opens:** 31st of August 2020, 18:00 GMT.
+**Registration Opens:** 31st of August 2020, 18:00 BST.
 
-**Registration Closes:** 15th of September 2020, 18:00 GMT.
+**Registration Closes:** 15th of September 2020, 18:00 BST.
 
 **Cup Format:** Tiered divisions with promotions and relegations.
 
