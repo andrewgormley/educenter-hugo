@@ -12,7 +12,7 @@ type = "post"
 +++
 ### **The First Ever Mix Cup!**
 
-We are pleased to announce that the registration for our next competition is now live!
+We are pleased to announce that the registration for our next rifles only competition is now live!
 
 Our next competition is something new, something fresh, something exciting. The competition will be held over a weekend and will involve members from the vcod community entering into a completely random mix team!
 
