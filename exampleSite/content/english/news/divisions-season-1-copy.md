@@ -2,7 +2,7 @@
 author = ""
 bg_image = "/images/banner.jpg"
 categories = []
-date = 2020-08-30T16:00:00Z
+date = 2020-11-01T22:00:00Z
 description = ""
 draft = true
 image = "/images/mixcupvcod.jpg"
@@ -29,5 +29,7 @@ Cup Information: .
 Cup Rules: [**https://www.vcod.gg/rules/vcod/**](https://www.vcod.gg/rules/vcod/ "https://www.vcod.gg/rules/vcod/").
 
 Last but not least, if you are looking to take part in our upcoming competiton, make sure you join our Community Discord at: [**discord.gg/FA5vxDa**](https://discord.gg/FA5vxDa. "https://discord.gg/FA5vxDa.").
+
+Let's hope that this mix cup provides some activity for the game, as well as providing people with some inspiration to start up a new team!
 
 vcod.gg \~ team
