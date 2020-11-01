@@ -70,4 +70,10 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Registered Players:**
 
-* 
+* razRR (49d5ce5c)
+* FLAAASH (e4c12abe)
+* eichhh (5e83660f)
+* fe@r (e81bc4f3)
+* nana (22b45e3b)
+* skz (5fc35d87)
+* Arctic (a5f144e7)
