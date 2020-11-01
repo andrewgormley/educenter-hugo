@@ -3,7 +3,6 @@ apply_url = "https://docs.google.com/forms/d/1pO42U3YHuMzQ8JOGZh4B-o_ltt9OmGw_6d
 bg_image = "/images/banner.jpg"
 date = 2020-11-01T22:00:00Z
 description = ""
-draft = true
 fee = "Free"
 image = "/images/mixcupvcod.jpg"
 location = "Call of Duty 1"
