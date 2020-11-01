@@ -37,8 +37,8 @@ fields:
   default: post
   hidden: false
 pages:
-- exampleSite/content/english/news/The vcod.gg Mix Cup.md
 - exampleSite/content/english/news/divisions-season-1.md
+- exampleSite/content/english/news/mix-cup.md
 - exampleSite/content/english/news/vcod.gg-is-recruiting.md
 - exampleSite/content/english/news/vcod.gg-is-recruiting.md
 - exampleSite/content/english/news/vcod.gg-revives-united-offensive.md
