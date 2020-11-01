@@ -20,7 +20,7 @@ Our next competition is something new, something fresh, something exciting. The 
 
 Players will sign up as an individual, and once the registration period ends, team captains will be chosen to lead and organise a completely random mix team.
 
-However, to help us organise players and make the competition as fair as possible, when completing the registration form, players will be asked to rate their skill level out of three. We will use this, alongside team performance / individual performance in competitions to organise players into a tier system, before randomly selecting players to join a team captain live on stream.
+However, to help us organise players and make the competition as fair as possible, when completing the registration form, players will be asked to rate their skill level out of three (1 being the highest and 3 being the lowest). We will use this, alongside team performance / individual performance in competitions to organise players into a tier system, before randomly selecting players to join a team captain live on stream.
 
 More information regarding the cup can be found below:
 
