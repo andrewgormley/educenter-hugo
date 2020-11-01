@@ -7,7 +7,7 @@ description = ""
 draft = true
 image = "/images/mixcupvcod.jpg"
 tags = []
-title = "Divisions - Season #1-(copy)"
+title = "The vcod.gg Mix Cup"
 type = "post"
 
 +++
@@ -19,20 +19,13 @@ Our next competition is something new, something fresh, something exciting. The 
 
 **How will this work?**
 
-Players will sign up as an individual, and once the registration period ends, team captains will be chosen to lead and organise a completely random mix team. 
+Players will sign up as an individual, and once the registration period ends, team captains will be chosen to lead and organise a completely random mix team.
 
-To help us organise players and make the competition fair, when completing the registration form, players will be asked to rate their skill level out of three. We will use this, alongside team performance / individual performance in competitions to organise players into a tier system, before randomly selecting players to join a team captain.
+However, to help us organise players and make the competition as fair as possible, when completing the registration form, players will be asked to rate their skill level out of three. We will use this, alongside team performance / individual performance in competitions to organise players into a tier system, before randomly selecting players to join a team captain live on stream.
 
-Cup Information: [**https://www.vcod.gg/tournaments/vcod-ro-cup-1/**](https://www.vcod.gg/tournaments/vcod-ro-cup-1/ "https://www.vcod.gg/tournaments/vcod-ro-cup-1/").  
- Cup Rules: [**https://www.vcod.gg/rules/vcod/**](https://www.vcod.gg/rules/vcod/ "https://www.vcod.gg/rules/vcod/").
+More information regarding the cup can be found below:
 
-Last but not least, if you are looking to take part in our upcoming competiton, make sure you join our Community Discord at: [**discord.gg/FA5vxDa**](https://discord.gg/FA5vxDa. "https://discord.gg/FA5vxDa.").
-
-We hope the community will embrace our new website and make this a cup to remember!
-
-vcod.gg \~ team
-
-Cup Information: [**https://www.vcod.gg/tournaments/vcod.gg-divisions-season-1/**](https://www.vcod.gg/tournaments/vcod.gg-divisions-season-1/ "https://www.vcod.gg/tournaments/vcod.gg-divisions-season-1/").  
+Cup Information: .  
 Cup Rules: [**https://www.vcod.gg/rules/vcod/**](https://www.vcod.gg/rules/vcod/ "https://www.vcod.gg/rules/vcod/").
 
 Last but not least, if you are looking to take part in our upcoming competiton, make sure you join our Community Discord at: [**discord.gg/FA5vxDa**](https://discord.gg/FA5vxDa. "https://discord.gg/FA5vxDa.").
