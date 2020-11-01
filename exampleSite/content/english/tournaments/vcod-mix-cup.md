@@ -44,7 +44,7 @@ name = "Fantasy"
 +++
 ### **Cup Information**
 
-We are pleased to announce that the registration for our mix cup competitions will be going live on the 1st of November. Please find information about the upcoming competition below.
+We are pleased to announce that the registration for our rifles only mix cup competition will be going live on the 1st of November. Please find information about the upcoming competition below.
 
 **Registration Opens:** 1st of November 2020, 22:00 GMT.
 
