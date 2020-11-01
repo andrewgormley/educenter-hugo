@@ -77,3 +77,5 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * nana (22b45e3b)
 * skz (5fc35d87)
 * Arctic (a5f144e7)
+* Explode (2ebeed51)
+* prm (b1863fe5)
