@@ -1,14 +1,14 @@
 +++
-apply_url = "https://docs.google.com/forms/d/1zNo3edTt4YSZyisG_wCXhV0QR8SijAmag32TscpR_5U/"
+apply_url = "https://docs.google.com/forms/d/1pO42U3YHuMzQ8JOGZh4B-o_ltt9OmGw_6doWfTt2y5w"
 bg_image = "/images/banner.jpg"
-date = 2020-08-31T18:00:17Z
+date = 2020-11-01T22:00:00Z
 description = ""
 draft = true
 fee = "Free"
-image = "/images/vcodtiers-min.png"
+image = "/images/mixcupvcod.jpg"
 location = "Call of Duty 1"
-publishDate = 2020-08-31T18:00:00Z
-title = "vcod.gg - Season #1-(copy)"
+publishDate = 2020-11-01T22:00:00Z
+title = "vcod.gg - Mix Cup"
 [[speaker]]
 designation = "Admin"
 image = "/images/razrr.png"
