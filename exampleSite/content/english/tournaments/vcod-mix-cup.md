@@ -54,7 +54,7 @@ We are pleased to announce that the registration for our mix cup competitions wi
 
 **Maps:** Group stage – maps will be pre-decided. Knockout stage - teams can pick any map from the pool once.
 
-**Map Pool:** Bocage, Brecourt, Carentan, Dawnville, Depot, German_Town, Harbor, Hurtgen, Neuville, Pavlov, Powcamp, Railyard, Rocket, Stalingrad, Tigertown,
+**Map Pool:** Bocage, Brecourt, Carentan, Dawnville, Depot, German_Town, Harbor, Hurtgen, Neuville, Pavlov, Powcamp, Railyard, Rocket, Stalingrad, Tigertown.
 
 **Schedule:** Team captains will be chosen on the 11th of November, after registration has closed. On the 12th of November, individuals will be randomly selected for teams; once team selections are finalised, the groups will be drawn for the competition. The cup will take place over one weekend: 14th of November - 15th of November (Individuals should only sign up for the competition if they are available on both dates). There is no set schedule for the competition, but it is an expectation for every team to have completed their group stage matches on the 14th of November. All knockout games and the final should be completed on the 15th of November. Individuals who sign up and do not play, or leave the competition without completing their fixtures will have an impact on your chances of entering future competitions.
 
