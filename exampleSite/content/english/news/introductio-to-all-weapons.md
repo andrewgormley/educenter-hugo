@@ -2,12 +2,12 @@
 author = ""
 bg_image = "/images/banner.jpg"
 categories = []
-date = 2020-11-01T22:00:00Z
+date = 2020-11-03T17:00:00Z
 description = ""
 draft = true
-image = "/images/mixcupvcod.jpg"
+image = "/images/vcodggawpscup.jpg"
 tags = []
-title = "Introductio to All Weapons"
+title = "Introduction to All Weapons"
 type = "post"
 
 +++
