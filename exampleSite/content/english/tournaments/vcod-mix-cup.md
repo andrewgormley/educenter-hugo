@@ -79,3 +79,8 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * Arctic (a5f144e7)
 * Explode (2ebeed51)
 * prm (b1863fe5)
+* Fantasy (4dca5c58)
+* MAZU (3d66ead8)
+* f z U (64eca371)
+* BUZAH (919bc974)
+* WhiteShadow (fbb05bed)
