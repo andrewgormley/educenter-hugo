@@ -11,7 +11,7 @@ title = "Introduction to All Weapons"
 type = "post"
 
 +++
-### **The First Ever Mix Cup!**
+### **All Weapons - Weekend Cup!**
 
 We are pleased to announce that the registration for our next rifles only competition is now live!
 
