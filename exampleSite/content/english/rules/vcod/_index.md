@@ -32,13 +32,6 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 1\.1.8 – Banlist
 
-* 1.181 – BRONX-**TEMPBAN** **(1 competition)** (ccb54c7c) – **VIOLATION** 1.6.1 – Clans which leave the competition or are removed for 2 no-shows/forfeits are likely to be excluded from future competitions.
-* 1.182 – loftzu-**TEMPBAN (1 competition)** (8379bf96) – **VIOLATION** 1.1.5 – Abusive behaviour towards a vcod.gg Admin, Supervisor, Referee or opponent, at any time during the competition is not acceptable. If the abusive behaviour is severe, then an admin has the right to punish with a temporary or permanent ban from the competition.
-* 1.183 – icez-**TEMPBAN** **(1 competition)** (5ce858e7) – **VIOLATION** 1.6.1 – Clans which leave the competition or are removed for 2 no-shows/forfeits are likely to be excluded from future competitions.
-* 1.184 – Leon-**TEMPBAN (1 competition)** (39ca8f16) – **VIOLATION** 1.6.1 – Clans which leave the competition or are removed for 2 no-shows/forfeits are likely to be excluded from future competitions.
-* 1.185 – philinski-**TEMPBAN** **(1 competition)** (55be7b97) – **VIOLATION** 1.6.1 – Clans which leave the competition or are removed for 2 no-shows/forfeits are likely to be excluded from future competitions.
-* 1.186 – BROLY-**TEMPBAN** **(1 competition)** (4a07bf57) – **VIOLATION** 1.6.1 – Clans which leave the competition or are removed for 2 no-shows/forfeits are likely to be excluded from future competitions.
-
 **1.2 – Spectating**
 
 1\.2.1 – vcod.gg reserves the right to broadcast every match.
