@@ -84,3 +84,6 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * f z U (64eca371)
 * BUZAH (919bc974)
 * WhiteShadow (fbb05bed)
+* DzR (6eb98274)
+* floppy (3ab091be)
+* Shuya (34902b76)
