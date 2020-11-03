@@ -15,21 +15,17 @@ type = "post"
 
 We are pleased to announce that the registration for our first ever all weapons competition is now live!
 
-Our next competition is something new, something fresh, something exciting. The competition will be held over a weekend and will involve members from the vcod community entering into a completely random mix team!
+The all weapons scene has been incredibly active in recent times, and has witnessed many successful competitions being held by different hosts. At vcod.gg, we are hoping to provide a platform for both communities, whilst hosting an exciting all weapons competition for all to enjoy.
 
-**How will this work?**
+Hosting an all weapons competition has been discussed multiple times, but our main focus has been to provide rifle only competitions. We are now in a position to provide something fun for the all weapons community, as well as contuining with our rifle only competitions.
 
-Players will sign up as an individual, and once the registration period ends, team captains will be chosen to lead and organise a completely random mix team.
+Please ensure you have read the cup information before clicking ‘Apply Now’. We are asking teams to only sign up if they are able and willing to complete all of their matches. We will not be accepting any teams with missing GUIDs.
 
-However, to help us organise players and make the competition as fair as possible, when completing the registration form, players will be asked to rate their skill level out of three (1 being the highest and 3 being the lowest). We will use this, alongside team performance / individual performance in competitions to organise players into a tier system, before randomly selecting players to join a team captain live on stream.
-
-More information regarding the cup can be found below:
-
-Cup Information and Registration: [**https://www.vcod.gg/tournaments/vcod-mix-cup/**](https://www.vcod.gg/tournaments/vcod-mix-cup/ "https://www.vcod.gg/tournaments/vcod-mix-cup/").  
-Cup Rules: [**https://www.vcod.gg/rules/vcod/**](https://www.vcod.gg/rules/vcod/ "https://www.vcod.gg/rules/vcod/").
+Cup Information and Registration: **COMING SOON**.  
+Cup Rules: **COMING SOON**.
 
 Last but not least, if you are looking to take part in our upcoming competiton, make sure you join our Community Discord at: [**discord.gg/FA5vxDa**](https://discord.gg/FA5vxDa. "https://discord.gg/FA5vxDa.").
 
-Let's hope that this mix cup provides some activity for the game, as well as providing people with some inspiration to start up a new team!
+See you on the battlefield soon!
 
 vcod.gg \~ team
