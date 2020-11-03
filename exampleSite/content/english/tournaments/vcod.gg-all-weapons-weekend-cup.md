@@ -59,32 +59,14 @@ We are pleased to announce that the registration for our rifles only mix cup com
 
 **Schedule:** Team captains will be chosen on the 11th of November, after registration has closed. On the 12th of November, individuals will be randomly selected for teams; once team selections are finalised, the groups will be drawn for the competition. The cup will take place over one weekend: 14th of November - 15th of November (Individuals should only sign up for the competition if they are available on both dates). There is no set schedule for the competition, but it is an expectation for every team to have completed their group stage matches on the 14th of November. All knockout games and the final should be completed on the 15th of November. Individuals who sign up and do not play, or leave the competition without completing their fixtures will be punished and banned from entering future competitions.
 
-**Players:** You will need to include your GUID on the registration form. We are not accepting individuals with a missing GUID.
+**Players:** You will need to include the GUIDs of your players when registering. We are not accepting teams with missing GUIDs.
 
 **Anti-Cheat:** New AC announcement coming soon!
 
 **Stream:** [**https://www.twitch.tv/vcodgg**](https://www.twitch.tv/vcodgg).
 
-**Prize:** N/A.
+**Prize:** Winner – 12 slot private Call of Duty 1 server - 1 month.
 
 If you are clanless and looking for a team, then head over to the Community Discord at: [**https://discord.gg/FA5vxDa**](https://discord.gg/FA5vxDa. "https://discord.gg/FA5vxDa.").
 
-**Registered Players:**
-
-* razRR (49d5ce5c)
-* FLAAASH (e4c12abe)
-* eichhh (5e83660f)
-* fe@r (e81bc4f3)
-* nana (22b45e3b)
-* skz (5fc35d87)
-* Arctic (a5f144e7)
-* Explode (2ebeed51)
-* prm (b1863fe5)
-* Fantasy (4dca5c58)
-* MAZU (3d66ead8)
-* f z U (64eca371)
-* BUZAH (919bc974)
-* WhiteShadow (fbb05bed)
-* DzR (6eb98274)
-* floppy (3ab091be)
-* Shuya (34902b76)
+**Registered Teams:**
