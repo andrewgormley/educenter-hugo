@@ -3,7 +3,7 @@ slider:
   enable: true
   bg_image: images/banner.jpg
   slider_item:
-  - title: Welcome to vCoD.gg
+  - title: Welcome to vcod.gg
     content: The brand new Call of Duty community website for the best leagues and
       tournaments in vCoD.
     animation_in: left
@@ -12,15 +12,14 @@ slider:
       enable: true
       label: Tournaments
       link: tournaments
-  - title: 'vCoD.gg - Rifles Only #1'
-    content: We are pleased to announce that the registration for our first instalment
-      of the vCoD.gg competitions will be going live on the 18th of May.
+  - title: 'The vcod.gg Mix Cup'
+    content: We are pleased to announce that the registration for our next rifles only competition is now live!
     animation_in: left
     animation_out: right
     button:
       enable: true
       label: Find out more
-      link: tournaments/vcod-ro-cup-1
+      link: tournaments/vcod-mix-cup
 banner_feature:
   enable: false
   image: images/banner/banner-feature.png
