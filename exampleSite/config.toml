@@ -34,6 +34,10 @@ name = "research"
 weight = 1
 [[menu.main]]
 URL = "news"
+name = "Hall of Fame"
+weight = "1"
+[[menu.main]]
+URL = "news"
 name = "News"
 weight = "1"
 [[menu.main]]
@@ -61,13 +65,17 @@ hasChilden = true
     url = "rules/coduo"
     weight = 3
 [[menu.main]]
+URL = "halloffame"
+name = "Hall of Fame"
+weight = "4"
+[[menu.main]]
 URL = "about"
 name = "About"
-weight = "4"
+weight = "5"
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = "5"
+weight = "6"
 [params]
 address = ""
 author = "Themefisher"
