@@ -1,7 +1,7 @@
 +++
 apply_url = "https://docs.google.com/forms/d/1_OA8UtoCgkFRAJkFpm7ENQe78Hpyq9gC3t6vTtTPi78/"
 bg_image = "/images/banner.jpg"
-date = 2020-11-03T17:00:00Z
+date = 2020-11-04T16:00:00Z
 description = ""
 fee = "Free"
 image = "/images/vcodggawpscup.jpg"
@@ -70,4 +70,4 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Registered Teams:**
 
-* 
+*
