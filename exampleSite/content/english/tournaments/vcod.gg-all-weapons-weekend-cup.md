@@ -47,9 +47,9 @@ name = "Fantasy"
 
 We are pleased to announce that the registration for our rifles only mix cup competition will be going live on the 1st of November. Please find information about the upcoming competition below.
 
-**Registration Opens:** 1st of November 2020, 22:00 GMT.
+**Registration Opens:** 3rd of November 2020, 17:00 GMT.
 
-**Registration Closes:** 11th of November 2020, 20:00 GMT.
+**Registration Closes:** 18th of November 2020, 20:00 GMT.
 
 **Cup Format:** Group stage followed by a double elimination knockout.
 
