@@ -4,7 +4,6 @@ bg_image = "/images/banner.jpg"
 categories = []
 date = 2020-11-03T17:00:00Z
 description = ""
-draft = true
 image = "/images/vcodggawpscup.jpg"
 tags = []
 title = "Introduction to All Weapons"
