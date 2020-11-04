@@ -71,3 +71,4 @@ If you are clanless and looking for a team, then head over to the Community Disc
 **Registered Teams:**
 
 * **OVERIDE – octo#8727:** octo (64dc7afc), YeyE (ed8c8c94), nrvn (82588e1b), X'mo (7eaa4d45), clement (ae0df555), skz (5fc35d87), skypjeh (471850a9), ArnO (ad587653), woken (fe19a274), Azer (8dcc9aa5), Guigui (2446eff5), kraz (1dc4cae7)
+* **5Kings – majkiiEh_MGK#7405:** majkiiEh (06a85fbb), coldiii (39777fc2), HekRr (7a3d293e), daNNN (3bb316ae), Fluxy (36dde141), Bush (c3e41348), JanzwE (4e0316e3), Apex (7d2118e5), kraz (1dc4cae7)
