@@ -7,7 +7,7 @@ fee = "Free"
 image = "/images/vcodggawpscup-min.jpg"
 location = "Call of Duty 1"
 publishDate = 2020-11-03T17:00:00Z
-title = "vcod.gg - All Weapons Weekend Cup"
+title = "vcod.gg - All Weapons Cup"
 [[speaker]]
 designation = "Admin"
 image = "/images/razrr.png"
