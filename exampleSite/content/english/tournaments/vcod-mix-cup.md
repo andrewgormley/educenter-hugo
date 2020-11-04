@@ -91,3 +91,5 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * Dieharder (3c46881f)
 * Vicious (bb9b4c66)
 * MORTEK (a029ca98)
+* 1ceyyy (7a5a1c92)
+* Mambu (82033a3e)
