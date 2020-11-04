@@ -87,3 +87,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * DzR (6eb98274)
 * floppy (3ab091be)
 * Shuya (34902b76)
+* f4Kl (abe343dd)
+* Dieharder (3c46881f)
+* Vicious (bb9b4c66)
+* MORTEK (a029ca98)
