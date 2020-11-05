@@ -93,3 +93,6 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * MORTEK (a029ca98)
 * 1ceyyy (7a5a1c92)
 * Mambu (82033a3e)
+* Fr@nKthePuNk? (c20959aa)
+* braun (f80cd14c)
+* dusty (78218880)
