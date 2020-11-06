@@ -96,3 +96,5 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * Fr@nKthePuNk? (c20959aa)
 * braun (f80cd14c)
 * dusty (78218880)
+* CRAWLER (38c4b307)
+* Yorkie (a402f89f)
