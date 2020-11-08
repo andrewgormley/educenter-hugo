@@ -49,9 +49,9 @@ WE ARE BACK!
 
 We are pleased to announce that the registration for our first installment of the vcod.gg competitions will be going live on the 29th of May. Please find information about the upcoming competition below.
 
-**Registration Opens:** 29th of May 2020, 18:00 BST.
+**Registration Opens:** 9th of November 2020, 19:00 GMT.
 
-**Registration Closes:** 10th of June 2020, 18:00 BST.
+**Registration Closes:** 22nd of November 2020, 20:00 GMT.
 
 **Cup Format:** Group stage followed by a double elimination knockout.
 
