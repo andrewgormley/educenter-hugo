@@ -37,6 +37,7 @@ fields:
   default: post
   hidden: false
 pages:
+- exampleSite/content/english/news/ddddd.md
 - exampleSite/content/english/news/divisions-season-1.md
 - exampleSite/content/english/news/divisions-season-1.md
 - exampleSite/content/english/news/introductio-to-all-weapons.md
