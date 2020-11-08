@@ -1,5 +1,5 @@
 +++
-apply_url = "https://forms.gle/5CS4oyHXMbcqjymdA"
+apply_url = "https://docs.google.com/forms/d/1FkdXkgKG22m_W-0bq-raBFYYARSrcFFA5ItMMBBtFz8/"
 bg_image = "/images/banner.jpg"
 date = 2020-11-09T19:00:17Z
 description = ""
