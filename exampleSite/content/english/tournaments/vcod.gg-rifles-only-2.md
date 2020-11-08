@@ -10,10 +10,6 @@ location = "Call of Duty 1"
 publishDate = 2020-11-09T19:00:00Z
 title = "vcod.gg - Rifles Only #2"
 [[speaker]]
-designation = "Conflict Team"
-image = ""
-name = "qT"
-[[speaker]]
 designation = "Admin"
 image = "/images/razrr.png"
 name = "razRR"
@@ -23,7 +19,7 @@ image = "/images/tim.png"
 name = "xa1ruZ"
 [[speaker]]
 designation = "Supervisor"
-image = "/images/mike.png"
+image = "/images/masi.png"
 name = "Masi"
 [[speaker]]
 designation = "Supervisor"
@@ -41,6 +37,10 @@ name = "fe@r"
 designation = "Conflict Team"
 image = "/images/fan.png"
 name = "Fantasy"
+[[speaker]]
+designation = "Conflict Team"
+image = ""
+name = "qT"
 
 +++
 ### **Cup Information**
