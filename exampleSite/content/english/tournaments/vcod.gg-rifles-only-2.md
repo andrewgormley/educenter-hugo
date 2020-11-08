@@ -23,12 +23,12 @@ image = "/images/mike.png"
 name = "Masi"
 [[speaker]]
 designation = "Supervisor"
-image = ""
-name = "nana"
-[[speaker]]
-designation = "Supervisor"
 image = "/images/masi.png"
 name = "prm"
+[[speaker]]
+designation = "Supervisor"
+image = "/images/nana.png"
+name = "nana"
 
 +++
 ### **Cup Information**
