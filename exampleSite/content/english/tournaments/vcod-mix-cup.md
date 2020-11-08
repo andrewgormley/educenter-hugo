@@ -88,7 +88,6 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * floppy (3ab091be)
 * Shuya (34902b76)
 * f4Kl (abe343dd)
-* Dieharder (3c46881f)
 * Vicious (bb9b4c66)
 * MORTEK (a029ca98)
 * 1ceyyy (7a5a1c92)
@@ -110,3 +109,4 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * ixc (55d0af7d)
 * moNk (387f9f26)
 * Rapidzjeh (597c3c5c)
+* Lost (63e42ce3)
