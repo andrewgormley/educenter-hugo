@@ -108,3 +108,5 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * Distance (5bb905a5)
 * iradexz (1ea998ee)
 * ixc (55d0af7d)
+* moNk (387f9f26)
+* Rapidzjeh (597c3c5c)
