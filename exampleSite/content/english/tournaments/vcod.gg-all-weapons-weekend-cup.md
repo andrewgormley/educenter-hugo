@@ -54,7 +54,7 @@ We are pleased to announce that the registration for our all weapons weekend com
 
 **Maps:** Group stage – maps will be pre-decided. Knockout stage - teams can pick any map from the pool once.
 
-**Map Pool:** Brecourt, Carentan, Dawnville, Depot, German_Town, Harbor, Neuville, Powcamp, Railyard, Stalingrad, Tigertown.
+**Map Pool:** Brecourt, Carentan, Dawnville, Depot, German_Town, Harbor, Neuville, Powcamp, Railyard, Tigertown.
 
 **Schedule:** The groups will be decided by the Cup Supervisors on the 18th of November, after registration has closed. The cup will take place over one weekend: 21st of November - 22nd of November (teams should only sign up for the competition if they are available on both dates). There is no set schedule for the competition, but it is an expectation for every team to have completed their group stage matches on the 21st of November. All knockout games and the final should be completed on the 22nd of November. Only sign up if you are willing to complete all of your games! Not completing the fixtures will have an impact on your chances of entering future competitions.
 
