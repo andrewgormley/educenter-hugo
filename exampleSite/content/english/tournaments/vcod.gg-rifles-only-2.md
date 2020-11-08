@@ -10,6 +10,10 @@ location = "Call of Duty 1"
 publishDate = 2020-11-09T19:00:00Z
 title = "vcod.gg - Rifles Only #2"
 [[speaker]]
+designation = "Conflict Team"
+image = "/images/fan.png"
+name = "Fantasy"
+[[speaker]]
 designation = "Admin"
 image = "/images/razrr.png"
 name = "razRR"
