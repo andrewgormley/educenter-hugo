@@ -19,16 +19,16 @@ image = "/images/tim.png"
 name = "xa1ruZ"
 [[speaker]]
 designation = "Supervisor"
-image = ""
-name = "nana"
-[[speaker]]
-designation = "Supervisor"
 image = "/images/mike.png"
 name = "Masi"
 [[speaker]]
 designation = "Supervisor"
+image = ""
+name = "nana"
+[[speaker]]
+designation = "Supervisor"
 image = "/images/masi.png"
-name = "Masi"
+name = "prm"
 
 +++
 ### **Cup Information**
