@@ -49,7 +49,7 @@ We are pleased to announce that the registration for our winter competion will b
 
 **Registration Opens:** 9th of November 2020, 19:00 GMT.
 
-**Registration Closes:** 22nd of November 2020, 20:00 GMT.
+**Registration Closes:** 29th of November 2020, 20:00 GMT.
 
 **Cup Format:** Group stage followed by a double elimination knockout.
 
