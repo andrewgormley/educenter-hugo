@@ -1,6 +1,6 @@
 +++
 author = ""
-bg_image = ""
+bg_image = "/images/banner.jpg"
 categories = []
 date = 2020-11-09T19:00:00Z
 description = ""
