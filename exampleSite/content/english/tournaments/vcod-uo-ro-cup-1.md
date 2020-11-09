@@ -118,12 +118,12 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * UNDERDOGZ ([Pavlov](https://i.imgur.com/bdSYxYn.jpg)) \[21\] vs \[00\] ([Peaks](https://i.imgur.com/bdSYxYn.jpg)) brn'pwr| - [forfeit win](https://i.imgur.com/bdSYxYn.jpg).
 * inferno - ([Peaks](https://i.imgur.com/Iq6nnWz.jpg)) \[13\] vs \[21\] ([Sicily](https://i.imgur.com/g67oHDu.jpg)) intuitive -
 * d\`logics. ([Tigertown](https://i.imgur.com/1fRa3Dt.jpg)) \[21\] vs \[08\] ([UO_Dawnville](https://i.imgur.com/nZ6JPpI.jpg)) fpS:::
-* fatality (TBA) \[21\] vs \[00\] (TBA) iMMORTALiS* - [forfeit win](https://i.imgur.com/lJQLvTe.jpg).
+* fatality ([Hurtgen](https://i.imgur.com/lJQLvTe.jpg)) \[21\] vs \[00\] ([Railyard](https://i.imgur.com/lJQLvTe.jpg)) iMMORTALiS* - [forfeit win](https://i.imgur.com/lJQLvTe.jpg).
 
 **Results - LB Round 1:**
 
-* brn'pwr| ([Streets](https://i.imgur.com/28ChZmG.jpg)) \[00\] vs \[21\] (TBA) inferno - [forfeit win](https://i.imgur.com/28ChZmG.jpg).
-* fpS::: vs iMMORTALiS
+* brn'pwr| ([Streets](https://i.imgur.com/28ChZmG.jpg)) \[00\] vs \[21\] ([Harbor](https://i.imgur.com/28ChZmG.jpg)) inferno - [forfeit win](https://i.imgur.com/28ChZmG.jpg).
+* fpS::: ([Carentan](https://i.imgur.com/GRLz8TC.jpg)) \[21\] vs \[00\] ([Pavlov](https://i.imgur.com/GRLz8TC.jpg)) iMMORTALiS - [forfeit win](https://i.imgur.com/GRLz8TC.jpg).
 
 **Results - UB Semi Finals:**
 
@@ -134,20 +134,20 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 * inferno - ([Arnhem](https://i.imgur.com/IvoKMaF.jpg)) \[20\] vs \[20\] ([Peaks](https://i.imgur.com/NpnDfsS.jpg)) intuitive -
 * inferno - \[06\] vs \[11\] intuitive - ([Golden Map](https://i.imgur.com/h4Nee2d.jpg))
-* d\`logics. vs TBA
+* d\`logics. (UO_Stanjel) \[14\]vs \[21\] (Peaks) fpS:::
 
 **Results - LB Round 3:**
 
-* intuitive vs TBA
+* intuitive (Neuville) \[21\] vs \[08\] (UO_Stanjel) fpS:::
 
 **Results - UB Final:**
 
-* UNDERDOGZ vs fatality
+* UNDERDOGZ \[21\] vs \[19\] fatality
 
 **Results - LB Round 4:**
 
-* TBA vs TBA
+* intuitive vs fatality
 
 **Results - Grand Final**
 
-* TBA vs TBA
+* UNDERDOGZ vs TBA
