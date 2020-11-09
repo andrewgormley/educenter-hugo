@@ -134,15 +134,15 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 * inferno - ([Arnhem](https://i.imgur.com/IvoKMaF.jpg)) \[20\] vs \[20\] ([Peaks](https://i.imgur.com/NpnDfsS.jpg)) intuitive -
 * inferno - \[06\] vs \[11\] intuitive - ([Golden Map](https://i.imgur.com/h4Nee2d.jpg))
-* d\`logics. (UO_Stanjel) \[14\]vs \[21\] (Peaks) fpS:::
+* d\`logics. ([UO_Stanjel](https://i.imgur.com/epiNO39.jpg)) \[14\] vs \[21\] ([Peaks](https://i.imgur.com/YlAH4LE.jpg)) fpS:::
 
 **Results - LB Round 3:**
 
-* intuitive (Neuville) \[21\] vs \[08\] (UO_Stanjel) fpS:::
+* intuitive ([Neuville](https://i.imgur.com/18XWEgu.jpg)) \[21\] vs \[08\] ([UO_Stanjel](https://i.imgur.com/YsNOMFU.jpg)) fpS:::
 
 **Results - UB Final:**
 
-* UNDERDOGZ \[21\] vs \[19\] fatality
+* UNDERDOGZ ([Carentan](https://i.imgur.com/0JS42hm.jpg)) \[21\] vs \[19\] ([Pavlov](https://i.imgur.com/6quWldk.jpg)) fatality
 
 **Results - LB Round 4:**
 
