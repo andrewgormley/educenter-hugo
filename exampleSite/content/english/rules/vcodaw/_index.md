@@ -60,7 +60,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 1\.6.2 – If you have still not managed to get in touch with your opponent 15 minutes after the scheduled starting time of the match, you can fill in a no-show.
 
-1\.6.3 – Matches can only start if a vcod.gg Referee is present (unless both teams agree to play without).
+1\.6.3 – Matches can only start if a vcod.gg Referee is present (unless both teams agree to play without) - this rule does not apply for weeked cups.
 
 1\.6.4 – Players listed with an EYE will be teamviewed upon entering the game. Anyone refusing to be teamviewed will not be allowed to participate.
 
