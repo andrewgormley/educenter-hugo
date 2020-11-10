@@ -70,11 +70,11 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 **1.7 – After the Match**
 
-1\.7.1 – Either clan can post the result of a match, unless the other has already done so.
+1\.7.1 – Either clan can post the result of a match, unless the other has already done so; a screenshot of the result is required for proof.
 
 1\.7.2 – Clans are expected to have proof of their match being played for 48 hours after the score has been confirmed.
 
-1\.7.3 – Players who participated in an official match are expected to upload their Veritas files. Failure to do so or uploading the wrong files will lead to a forfeit loss and a yellow card for the player(s) in question. In cases where the player experiences an unknown bug,the vcod.gg Admin, Supervisors and Conflict Team will decide on the next steps.
+1\.7.3 – Players who participated in an official match are expected to upload their Veritas files. Failure to do so or uploading the wrong files will lead to a forfeit loss and a yellow card for the player(s) in question. In cases where the player experiences an unknown bug, the vcod.gg Admin, Supervisors and Conflict Team will decide on the next steps.
 
 **1.8 – Leaving**
 
@@ -96,21 +96,20 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 1\.9.2 – vcod.gg Supervisors
 
-* 1.9.21 – dream-mrd#7168 (********)
-* 1.9.22 – HanNiBaL-K33NB34N#3227 (37740bfa)
-* 1.9.23 – xa1ruZ-xa1ruZ#6662 (98ae2a96)
-* 1.9.24 – prm-prm#2642 (b1863fe5)
+* 1.9.21 – HanNiBaL-K33NB34N#3227 (37740bfa)
+* 1.9.22 – xa1ruZ-xa1ruZ#6662 (98ae2a96)
+* 1.9.23 – prm-prm#2642 (b1863fe5)
+* 1.9.24 – nana-steve#0802 (22b45e3b)
 
 1\.9.3 – vcod.gg Conflict Team
 
-* 1.9.31 – nana-steve#0802 (22b45e3b)
-* 1.9.32 – fe@r-dragounet#9647 (e81bc4f3)
-* 1.9.33 – Fantasy-Fantasy?#1116 (4dca5c58)
+* 1.9.31 – fe@r-dragounet#9647 (e81bc4f3)
+* 1.9.32 – Fantasy-Fantasy?#1116 (4dca5c58)
+* 1.9.33 – qT-qT*3157 (a54e60a9)
 
 1\.9.4 – vcod.gg Referees:
 
 * 1.9.41 – opfii1ee-supatroopa#8123 (c9b894d4)
-* 1.9.42 – nana-steve#0802 (22b45e3b)
 
 1\.9.5 – Only a vcod.gg Referee from this list can be an official spectator. Anyone who falsely pretends to be a vcod.gg Referee will receive a temporary ban from vcod.gg competitions.
 
