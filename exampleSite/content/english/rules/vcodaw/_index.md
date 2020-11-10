@@ -293,7 +293,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 * 6.2.16 – Clipping is not allowed (includes crouched left lean).
 * 6.2.17 – Grenade glitch (includes to gain an extra grenade).
 * 6.2.18 – Basic nade bind is allowed (scripted nades are banned).
-* 6.2.19 – Throwing nades during strat time is not allowed and will be punished with a round loss.
+* 6.2.19 – Throwing nades during strat time.
 
 6\.2.2 – Any types of scripts proven to give a real advantage or are part of the not allowed binds/scripts below, will not be tolerated and will result in the player receiving a yellow card and the clan forfeiting the match. Disallowed binds and scripts are:
 
