@@ -70,7 +70,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 **1.7 – After the Match**
 
-1\.7.1 – Either clan can post the result of a match, unless the other has already done so.
+1\.7.1 – Either clan can post the result of a match, unless the other has already done so; a screenshot of the result is required for proof.
 
 1\.7.2 – Clans are expected to have proof of their match being played for 48 hours after the score has been confirmed.
 
