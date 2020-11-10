@@ -216,7 +216,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 4\.2.6 – In total, 8 teams will progress into the knockout stage.
 
-**4.3 – Match Rules - Division Series**
+**4.3 – Match Rules - Weekend Cups**
 
 4\.3.1 – A match is played over one map; each clan will play one time as defenders and one time as attackers on both maps.
 
