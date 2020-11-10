@@ -134,7 +134,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 2\.1.4 – All matches must be played on the latest vcod.gg PAM, which can be downloaded at: [**https://www.sendspace.com/file/bzrpfy**](https://www.sendspace.com/file/bzrpfy "https://www.sendspace.com/file/bzrpfy"). Teams can refuse to play on a server if the vcod.gg ruleset has been edited.
 
-2\.1.5 – To properly configure vcod.gg PAM for competition settings, use the following command: "/rcon pam_mode vcodgg_match" (default mode for all cup matches) and "/rcon pammode vcodgg_night" (default mode for all division series competitions).
+2\.1.5 – To properly configure vcod.gg PAM for competition settings, use the following command: "/rcon pam_mode vcodgg_ro_cup" (default mode for all cup matches) and "/rcon pammode vcodgg_ro_bo1" (default mode for all division series competitions).
 
 2\.1.6 – All server must have the latest vcod.gg cvarlist file, which can be downloaded at: [**https://www.sendspace.com/file/bu62h6**](https://www.sendspace.com/file/bu62h6 "https://www.sendspace.com/file/bu62h6").
 
