@@ -20,7 +20,7 @@ Hosting an all weapons competition has been discussed multiple times, but our ma
 
 Please ensure you have read the cup information before clicking ‘Apply Now’. We are asking teams to only sign up if they are able and willing to complete all of their matches. We will not be accepting any teams with missing GUIDs.
 
-Cup Information and Registration: [**https://www.vcod.gg/tournaments/vcod.gg-all-weapons-weekend-cup/**](https://www.vcod.gg/tournaments/vcod.gg-all-weapons-weekend-cup/ "https://www.vcod.gg/tournaments/vcod.gg-all-weapons-weekend-cup/").  
+Cup Information and Registration: [**https://www.vcod.gg/tournaments/vcod-aw-weekend-cup/**](https://www.vcod.gg/tournaments/vcod-aw-weekend-cup/ "https://www.vcod.gg/tournaments/vcod-aw-weekend-cup/").  
 Cup Rules: [**https://www.vcod.gg/rules/vcodaw/**](https://www.vcod.gg/rules/vcodaw/ "https://www.vcod.gg/rules/vcodaw/").
 
 Last but not least, if you are looking to take part in our upcoming competiton, make sure you join our Community Discord at: [**discord.gg/FA5vxDa**](https://discord.gg/FA5vxDa. "https://discord.gg/FA5vxDa.").
