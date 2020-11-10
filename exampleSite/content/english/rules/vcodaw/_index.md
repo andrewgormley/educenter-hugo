@@ -226,7 +226,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 4\.3.4 – The first team to reach 14 rounds will be determined the winner.
 
-4\.3.5 – The map pool for the competition is: Bocage, Brecourt, Carentan, Dawnville, Depot, German_Town, Harbor, Hurtgen, Neuville, Pavlov, Powcamp, Railyard, Rocket, Stalingrad and Tigertown
+4\.3.5 – The map pool for the competition is: Brecourt, Carentan, Dawnville, Depot, German_Town, Harbor, Neuville, Powcamp, Railyard, Stalingrad and Tigertown.
 
 4\.3.6 – The maps will be pre-chosen and will be played in the order listed on the website. Bash for side will take place before each map begins, with the winner deciding which side to start on.
 
@@ -287,10 +287,13 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 * 6.2.11 – Aim glitching (includes the short aim glitch after reloading).
 * 6.2.12 – Fast reloading (includes the fast weapon switch).
-* 6.2.13 – Shooting players through walls (includes hands of players clipping).
+* 6.2.13 – Shooting players through walls (includes hands of players).
 * 6.2.14 – Using map exploits (includes crouch jumping to get stuck in buildings and see through them).
 * 6.2.15 – Abusing player model speed (includes A+D spam).
-* 6.2.16 – Using prone to head glitch and become unhittable.
+* 6.2.16 – Clipping is not allowed (includes crouched left lean).
+* 6.2.17 – Grenade glitch (includes to gain an extra grenade).
+* 6.2.18 – Basic nade bind is allowed (scripted nades are banned).
+* 6.2.19 – Throwing nades during strat time is not allowed and will be punished with a round loss.
 
 6\.2.2 – Any types of scripts proven to give a real advantage or are part of the not allowed binds/scripts below, will not be tolerated and will result in the player receiving a yellow card and the clan forfeiting the match. Disallowed binds and scripts are:
 
