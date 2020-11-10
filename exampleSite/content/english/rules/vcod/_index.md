@@ -227,7 +227,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 4\.3.4 – The first team to reach 14 rounds will be determined the winner.
 
-4\.3.5 – The map pool for the competition is: Bocage, Brecourt, Carentan, Dawnville, Depot, German_Town, Harbor, Hurtgen, Neuville, Pavlov, Powcamp, Railyard, Rocket, Stalingrad and Tigertown
+4\.3.5 – The map pool for the competition is: Bocage, Brecourt, Carentan, Dawnville, Depot, German_Town, Harbor, Hurtgen, Neuville, Pavlov, Powcamp, Railyard, Rocket, Stalingrad and Tigertown.
 
 4\.3.6 – The maps will be pre-chosen and will be played in the order listed on the website. Bash for side will take place before each map begins, with the winner deciding which side to start on.
 
