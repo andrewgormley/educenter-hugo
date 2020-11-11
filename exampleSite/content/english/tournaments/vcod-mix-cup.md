@@ -99,7 +99,6 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * Yorkie (a402f89f)
 * Pol (12c95aad)
 * Don (9b133c60)
-* Redeamer (cc7cc1ff)
 * ravz (82646aa8)
 * opfii1ee (c9b894d4)
 * Chubby (4bb9dc0d)
