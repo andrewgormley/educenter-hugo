@@ -123,3 +123,6 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * Windje (59f1df04)
 * frospr (42a5a9ac)
 * Masi (37740bfa)
+* bahec (e4fdfd90)
+* FISSURE (coming)
+* t1MSKE (0f5eaefe)
