@@ -70,7 +70,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Registered Players & Teams:**
 
-![](/images/regis.PNG)
+![](/images/regis-1.PNG)
 
 **Group A:**
 
