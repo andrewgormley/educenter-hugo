@@ -71,7 +71,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 **Registered Teams:**
 
 * **OVERIDE – octo#8727:** octo (64dc7afc), YeyE (ed8c8c94), nrvn (82588e1b), X'mo (7eaa4d45), clement (ae0df555), skz (5fc35d87), skypjeh (471850a9), ArnO (ad587653), woken (fe19a274), Azer (8dcc9aa5), Guigui (2446eff5)
-* **5Kings – majkiiEh_MGK#7405:** majkiiEh (06a85fbb), coldiii (39777fc2), HekRr (7a3d293e), daNNN (3bb316ae), Fluxy (36dde141), Bush (c3e41348), JanzwE (4e0316e3), Apex (7d2118e5), kraz (1dc4cae7)
+* **BABOON5 – majkiiEh_MGK#7405:** majkiiEh (06a85fbb), coldiii (39777fc2), HekRr (7a3d293e), daNNN (3bb316ae), Fluxy (36dde141), Bush (c3e41348), JanzwE (4e0316e3), Apex (7d2118e5), kraz (1dc4cae7), kOVIS (62a699c3)
 * **#v22.Enemy Down – Explode#9497:** Explode (2ebeed51), Vicious (bb9b4c66), n00bster (cf6f35f6), reazoN (7e240cf1), rapidzjeh (597c3c5c), void (f4920376), Hehu (c6a033c9), Roalty (8d078917), oane (3c94a672), BILLAZ (07db0a98), Cliste (9d3a3054)
 * **Defying Logics – razRR#9282:** razRR (49d5ce5c), tanek (45395642), Shuya (34902b76), 1ceyyy (7a5a1c92), faa1th (df4ace91), fzU (64eca371), extence (e3fdfb11)
 * **fatality – xa1ruZ#6662:** xa1ruZ (98ae2a96), opfii1ee (c9b894d4), nanaaa (22b45e3b), VENXZRR (58a9ba94), Cillian (b322fa7c), FLAAASH (e4c12abe), bAUMI (37748725), prm (b1863fe5), Anglhz (0b3c46f3), Kai (0f2c016b), qT (a54e60a9)
