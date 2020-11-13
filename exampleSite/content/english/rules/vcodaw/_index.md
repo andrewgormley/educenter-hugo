@@ -326,76 +326,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 **7.1 – Jumps and Exploits Abuse**
 
-7\.1.1 – Brecourt:
-
-* 7.1.11 – Shooting through spawn corner bush to kill mid bunker.
-* 7.1.12 – Shooting over any bush that separates the centre of the map.
-* 7.1.13 – Shooting through the B bomb to small ruins where you cannot be hit.
-
-7\.1.2 – Carentan:
-
-* 7.1.21 – Jumping onto the roof in the back of MG garden.
-* 7.1.22 – Jumping onto the top roof of sniper house.
-
-7\.1.3 – Dawnville:
-
-* 7.1.31 – Jumping onto the stick outside of orphanage to see back grave.
-* 7.1.32 – Jumping onto the German FPS roof.
-* 7.1.33 – Jumping onto the B building roofs.
-* 7.1.34 – Jumping onto the archway near white house.
-* 7.1.35 – Jumping onto the sign next to the allies tank is allowed, the ruins is not.
-* 7.1.36 – Shooting through the orphanage bush.
-* 7.1.37 – Abusing the bush in grave to see into orphanage.
-* 7.1.38 – Abusing the window in back sniper to see through walls.
-
-7\.1.4 – Harbor:
-
-* 7.1.41 – Jumping out of the map.
-* 7.1.42 – Abusing a bug bottom police to become unhittable.
-* 7.1.43 – Using prone on the Russian ramp into ramproom to become unhittable.
-
-7\.1.5 – Hurtgen:
-
-* 7.1.51 – Using prone on the rock above A bunker to become unhittable.
-
-7\.1.6 – Neuville:
-
-* 7.1.61 – Jumping onto the outer ledge of jumphouse.
-* 7.1.62 – Jumping onto the bookstore roof.
-* 7.1.63 – Jumping onto the American spawn house roof.
-* 7.1.64 – Jumping out of the map.
-* 7.1.65 – Jumping on top of A mg.
-* 7.1.66 – Jumping onto the ledge outside of butchers.
-* 7.1.67 – Jumping onto mayors roof.
-* 7.1.68 – Jumping onto the roof of red house.
-* 7.1.69 – Planting inside the B bomb.
-
-7\.1.7 – Powcamp:
-
-* 7.1.71 – Jumping onto the German north roof.
-* 7.1.72 – Jumping onto the Russian south roof from the boxes.
-* 7.1.73 – Jumping onto the German spawn hut roof.
-* 7.1.74 – Jumping from the mid tower to the roof next to B bomb.
-
-7\.1.8 – Railyard:
-
-* 7.1.81 – Jumping onto the ruins roof.
-* 7.1.82 – Jumping onto the ledge besides the trains at B.
-* 7.1.83 – Jumping onto the B south hut roof from the ledge (hotel jump is allowed).
-* 7.1.84 – Hiding behind the spawn hut where your model becomes invisible.
-* 7.1.85 – Shooting through the A tank.
-
-7\.1.7 – Stalingrad:
-
-* 7.1.71 – Jumping into the glitch room.
-* 7.1.72 – Shooting through the A barrels.
-* 7.1.73 – Using prone behind the little boxes in mid tunnel to go underground.
-
-7\.1.8 – Tigertown:
-
-* 7.1.81 – Jumping onto the ledge in A alley.
-* 7.1.82 – Jumping into the bathroom in top hotel.
-* 7.1.83 – Using the glitch box near the B bomb to become unhittable.
+* JUMPS / EXPLOITS TO BE UPDATED.
 
 #### **8. Changes and Expectations**
 
