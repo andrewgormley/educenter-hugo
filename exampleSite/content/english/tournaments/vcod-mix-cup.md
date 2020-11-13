@@ -70,7 +70,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Registered Players & Teams:**
 
-![](/images/sssss.PNG)
+![](/images/mixsched.PNG)
 
 **Results – Group A:**
 
@@ -96,6 +96,10 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Standings:**
 
-![](/images/g1mix.PNG)
+![](/images/gamc-1.PNG)
 
-![](/images/g2mix.PNG)
+![](/images/gbmc-1.PNG)
+
+**Knockouts:**
+
+![](/images/mixcupkochart.PNG)
