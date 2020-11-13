@@ -158,4 +158,4 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Promotion / Relegation Playoff:**
 
-* LS#1 ([Tigertown](https://i.imgur.com/XK74m9k.jpg)) \[2\] vs \[0\] (Pavlov) the2gaming
+* LS#1 ([Tigertown](https://i.imgur.com/XK74m9k.jpg)) \[2\] vs \[0\] ([Pavlov](https://i.imgur.com/3mXE4Uk.png)) the2gaming
