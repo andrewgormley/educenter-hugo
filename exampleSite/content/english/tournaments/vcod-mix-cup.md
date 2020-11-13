@@ -70,12 +70,32 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Registered Players & Teams:**
 
-![](/images/dgthrthj.PNG)
+![](/images/sssss.PNG)
 
-**Group A:**
+**Results – Group A:**
+
+* uQ > vs inc5
+* G10YA vs whenlst2g
+* onionsqd. vs whenlst2g
+* uQ > vs G10YA
+* onionsqd. vs inc5
+* uQ > vs onionsqd.
+* G10YA vs onionsqd.
+* whenlst2g vs inc5
+* uQ > vs whenlst2g
+* G10YA vs inc5
+
+**Results – Group B:**
+
+* wsB! vs extence
+* Nhs vs \[++\]
+* wsB! vs \[++\]
+* Nhs vs extence
+* wsB! vs Nhs
+* \[++\] vs extence
+
+**Standings:**
 
 ![](/images/g1mix.PNG)
-
-**Group B:**
 
 ![](/images/g2mix.PNG)
