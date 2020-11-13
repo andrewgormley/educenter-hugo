@@ -111,7 +111,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Knockouts:**
 
-![](/images/kostageuo.PNG)
+![](/images/uobrackkket.PNG)
 
 **Results - UB Quarter Finals:**
 
@@ -146,8 +146,8 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - LB Round 4:**
 
-* intuitive vs fatality
+* intuitive ([Carentan](https://i.imgur.com/GGWp2le.jpg)) \[10\] vs \[21\] ([Peaks](https://i.imgur.com/zEpnE1U.jpg)) fatality
 
 **Results - Grand Final**
 
-* UNDERDOGZ vs TBA
+* UNDERDOGZ vs fatality
