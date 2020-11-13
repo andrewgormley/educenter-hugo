@@ -228,7 +228,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 4\.3.5 – The map pool for the competition is: Bocage, Brecourt, Carentan, Dawnville, Depot, German_Town, Harbor, Hurtgen, Neuville, Pavlov, Powcamp, Railyard, Rocket, Stalingrad and Tigertown.
 
-4\.3.6 – The maps will be pre-chosen and will be played in the order listed on the website. Bash for side will take place before each map begins, with the winner deciding which side to start on.
+4\.3.6 – Bash for side will take place, with the losing side starting a veto of maps first. Bash for side will take place before each map begins, with the winner deciding which side to start on.
 
 4\.3.7 –The default team size for clan matches is 5 vs 5, but you can specify a different team size if needed. The minimum team size is 4 vs 4 and the maximum team size is 6 vs 6.
 
