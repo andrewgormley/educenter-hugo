@@ -46,7 +46,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 **1.4** **– Arranging Matches – Weekend Cups**
 
-1\.4.1 – Matches will be played from Saturday, 13:00 CET through to Sunday 23:00 CET. If you cannot find an agreement with the enemy team, the match will be automatically set on the tournament page.
+1\.4.1 – Matches will be played from Saturday, 13:00 CET through to Sunday 23:00 CET. If you cannot find an agreement with the enemy team, contact a vcod.gg Supervisor.
 
 **1.5** **–** **Arranging Matches – General**
 
@@ -96,21 +96,20 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 1\.9.2 – vcod.gg Supervisors
 
-* 1.9.21 – dream-mrd#7168 (********)
-* 1.9.22 – HanNiBaL-K33NB34N#3227 (37740bfa)
-* 1.9.23 – xa1ruZ-xa1ruZ#6662 (98ae2a96)
-* 1.9.24 – prm-prm#2642 (b1863fe5)
+* 1.9.21 – HanNiBaL-K33NB34N#3227 (37740bfa)
+* 1.9.22 – xa1ruZ-xa1ruZ#6662 (98ae2a96)
+* 1.9.23 – prm-prm#2642 (b1863fe5)
+* 1.9.24 – nana-steve#0802 (22b45e3b)
 
 1\.9.3 – vcod.gg Conflict Team
 
-* 1.9.31 – nana-steve#0802 (22b45e3b)
-* 1.9.32 – fe@r-dragounet#9647 (e81bc4f3)
-* 1.9.33 – Fantasy-Fantasy?#1116 (4dca5c58)
+* 1.9.31 – fe@r-dragounet#9647 (e81bc4f3)
+* 1.9.32 – Fantasy-Fantasy?#1116 (4dca5c58)
+* 1.9.33 – qT-qT*3157 (a54e60a9)
 
 1\.9.4 – vcod.gg Referees:
 
 * 1.9.41 – opfii1ee-supatroopa#8123 (c9b894d4)
-* 1.9.42 – nana-steve#0802 (22b45e3b)
 
 1\.9.5 – Only a vcod.gg Referee from this list can be an official spectator. Anyone who falsely pretends to be a vcod.gg Referee will receive a temporary ban from vcod.gg competitions.
 
