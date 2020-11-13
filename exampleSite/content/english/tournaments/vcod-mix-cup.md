@@ -74,8 +74,8 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Group A:**
 
-![](/images/gamc.PNG)
+![](/images/g1mix.PNG)
 
 **Group B:**
 
-![](/images/gbmc.PNG)
+![](/images/g2mix.PNG)
