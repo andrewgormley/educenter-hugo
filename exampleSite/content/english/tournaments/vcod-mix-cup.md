@@ -96,9 +96,9 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Standings:**
 
-![](/images/gamc-1.PNG)
+![](/images/mixaaaaa.PNG)
 
-![](/images/gbmc-1.PNG)
+![](/images/mixbbbbb.PNG)
 
 **Knockouts:**
 
