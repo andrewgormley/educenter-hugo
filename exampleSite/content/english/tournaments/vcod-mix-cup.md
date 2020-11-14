@@ -88,7 +88,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 **Results – Group B:**
 
 * wsB! vs xfire -
-* Nhs vs \[++\]
+* Nhs \[14\] vs \[10\] \[++\] - [Powcamp](https://i.imgur.com/qKKaVOQ.jpg)
 * wsB! \[14\] vs \[10\] \[++\] - [Rocket](https://i.imgur.com/tAcJ0UN.jpg)
 * Nhs \[08\] vs \[14\] xfire - - [Neuville](https://i.imgur.com/XJIcd8m.jpg)
 * wsB! vs Nhs
