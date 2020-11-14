@@ -70,7 +70,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Registered Players & Teams:**
 
-![](/images/ssssssssssssssssssssss.PNG)
+![](/images/mixcupgroupsfinal.PNG)
 
 **Results – Group A:**
 
@@ -96,9 +96,9 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Standings:**
 
-![](/images/mixaaaaa.PNG)
+![](/images/mixcupagroupfinal.PNG)
 
-![](/images/mixbbbbb.PNG)
+![](/images/mixcupbgroupfinal.PNG)
 
 **Knockouts:**
 
