@@ -78,7 +78,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * G10YA \[13\] vs \[13\] whenlst2g - [Stalingrad](https://i.imgur.com/zwbFv6H.jpg)
 * dynastiA # \[14\] vs \[10\] whenlst2g - [Stalingrad](https://i.imgur.com/1Fouui9.jpg)
 * uQ > \[14\] vs \[12\] G10YA - [Harbor](https://i.imgur.com/R6LoEof.jpg)
-* dynastiA # vs inc5
+* dynastiA # \[14\] vs \[10\] inc5 - [Dawnville](https://i.imgur.com/ZUfzDSq.jpg)
 * uQ > vs dynastiA #
 * G10YA \[05\] vs \[14\] dynastiA # - [Dawnville](https://i.imgur.com/4RuqYX4.jpg)
 * whenlst2g \[13\] vs \[13\] inc5 - [Harbor](https://i.imgur.com/XjNulNL.jpg)
