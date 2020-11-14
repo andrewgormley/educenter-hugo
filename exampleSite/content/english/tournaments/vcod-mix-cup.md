@@ -76,23 +76,23 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 * uQ > vs inc5
 * G10YA vs whenlst2g
-* onionsqd. vs whenlst2g
+* dynastiA # vs whenlst2g
 * uQ > vs G10YA
-* onionsqd. vs inc5
-* uQ > vs onionsqd.
-* G10YA vs onionsqd.
+* dynastiA # vs inc5
+* uQ > vs dynastiA #
+* G10YA vs dynastiA #
 * whenlst2g vs inc5
 * uQ > vs whenlst2g
 * G10YA vs inc5
 
 **Results – Group B:**
 
-* wsB! vs extence
+* wsB! vs xfire -
 * Nhs vs \[++\]
 * wsB! vs \[++\]
-* Nhs vs extence
+* Nhs \[08\] vs \[14\] xfire - - [Neuville](https://i.imgur.com/XJIcd8m.jpg)
 * wsB! vs Nhs
-* \[++\] vs extence
+* \[++\] vs xfire -
 
 **Standings:**
 
