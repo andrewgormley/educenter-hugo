@@ -92,7 +92,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * wsB! vs \[++\]
 * Nhs \[08\] vs \[14\] xfire - - [Neuville](https://i.imgur.com/XJIcd8m.jpg)
 * wsB! vs Nhs
-* \[++\] vs xfire -
+* \[++\] \[06\] vs \[14\] xfire - - [Neuville](https://i.imgur.com/TABIqDP.png)
 
 **Standings:**
 
