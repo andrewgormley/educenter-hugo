@@ -96,10 +96,10 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Standings:**
 
-![](/images/mixcupagroupfinal.PNG)
+![](/images/gaupdate.PNG)
 
-![](/images/mixcupbgroupfinal.PNG)
+![](/images/groupbupdate.PNG)
 
 **Knockouts:**
 
-![](/images/mixcupkochart.PNG)
+![](/images/komixcup1st.PNG)
