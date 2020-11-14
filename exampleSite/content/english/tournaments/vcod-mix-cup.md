@@ -83,7 +83,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * G10YA vs dynastiA #
 * whenlst2g vs inc5
 * uQ > vs whenlst2g
-* G10YA vs inc5
+* G10YA \[04\] vs \[14\] inc5 - [Neuville](https://i.imgur.com/Ei72Lql.jpg)
 
 **Results – Group B:**
 
