@@ -96,7 +96,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Standings:**
 
-![](/images/gaupdate.PNG)
+![](/images/gamistake.PNG)
 
 ![](/images/groupbupdate.PNG)
 
