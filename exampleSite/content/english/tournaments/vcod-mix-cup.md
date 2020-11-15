@@ -129,8 +129,8 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - LB Round 2:**
 
-* uQ > vs Nhs
-* dynastiA # vs \[++\]
+* uQ > \[07\] vs \[14\] Nhs - [Harbor](https://i.imgur.com/LCweH9O.jpg)
+* dynastiA # \[11\] vs \[14\] \[++\] - [Railyard](https://i.imgur.com/8BYo4Hq.jpg)
 
 **Results - LB Round 3:**
 
