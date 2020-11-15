@@ -74,37 +74,75 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results – Group A:**
 
-* uQ > \[12\] vs \[14\] inc5 - [Neuville](https://i.imgur.com/tHtgxk9.jpg) #
-* G10YA \[13\] vs \[13\] whenlst2g - [Stalingrad](https://i.imgur.com/zwbFv6H.jpg)
-* dynastiA # \[14\] vs \[10\] whenlst2g - [Stalingrad](https://i.imgur.com/1Fouui9.jpg)
-* uQ > \[14\] vs \[12\] G10YA - [Harbor](https://i.imgur.com/R6LoEof.jpg)
-* dynastiA # \[14\] vs \[10\] inc5 - [Dawnville](https://i.imgur.com/ZUfzDSq.jpg) #
-* uQ > \[14\] vs \[12\] dynastiA # - [Powcamp](https://i.imgur.com/2xqOraM.jpg) #
-* G10YA \[05\] vs \[14\] dynastiA # - [Dawnville](https://i.imgur.com/4RuqYX4.jpg)
-* whenlst2g \[13\] vs \[13\] inc5 - [Harbor](https://i.imgur.com/XjNulNL.jpg)
-* uQ > \[14\] vs \[12\] whenlst2g - [Harbor](https://i.imgur.com/Bu5H8ws.jpg)
-* G10YA \[04\] vs \[14\] inc5 - [Neuville](https://i.imgur.com/Ei72Lql.jpg)
+* uQ > \[12\] - \[14\] inc5 - [Neuville](https://i.imgur.com/tHtgxk9.jpg) 
+* G10YA \[13\] - \[13\] whenlst2g - [Stalingrad](https://i.imgur.com/zwbFv6H.jpg)
+* dynastiA # \[14\] - \[10\] whenlst2g - [Stalingrad](https://i.imgur.com/1Fouui9.jpg)
+* uQ > \[14\] - \[12\] G10YA - [Harbor](https://i.imgur.com/R6LoEof.jpg)
+* dynastiA # \[14\] - \[10\] inc5 - [Dawnville](https://i.imgur.com/ZUfzDSq.jpg) 
+* uQ > \[14\] - \[12\] dynastiA # - [Powcamp](https://i.imgur.com/2xqOraM.jpg) 
+* G10YA \[05\] - \[14\] dynastiA # - [Dawnville](https://i.imgur.com/4RuqYX4.jpg)
+* whenlst2g \[13\] - \[13\] inc5 - [Harbor](https://i.imgur.com/XjNulNL.jpg)
+* uQ > \[14\] - \[12\] whenlst2g - [Harbor](https://i.imgur.com/Bu5H8ws.jpg)
+* G10YA \[04\] - \[14\] inc5 - [Neuville](https://i.imgur.com/Ei72Lql.jpg)
 
 **Results – Group B:**
 
-* wsB! \[14\] vs \[10\] xfire - [Rocket](https://i.imgur.com/tAcJ0UN.jpg)
-* Nhs \[14\] vs \[10\] \[++\] - [Powcamp](https://i.imgur.com/qKKaVOQ.jpg)
-* wsB! \[14\] vs \[08\] \[++\] - [Powcamp](https://i.imgur.com/7k3idQ7.jpg) 
-* Nhs \[08\] vs \[14\] xfire - - [Neuville](https://i.imgur.com/XJIcd8m.jpg)
-* wsB! \[14\] vs \[06\] Nhs - [Carentan](https://i.imgur.com/MrfZbAd.jpg)
-* \[++\] \[06\] vs \[14\] xfire - - [Neuville](https://i.imgur.com/TABIqDP.png)
+* wsB! \[14\] - \[10\] xfire - [Rocket](https://i.imgur.com/tAcJ0UN.jpg)
+* Nhs \[14\] - \[10\] \[++\] - [Powcamp](https://i.imgur.com/qKKaVOQ.jpg)
+* wsB! \[14\] - \[08\] \[++\] - [Powcamp](https://i.imgur.com/7k3idQ7.jpg) 
+* Nhs \[08\] - \[14\] xfire - - [Neuville](https://i.imgur.com/XJIcd8m.jpg)
+* wsB! \[14\] - \[06\] Nhs - [Carentan](https://i.imgur.com/MrfZbAd.jpg)
+* \[++\] \[06\] - \[14\] xfire - - [Neuville](https://i.imgur.com/TABIqDP.png)
 
 **Standings:**
 
-![](/images/gamistake.PNG)
+![](/images/mcfinalga.PNG)
 
-![](/images/groupbupdate.PNG)
+![](/images/mcfinalgb.PNG)
 
 **Knockouts:**
 
-![](/images/komixcup1st.PNG)
+![](/images/mcko1ststage.PNG)
 
-**Preliminary Round:**
+**Results - Preliminary Round:**
 
-* G10YA. \[13\] vs \[13\] \[++\] - [Neuville](https://i.imgur.com/R5I4BhC.jpg)
-* G10YA. \[04\] vs \[14\] \[++\] - [Golden Map](https://i.imgur.com/vzGCppu.jpg)
+* G10YA. \[13\] - \[13\] \[++\] - [Neuville](https://i.imgur.com/R5I4BhC.jpg)
+* G10YA. \[04\] - \[14\] \[++\] - [Golden Map](https://i.imgur.com/vzGCppu.jpg)
+
+**Results - UB Quarter Finals:**
+
+* wsB! vs whenlst2g
+* uQ vs Nhs
+* uQ > vs dynastiA #
+* xfire - inc5
+
+**Results - LB Round 1:**
+
+* TBA vs TBA
+* TBA vs TBA
+
+**Results - UB Semi Finals:**
+
+* TBA vs TBA
+* TBA vs TBA
+
+**Results - LB Round 2:**
+
+* TBA vs TBA
+* TBA vs TBA
+
+**Results - LB Round 3:**
+
+* TBA vs TBA
+
+**Results - UB Final:**
+
+* TBA vs TBA
+
+**Results - LB Round 4:**
+
+* TBA vs TBA
+
+**Results - Grand Final**
+
+* TBA vs TBA
