@@ -4,7 +4,6 @@ bg_image = "/images/banner.jpg"
 categories = []
 date = 2020-11-01T22:00:00Z
 description = ""
-draft = true
 image = "/images/mixcupvcod.jpg"
 tags = []
 title = "Return of the Mix Cup"
