@@ -102,7 +102,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Knockouts:**
 
-![](/images/konewupdatye.PNG)
+![](/images/koupdate2.PNG)
 
 **Results - Preliminary Round:**
 
