@@ -138,7 +138,9 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - UB Final:**
 
-* wsB! vs xfire -
+* wsB! \[13\] - \[13\] xfire - - [Railyard](https://i.imgur.com/AlxoF5Q.jpg)
+* wsB! \[13\] vs \[13\] xfire - - [Golden Map](https://i.imgur.com/w35MYzo.jpg)
+* wsB! \[14\] vs \[10\] xfire - - [Golden Map](https://i.imgur.com/iQvbs8G.jpg)
 
 **Results - LB Round 4:**
 
