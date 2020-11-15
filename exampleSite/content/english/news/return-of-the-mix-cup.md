@@ -2,7 +2,7 @@
 author = ""
 bg_image = "/images/banner.jpg"
 categories = []
-date = 2020-11-01T21:00:00Z
+date = 2020-11-15T21:00:00Z
 description = ""
 image = "/images/mixcupvcod.jpg"
 tags = []
