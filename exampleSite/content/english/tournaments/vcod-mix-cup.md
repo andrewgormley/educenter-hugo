@@ -112,7 +112,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 **Results - UB Quarter Finals:**
 
 * wsB! vs whenlst2g
-* uQ > vs Nhs
+* uQ > \[08\] vs \[14\] Nhs - [Hurtgen](https://i.imgur.com/5sVQaoa.jpg)
 * dynastiA # > vs \[++\]
 * xfire - inc5
 
