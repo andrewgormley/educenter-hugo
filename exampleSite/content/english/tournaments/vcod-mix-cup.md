@@ -74,7 +74,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results – Group A:**
 
-* uQ > vs inc5 - [Neuville](https://i.imgur.com/tHtgxk9.jpg) #
+* uQ > \[12\] vs \[14\] inc5 - [Neuville](https://i.imgur.com/tHtgxk9.jpg) #
 * G10YA \[13\] vs \[13\] whenlst2g - [Stalingrad](https://i.imgur.com/zwbFv6H.jpg)
 * dynastiA # \[14\] vs \[10\] whenlst2g - [Stalingrad](https://i.imgur.com/1Fouui9.jpg)
 * uQ > \[14\] vs \[12\] G10YA - [Harbor](https://i.imgur.com/R6LoEof.jpg)
