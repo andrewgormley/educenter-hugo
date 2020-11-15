@@ -125,7 +125,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 **Results - UB Semi Finals:**
 
 * wsB! \[14\] vs \[10\] Nhs - [German_Town](https://i.imgur.com/DTBGkcx.jpg)
-* dynastiA # \[05\] vs \[14\] xfire -
+* dynastiA # \[05\] vs \[14\] xfire - - [Stalingrad](https://i.imgur.com/XF44l5k.png)
 
 **Results - LB Round 2:**
 
