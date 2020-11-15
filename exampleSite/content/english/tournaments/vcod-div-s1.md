@@ -86,29 +86,29 @@ If you are clanless and looking for a team, then head over to the Community Disc
 ![](/images/s1sched.PNG)  
 **Results – Diamond – Week 1:**
 
-* barbeque \[08\] vs \[14\] LS#1 \~ [Carentan](https://i.imgur.com/fAlZvoU.jpg)
-* d\`logics. \[11\] vs \[14\] fatality \~ [Carentan](https://i.imgur.com/9yc8CNH.jpg)
-* barbeque \[14\] vs \[03\] d\`logics. \~ [Harbor](https://i.imgur.com/6FUk30p.jpg)
-* fatality \[11\] vs \[14\] EURO \~ [Harbor](https://i.imgur.com/pvXtvlF.jpg)
-* barbeque \[11\] vs \[14\] fatality \~ [Brecourt](https://i.imgur.com/JJF1HXg.jpg)
-* LS#1 \[11\] vs \[14\] EURO \~ [Brecourt](https://i.imgur.com/QIvKezD.jpg)
-* barbeque \[13\] vs \[13\] EURO \~ [Dawnville](https://i.imgur.com/BUQ5Y9q.jpg)
-* LS#1 \[13\] vs \[13\] d\`logics. \~ [Dawnville](https://i.imgur.com/YQEqllV.jpg)
-* LS#1 \[09\] vs \[14\] fatality \~ [Pavlov](https://i.imgur.com/rWBi6Oh.png)
-* d\`logics. \[11\] vs \[14\] EURO \~ [Pavlov](https://i.imgur.com/kIBQhB8.jpg)
+* barbeque \[08\] - \[14\] LS#1 \~ [Carentan](https://i.imgur.com/fAlZvoU.jpg)
+* d\`logics. \[11\] - \[14\] fatality \~ [Carentan](https://i.imgur.com/9yc8CNH.jpg)
+* barbeque \[14\] - \[03\] d\`logics. \~ [Harbor](https://i.imgur.com/6FUk30p.jpg)
+* fatality \[11\] - \[14\] EURO \~ [Harbor](https://i.imgur.com/pvXtvlF.jpg)
+* barbeque \[11\] - \[14\] fatality \~ [Brecourt](https://i.imgur.com/JJF1HXg.jpg)
+* LS#1 \[11\] - \[14\] EURO \~ [Brecourt](https://i.imgur.com/QIvKezD.jpg)
+* barbeque \[13\] - \[13\] EURO \~ [Dawnville](https://i.imgur.com/BUQ5Y9q.jpg)
+* LS#1 \[13\] - \[13\] d\`logics. \~ [Dawnville](https://i.imgur.com/YQEqllV.jpg)
+* LS#1 \[09\] - \[14\] fatality \~ [Pavlov](https://i.imgur.com/rWBi6Oh.png)
+* d\`logics. \[11\] - \[14\] EURO \~ [Pavlov](https://i.imgur.com/kIBQhB8.jpg)
 
 **Results – Gold – Week 1:**
 
-* the2gaming \[08\] vs \[14\] intuitive - \~ [Carentan](https://i.imgur.com/0ED0SgO.jpg)
-* ninja / \[14\] vs \[08\] inferno - \~ [Carentan](https://i.imgur.com/01rCDjp.jpg)
-* the2gaming \[05\] vs \[14\] ninja / \~ [Harbor](https://imgur.com/a/2j4ESlU)
-* inferno - \[00\] vs \[14\] lobiiX \~ [Harbor](https://i.imgur.com/oCoBmFZ.jpg)
-* the2gaming \[14\] vs \[09\] inferno - \~ [Brecourt](https://imgur.com/a/b3YghVx)
-* intuitive - \[14\] vs \[08\] lobiiX \~ [Brecourt](https://i.imgur.com/NwaZPkV.jpg)
-* the2gaming \[13\] vs \[13\] lobiiX \~ [Dawnville](https://sun9-25.userapi.com/P_lNoMTZzN2tsITxRKK0qEGfLap_PSdUta0FaA/okoFOnRMaeM.jpg)
-* intuitive - \[14\] vs \[06\] ninja / \~ [Dawnville](https://i.imgur.com/661bMp0.png)
-* intuitive - \[14\] vs \[03\] inferno - \~ [Pavlov](https://i.imgur.com/mVUpREW.jpg)
-* ninja / \[14\] vs \[10\] lobiiX \~ [Pavlov](https://i.imgur.com/R0lsbRE.png)
+* the2gaming \[08\] - \[14\] intuitive - \~ [Carentan](https://i.imgur.com/0ED0SgO.jpg)
+* ninja / \[14\] - \[08\] inferno - \~ [Carentan](https://i.imgur.com/01rCDjp.jpg)
+* the2gaming \[05\] - \[14\] ninja / \~ [Harbor](https://imgur.com/a/2j4ESlU)
+* inferno - \[00\] - \[14\] lobiiX \~ [Harbor](https://i.imgur.com/oCoBmFZ.jpg)
+* the2gaming \[14\] - \[09\] inferno - \~ [Brecourt](https://imgur.com/a/b3YghVx)
+* intuitive - \[14\] - \[08\] lobiiX \~ [Brecourt](https://i.imgur.com/NwaZPkV.jpg)
+* the2gaming \[13\] - \[13\] lobiiX \~ [Dawnville](https://sun9-25.userapi.com/P_lNoMTZzN2tsITxRKK0qEGfLap_PSdUta0FaA/okoFOnRMaeM.jpg)
+* intuitive - \[14\] - \[06\] ninja / \~ [Dawnville](https://i.imgur.com/661bMp0.png)
+* intuitive - \[14\] - \[03\] inferno - \~ [Pavlov](https://i.imgur.com/mVUpREW.jpg)
+* ninja / \[14\] - \[10\] lobiiX \~ [Pavlov](https://i.imgur.com/R0lsbRE.png)
 
 **Standings – Week 1:**
 
@@ -118,29 +118,29 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results – Diamond – Week 2:**
 
-* LS#1 \[13\] vs \[13\] barbeque \~ [Bocage](https://i.imgur.com/Q81jXvc.jpg)
-* fatality \[13\] vs \[13\] d\`logics. \~ [Bocage](https://i.imgur.com/eSBK2fw.jpg)
-* d\`logics. \[08\] vs \[14\] barbeque \~ [Rocket](https://i.imgur.com/b2eh7uU.jpg)
-* EURO \[01\] vs \[14\] fatality \~ [Rocket](https://i.imgur.com/NJ81Xt5.jpg)
-* fatality \[14\] vs \[08\] barbeque \~ [Powcamp](https://i.imgur.com/u2OIND0.jpg)
-* EURO \[14\] vs \[09\] LS#1 \~ [Powcamp](https://i.imgur.com/t2j7rdJ.jpg)
-* EURO \[13\] vs \[13\] barbeque \~ [Tigertown](https://i.imgur.com/8aXBzwy.jpg)
-* d\`logics. \[14\] vs \[00\] LS#1 \~ [Tigertown](https://i.imgur.com/c7mOKBo.png)
-* fatality \[12\] vs \[14\] LS#1 \~ [Neuville](https://imgur.com/a/uddvDkA)
-* EURO \[14\] vs \[09\] d\`logics. \~ [Neuville](https://i.imgur.com/feB3pAv.jpg)
+* LS#1 \[13\] - \[13\] barbeque \~ [Bocage](https://i.imgur.com/Q81jXvc.jpg)
+* fatality \[13\] - \[13\] d\`logics. \~ [Bocage](https://i.imgur.com/eSBK2fw.jpg)
+* d\`logics. \[08\] - \[14\] barbeque \~ [Rocket](https://i.imgur.com/b2eh7uU.jpg)
+* EURO \[01\] - \[14\] fatality \~ [Rocket](https://i.imgur.com/NJ81Xt5.jpg)
+* fatality \[14\] - \[08\] barbeque \~ [Powcamp](https://i.imgur.com/u2OIND0.jpg)
+* EURO \[14\] - \[09\] LS#1 \~ [Powcamp](https://i.imgur.com/t2j7rdJ.jpg)
+* EURO \[13\] - \[13\] barbeque \~ [Tigertown](https://i.imgur.com/8aXBzwy.jpg)
+* d\`logics. \[14\] - \[00\] LS#1 \~ [Tigertown](https://i.imgur.com/c7mOKBo.png)
+* fatality \[12\] - \[14\] LS#1 \~ [Neuville](https://imgur.com/a/uddvDkA)
+* EURO \[14\] - \[09\] d\`logics. \~ [Neuville](https://i.imgur.com/feB3pAv.jpg)
 
 **Results – Gold – Week 2:**
 
-* intuitive - \[11\] vs \[14\] the2gaming \~ [Bocage](https://i.imgur.com/5gWOUa9.jpg)
-* inferno - \[02\] vs \[14\] ninja / \~ [Bocage](https://i.imgur.com/m8AHXue.jpg)
-* ninja / \[13\] vs \[13\] the2gaming \~ [Rocket](https://i.imgur.com/QLAgHkH.jpg)
-* lobiiX \[14\] vs \[07\] inferno - \~ [Rocket](https://i.imgur.com/JfyUlee.jpg)
-* inferno - \[06\] vs \[14\] the2gaming \~ [Powcamp](https://i.imgur.com/375AUyf.jpg)
-* lobiiX \[02\] vs \[14\] intuitive - \~ [Powcamp](https://i.imgur.com/XOSmAX1.jpg)
-* lobiiX \[01\] vs \[14\] the2gaming \~ [Tigertown](https://i.imgur.com/lAf8rRD.jpg)
-* ninja / \[12\] vs \[14\] intuitive - \~ [Tigertown](https://i.imgur.com/loG3NUl.jpg)
-* inferno - \[03\] vs \[14\] intuitive - \~ [Neuville](https://i.imgur.com/I9ajQpe.jpg)
-* lobiiX \[14\] vs \[08\] ninja / \~ [Neuville](https://i.imgur.com/c0T1gt9.jpg)
+* intuitive - \[11\] - \[14\] the2gaming \~ [Bocage](https://i.imgur.com/5gWOUa9.jpg)
+* inferno - \[02\] - \[14\] ninja / \~ [Bocage](https://i.imgur.com/m8AHXue.jpg)
+* ninja / \[13\] - \[13\] the2gaming \~ [Rocket](https://i.imgur.com/QLAgHkH.jpg)
+* lobiiX \[14\] - \[07\] inferno - \~ [Rocket](https://i.imgur.com/JfyUlee.jpg)
+* inferno - \[06\] - \[14\] the2gaming \~ [Powcamp](https://i.imgur.com/375AUyf.jpg)
+* lobiiX \[02\] - \[14\] intuitive - \~ [Powcamp](https://i.imgur.com/XOSmAX1.jpg)
+* lobiiX \[01\] - \[14\] the2gaming \~ [Tigertown](https://i.imgur.com/lAf8rRD.jpg)
+* ninja / \[12\] - \[14\] intuitive - \~ [Tigertown](https://i.imgur.com/loG3NUl.jpg)
+* inferno - \[03\] - \[14\] intuitive - \~ [Neuville](https://i.imgur.com/I9ajQpe.jpg)
+* lobiiX \[14\] - \[08\] ninja / \~ [Neuville](https://i.imgur.com/c0T1gt9.jpg)
 
 **Standings – Week 2:**
 
@@ -158,4 +158,4 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Promotion / Relegation Playoff:**
 
-* LS#1 ([Tigertown](https://i.imgur.com/XK74m9k.jpg)) \[2\] vs \[0\] ([Pavlov](https://i.imgur.com/3mXE4Uk.png)) the2gaming
+* LS#1 ([Tigertown](https://i.imgur.com/XK74m9k.jpg)) \[2\] - \[0\] ([Pavlov](https://i.imgur.com/3mXE4Uk.png)) the2gaming
