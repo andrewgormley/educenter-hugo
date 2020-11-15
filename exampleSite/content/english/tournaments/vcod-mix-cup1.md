@@ -144,8 +144,8 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - LB Round 4:**
 
-* Nhs vs xfire -
+* Nhs \[10\] vs \[14\] xfire - - [Rocket](https://i.imgur.com/EQIXcAD.jpg)
 
 **Results - Grand Final**
 
-* wsB! vs TBA
+* wsB! vs xfire -
