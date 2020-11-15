@@ -111,14 +111,15 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - UB Quarter Finals:**
 
-* wsB! - whenlst2g - Depot
+* wsB! - whenlst2g - [Stalingrad](https://i.imgur.com/rLherh5.jpg)
+* wsB! - whenlst2g - [Golden Map](https://i.imgur.com/UZJ7BqJ.jpg)
 * uQ > \[08\] - \[14\] Nhs - [Hurtgen](https://i.imgur.com/5sVQaoa.jpg)
 * dynastiA # \[14\] - \[12\] \[++\] - [Harbor](https://i.imgur.com/YHWPFcL.jpg)
 * xfire - \[14\] - \[10\] inc5 - [Neuville](https://imgur.com/a/Q17S4kR)
 
 **Results - LB Round 1:**
 
-* whenlst2g vs uQ >
+* whenlst2g \[10\] vs \[13\] uQ > - [Neuville](https://i.imgur.com/KgvZMBS.jpg)
 * \[++\] vs inc5
 
 **Results - UB Semi Finals:**
