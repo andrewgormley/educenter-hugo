@@ -124,17 +124,17 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - UB Semi Finals:**
 
-* wsB! \[14\] vs \[10\] Nhs - [German_Town](https://i.imgur.com/DTBGkcx.jpg)
-* dynastiA # \[05\] vs \[14\] xfire - - [Stalingrad](https://i.imgur.com/XF44l5k.png)
+* wsB! \[14\] - \[10\] Nhs - [German_Town](https://i.imgur.com/DTBGkcx.jpg)
+* dynastiA # \[05\] - \[14\] xfire - - [Stalingrad](https://i.imgur.com/XF44l5k.png)
 
 **Results - LB Round 2:**
 
-* uQ > \[07\] vs \[14\] Nhs - [Harbor](https://i.imgur.com/LCweH9O.jpg)
-* dynastiA # \[11\] vs \[14\] \[++\] - [Railyard](https://i.imgur.com/8BYo4Hq.jpg)
+* uQ > \[07\] - \[14\] Nhs - [Harbor](https://i.imgur.com/LCweH9O.jpg)
+* dynastiA # \[11\] - \[14\] \[++\] - [Railyard](https://i.imgur.com/8BYo4Hq.jpg)
 
 **Results - LB Round 3:**
 
-* Nhs vs \[++\]
+* Nhs - \[++\]
 
 **Results - UB Final:**
 
