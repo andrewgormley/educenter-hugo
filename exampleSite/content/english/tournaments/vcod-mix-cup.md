@@ -74,12 +74,12 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results – Group A:**
 
-* uQ > \[12\] - \[14\] inc5 - [Neuville](https://i.imgur.com/tHtgxk9.jpg) 
+* uQ > \[12\] - \[14\] inc5 - [Neuville](https://i.imgur.com/tHtgxk9.jpg)
 * G10YA \[13\] - \[13\] whenlst2g - [Stalingrad](https://i.imgur.com/zwbFv6H.jpg)
 * dynastiA # \[14\] - \[10\] whenlst2g - [Stalingrad](https://i.imgur.com/1Fouui9.jpg)
 * uQ > \[14\] - \[12\] G10YA - [Harbor](https://i.imgur.com/R6LoEof.jpg)
-* dynastiA # \[14\] - \[10\] inc5 - [Dawnville](https://i.imgur.com/ZUfzDSq.jpg) 
-* uQ > \[14\] - \[12\] dynastiA # - [Powcamp](https://i.imgur.com/2xqOraM.jpg) 
+* dynastiA # \[14\] - \[10\] inc5 - [Dawnville](https://i.imgur.com/ZUfzDSq.jpg)
+* uQ > \[14\] - \[12\] dynastiA # - [Powcamp](https://i.imgur.com/2xqOraM.jpg)
 * G10YA \[05\] - \[14\] dynastiA # - [Dawnville](https://i.imgur.com/4RuqYX4.jpg)
 * whenlst2g \[13\] - \[13\] inc5 - [Harbor](https://i.imgur.com/XjNulNL.jpg)
 * uQ > \[14\] - \[12\] whenlst2g - [Harbor](https://i.imgur.com/Bu5H8ws.jpg)
@@ -89,14 +89,14 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 * wsB! \[14\] - \[10\] xfire - [Rocket](https://i.imgur.com/tAcJ0UN.jpg)
 * Nhs \[14\] - \[10\] \[++\] - [Powcamp](https://i.imgur.com/qKKaVOQ.jpg)
-* wsB! \[14\] - \[08\] \[++\] - [Powcamp](https://i.imgur.com/7k3idQ7.jpg) 
+* wsB! \[14\] - \[08\] \[++\] - [Powcamp](https://i.imgur.com/7k3idQ7.jpg)
 * Nhs \[08\] - \[14\] xfire - - [Neuville](https://i.imgur.com/XJIcd8m.jpg)
 * wsB! \[14\] - \[06\] Nhs - [Carentan](https://i.imgur.com/MrfZbAd.jpg)
 * \[++\] \[06\] - \[14\] xfire - - [Neuville](https://i.imgur.com/TABIqDP.png)
 
 **Standings:**
 
-![](/images/mcfinalga.PNG)
+![](/images/mcfinalga1111.PNG)
 
 ![](/images/mcfinalgb.PNG)
 
