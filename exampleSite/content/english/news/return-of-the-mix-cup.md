@@ -2,7 +2,7 @@
 author = ""
 bg_image = "/images/banner.jpg"
 categories = []
-date = 2020-11-01T22:00:00Z
+date = 2020-11-01T21:00:00Z
 description = ""
 image = "/images/mixcupvcod.jpg"
 tags = []
@@ -24,7 +24,7 @@ However, to help us organise players and make the competition as fair as possibl
 
 More information regarding the cup can be found below:
 
-Cup Information and Registration: [**https://www.vcod.gg/tournaments/vcod-mix-cup/**](https://www.vcod.gg/tournaments/vcod-mix-cup/ "https://www.vcod.gg/tournaments/vcod-mix-cup/").  
+Cup Information and Registration: [**https://www.vcod.gg/tournaments/**](https://www.vcod.gg/tournaments/vcod-mix-cup2 "https://www.vcod.gg/tournaments/vcod-mix-cup/")**vcod-mix-cup2**  
 Cup Rules: [**https://www.vcod.gg/rules/vcod/**](https://www.vcod.gg/rules/vcod/ "https://www.vcod.gg/rules/vcod/").
 
 Last but not least, if you are looking to take part in our upcoming competiton, make sure you join our Community Discord at: [**discord.gg/FA5vxDa**](https://discord.gg/FA5vxDa. "https://discord.gg/FA5vxDa.").
