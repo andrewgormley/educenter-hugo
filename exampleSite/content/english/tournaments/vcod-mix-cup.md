@@ -113,7 +113,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 * wsB! vs whenlst2g
 * uQ > \[08\] vs \[14\] Nhs - [Hurtgen](https://i.imgur.com/5sVQaoa.jpg)
-* dynastiA # > vs \[++\]
+* dynastiA # \[14\] vs \[12\] \[++\] - [Harbor](https://i.imgur.com/YHWPFcL.jpg)
 * xfire - inc5
 
 **Results - LB Round 1:**
