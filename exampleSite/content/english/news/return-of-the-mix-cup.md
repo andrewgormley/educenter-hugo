@@ -10,7 +10,7 @@ title = "Return of the Mix Cup"
 type = "post"
 
 +++
-### **The First Ever Mix Cup!**
+### **Mix Cup - Round 2!**
 
 We are pleased to announce that the registration for our next rifles only competition is now live!
 

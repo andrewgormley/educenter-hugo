@@ -44,7 +44,7 @@ name = "Fantasy"
 +++
 ### **Cup Information**
 
-We are pleased to announce that the registration for our rifles only mix cup competition will be going live on the 1st of November. Please find information about the upcoming competition below.
+We are pleased to announce that the registration for our rifles only mix cup competition will be going live on the 15th of November. Please find information about the upcoming competition below.
 
 **Registration Opens:** 15th of November 2020, 23:00 GMT.
 
@@ -52,7 +52,7 @@ We are pleased to announce that the registration for our rifles only mix cup com
 
 **Cup Format:** Group stage followed by a double elimination knockout.
 
-**Maps:** Group stage – veto. Knockout stage - veto. 
+**Maps:** Group stage – veto. Knockout stage - veto.
 
 **Map Pool:** Bocage, Brecourt, Carentan, Dawnville, Depot, German_Town, Harbor, Hurtgen, Neuville, Pavlov, Powcamp, Railyard, Rocket, Stalingrad, Tigertown.
 
