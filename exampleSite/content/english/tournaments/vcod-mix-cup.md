@@ -144,8 +144,8 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - LB Round 4:**
 
-* TBA vs TBA
+* TBA vs xfire -
 
 **Results - Grand Final**
 
-* TBA vs TBA
+* wsB! vs TBA
