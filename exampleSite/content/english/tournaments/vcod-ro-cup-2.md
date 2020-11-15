@@ -70,4 +70,5 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Registered Teams:**
 
-* 
+* **fatality – xa1ruZ#6662:** xa1ruZ (98ae2a96), opfii1ee (c9b894d4), nanaaa (22b45e3b), VENXZRR (58a9ba94), Cillian (b322fa7c), FLAAASH (e4c12abe), bAUMI (37748725), prm (b1863fe5), Anglhz (0b3c46f3), Kai (0f2c016b), qT (a54e60a9)
+* **Union Squad – Frankthepunk#6594:** Fr@nKtHePuNk? (c20959aa), evaN (2167446e), f1ssurE (42d8a995), Mambuu (82033a3e), costaZ (11e20ccc), MAZU (3d66ead8), BASSIE (e566d62c), Andrew.G (********)
