@@ -102,7 +102,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Knockouts:**
 
-![](/images/koupdate1.PNG)
+![](/images/konewupdatye.PNG)
 
 **Results - Preliminary Round:**
 
@@ -119,8 +119,8 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - LB Round 1:**
 
-* whenlst2g \[10\] vs \[13\] uQ > - [Neuville](https://i.imgur.com/KgvZMBS.jpg)
-* \[++\] \[14\] vs \[07\] inc5 - COMING
+* whenlst2g \[10\] - \[13\] uQ > - [Neuville](https://i.imgur.com/KgvZMBS.jpg)
+* \[++\] \[14\] - \[07\] inc5 - COMING
 
 **Results - UB Semi Finals:**
 
@@ -129,8 +129,8 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - LB Round 2:**
 
-* TBA vs TBA
-* TBA vs TBA
+* uQ > vs Nhs
+* dynastiA # vs \[++\]
 
 **Results - LB Round 3:**
 
@@ -138,7 +138,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - UB Final:**
 
-* TBA vs TBA
+* wsB! vs xfire -
 
 **Results - LB Round 4:**
 
