@@ -1,12 +1,12 @@
 +++
 apply_url = "https://docs.google.com/forms/d/1cbEJ1DSUngnBAMEvqp5boWEtLS5eSL-q2U3VmNgINoE"
 bg_image = "/images/banner.jpg"
-date = 2020-11-15T22:00:00Z
+date = 2020-11-15T21:00:00Z
 description = ""
 fee = "Free"
 image = "/images/mixcupvcod.jpg"
 location = "Call of Duty 1"
-publishDate = 2020-11-15T22:00:00Z
+publishDate = 2020-11-15T21:00:00Z
 title = "vcod.gg - Mix Cup #2"
 [[speaker]]
 designation = "Admin"
