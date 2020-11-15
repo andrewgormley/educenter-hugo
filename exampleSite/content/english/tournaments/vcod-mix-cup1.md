@@ -102,7 +102,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Knockouts:**
 
-![](/images/kokokokokooko.PNG)
+![](/images/kob4final.PNG)
 
 **Results - Preliminary Round:**
 
