@@ -134,7 +134,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - LB Round 3:**
 
-* Nhs - \[++\]
+* Nhs vs \[++\]
 
 **Results - UB Final:**
 
