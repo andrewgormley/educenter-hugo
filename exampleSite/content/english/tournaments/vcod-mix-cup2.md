@@ -70,4 +70,8 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Registered Players & Teams:**
 
-* 
+* fe@r (e81bc4f3) - Dragounet#9647
+* skz (5fc35d87) - skz#2642
+* prm (b1863fe5) - prm#2642
+* majkiiEh (06a85fbb) - majkiiEh_MGK#7405
+* razRR (49d5ce5c) - razRR#9282
