@@ -118,13 +118,13 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - LB Round 1:**
 
-* TBA vs TBA
-* TBA vs TBA
+* whenlst2g vs uQ >
+* \[++\] vs inc5
 
 **Results - UB Semi Finals:**
 
-* TBA vs TBA
-* TBA vs TBA
+* wsB! vs Nhs
+* dynastiA # vs xfire -
 
 **Results - LB Round 2:**
 
