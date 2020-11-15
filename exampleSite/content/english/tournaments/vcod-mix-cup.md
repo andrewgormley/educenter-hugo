@@ -120,7 +120,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 **Results - LB Round 1:**
 
 * whenlst2g \[10\] - \[13\] uQ > - [Neuville](https://i.imgur.com/KgvZMBS.jpg)
-* \[++\] \[14\] - \[07\] inc5 - COMING
+* \[++\] \[14\] - \[07\] inc5 - [Neuville](https://i.imgur.com/MJWA4Gc.png)
 
 **Results - UB Semi Finals:**
 
