@@ -102,7 +102,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Knockouts:**
 
-![](/images/koupdate2.PNG)
+![](/images/kokokokokooko.PNG)
 
 **Results - Preliminary Round:**
 
@@ -134,7 +134,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - LB Round 3:**
 
-* Nhs vs \[++\]
+* Nhs \[14\] - \[04\] \[++\] - [Neuville](https://i.imgur.com/MOTlgis.jpg)
 
 **Results - UB Final:**
 
@@ -144,7 +144,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - LB Round 4:**
 
-* TBA vs xfire -
+* Nhs vs xfire -
 
 **Results - Grand Final**
 
