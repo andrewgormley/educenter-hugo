@@ -103,3 +103,8 @@ If you are clanless and looking for a team, then head over to the Community Disc
 **Knockouts:**
 
 ![](/images/komixcup1st.PNG)
+
+**Preliminary Round:**
+
+* G10YA. \[13\] vs \[13\] \[++\] - [Neuville](https://i.imgur.com/R5I4BhC.jpg)
+* G10YA. \[04\] vs \[14\] \[++\] - [Golden Map](https://i.imgur.com/vzGCppu.jpg)
