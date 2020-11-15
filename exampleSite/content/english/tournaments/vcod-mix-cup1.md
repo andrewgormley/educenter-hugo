@@ -52,7 +52,7 @@ We are pleased to announce that the registration for our rifles only mix cup com
 
 **Cup Format:** Group stage followed by a double elimination knockout.
 
-**Maps:** Group stage – maps will be pre-decided. Knockout stage - teams can pick any map from the pool once.
+**Maps:** Group stage – veto. Knockout stage - veto.
 
 **Map Pool:** Bocage, Brecourt, Carentan, Dawnville, Depot, German_Town, Harbor, Hurtgen, Neuville, Pavlov, Powcamp, Railyard, Rocket, Stalingrad, Tigertown.
 
