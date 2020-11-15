@@ -1,9 +1,8 @@
 +++
-apply_url = "https://docs.google.com/forms/d/1pO42U3YHuMzQ8JOGZh4B-o_ltt9OmGw_6doWfTt2y5w"
+apply_url = "https://docs.google.com/forms/d/1cbEJ1DSUngnBAMEvqp5boWEtLS5eSL-q2U3VmNgINoE"
 bg_image = "/images/banner.jpg"
 date = 2020-11-15T23:00:00Z
 description = ""
-draft = true
 fee = "Free"
 image = "/images/mixcupvcod.jpg"
 location = "Call of Duty 1"
