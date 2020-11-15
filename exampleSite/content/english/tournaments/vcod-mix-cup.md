@@ -120,12 +120,12 @@ If you are clanless and looking for a team, then head over to the Community Disc
 **Results - LB Round 1:**
 
 * whenlst2g \[10\] vs \[13\] uQ > - [Neuville](https://i.imgur.com/KgvZMBS.jpg)
-* \[++\] vs inc5
+* \[++\] \[14\] vs \[07\] inc5 - COMING
 
 **Results - UB Semi Finals:**
 
-* wsB! vs Nhs
-* dynastiA # vs xfire -
+* wsB! \[14\] vs \[10\] Nhs - [German_Town](https://i.imgur.com/DTBGkcx.jpg)
+* dynastiA # \[05\] vs \[14\] xfire -
 
 **Results - LB Round 2:**
 
