@@ -87,21 +87,21 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results – Group A:**
 
-* intuitive - \[12\] vs \[21\] UNDERDOGZ \~ [Powcamp](https://i.imgur.com/JDtBdCC.jpg) & [Depot](https://i.imgur.com/w5FEjd9.jpg)
-* d\`logics. \[21\] vs \[03\] iMMORTALiS* \~ [Powcamp](https://i.imgur.com/p46J1iC.jpg) & [Depot](https://i.imgur.com/cbTO7Kj.jpg)
-* UNDERDOGZ \[21\] vs \[07\] iMMORTALiS* \~ [Harbor](https://i.imgur.com/qVlfkR0.jpg) & [UO_Powcamp](https://i.imgur.com/bzHaQGU.jpg)
-* d\`logics. \[21\] vs \[12\] intuitive - \~ [Harbor](https://i.imgur.com/9yEmRdQ.jpg) & [UO_Powcamp](https://i.imgur.com/Wf5cV8v.jpg)
-* intuitive - \[21\] vs \[05\] iMMORTALiS* \~ [Sicily](https://i.imgur.com/SW1od9U.jpg) & [Arnhem](https://i.imgur.com/7HK3PKB.jpg)
-* d\`logics. \[15\] vs \[21\] UNDERDOGZ \~ [Sicily](https://i.imgur.com/zJz76uO.jpg) & [Arnhem](https://i.imgur.com/04Gn9OX.jpg)
+* intuitive - \[12\] - \[21\] UNDERDOGZ \~ [Powcamp](https://i.imgur.com/JDtBdCC.jpg) & [Depot](https://i.imgur.com/w5FEjd9.jpg)
+* d\`logics. \[21\] - \[03\] iMMORTALiS* \~ [Powcamp](https://i.imgur.com/p46J1iC.jpg) & [Depot](https://i.imgur.com/cbTO7Kj.jpg)
+* UNDERDOGZ \[21\] - \[07\] iMMORTALiS* \~ [Harbor](https://i.imgur.com/qVlfkR0.jpg) & [UO_Powcamp](https://i.imgur.com/bzHaQGU.jpg)
+* d\`logics. \[21\] - \[12\] intuitive - \~ [Harbor](https://i.imgur.com/9yEmRdQ.jpg) & [UO_Powcamp](https://i.imgur.com/Wf5cV8v.jpg)
+* intuitive - \[21\] - \[05\] iMMORTALiS* \~ [Sicily](https://i.imgur.com/SW1od9U.jpg) & [Arnhem](https://i.imgur.com/7HK3PKB.jpg)
+* d\`logics. \[15\] - \[21\] UNDERDOGZ \~ [Sicily](https://i.imgur.com/zJz76uO.jpg) & [Arnhem](https://i.imgur.com/04Gn9OX.jpg)
 
 **Results – Group B:**
 
-* fatality \[21\] vs \[07\] fpS::: \~ [Powcamp](https://i.imgur.com/BUnJyVF.jpg) & [Depot](https://i.imgur.com/vR3WBjD.jpg)
-* brn'pwr| \[13\] vs \[21\] inferno - \~ [Powcamp](https://i.imgur.com/KQ4bLGM.jpg) & [Depot](https://i.imgur.com/9XxQMRo.jpg)
-* fpS::: \[08\] vs \[21\] inferno - \~ [Harbor](https://i.imgur.com/YKgVML4.jpg) & [UO_Powcamp](https://i.imgur.com/FeV7FSF.jpg)
-* brn'pwr| \[00\] vs \[21\] fatality \~ [Harbor](https://i.imgur.com/zj1qgQF.jpg) & [UO_Powcamp](https://i.imgur.com/zj1qgQF.jpg)
-* fatality \[21\] vs \[15\] inferno - \~ [Sicily](https://i.imgur.com/Ny855Se.jpg) & [Arnhem](https://i.imgur.com/p8NYfnN.png)
-* brn'pwr| \[00\] vs \[21\] fpS::: \~ [Sicily](https://i.imgur.com/GRLz8TC.jpg) & [Arnhem](https://i.imgur.com/GRLz8TC.jpg)
+* fatality \[21\] - \[07\] fpS::: \~ [Powcamp](https://i.imgur.com/BUnJyVF.jpg) & [Depot](https://i.imgur.com/vR3WBjD.jpg)
+* brn'pwr| \[13\] - \[21\] inferno - \~ [Powcamp](https://i.imgur.com/KQ4bLGM.jpg) & [Depot](https://i.imgur.com/9XxQMRo.jpg)
+* fpS::: \[08\] - \[21\] inferno - \~ [Harbor](https://i.imgur.com/YKgVML4.jpg) & [UO_Powcamp](https://i.imgur.com/FeV7FSF.jpg)
+* brn'pwr| \[00\] - \[21\] fatality \~ [Harbor](https://i.imgur.com/zj1qgQF.jpg) & [UO_Powcamp](https://i.imgur.com/zj1qgQF.jpg)
+* fatality \[21\] - \[15\] inferno - \~ [Sicily](https://i.imgur.com/Ny855Se.jpg) & [Arnhem](https://i.imgur.com/p8NYfnN.png)
+* brn'pwr| \[00\] - \[21\] fpS::: \~ [Sicily](https://i.imgur.com/GRLz8TC.jpg) & [Arnhem](https://i.imgur.com/GRLz8TC.jpg)
 
 **Standings:**
 
@@ -115,38 +115,38 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - UB Quarter Finals:**
 
-* UNDERDOGZ ([Pavlov](https://i.imgur.com/bdSYxYn.jpg)) \[21\] vs \[00\] ([Peaks](https://i.imgur.com/bdSYxYn.jpg)) brn'pwr| - [forfeit win](https://i.imgur.com/bdSYxYn.jpg).
-* inferno - ([Peaks](https://i.imgur.com/Iq6nnWz.jpg)) \[13\] vs \[21\] ([Sicily](https://i.imgur.com/g67oHDu.jpg)) intuitive -
-* d\`logics. ([Tigertown](https://i.imgur.com/1fRa3Dt.jpg)) \[21\] vs \[08\] ([UO_Dawnville](https://i.imgur.com/nZ6JPpI.jpg)) fpS:::
-* fatality ([Hurtgen](https://i.imgur.com/lJQLvTe.jpg)) \[21\] vs \[00\] ([Railyard](https://i.imgur.com/lJQLvTe.jpg)) iMMORTALiS* - [forfeit win](https://i.imgur.com/lJQLvTe.jpg).
+* UNDERDOGZ ([Pavlov](https://i.imgur.com/bdSYxYn.jpg)) \[21\] - \[00\] ([Peaks](https://i.imgur.com/bdSYxYn.jpg)) brn'pwr| - [forfeit win](https://i.imgur.com/bdSYxYn.jpg).
+* inferno - ([Peaks](https://i.imgur.com/Iq6nnWz.jpg)) \[13\] - \[21\] ([Sicily](https://i.imgur.com/g67oHDu.jpg)) intuitive -
+* d\`logics. ([Tigertown](https://i.imgur.com/1fRa3Dt.jpg)) \[21\] - \[08\] ([UO_Dawnville](https://i.imgur.com/nZ6JPpI.jpg)) fpS:::
+* fatality ([Hurtgen](https://i.imgur.com/lJQLvTe.jpg)) \[21\] - \[00\] ([Railyard](https://i.imgur.com/lJQLvTe.jpg)) iMMORTALiS* - [forfeit win](https://i.imgur.com/lJQLvTe.jpg).
 
 **Results - LB Round 1:**
 
-* brn'pwr| ([Streets](https://i.imgur.com/28ChZmG.jpg)) \[00\] vs \[21\] ([Harbor](https://i.imgur.com/28ChZmG.jpg)) inferno - [forfeit win](https://i.imgur.com/28ChZmG.jpg).
-* fpS::: ([Carentan](https://i.imgur.com/GRLz8TC.jpg)) \[21\] vs \[00\] ([Pavlov](https://i.imgur.com/GRLz8TC.jpg)) iMMORTALiS - [forfeit win](https://i.imgur.com/GRLz8TC.jpg).
+* brn'pwr| ([Streets](https://i.imgur.com/28ChZmG.jpg)) \[00\] - \[21\] ([Harbor](https://i.imgur.com/28ChZmG.jpg)) inferno - [forfeit win](https://i.imgur.com/28ChZmG.jpg).
+* fpS::: ([Carentan](https://i.imgur.com/GRLz8TC.jpg)) \[21\] - \[00\] ([Pavlov](https://i.imgur.com/GRLz8TC.jpg)) iMMORTALiS - [forfeit win](https://i.imgur.com/GRLz8TC.jpg).
 
 **Results - UB Semi Finals:**
 
-* UNDERDOGZ ([UO_Stanjel](https://i.imgur.com/fzdIFZZ.jpg)) \[21\] vs \[18\] ([Brecourt](https://i.imgur.com/wmJtkcy.jpg)) intuitive -
-* d\`logics. ([Cassino](https://i.imgur.com/j7ylCOY.jpg)) \[16\] vs \[21\] ([Brecourt](https://i.imgur.com/52xATi1.jpg)) fatality
+* UNDERDOGZ ([UO_Stanjel](https://i.imgur.com/fzdIFZZ.jpg)) \[21\] - \[18\] ([Brecourt](https://i.imgur.com/wmJtkcy.jpg)) intuitive -
+* d\`logics. ([Cassino](https://i.imgur.com/j7ylCOY.jpg)) \[16\] - \[21\] ([Brecourt](https://i.imgur.com/52xATi1.jpg)) fatality
 
 **Results - LB Round 2:**
 
-* inferno - ([Arnhem](https://i.imgur.com/IvoKMaF.jpg)) \[20\] vs \[20\] ([Peaks](https://i.imgur.com/NpnDfsS.jpg)) intuitive -
-* inferno - \[06\] vs \[11\] intuitive - ([Golden Map](https://i.imgur.com/h4Nee2d.jpg))
-* d\`logics. ([UO_Stanjel](https://i.imgur.com/epiNO39.jpg)) \[14\] vs \[21\] ([Peaks](https://i.imgur.com/YlAH4LE.jpg)) fpS:::
+* inferno - ([Arnhem](https://i.imgur.com/IvoKMaF.jpg)) \[20\] - \[20\] ([Peaks](https://i.imgur.com/NpnDfsS.jpg)) intuitive -
+* inferno - \[06\] - \[11\] intuitive - ([Golden Map](https://i.imgur.com/h4Nee2d.jpg))
+* d\`logics. ([UO_Stanjel](https://i.imgur.com/epiNO39.jpg)) \[14\] - \[21\] ([Peaks](https://i.imgur.com/YlAH4LE.jpg)) fpS:::
 
 **Results - LB Round 3:**
 
-* intuitive ([Neuville](https://i.imgur.com/18XWEgu.jpg)) \[21\] vs \[08\] ([UO_Stanjel](https://i.imgur.com/YsNOMFU.jpg)) fpS:::
+* intuitive ([Neuville](https://i.imgur.com/18XWEgu.jpg)) \[21\] - \[08\] ([UO_Stanjel](https://i.imgur.com/YsNOMFU.jpg)) fpS:::
 
 **Results - UB Final:**
 
-* UNDERDOGZ ([Carentan](https://i.imgur.com/0JS42hm.jpg)) \[21\] vs \[19\] ([Pavlov](https://i.imgur.com/6quWldk.jpg)) fatality
+* UNDERDOGZ ([Carentan](https://i.imgur.com/0JS42hm.jpg)) \[21\] - \[19\] ([Pavlov](https://i.imgur.com/6quWldk.jpg)) fatality
 
 **Results - LB Round 4:**
 
-* intuitive ([Carentan](https://i.imgur.com/GGWp2le.jpg)) \[10\] vs \[21\] ([Peaks](https://i.imgur.com/zEpnE1U.jpg)) fatality
+* intuitive ([Carentan](https://i.imgur.com/GGWp2le.jpg)) \[10\] - \[21\] ([Peaks](https://i.imgur.com/zEpnE1U.jpg)) fatality
 
 **Results - Grand Final**
 
