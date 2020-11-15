@@ -102,7 +102,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Knockouts:**
 
-![](/images/mcko1ststage.PNG)
+![](/images/mcko1ststage1.PNG)
 
 **Results - Preliminary Round:**
 
@@ -112,8 +112,8 @@ If you are clanless and looking for a team, then head over to the Community Disc
 **Results - UB Quarter Finals:**
 
 * wsB! vs whenlst2g
-* uQ vs Nhs
-* uQ > vs dynastiA #
+* uQ > vs Nhs
+* dynastiA # > vs \[++\]
 * xfire - inc5
 
 **Results - LB Round 1:**
