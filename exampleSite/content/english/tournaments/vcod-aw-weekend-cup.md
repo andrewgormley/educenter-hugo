@@ -76,3 +76,4 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * **Defying Logics – razRR#9282:** razRR (49d5ce5c), tanek (45395642), Shuya (34902b76), 1ceyyy (7a5a1c92), faa1th (df4ace91), fzU (64eca371), extence (e3fdfb11)
 * **fatality – xa1ruZ#6662:** xa1ruZ (98ae2a96), opfii1ee (c9b894d4), nanaaa (22b45e3b), VENXZRR (58a9ba94), Cillian (b322fa7c), FLAAASH (e4c12abe), bAUMI (37748725), prm (b1863fe5), Anglhz (0b3c46f3), Kai (0f2c016b), qT (a54e60a9)
 * **gUwniaki** **– jtGz#3074:** jtGz (6c40f1ae), klofucja (b6970df0), crosq (5758bbd7), skyhack (03e00360), anthrax (3e63f30b), angel (03316d1c), gorn (87e6b0f5), h3lioS (8e1ed66f), voy4k (a1f91310), luzaQ_- (10c112b7)
+* **NERlords – Nirboo#8265:** McFly (51cc9877), Nirbo (7edbfecf), Rainthex (c5b73712), BURN (468d2feb), gerydozz (d11e46e5), justo (8872cd80), tYSON (0d2266dc), nexah (GUID), alien (GUID)
