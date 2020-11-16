@@ -76,3 +76,11 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * majkiiEh (06a85fbb) - majkiiEh_MGK#7405
 * razRR (49d5ce5c) - razRR#9282
 * 1ceyyy (7a5a1c92) - 1ceyyy#4584
+* Explode (2ebeed51) - Explode#9497
+* Azzieee (9ba4157c) - Azzieee#6673
+* fl0ppY (3ab091be) - fIoppy#9230
+* Cobra (41f3ef9d) - Cobra#8051
+* iradexz (1ea998ee) - iradexz#7064
+* f4KL (abe343dd) - f4KL#7044
+* braun (f80cd14c) - braun #1771
+* breeze (97f17698) - breeze#9644
