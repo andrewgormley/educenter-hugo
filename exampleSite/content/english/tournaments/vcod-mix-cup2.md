@@ -84,3 +84,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * f4KL (abe343dd) - f4KL#7044
 * braun (f80cd14c) - braun #1771
 * breeze (97f17698) - breeze#9644
+* Fr@nKthePuNk? (c20959aa) - Frankthepunk#6594
+* Fantasy (4dca5c58) - Fantasy#1116
+* Distance (5bb905a5) - luciden afstand#0139
+* Lost? (63e42ce3) - Vertula#5779 
