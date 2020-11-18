@@ -90,3 +90,6 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * Lost? (63e42ce3) - Vertula#5779
 * FLAAASH (e4c12abe) - FLAAASH#2583
 * Vasz (f53b116d) - Vasz01#8146
+* Jannus (505373f9) - popo_dd#9118
+* CRAWLER (38c4b307) - CRAWLER#3452
+* drko (c3e41348) - Bush #7416
