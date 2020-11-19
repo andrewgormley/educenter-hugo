@@ -76,4 +76,4 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * **barbeque – dusty#1057:** dusty (78218880) iradexz (1ea998ee) Mazu (3d66ead8) Don (9b133c60) Crawler (38c4b307) Owner (668af291) Masi (37740bfa)
 * **intuitive - \[OMBD\]Anglhz#7860:** anglhz (0b3c46f3), t1MSKE (0f5eaefe), alum (90e5682a), oane (3c94a672), virax (9a8b5a02), pele (8e11b236), majkiieh (06a85fbb), eich (5e83660f)
 * **lobiiX - fIoppy#9230:** fl0ppY 3ab091be, Windje 59f1df04, Jannus 505373f9, Portiss 1f9e4109, JDX 035652eb, xtc a6593b15, Stephano fbb05bed
-* **Defying Logics – razRR#9282:** razRR (49d5ce5c), rONOx (876cc5c5), tanek (45395642), n00bster (cf6f35f6), Shuya (34902b76), 1ceyyy (7a5a1c92), faa1th (df4ace91), f z U (64eca371)
+* **Defying Logics – razRR#9282:** razRR (49d5ce5c), rONOx (876cc5c5), tanek (45395642), n00bster (cf6f35f6), Shuya (34902b76), 1ceyyy (7a5a1c92), faa1th (df4ace91), f z U (64eca371), extence (e3fdfb11)
