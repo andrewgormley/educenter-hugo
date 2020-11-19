@@ -96,16 +96,16 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results – Group B:**
 
-* d
-* d
-* d
-* d
-* d
-* d
-* d
-* f
-* f
-* f
+* OVERIDE vs #v22.
+* Lamy z Panamy vs NERlords
+* gUwniaki vs NERlords
+* OVERIDE vs Lamy z Panamy
+* gUwniaki vs #v22.
+* OVERIDE vs gUwniaki
+* Lamy z Panamy vs gUwniaki
+* NERlords vs #v22.
+* OVERIDE vs NERlords
+* Lamy z Panamy vs vs #v22.
 
 **Standings:**
 
