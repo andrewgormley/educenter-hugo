@@ -26,10 +26,6 @@ image = "/images/prm.jpg"
 name = "prm"
 [[speaker]]
 designation = "Supervisor"
-image = "/images/drm.png"
-name = "dream"
-[[speaker]]
-designation = "Conflict Team"
 image = "/images/nana.png"
 name = "nana"
 [[speaker]]
@@ -40,6 +36,10 @@ name = "fe@r"
 designation = "Conflict Team"
 image = "/images/fan.png"
 name = "Fantasy"
+[[speaker]]
+designation = "Conflict Team"
+image = ""
+name = "qT"
 
 +++
 ### **Cup Information**
