@@ -26,8 +26,8 @@ image = "/images/prm.jpg"
 name = "prm"
 [[speaker]]
 designation = "Supervisor"
-image = "/images/drm.png"
-name = "dream"
+image = "/images/nana.png"
+name = "nana"
 [[speaker]]
 designation = "Conflict Team"
 image = "/images/nana.png"
