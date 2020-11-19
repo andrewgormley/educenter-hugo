@@ -22,7 +22,7 @@ image = "/images/masi.png"
 name = "Masi"
 [[speaker]]
 designation = "Supervisor"
-image = "/images/prm.png"
+image = "/images/prm1.jpg"
 name = "prm"
 [[speaker]]
 designation = "Supervisor"
