@@ -79,7 +79,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * **NERlords – Nirboo#8265:** McFly (51cc9877), Nirbo (7edbfecf), Rainthex (c5b73712), BURN (468d2feb), gerydozz (d11e46e5), justo (8872cd80), tYSON (0d2266dc), nexah (********), alien (1d5a2d34)
 * **Lamy z Panamy – xeon#6173:** xeon (73d03736), volcom (d360e42b), jerome (e11960a4), Goodiee (9e142289), klery (3b592e0a), morrow (c33977b5), jacketaj (dc4a246f), Hoglm (c5b7e52b)
 * **ALMOST – bRATNEY#4457:** bRATNEY(06ec3073), dandelion(152ab60a), ludiga(48bd81b1), miLk(5b8a1cca), mockbert(f971be0a), Nano(44a8383c), temaL(4b094d19), woox(e08c7cf5)
-* **WONDERK1DZ – CMUNDY topoS#8334:** m3x_(d7509dbf) , Verso (a34114d5) , topYYY(36fded69) , Mass(51c0f3d1), LcK(819a3652), hide (ff3f2f9c)
+* **WONDERK1DZ – CMUNDY topoS#8334:** m3x_(d7509dbf), Verso (a34114d5), topYYY(36fded69), Mass(51c0f3d1), LcK(819a3652), hide (ff3f2f9c)
 
 **Results – Group A:**
 
