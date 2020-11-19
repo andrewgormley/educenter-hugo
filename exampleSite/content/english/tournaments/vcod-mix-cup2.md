@@ -93,3 +93,4 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * Jannus (505373f9) - popo_dd#9118
 * CRAWLER (38c4b307) - CRAWLER#3452
 * drko (c3e41348) - Bush #7416
+* BASSIE (e566d62c) - BASSIE#6994
