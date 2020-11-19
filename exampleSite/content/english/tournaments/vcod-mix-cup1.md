@@ -102,7 +102,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Knockouts:**
 
-![](/images/kob4final.PNG)
+![](/images/kofinish.PNG)
 
 **Results - Preliminary Round:**
 
@@ -148,4 +148,4 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - Grand Final**
 
-* wsB! vs xfire -
+* wsB! \[14\] vs \[10\] xfire - - [Stalingrad](https://i.imgur.com/gHigLh3.jpg)
