@@ -80,3 +80,39 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * **Lamy z Panamy – xeon#6173:** xeon (73d03736), volcom (d360e42b), jerome (e11960a4), Goodiee (9e142289), klery (3b592e0a), morrow (c33977b5), FiN (********), jacketaj (dc4a246f), Hoglm (c5b7e52b)
 * **ALMOST – bRATNEY#4457:** bRATNEY(06ec3073), dandelion(152ab60a), ludiga(48bd81b1), miLk(5b8a1cca), mockbert(f971be0a), Nano(44a8383c), temaL(4b094d19), woox(e08c7cf5)
 * **WONDERK1DZ – CMUNDY topoS#8334:** m3x_(d7509dbf) , Verso (a34114d5) , topYYY(36fded69) , Mass(51c0f3d1), LcK(819a3652), hide (ff3f2f9c)
+
+**Results – Group A:**
+
+* BABOON5 vs ALMOST
+* fatality vs d\`logics.
+* WONDERK1DZ vs d\`logics.
+* BABOON5 vs fatality
+* WONDERK1DZ vs ALMOST
+* BABOON5 vs WONDERK1DZ
+* fatality vs WONDERK1DZ
+* d\`logics. vs ALMOST
+* BABOON5 vs d\`logics.
+* fatality vs ALMOST
+
+**Results – Group B:**
+
+* d
+* d
+* d
+* d
+* d
+* d
+* d
+* f
+* f
+* f
+
+**Standings:**
+
+![](/images/allwepsga.PNG)
+
+![](/images/allwepsgb.PNG)
+
+**Knockouts:**
+
+![](/images/allwepko.PNG)
