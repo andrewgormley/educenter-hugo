@@ -30,16 +30,16 @@ image = "/images/nana.png"
 name = "nana"
 [[speaker]]
 designation = "Conflict Team"
-image = "/images/nana.png"
-name = "nana"
-[[speaker]]
-designation = "Conflict Team"
 image = "/images/fear.png"
 name = "fe@r"
 [[speaker]]
 designation = "Conflict Team"
 image = "/images/fan.png"
 name = "Fantasy"
+[[speaker]]
+designation = "Conflict Team"
+image = ""
+name = "qT"
 
 +++
 ### **Cup Information**
