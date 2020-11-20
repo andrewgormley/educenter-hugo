@@ -52,7 +52,7 @@ We are pleased to announce that the registration for our all weapons weekend com
 
 **Cup Format:** Group stage followed by a double elimination knockout.
 
-**Maps:** Group stage – maps will be pre-decided. Knockout stage - teams can pick any map from the pool once.
+**Maps:** Group stage – veto. Knockout stage - veto.
 
 **Map Pool:** Brecourt, Carentan, Dawnville, Depot, German_Town, Harbor, Neuville, Powcamp, Railyard, Tigertown.
 
@@ -109,7 +109,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Standings:**
 
-![](/images/allwepsga.PNG)
+![](/images/ggogogogogogogo.PNG)
 
 ![](/images/allwepsgb.PNG)
 
