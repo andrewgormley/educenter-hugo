@@ -94,3 +94,5 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * CRAWLER (38c4b307) - CRAWLER#3452
 * drko (c3e41348) - Bush #7416
 * BASSIE (e566d62c) - BASSIE#6994
+* void (f4920376) - void#3603
+* chubby (4bb9dc0d) - Robbe/Chubbynarator#0550
