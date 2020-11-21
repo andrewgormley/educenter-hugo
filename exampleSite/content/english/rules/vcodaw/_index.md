@@ -222,13 +222,13 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 4\.3.2 – Each map has a round limit of 26, in which both clans will play 13 rounds as defenders and 13 rounds as attackers.
 
-4\.3.3 – Rounds are set at 2 minutes and 30 seconds.
+4\.3.3 – Rounds are set at 2 minutes and 15 seconds.
 
 4\.3.4 – The first team to reach 14 rounds will be determined the winner.
 
 4\.3.5 – The map pool for the competition is: Brecourt, Carentan, Dawnville, Depot, German_Town, Harbor, Neuville, Powcamp, Railyard, Stalingrad and Tigertown.
 
-4\.3.6 – The maps will be pre-chosen and will be played in the order listed on the website. Bash for side will take place before each map begins, with the winner deciding which side to start on.
+4\.3.6 – The maps will be decided by a veto system, with the winner of bash eliminating from the map pool first. Bash for side will take place before each map begins, with the winner deciding which side to start on.
 
 4\.3.7 –The default team size for clan matches is 5 vs 5, but you can specify a different team size if needed. The minimum team size is 4 vs 4 and the maximum team size is 6 vs 6.
 
@@ -237,6 +237,8 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 4\.3.9 – At side change, clans can take a maximum of 5 minutes for a break, the match is to resume after that time. When the 5 minutes are up, spectators can be removed freely. Staying in spectator will lead to the automatic loss of the round.
 
 4\.4.0 – If a clan does not ready up in time after side change, it will lead to forfeiting rounds and eventually a forfeit loss for the violating clan.
+
+4\.4.1 – A maximum of four teams from each group will progress into the knockout stage.
 
 #### **5. Demos and Screenshots**
 
