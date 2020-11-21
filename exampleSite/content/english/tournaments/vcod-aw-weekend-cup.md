@@ -88,7 +88,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * wonderk1dz \[12\] vs \[14\] d\`logics. - [Powcamp](https://i.imgur.com/qWVZS3y.jpg)
 * BABOON5 vs fatality
 * wonderk1dz \[14\] vs \[03\] ALMOST - [Harbor](https://i.imgur.com/K9846Ee.jpg)
-* BABOON5 \[14\] vs \[08\] wonderk1dz
+* BABOON5 \[14\] vs \[08\] wonderk1dz - [Harbor](https://i.imgur.com/ly9eaOu.jpg)
 * fatality vs wonderk1dz
 * d\`logics. \[14\] vs \[02\] ALMOST - [Tigertown](https://i.imgur.com/L1MOP2d.jpg)
 * BABOON5 vs d\`logics.
