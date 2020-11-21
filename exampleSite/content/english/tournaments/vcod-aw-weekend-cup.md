@@ -90,7 +90,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * WONDERK1DZ vs ALMOST
 * BABOON5 vs WONDERK1DZ
 * fatality vs WONDERK1DZ
-* d\`logics. vs ALMOST
+* d\`logics. \[14\] vs \[02\] ALMOST - [Tigertown](https://i.imgur.com/L1MOP2d.jpg)
 * BABOON5 vs d\`logics.
 * fatality vs ALMOST
 
@@ -99,7 +99,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * OVERIDE vs #v22.
 * Lamy z Panamy vs NERlords
 * gUwniaki vs NERlords
-* OVERIDE vs Lamy z Panamy
+* OVERIDE \[14\] vs \[07\] PANAMA ''' - [Harbor](https://i.imgur.com/navYlOw.jpg)
 * gUwniaki vs #v22.
 * OVERIDE vs gUwniaki
 * Lamy z Panamy vs gUwniaki
