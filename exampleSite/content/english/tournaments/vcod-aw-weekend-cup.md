@@ -97,15 +97,15 @@ If you are clanless and looking for a team, then head over to the Community Disc
 **Results – Group B:**
 
 * OVERIDE vs #v22.
-* Lamy z Panamy vs NERlords
-* gUwniaki vs NERlords
+* PANAMA ''' vs NERlords
+* TEAMNG@ vs NERlords
 * OVERIDE \[14\] vs \[07\] PANAMA ''' - [Harbor](https://i.imgur.com/navYlOw.jpg)
-* gUwniaki vs #v22.
-* OVERIDE vs gUwniaki
-* Lamy z Panamy vs gUwniaki
+* TEAMNG@ \[05\] vs \[14\] #v22.
+* OVERIDE vs TEAMNG@
+* PANAMA ''' vs TEAMNG@
 * NERlords vs #v22.
 * OVERIDE vs NERlords
-* Lamy z Panamy vs vs #v22.
+* Lamy z PANAMA '''
 
 **Standings:**
 
