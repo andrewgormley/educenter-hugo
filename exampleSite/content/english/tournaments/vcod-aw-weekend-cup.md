@@ -96,7 +96,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results – Group B:**
 
-* OVERIDE vs #v22.
+* OVERIDE \[14\] vs \[03\] #v22.
 * PANAMA ''' \[14\] vs \[10\] NERlords - [Dawnville](https://i.imgur.com/b7Qjkj5.jpg)
 * gUw. vs NERlords
 * OVERIDE \[14\] vs \[07\] PANAMA ''' - [Harbor](https://i.imgur.com/navYlOw.jpg)
