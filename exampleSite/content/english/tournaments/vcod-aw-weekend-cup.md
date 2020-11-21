@@ -103,7 +103,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * gUw. \[05\] vs \[14\] #v22. - [Neuville](https://i.imgur.com/S1OpvRj.jpg)
 * OVERIDE \[14\] vs \[06\] gUw. - [Dawnville](https://i.imgur.com/QsIGZ5j.jpg)
 * PANAMA ''' vs gUw.
-* NERlords vs #v22.
+* NERlords \[12\] vs \[14\] #v22. - [Dawnville](https://i.imgur.com/yEsi6DG.jpg)
 * OVERIDE vs NERlords
 * Lamy z vs PANAMA '''
 
