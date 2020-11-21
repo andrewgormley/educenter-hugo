@@ -85,11 +85,11 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 * BABOON5 vs ALMOST
 * fatality vs d\`logics.
-* WONDERK1DZ vs d\`logics.
+* wonderk1dz vs d\`logics.
 * BABOON5 vs fatality
-* WONDERK1DZ vs ALMOST
-* BABOON5 vs WONDERK1DZ
-* fatality vs WONDERK1DZ
+* wonderk1dz \[14\] vs \[03\] ALMOST - [Harbor](https://i.imgur.com/K9846Ee.jpg)
+* BABOON5 vs wonderk1dz
+* fatality vs wonderk1dz
 * d\`logics. \[14\] vs \[02\] ALMOST - [Tigertown](https://i.imgur.com/L1MOP2d.jpg)
 * BABOON5 vs d\`logics.
 * fatality \[14\] vs \[05\] ALMOST - [Dawnville](https://i.imgur.com/RKDTpYc.jpg)
