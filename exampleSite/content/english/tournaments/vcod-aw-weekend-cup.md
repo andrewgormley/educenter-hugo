@@ -100,7 +100,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * PANAMA ''' vs NERlords
 * TEAMNG@ vs NERlords
 * OVERIDE \[14\] vs \[07\] PANAMA ''' - [Harbor](https://i.imgur.com/navYlOw.jpg)
-* TEAMNG@ \[05\] vs \[14\] #v22.
+* TEAMNG@ \[05\] vs \[14\] #v22. - [Neuville](https://i.imgur.com/S1OpvRj.jpg)
 * OVERIDE vs TEAMNG@
 * PANAMA ''' vs TEAMNG@
 * NERlords vs #v22.
