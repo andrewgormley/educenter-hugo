@@ -226,7 +226,7 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 4\.3.4 – The first team to reach 14 rounds will be determined the winner.
 
-4\.3.5 – The map pool for the competition is: Brecourt, Carentan, Dawnville, Depot, German_Town, Harbor, Neuville, Powcamp, Railyard, Stalingrad and Tigertown.
+4\.3.5 – The map pool for the competition is: Brecourt, Carentan, Dawnville, Depot, German_Town, Harbor, Neuville, Powcamp, Railyard, and Tigertown.
 
 4\.3.6 – The maps will be decided by a veto system, with the winner of bash eliminating from the map pool first. Bash for side will take place before each map begins, with the winner deciding which side to start on.
 
@@ -328,7 +328,24 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 **7.1 – Jumps and Exploits Abuse**
 
-* JUMPS / EXPLOITS TO BE UPDATED.
+7\.1.1 – Brecourt:
+
+* 7.1.11 – Shooting through the B bomb to small ruins where you cannot be hit.
+
+7\.1.2 – Dawnville:
+
+* 7.1.21 – Abusing the bush in grave to see into orphanage.
+* 7.1.22 – Abusing the window in back sniper to see through walls.
+
+7\.1.3 – Harbor:
+
+* 7.1.31 – Jumping out of the map.
+* 7.1.32 – Abusing a bug bottom police to become unhittable.
+* 7.1.33 – Using prone on the Russian ramp into ramproom to become unhittable.
+
+7\.1.4 – Neuville:
+
+* 
 
 #### **8. Changes and Expectations**
 
