@@ -101,7 +101,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * gUw. vs NERlords
 * OVERIDE \[14\] vs \[07\] PANAMA ''' - [Harbor](https://i.imgur.com/navYlOw.jpg)
 * gUw. \[05\] vs \[14\] #v22. - [Neuville](https://i.imgur.com/S1OpvRj.jpg)
-* OVERIDE vs gUw.
+* OVERIDE \[14\] vs \[06\] gUw. - [Dawnville](https://i.imgur.com/QsIGZ5j.jpg)
 * PANAMA ''' vs gUw.
 * NERlords vs #v22.
 * OVERIDE vs NERlords
