@@ -109,9 +109,9 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Standings:**
 
-![](/images/ggogogogogogogo.PNG)
+![](/images/111ga.PNG)
 
-![](/images/allwepsgb.PNG)
+![](/images/222gb.PNG)
 
 **Knockouts:**
 
