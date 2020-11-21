@@ -92,7 +92,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * fatality vs WONDERK1DZ
 * d\`logics. \[14\] vs \[02\] ALMOST - [Tigertown](https://i.imgur.com/L1MOP2d.jpg)
 * BABOON5 vs d\`logics.
-* fatality vs ALMOST
+* fatality \[14\] vs \[05\] ALMOST - [Dawnville](https://i.imgur.com/RKDTpYc.jpg)
 
 **Results – Group B:**
 
