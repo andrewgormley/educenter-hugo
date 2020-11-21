@@ -98,14 +98,14 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 * OVERIDE vs #v22.
 * PANAMA ''' vs NERlords
-* ^TEAMNG@ vs NERlords
+* gUw. vs NERlords
 * OVERIDE \[14\] vs \[07\] PANAMA ''' - [Harbor](https://i.imgur.com/navYlOw.jpg)
-* ^TEAMNG@ \[05\] vs \[14\] #v22. - [Neuville](https://i.imgur.com/S1OpvRj.jpg)
-* OVERIDE vs ^TEAMNG@
-* PANAMA ''' vs ^TEAMNG@
+* gUw. \[05\] vs \[14\] #v22. - [Neuville](https://i.imgur.com/S1OpvRj.jpg)
+* OVERIDE vs gUw.
+* PANAMA ''' vs gUw.
 * NERlords vs #v22.
 * OVERIDE vs NERlords
-* Lamy z PANAMA '''
+* Lamy z vs PANAMA '''
 
 **Standings:**
 
