@@ -77,7 +77,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * **fatality – VENXZRR#6867:** VENXZRR (58a9ba94), opfii1ee (c9b894d4), nanaaa (22b45e3b), Cillian (b322fa7c), FLAAASH (e4c12abe), bAUMI (37748725), Anglhz (0b3c46f3), Kai (0f2c016b), qT (a54e60a9), bRANNEY (1cb9813f)
 * **gUwniaki** **– jtGz#3074:** jtGz (6c40f1ae), klofucja (b6970df0), crosq (5758bbd7), skyhack (03e00360), anthrax (3e63f30b), angel (03316d1c), gorn (87e6b0f5), h3lioS (8e1ed66f), voy4k (a1f91310), luzaQ_- (10c112b7)
 * **NERlords – Nirboo#8265:** McFly (51cc9877), Nirbo (7edbfecf), Rainthex (c5b73712), BURN (468d2feb), gerydozz (d11e46e5), justo (8872cd80), tYSON (0d2266dc), nexah (25901725), alien (1d5a2d34)
-* **Lamy z Panamy – xeon#6173:** xeon (73d03736), volcom (d360e42b), jerome (e11960a4), Goodiee (9e142289), klery (3b592e0a), morrow (c33977b5), jacketaj (dc4a246f), Hoglm (c5b7e52b), FiN (c33977b5)
+* **Lamy z Panamy – xeon#6173:** xeon (73d03736), volcom (d360e42b), jerome (e11960a4), Goodiee (9e142289), klery (3b592e0a), morrow (c33977b5), jacketaj (dc4a246f), Hoglm (c5b7e52b), FiN (8a13b153)
 * **ALMOST – bRATNEY#4457:** bRATNEY (06ec3073), dandelion (152ab60a), ludiga (48bd81b1), miLk (5b8a1cca), mockbert (f971be0a), Nano (44a8383c), temaL (4b094d19), woox (e08c7cf5)
 * **WONDERK1DZ – CMUNDY topoS#8334:** m3x_ (d7509dbf), Verso (a34114d5), topYYY (36fded69), Mass (51c0f3d1), LcK (819a3652), hide (ff3f2f9c)
 
