@@ -337,23 +337,27 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 * 7.1.21 – Abusing the bush in grave to see into orphanage.
 * 7.1.22 – Abusing the window in back sniper to see through walls.
 
-7\.1.3 – Harbor:
+7\.1.3 – German_Town:
 
-* 7.1.31 – Jumping out of the map.
-* 7.1.32 – Abusing a bug bottom police to become unhittable.
-* 7.1.33 – Using prone on the Russian ramp into ramproom to become unhittable.
+* 7.1.3 – Planting on top of the A tank.
 
-7\.1.4 – Neuville:
+7\.1.4 – Harbor:
 
 * 7.1.41 – Jumping out of the map.
+* 7.1.42 – Abusing a bug bottom police to become unhittable.
+* 7.1.43 – Using prone on the Russian ramp into ramproom to become unhittable.
 
-7\.1.5 – Railyard:
+7\.1.5 – Neuville:
 
-* 7.1.51 – Hiding behind the spawn hut where your model becomes invisible.
+* 7.1.51 – Jumping out of the map.
 
-7\.1.6 – Tigertown:
+7\.1.6 – Railyard:
 
-* 7.1.61 – Using the glitch box near the B bomb to become unhittable.
+* 7.1.61 – Hiding behind the spawn hut where your model becomes invisible.
+
+7\.1.7 – Tigertown:
+
+* 7.1.71 – Using the glitch box near the B bomb to become unhittable.
 
 #### **8. Changes and Expectations**
 
