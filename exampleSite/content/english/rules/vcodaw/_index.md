@@ -345,7 +345,15 @@ Here you will find the rules for our upcoming competition. Please bear in mind, 
 
 7\.1.4 – Neuville:
 
-* 
+* 7.1.41 – Jumping out of the map.
+
+7\.1.5 – Railyard:
+
+* 7.1.51 – Hiding behind the spawn hut where your model becomes invisible.
+
+7\.1.6 – Tigertown:
+
+* 7.1.61 – Using the glitch box near the B bomb to become unhittable.
 
 #### **8. Changes and Expectations**
 
