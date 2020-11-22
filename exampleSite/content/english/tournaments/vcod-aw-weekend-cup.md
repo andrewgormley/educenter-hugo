@@ -127,7 +127,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 **Results - LB Round 1:**
 
 * gUw. \[00\] - \[14\] PANAMA ''' - forfeit win.
-* wonderk1dz - #v22.
+* wonderk1dz \[14\] - \[12\] #v22. - TBA
 
 **Results - UB Semi Finals:**
 
@@ -136,16 +136,16 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - LB Round 2:**
 
-* PANAMA ''' vs BABOON5
-* TBA vs TBA
+* PANAMA ''' \[01\] - \[14\] BABOON5 - TBA
+* fatality \[14\] - \[11\] wonderk1dz - TBA
 
 **Results - LB Round 3:**
 
-* TBA vs TBA
+* BABOON5 vs fatality - TBA
 
 **Results - UB Final:**
 
-* d\`logics. vs OVERIDE
+* d\`logics. vs OVERIDE - TBA
 
 **Results - LB Round 4:**
 
