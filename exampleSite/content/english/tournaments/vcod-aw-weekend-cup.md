@@ -115,7 +115,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Knockouts:**
 
-![](/images/koupdate20202409429.PNG)
+![](/images/kocupallwepsfinalting.PNG)
 
 **Results - UB Quarter Finals:**
 
