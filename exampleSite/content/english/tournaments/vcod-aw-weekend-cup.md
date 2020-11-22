@@ -115,7 +115,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Knockouts:**
 
-![](/images/koupdate1040149.PNG)
+![](/images/koupdate20202409429.PNG)
 
 **Results - UB Quarter Finals:**
 
@@ -136,7 +136,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - LB Round 2:**
 
-* TBA vs TBA
+* PANAMA ''' vs BABOON5
 * TBA vs TBA
 
 **Results - LB Round 3:**
@@ -145,7 +145,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - UB Final:**
 
-* TBA vs TBA
+* d\`logics. vs OVERIDE
 
 **Results - LB Round 4:**
 
