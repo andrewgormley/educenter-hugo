@@ -126,13 +126,13 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - LB Round 1:**
 
-* gUw. vs PANAMA '''
-* wonderk1dz vs TBA
+* gUw. \[00\] vs \[14\] PANAMA ''' - forfeit win.
+* wonderk1dz vs #v22.
 
 **Results - UB Semi Finals:**
 
-* d\`logics. \[14\] vs \[10\] BABOON5
-* OVERIDE vs TBA
+* d\`logics. \[14\] vs \[10\] BABOON5 - [Brecourt](https://i.imgur.com/zjGIXGu.jpg)
+* OVERIDE \[14\] vs \[11\] fatality - [Dawnville](https://i.imgur.com/j0d2Eis.png)
 
 **Results - LB Round 2:**
 
