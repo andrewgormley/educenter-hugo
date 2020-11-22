@@ -137,7 +137,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 **Results - LB Round 2:**
 
 * PANAMA ''' \[01\] - \[14\] BABOON5 - [German_Town](https://i.imgur.com/YVuP4n0.jpg)
-* fatality \[14\] - \[11\] wonderk1dz - TBA
+* fatality \[14\] - \[11\] wonderk1dz - [Brecourt](https://i.imgur.com/JGbRNLk.jpg)
 
 **Results - LB Round 3:**
 
@@ -145,7 +145,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - UB Final:**
 
-* d\`logics. vs OVERIDE - TBA
+* d\`logics. \[14\] vs \[11\] OVERIDE - TBA
 
 **Results - LB Round 4:**
 
