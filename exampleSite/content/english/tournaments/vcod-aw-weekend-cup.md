@@ -121,7 +121,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 * d\`logics. vs gUw.
 * PANAMA ''' vs BABOON5
-* OVERIDE vs wonderk1dz
+* OVERIDE \[14\] vs \[07\] wonderk1dz - [Dawnville](https://i.imgur.com/kT8ErRx.png)
 * fatality vs #v22.
 
 **Results - LB Round 1:**
