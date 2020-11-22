@@ -131,7 +131,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - UB Semi Finals:**
 
-* d\`logics. vs BABOON5
+* d\`logics. \[14\] vs \[10\] BABOON5
 * OVERIDE vs TBA
 
 **Results - LB Round 2:**
