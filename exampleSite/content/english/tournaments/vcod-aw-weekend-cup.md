@@ -115,12 +115,12 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Knockouts:**
 
-![](/images/koupdateaw.PNG)
+![](/images/koupdate1040149.PNG)
 
 **Results - UB Quarter Finals:**
 
 * d\`logics. \[14\] vs \[00\] gUw. - [forfeit win](https://i.imgur.com/c7mOKBo.png).
-* PANAMA ''' vs BABOON5
+* PANAMA ''' \[10\] vs \[14\] BABOON5 - [Dawnville](https://imgur.com/a/AbxIjor)
 * OVERIDE \[14\] vs \[07\] wonderk1dz - [Dawnville](https://i.imgur.com/kT8ErRx.png)
 * fatality vs #v22.
 
