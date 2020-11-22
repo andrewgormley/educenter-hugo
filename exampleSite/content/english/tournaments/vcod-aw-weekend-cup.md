@@ -111,7 +111,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 ![](/images/111ga.PNG)
 
-![](/images/222gb.PNG)
+![](/images/groupbawfinal.PNG)
 
 **Knockouts:**
 
