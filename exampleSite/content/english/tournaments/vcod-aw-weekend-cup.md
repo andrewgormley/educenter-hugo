@@ -119,7 +119,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - UB Quarter Finals:**
 
-* d\`logics. vs gUw.
+* d\`logics. \[14\] vs \[00\] gUw. - [forfeit win](https://i.imgur.com/c7mOKBo.png).
 * PANAMA ''' vs BABOON5
 * OVERIDE \[14\] vs \[07\] wonderk1dz - [Dawnville](https://i.imgur.com/kT8ErRx.png)
 * fatality vs #v22.
