@@ -126,12 +126,12 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - LB Round 1:**
 
-* gUw. vs TBA
+* gUw. vs PANAMA '''
 * wonderk1dz vs TBA
 
 **Results - UB Semi Finals:**
 
-* d\`logics. vs TBA
+* d\`logics. vs BABOON5
 * OVERIDE vs TBA
 
 **Results - LB Round 2:**
