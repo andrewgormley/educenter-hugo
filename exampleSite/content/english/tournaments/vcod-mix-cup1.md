@@ -60,7 +60,7 @@ We are pleased to announce that the registration for our rifles only mix cup com
 
 **Players:** You will need to include your GUID on the registration form. We are not accepting individuals with a missing GUID.
 
-**Anti-Cheat:** New AC announcement coming soon!
+**Anti-Cheat:** Veritas 2.0.4.
 
 **Stream:** [**https://www.twitch.tv/vcodgg**](https://www.twitch.tv/vcodgg).
 
