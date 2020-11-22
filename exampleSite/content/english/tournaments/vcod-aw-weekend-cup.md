@@ -149,8 +149,8 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - LB Round 4:**
 
-* BABOON5 - OVERIDE
+* BABOON5 \[10\] - \[14\] OVERIDE - [Dawnville](https://i.imgur.com/PnDuuyd.jpg)
 
 **Results - Grand Final**
 
-* d\`logics. - TBA
+* d\`logics. vs OVERIDE
