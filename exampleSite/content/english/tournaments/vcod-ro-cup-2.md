@@ -77,3 +77,4 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * **intuitive - \[OMBD\]Anglhz#7860:** anglhz (0b3c46f3), t1MSKE (0f5eaefe), alum (90e5682a), oane (3c94a672), virax (9a8b5a02), pele (8e11b236), majkiieh (06a85fbb), eich (5e83660f)
 * **lobiiX - fIoppy#9230:** fl0ppY 3ab091be, Windje 59f1df04, Jannus 505373f9, Portiss 1f9e4109, JDX 035652eb, xtc a6593b15, Stephano fbb05bed
 * **Defying Logics – razRR#9282:** razRR (49d5ce5c), rONOx (876cc5c5), tanek (45395642), n00bster (cf6f35f6), Shuya (34902b76), 1ceyyy (7a5a1c92), faa1th (df4ace91), f z U (64eca371), extence (e3fdfb11)
+* **aNimus Gaming – skz#2642:** skz (5fc35d87), MORTEK (a029ca98), vdk (0c5ab238), fe@r (e81bc4f3), Pol (12c95aad), Achille (ff171708), RAVZ (82646aa8), Lwww (ad3dafab), spln (4fa01519), LEGENDZ (505eee2c), Spikez (160c4b78)
