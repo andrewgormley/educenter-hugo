@@ -116,3 +116,41 @@ If you are clanless and looking for a team, then head over to the Community Disc
 **Knockouts:**
 
 ![](/images/allwepko.PNG)
+
+**Results - UB Quarter Finals:**
+
+* d\`logics. vs gUw. 
+* PANAMA ''' vs 
+* OVERIDE vs wonderk1dz
+*  vs #v22.
+
+**Results - LB Round 1:**
+
+* TBA vs TBA
+* TBA vs TBA
+
+**Results - UB Semi Finals:**
+
+* TBA vs TBA
+* TBA vs TBA
+
+**Results - LB Round 2:**
+
+* TBA vs TBA
+* TBA vs TBA
+
+**Results - LB Round 3:**
+
+* TBA vs TBA
+
+**Results - UB Final:**
+
+* TBA vs TBA
+
+**Results - LB Round 4:**
+
+* TBA vs TBA
+
+**Results - Grand Final**
+
+* TBA vs TBA
