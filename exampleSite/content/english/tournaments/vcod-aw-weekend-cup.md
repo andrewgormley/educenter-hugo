@@ -119,20 +119,20 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - UB Quarter Finals:**
 
-* d\`logics. \[14\] vs \[00\] gUw. - [forfeit win](https://i.imgur.com/c7mOKBo.png).
-* PANAMA ''' \[10\] vs \[14\] BABOON5 - [Dawnville](https://imgur.com/a/AbxIjor)
-* OVERIDE \[14\] vs \[07\] wonderk1dz - [Dawnville](https://i.imgur.com/kT8ErRx.png)
-* fatality \[14\] vs \[10\] #v22. - [Powcamp](https://i.imgur.com/n175Joh.jpg)
+* d\`logics. \[14\] - \[00\] gUw. - [forfeit win](https://i.imgur.com/c7mOKBo.png).
+* PANAMA ''' \[10\] - \[14\] BABOON5 - [Dawnville](https://imgur.com/a/AbxIjor)
+* OVERIDE \[14\] - \[07\] wonderk1dz - [Dawnville](https://i.imgur.com/kT8ErRx.png)
+* fatality \[14\] - \[10\] #v22. - [Powcamp](https://i.imgur.com/n175Joh.jpg)
 
 **Results - LB Round 1:**
 
-* gUw. \[00\] vs \[14\] PANAMA ''' - forfeit win.
-* wonderk1dz vs #v22.
+* gUw. \[00\] - \[14\] PANAMA ''' - forfeit win.
+* wonderk1dz - #v22.
 
 **Results - UB Semi Finals:**
 
-* d\`logics. \[14\] vs \[10\] BABOON5 - [Brecourt](https://i.imgur.com/zjGIXGu.jpg)
-* OVERIDE \[14\] vs \[11\] fatality - [Dawnville](https://i.imgur.com/j0d2Eis.png)
+* d\`logics. \[14\] - \[10\] BABOON5 - [Brecourt](https://i.imgur.com/zjGIXGu.jpg)
+* OVERIDE \[14\] - \[11\] fatality - [Dawnville](https://i.imgur.com/j0d2Eis.png)
 
 **Results - LB Round 2:**
 
