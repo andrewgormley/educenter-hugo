@@ -119,10 +119,10 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - UB Quarter Finals:**
 
-* d\`logics. vs gUw. 
-* PANAMA ''' vs 
+* d\`logics. vs gUw.
+* PANAMA ''' vs BABOON5
 * OVERIDE vs wonderk1dz
-*  vs #v22.
+* fatality vs #v22.
 
 **Results - LB Round 1:**
 
