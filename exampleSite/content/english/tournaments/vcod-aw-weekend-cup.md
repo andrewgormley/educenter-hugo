@@ -115,7 +115,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Knockouts:**
 
-![](/images/allwepskogrid.PNG)
+![](/images/koupdateaw.PNG)
 
 **Results - UB Quarter Finals:**
 
