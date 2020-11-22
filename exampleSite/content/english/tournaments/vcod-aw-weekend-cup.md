@@ -109,13 +109,13 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Standings:**
 
-![](/images/111ga.PNG)
+![](/images/allwepsgafinal.PNG)
 
 ![](/images/groupbawfinal.PNG)
 
 **Knockouts:**
 
-![](/images/allwepko.PNG)
+![](/images/allwepskogrid.PNG)
 
 **Results - UB Quarter Finals:**
 
