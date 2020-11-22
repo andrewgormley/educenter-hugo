@@ -122,7 +122,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * d\`logics. \[14\] vs \[00\] gUw. - [forfeit win](https://i.imgur.com/c7mOKBo.png).
 * PANAMA ''' \[10\] vs \[14\] BABOON5 - [Dawnville](https://imgur.com/a/AbxIjor)
 * OVERIDE \[14\] vs \[07\] wonderk1dz - [Dawnville](https://i.imgur.com/kT8ErRx.png)
-* fatality vs #v22.
+* fatality \[14\] vs \[10\] #v22. - [Powcamp](https://i.imgur.com/n175Joh.jpg)
 
 **Results - LB Round 1:**
 
