@@ -104,7 +104,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * OVERIDE \[14\] vs \[06\] gUw. - [Dawnville](https://i.imgur.com/QsIGZ5j.jpg)
 * PANAMA ''' \[14\] vs \[11\] gUw. - [Depot](https://i.imgur.com/LC6duYe.jpg)
 * NERlords \[12\] vs \[14\] #v22. - [Dawnville](https://i.imgur.com/yEsi6DG.jpg)
-* OVERIDE vs NERlords
+* OVERIDE \[14\] vs \[03\] NERlords - [Carentan](https://i.imgur.com/bf42ZhK.png)
 * PANAMA ''' \[14\] vs \[03\] #v22. - [Tigertown](https://cdn.discordapp.com/attachments/719233329689526282/779814112146227200/shot0210.jpg)
 
 **Standings:**
