@@ -86,7 +86,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * BABOON5 \[14\] vs \[00\] ALMOST - [Dawnville](https://imgur.com/a/vNbXFln)
 * fatality \[12\] vs \[14\] d\`logics. - [Tigertown](https://i.imgur.com/xdCuDKS.jpg)
 * wonderk1dz \[12\] vs \[14\] d\`logics. - [Powcamp](https://i.imgur.com/qWVZS3y.jpg)
-* BABOON5 vs fatality
+* BABOON5 vs fatality - Depot
 * wonderk1dz \[14\] vs \[03\] ALMOST - [Harbor](https://i.imgur.com/K9846Ee.jpg)
 * BABOON5 \[14\] vs \[08\] wonderk1dz - [Harbor](https://i.imgur.com/ly9eaOu.jpg)
 * fatality \[14\] vs \[09\] wonderk1dz - [Neuville](https://i.imgur.com/Uz5wk19.jpg)
@@ -98,7 +98,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 * OVERIDE \[14\] vs \[03\] #v22. - [Dawnville](https://i.imgur.com/PPh8o29.png)
 * PANAMA ''' \[14\] vs \[10\] NERlords - [Dawnville](https://i.imgur.com/b7Qjkj5.jpg)
-* gUw. vs NERlords
+* gUw. \[09\] vs \[14\] NERlords - Carentan
 * OVERIDE \[14\] vs \[07\] PANAMA ''' - [Harbor](https://i.imgur.com/navYlOw.jpg)
 * gUw. \[05\] vs \[14\] #v22. - [Neuville](https://i.imgur.com/S1OpvRj.jpg)
 * OVERIDE \[14\] vs \[06\] gUw. - [Dawnville](https://i.imgur.com/QsIGZ5j.jpg)
