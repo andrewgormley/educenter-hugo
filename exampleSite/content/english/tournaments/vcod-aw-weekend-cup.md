@@ -83,7 +83,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results – Group A:**
 
-* BABOON5 \[14\] vs \[00\] ALMOST - [Dawnville](https://imgur.com/a/fmyakkd)
+* BABOON5 \[14\] vs \[00\] ALMOST - [Dawnville](https://imgur.com/a/vNbXFln)
 * fatality \[12\] vs \[14\] d\`logics. - [Tigertown](https://i.imgur.com/xdCuDKS.jpg)
 * wonderk1dz \[12\] vs \[14\] d\`logics. - [Powcamp](https://i.imgur.com/qWVZS3y.jpg)
 * BABOON5 vs fatality
