@@ -141,11 +141,11 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - LB Round 3:**
 
-* BABOON5 vs fatality - TBA
+* BABOON5 \[14\] vs \[04\] fatality - [German_Town](https://i.imgur.com/YrPyuBo.jpg)
 
 **Results - UB Final:**
 
-* d\`logics. \[14\] vs \[11\] OVERIDE - TBA
+* d\`logics. \[14\] vs \[11\] OVERIDE - [Carentan](https://i.imgur.com/gpSU169.jpg)
 
 **Results - LB Round 4:**
 
