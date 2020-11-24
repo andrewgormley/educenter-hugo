@@ -96,3 +96,6 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * BASSIE (e566d62c) - BASSIE#6994
 * void (f4920376) - void#3603
 * chubby (4bb9dc0d) - Robbe/Chubbynarator#0550
+* ixc (55d0af7d) - ixc#4219
+* Don (9b133c60) - Don#3585
+* Quickshot (c0e89b5d) - Quickshot#3327
