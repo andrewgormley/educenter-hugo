@@ -87,15 +87,22 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * Fr@nKthePuNk? (c20959aa) - Frankthepunk#6594
 * Fantasy (4dca5c58) - Fantasy#1116
 * Distance (5bb905a5) - luciden afstand#0139
-* Lost? (63e42ce3) - Vertula#5779
 * FLAAASH (e4c12abe) - FLAAASH#2583
 * Vasz (f53b116d) - Vasz01#8146
 * Jannus (505373f9) - popo_dd#9118
 * CRAWLER (38c4b307) - CRAWLER#3452
-* drko (c3e41348) - Bush #7416
 * BASSIE (e566d62c) - BASSIE#6994
 * void (f4920376) - void#3603
 * chubby (4bb9dc0d) - Robbe/Chubbynarator#0550
 * ixc (55d0af7d) - ixc#4219
 * Don (9b133c60) - Don#3585
 * Quickshot (c0e89b5d) - Quickshot#3327
+* Windje (59f1df04) - Windje#3266
+* Malibuux (6d574eb6) - Malibuux#7948
+* Vicious (bb9b4c66) - Vicious#3515
+* DzR ((6eb98274)) - Serezhkeee ██████████
+* t1MSKE (0f5eaefe) - T1MSKE#1859
+* f1ssurE (2d8a995) - FISSURE#2661
+* extence (e3fdfb11) - extence#5960
+* Pol (12c95aad) - Territo#1830
+* Shuya (34902b76) - Shuya#3318
