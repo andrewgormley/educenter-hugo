@@ -1,14 +1,29 @@
 [[ hof ]]
-name = 'EURO'
+tournament = 'All Weapons Cup #1'
+first = 'OVERIDE'
+second = 'Defying Logics'
+link = 'vcod-aw-weekend-cup'
+
+[[ hof ]]
+tournament = 'Mix Cup #1'
+first = 'wsB!'
+second = 'xfire'
+link = 'vcod-mix-cup1'
+
+[[ hof ]]
 tournament = 'Divisions S1 - Diamond'
-link = 'https://www.vcod.gg/tournaments/vcod.gg-divisions-season-1/'
+first = 'EURO'
+second = 'fatality'
+link = 'vcod-div-s1'
 
 [[ hof ]]
-name = 'Intuitive'
 tournament = 'Divisions S1 - Gold'
-link = 'https://www.vcod.gg/tournaments/vcod.gg-divisions-season-1/'
+first = 'Intuitive'
+second = 'the2Gaming'
+link = 'vcod-div-s1'
 
 [[ hof ]]
-name = 'Defying Logics'
 tournament = 'Rifles Only #1'
-link = 'https://www.vcod.gg/tournaments/vcod-ro-cup-1/'
+first = 'Defying Logics'
+second = 'EURO'
+link = 'vcod-ro-cup-1'

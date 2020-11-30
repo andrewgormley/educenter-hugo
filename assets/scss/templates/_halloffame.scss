@@ -1,8 +1,14 @@
 .hof {
   &-card {
     box-shadow: 0px 4px 25px 0px rgba(27, 39, 71, 0.15);
-    padding: 20px;
+    padding: 10px;
     text-align: center;
+
+    &-header {
+      padding: 10px 0;
+      background: #F4F4F4;
+      margin-bottom: 10px;
+    }
 
     &-title {
       margin-bottom: .75rem;
@@ -15,5 +21,24 @@
     svg {
       margin-bottom: 15px;
     }
+  }
+}
+
+.placing {
+
+  &-first {
+    color: gold;
+    font-weight: bold;
+    font-size: 10px;
+    letter-spacing: .1em;
+    margin-top: 10px;
+  }
+
+  &-second {
+    color: silver;
+    font-weight: bold;
+    font-size: 10px;
+    letter-spacing: .1em;
+    margin-top: 10px;
   }
 }
