@@ -106,3 +106,4 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * extence (e3fdfb11) - extence#5960
 * Pol (12c95aad) - Territo#1830
 * Shuya (34902b76) - Shuya#3318
+* Ax1fer (0f363765) - ax1fer#7504
