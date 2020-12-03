@@ -79,11 +79,16 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * f4KL vs fe@r
 * prm vs MORTEK
 * 1ceyyy vs Shuya
+* f4KL vs Shuya
 * prm vs fe@r
-* 1ceyyy vs fe@r
-* prm vs f4KL
+* fe@r vs MORTEK
 * 1ceyyy vs f4KL
+* prm vs f4KL
+* fe@r vs Shuya
+* 1ceyyy vs fe@r
+* f4KL vs MORTEK
 * prm vs 1ceyyy
+* MORTEK vs Shuya
 
 **Standings:** 
 
