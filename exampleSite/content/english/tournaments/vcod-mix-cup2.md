@@ -70,9 +70,17 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Registered Players & Teams:**
 
-![](/images/mixcup2default1.PNG)
+![](/images/mixcup2default2.PNG)
 
 **Results - Group Stage:**
+
+* prm vs Shuya
+* 1ceyyy vs MORTEK
+* f4KL vs fe@r
+* prm vs MORTEK
+* prm vs fe@r
+* prm vs f4KL
+* prm vs 1ceyyy
 
 **Standings:** 
 
