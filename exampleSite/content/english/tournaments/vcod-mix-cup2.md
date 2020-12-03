@@ -87,6 +87,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * Fr@nKthePuNk? (c20959aa) - Frankthepunk#6594
 * Fantasy (4dca5c58) - Fantasy#1116
 * Distance (5bb905a5) - luciden afstand#0139
+* Lost? (63e42ce3) - Vertula#5779
 * FLAAASH (e4c12abe) - FLAAASH#2583
 * Vasz (f53b116d) - Vasz01#8146
 * Jannus (505373f9) - popo_dd#9118
