@@ -70,49 +70,10 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Registered Players & Teams:**
 
-* fe@r (e81bc4f3) - Dragounet#9647
-* skz (5fc35d87) - skz#2642
-* prm (b1863fe5) - prm#2642
-* majkiiEh (06a85fbb) - majkiiEh_MGK#7405
-* razRR (49d5ce5c) - razRR#9282
-* 1ceyyy (7a5a1c92) - 1ceyyy#4584
-* Explode (2ebeed51) - Explode#9497
-* Azzieee (9ba4157c) - Azzieee#6673
-* fl0ppY (3ab091be) - fIoppy#9230
-* Cobra (41f3ef9d) - Cobra#8051
-* iradexz (1ea998ee) - iradexz#7064
-* f4KL (abe343dd) - f4KL#7044
-* braun (f80cd14c) - braun #1771
-* breeze (97f17698) - breeze#9644
-* Fr@nKthePuNk? (c20959aa) - Frankthepunk#6594
-* Fantasy (4dca5c58) - Fantasy#1116
-* Distance (5bb905a5) - luciden afstand#0139
-* Lost? (63e42ce3) - Vertula#5779
-* FLAAASH (e4c12abe) - FLAAASH#2583
-* Vasz (f53b116d) - Vasz01#8146
-* Jannus (505373f9) - popo_dd#9118
-* CRAWLER (38c4b307) - CRAWLER#3452
-* BASSIE (e566d62c) - BASSIE#6994
-* void (f4920376) - void#3603
-* chubby (4bb9dc0d) - Robbe/Chubbynarator#0550
-* ixc (55d0af7d) - ixc#4219
-* Don (9b133c60) - Don#3585
-* Quickshot (c0e89b5d) - Quickshot#3327
-* Windje (59f1df04) - Windje#3266
-* Malibuux (6d574eb6) - Malibuux#7948
-* Vicious (bb9b4c66) - Vicious#3515
-* DzR ((6eb98274)) - Serezhkeee ██████████
-* t1MSKE (0f5eaefe) - T1MSKE#1859
-* f1ssurE (2d8a995) - FISSURE#2661
-* extence (e3fdfb11) - extence#5960
-* Pol (12c95aad) - Territo#1830
-* Shuya (34902b76) - Shuya#3318
-* Jimmy (3b29bbad) - JimmyMarkou#9286
-* Ax1fer (0f363765) - ax1fer#7504
-* Arctic (a5f144e7) - Arctic#8016
-* MORTEK (a029ca98) - MORTEK#4796
-* Portiss (1f9e4109) - Portis#2368
-* vdk (0c5ab238) - Vodka16#4660
-* ppengu (368ad09c) - ppengu#5338
-* t4n3k (45395642) - t4n3k#7003
-* MAZU (3d66ead8) -MAZU#2568
+![](/images/mixcup2default1.PNG)
+
+**Results - Group Stage:**
+
+**Standings:** 
+
+![](/images/mixcup2default.PNG)
