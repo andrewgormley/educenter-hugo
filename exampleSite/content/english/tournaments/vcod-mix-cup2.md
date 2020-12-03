@@ -105,6 +105,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * f1ssurE (2d8a995) - FISSURE#2661
 * extence (e3fdfb11) - extence#5960
 * Pol (12c95aad) - Territo#1830
+* Vicious (bb9b4c66) - Vicious#3515
 * Shuya (34902b76) - Shuya#3318
 * Jimmy (3b29bbad) - JimmyMarkou#9286
 * Ax1fer (0f363765) - ax1fer#7504
