@@ -106,6 +106,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * extence (e3fdfb11) - extence#5960
 * Pol (12c95aad) - Territo#1830
 * Shuya (34902b76) - Shuya#3318
+* Jimmy (3b29bbad) - JimmyMarkou#9286
 * Ax1fer (0f363765) - ax1fer#7504
 * Arctic (a5f144e7) - Arctic#8016
 * MORTEK (a029ca98) - MORTEK#4796
