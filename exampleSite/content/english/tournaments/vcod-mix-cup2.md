@@ -110,3 +110,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * Arctic (a5f144e7) - Arctic#8016
 * MORTEK (a029ca98) - MORTEK#4796
 * Portiss (1f9e4109) - Portis#2368
+* vdk (0c5ab238) - Vodka16#4660
+* ppengu (368ad09c) - ppengu#5338
+* t4n3k (45395642) - t4n3k#7003
+* MAZU (3d66ead8) -MAZU#2568
