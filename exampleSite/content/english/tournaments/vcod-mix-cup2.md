@@ -70,7 +70,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Registered Players & Teams:**
 
-![](/images/mixcup2default3.PNG)
+![](/images/mixcup2default4.PNG)
 
 **Results - Group Stage:**
 
