@@ -82,9 +82,9 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * WHATTHEF4KL? \[14\] vs \[10\] pushin'30 - [Harbor](https://i.imgur.com/kU2dxDW.jpg)
 * godstarZ \[09\] vs \[14\] zEr0-14 - [Powcamp](https://i.imgur.com/ABLVyvF.jpg)
 * zEr0-14 \[06\] vs \[14\] qB \~ - [Neuville](https://i.imgur.com/R2MPvW9.jpg)
-* sip2juices vs WHATTHEF4KL?
+* sip2juices \[14\] vs \[12\] WHATTHEF4KL? - [Tigertown](https://i.imgur.com/qwjhkcf.jpg)
 * godstarZ \[07\] vs \[14\] WHATTHEF4KL? - [Brecourt](https://i.imgur.com/Q7TwBVG.jpg)
-* zEr0-14 vs pushin'30
+* zEr0-14 \[04\] vs \[14\] pushin'30 - [Railyard](https://i.imgur.com/6MsAbQ7.png)
 * sip2juices vs zEr0-14
 * WHATTHEF4KL? \[13\] vs \[13\] qB \~ - [Carentan](https://i.imgur.com/y1ipqHC.jpg)
 * godstarZ \[14\] vs \[08\] sip2juices - [Brecourt](https://i.imgur.com/iihigvg.jpg)
