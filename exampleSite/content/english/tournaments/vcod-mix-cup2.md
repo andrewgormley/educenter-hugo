@@ -74,19 +74,19 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - Group Stage:**
 
-* godstarZ vs pushin'30
+* godstarZ \[13\] vs \[13\] pushin'30 - [Neuville](https://i.imgur.com/kcaZsBT.jpg)
 * sip2juices vs qB \~
 * WHATTHEF4KL vs zEr0-14
 * godstarZ vs qB \~
 * sip2juices vs pushin'30
 * WHATTHEF4KL vs pushin'30
 * godstarZ vs zEr0-14
-* zEr0-14 vs qB \~
+* zEr0-14 \[06\] vs \[14\] qB \~ - [Neuville](https://i.imgur.com/R2MPvW9.jpg)
 * sip2juices vs WHATTHEF4KL
 * godstarZ vs WHATTHEF4KL
 * zEr0-14 vs pushin'30
 * sip2juices vs zEr0-14
-* WHATTHEF4KL vs qB \~
+* WHATTHEF4KL \[13\] vs \[13\] qB \~ - [Carentan](https://i.imgur.com/y1ipqHC.jpg)
 * godstarZ vs sip2juices
 * qB \~ vs pushin'30
 
