@@ -70,6 +70,8 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Registered Players & Teams:**
 
+![](/images/signups.PNG)
+
 **Results - Group Stage:**
 
 * godstarZ \[13\] vs \[13\] pushin'30 - [Neuville](https://i.imgur.com/kcaZsBT.jpg)
