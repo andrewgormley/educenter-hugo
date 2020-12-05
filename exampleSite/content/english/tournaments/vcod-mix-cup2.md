@@ -74,21 +74,21 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - Group Stage:**
 
-* prm vs Shuya
-* 1ceyyy vs MORTEK
-* f4KL vs fe@r
-* prm vs MORTEK
-* 1ceyyy vs Shuya
-* f4KL vs Shuya
-* prm vs fe@r
-* fe@r vs MORTEK
-* 1ceyyy vs f4KL
-* prm vs f4KL
-* fe@r vs Shuya
-* 1ceyyy vs fe@r
-* f4KL vs MORTEK
-* prm vs 1ceyyy
-* MORTEK vs Shuya
+* godstarZ vs pushin'30
+* sip2juices vs qB \~
+* WHATTHEF4KL vs zEr0-14
+* godstarZ vs qB \~
+* sip2juices vs pushin'30
+* WHATTHEF4KL vs pushin'30
+* godstarZ vs zEr0-14
+* zEr0-14 vs qB \~
+* sip2juices vs WHATTHEF4KL
+* godstarZ vs WHATTHEF4KL
+* zEr0-14 vs pushin'30
+* sip2juices vs zEr0-14
+* WHATTHEF4KL vs qB \~
+* godstarZ vs sip2juices
+* qB \~ vs pushin'30
 
 **Standings:**
 
