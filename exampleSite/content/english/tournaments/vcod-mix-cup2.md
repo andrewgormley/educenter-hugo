@@ -77,8 +77,8 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * godstarZ \[13\] vs \[13\] pushin'30 - [Neuville](https://i.imgur.com/kcaZsBT.jpg)
 * sip2juices vs qB \~
 * WHATTHEF4KL vs zEr0-14
-* godstarZ vs qB \~
-* sip2juices vs pushin'30
+* godstarZ \[14\] vs \[06\] qB \~ - [Carentan](https://i.imgur.com/hEWHTjP.jpg)
+* sip2juices \[12\] vs \[14\] pushin'30 - [Stalingrad](https://i.imgur.com/EfKcl3c.jpg)
 * WHATTHEF4KL vs pushin'30
 * godstarZ vs zEr0-14
 * zEr0-14 \[06\] vs \[14\] qB \~ - [Neuville](https://i.imgur.com/R2MPvW9.jpg)
