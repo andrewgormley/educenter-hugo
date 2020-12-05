@@ -76,17 +76,17 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 * godstarZ \[13\] vs \[13\] pushin'30 - [Neuville](https://i.imgur.com/kcaZsBT.jpg)
 * sip2juices vs qB \~
-* WHATTHEF4KL vs zEr0-14
-* godstarZ \[14\] vs \[06\] qB \~ - [Carentan](https://i.imgur.com/hEWHTjP.jpg)
+* WHATTHEF4KL? vs zEr0-14
+* godstarZ \[06\] vs \[14\] qB \~ - [Carentan](https://i.imgur.com/hEWHTjP.jpg)
 * sip2juices \[12\] vs \[14\] pushin'30 - [Stalingrad](https://i.imgur.com/EfKcl3c.jpg)
-* WHATTHEF4KL vs pushin'30
+* WHATTHEF4KL? \[14\] vs \[10\] pushin'30 - [Harbor](https://i.imgur.com/kU2dxDW.jpg)
 * godstarZ vs zEr0-14
 * zEr0-14 \[06\] vs \[14\] qB \~ - [Neuville](https://i.imgur.com/R2MPvW9.jpg)
-* sip2juices vs WHATTHEF4KL
-* godstarZ vs WHATTHEF4KL
+* sip2juices vs WHATTHEF4KL?
+* godstarZ vs WHATTHEF4KL?
 * zEr0-14 vs pushin'30
 * sip2juices vs zEr0-14
-* WHATTHEF4KL \[13\] vs \[13\] qB \~ - [Carentan](https://i.imgur.com/y1ipqHC.jpg)
+* WHATTHEF4KL? \[13\] vs \[13\] qB \~ - [Carentan](https://i.imgur.com/y1ipqHC.jpg)
 * godstarZ vs sip2juices
 * qB \~ vs pushin'30
 
