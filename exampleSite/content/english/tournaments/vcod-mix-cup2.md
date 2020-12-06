@@ -100,7 +100,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - UB Semi Finals:**
 
-* WHATTHEF4KL? vs pushin'30
+* WHATTHEF4KL? \[14\] - \[10\] pushin'30 - [Hurtgen](https://i.imgur.com/7jh0XsW.jpg)
 * qB \~ vs sip2juices
 
 **Results - LB Round 2:**
