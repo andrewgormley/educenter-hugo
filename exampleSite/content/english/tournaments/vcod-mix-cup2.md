@@ -106,7 +106,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 **Results - LB Round 2:**
 
 * godstarZ \[10\] - \[14\] pushin'30 - [Railyard](https://i.imgur.com/MuL9TY8.jpg)
-* sip2juices vs zEr0-14 -
+* sip2juices \[12\] vs \[14\] zEr0-14 - [Neuville](https://i.imgur.com/GDxfcrH.jpg)
 
 **Results - LB Round 3:**
 
