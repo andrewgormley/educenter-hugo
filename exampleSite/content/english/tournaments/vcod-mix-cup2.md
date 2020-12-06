@@ -92,7 +92,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Standings:**
 
-![](/images/lastbut1update.PNG)
+![](/images/lastbut1update-1.PNG)
 
 **Knockouts:**
 
