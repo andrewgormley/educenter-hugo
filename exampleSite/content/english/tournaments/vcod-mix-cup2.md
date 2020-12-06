@@ -92,4 +92,4 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Standings:**
 
-![](/images/mixcup2default.PNG)
+![](/images/111tableup.PNG)
