@@ -114,12 +114,12 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - UB Final:**
 
-* WHATTHEF4KL? \[12\] - \[14\] qB - [Neuville](https://i.imgur.com/oQJF5Rf.jpg)
+* WHATTHEF4KL? \[12\] - \[14\] qB \~ - [Neuville](https://i.imgur.com/oQJF5Rf.jpg)
 
 **Results - LB Round 4:**
 
-* TBA vs TBA
+* zEr0-14 vs WHATTHEF4KL?
 
 **Results - Grand Final**
 
-* TBA vs TBA
+* qB \~ vs TBA
