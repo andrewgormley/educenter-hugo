@@ -96,15 +96,17 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Knockouts:**
 
+![](/images/capture12414.PNG)
+
 **Results - UB Semi Finals:**
 
-* qB \~ vs 4 
-* 2 vs 3
+* WHATTHEF4KL? vs pushin'30
+* qB \~ vs sip2juices
 
 **Results - LB Round 2:**
 
 * godstarZ vs TBA 
-* TBA vs TBA
+* TBA vs zEr0-14
 
 **Results - LB Round 3:**
 
