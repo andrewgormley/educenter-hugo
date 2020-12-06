@@ -88,7 +88,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * sip2juices \[14\] vs \[08\] zEr0-14 - [Carentan](https://i.imgur.com/uEhsUCC.jpg)
 * WHATTHEF4KL? \[13\] vs \[13\] qB \~ - [Carentan](https://i.imgur.com/y1ipqHC.jpg)
 * godstarZ \[14\] vs \[08\] sip2juices - [Brecourt](https://i.imgur.com/iihigvg.jpg)
-* qB \~ vs pushin'30
+* qB \~ \[14\] vs \[11\] pushin'30 - [Neuville](https://i.imgur.com/1qy5zFa.jpg)
 
 **Standings:**
 
