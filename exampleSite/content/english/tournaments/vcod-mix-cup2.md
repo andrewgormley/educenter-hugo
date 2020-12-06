@@ -93,3 +93,31 @@ If you are clanless and looking for a team, then head over to the Community Disc
 **Standings:**
 
 ![](/images/lastbut1update.PNG)
+
+**Knockouts:**
+
+**Results - UB Semi Finals:**
+
+* 1 vs 4 
+* 2 vs 3
+
+**Results - LB Round 2:**
+
+* godstarZ vs TBA 
+* TBA vs TBA
+
+**Results - LB Round 3:**
+
+* TBA vs TBA 
+
+**Results - UB Final:**
+
+* TBA vs TBA
+
+**Results - LB Round 4:**
+
+* TBA vs TBA
+
+**Results - Grand Final**
+
+* TBA vs TBA
