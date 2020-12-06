@@ -96,7 +96,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Knockouts:**
 
-![](/images/bracketupdate.PNG)
+![](/images/dgerg.PNG)
 
 **Results - UB Semi Finals:**
 
