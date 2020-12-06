@@ -106,15 +106,15 @@ If you are clanless and looking for a team, then head over to the Community Disc
 **Results - LB Round 2:**
 
 * godstarZ \[10\] - \[14\] pushin'30 - [Railyard](https://i.imgur.com/MuL9TY8.jpg)
-* sip2juices vs zEr0-14 - 
+* sip2juices vs zEr0-14 -
 
 **Results - LB Round 3:**
 
-* pushin'30 vs TBA
+* pushin'30 \[12\] vs \[14\] zEr0-14 - [Harbor](https://i.imgur.com/gY4cDpp.jpg)
 
 **Results - UB Final:**
 
-* WHATTHEF4KL? vs qB
+* WHATTHEF4KL? \[12\] - \[14\] qB - [Neuville](https://i.imgur.com/oQJF5Rf.jpg)
 
 **Results - LB Round 4:**
 
