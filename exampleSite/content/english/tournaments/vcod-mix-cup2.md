@@ -101,12 +101,12 @@ If you are clanless and looking for a team, then head over to the Community Disc
 **Results - UB Semi Finals:**
 
 * WHATTHEF4KL? \[14\] - \[10\] pushin'30 - [Hurtgen](https://i.imgur.com/7jh0XsW.jpg)
-* qB \~ \[14\] - \[10\] sip2juices
+* qB \~ \[14\] - \[10\] sip2juices - [Railyard](https://i.imgur.com/7zjzHHU.jpg)
 
 **Results - LB Round 2:**
 
 * godstarZ \[10\] - \[14\] pushin'30 - [Railyard](https://i.imgur.com/MuL9TY8.jpg)
-* sip2juices vs zEr0-14
+* sip2juices vs zEr0-14 - 
 
 **Results - LB Round 3:**
 
