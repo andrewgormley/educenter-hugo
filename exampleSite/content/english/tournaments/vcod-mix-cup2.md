@@ -91,5 +91,3 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * qB \~ vs pushin'30
 
 **Standings:**
-
-![](/images/111tableup.PNG)
