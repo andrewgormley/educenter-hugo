@@ -105,7 +105,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - LB Round 2:**
 
-* godstarZ vs TBA
+* godstarZ vs pushin'30 - [Railyard](https://i.imgur.com/MuL9TY8.jpg)
 * TBA vs zEr0-14
 
 **Results - LB Round 3:**
