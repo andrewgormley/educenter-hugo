@@ -98,7 +98,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - UB Semi Finals:**
 
-* 1 vs 4 
+* qB \~ vs 4 
 * 2 vs 3
 
 **Results - LB Round 2:**
