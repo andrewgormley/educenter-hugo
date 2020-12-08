@@ -75,7 +75,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * **EURO – Explode#9497:** Explode (2ebeed51), Buzah (919bc974), Fantasy (4dca5c58), Reazon (7e240cf1), Roalty (8d078917) Faberj4yy (759eb2d5) , Vicious (bb9b4c66), F4KL (abe343dd), Sk4vs (2d03bccc), Arctic (a5f144e7)
 * **barbeque – dusty#1057:** dusty (78218880) iradexz (1ea998ee) Mazu (3d66ead8) Don (9b133c60) Crawler (38c4b307) Owner (668af291) Masi (37740bfa), BASSIE (e566d62c)
 * **intuitive - \[OMBD\]Anglhz#7860:** anglhz (0b3c46f3), t1MSKE (0f5eaefe), alum (90e5682a), oane (3c94a672), virax (9a8b5a02), PELE (8e11b236), majkiiEh (06a85fbb), eichh (5e83660f)
-* **lobiiX - fIoppy#9230:** fl0ppY 3ab091be, Windje 59f1df04, Jannus 505373f9, Portiss 1f9e4109, JDX 035652eb, xtc a6593b15, Stephano fbb05bed
+* **lobiiX - fIoppy#9230:** fl0ppY (3ab091be), Windje (59f1df04), Jannus (505373f9), Portiss (1f9e4109), JDX (035652eb), xtc (a6593b15), Stephano (fbb05bed), Malibu (6d574eb6)
 * **Defying Logics – razRR#9282:** razRR (49d5ce5c), rONOx (876cc5c5), tanek (45395642), n00bster (cf6f35f6), Shuya (34902b76), 1ceyyy (7a5a1c92), faa1th (df4ace91), f z U (64eca371), extence (e3fdfb11)
 * **aNimus Gaming – skz#2642:** skz (5fc35d87), MORTEK (a029ca98), vdk (0c5ab238), fe@r (e81bc4f3), Pol (12c95aad), Achille (ff171708), RAVZ (82646aa8), Lwww (ad3dafab), spln (4fa01519), LEGENDZ (505eee2c), Spikez (160c4b78)
 * **northernk1ngz – kArrii#8056:** kArrii (3bb81aa3), zEn (b57fb3df), toMi (9464273d), Proster (55ef5a76), Kzah (c0cbaca9), azzloCK (6eb88a0e), ATTE (230479f8), Zigii (05a29437), Hatcheriii (acef1061), karmA (e3654b80), TjEEbi (63e2e2db), GAS (c17903c1), AERO (168370e0)
