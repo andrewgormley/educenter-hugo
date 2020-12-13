@@ -60,7 +60,7 @@ We are pleased to announce that the registration for our winter competion will b
 
 **Players:** You will need to include the GUIDs of your players when registering. We are not accepting teams with missing GUIDs.
 
-**Anti-Cheat:** New AC announcement coming soon!
+**Anti-Cheat:** Veritas 2.0.4.
 
 **Stream:** [**https://www.twitch.tv/vcodgg**](https://www.twitch.tv/vcodgg).
 
