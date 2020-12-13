@@ -54,7 +54,7 @@ We are pleased to announce that the registration for our winter competion will b
 
 **Maps:** Group stage – maps will be pre-decided. Knockout stage - teams can pick any map from the pool once.
 
-**Map Pool:** Bocage, Brecourt, Carentan, Dawnville, Depot, Harbor, Hurtgen, Neuville, Pavlov, Powcamp, Railyard, Rocket, Stalingrad and Tigertown.
+**Map Pool:** Bocage, Brecourt, Carentan, Dawnville, Depot, German_Town, Harbor, Hurtgen, Neuville, Pavlov, Powcamp, Railyard, Rocket, Stalingrad and Tigertown.
 
 **Schedule:** The groups will be drawn on the 10th of December, after registration has closed. On the 13th of December, the competition will go live! Groups of 4: teams are expected to complete their matches before the 10th of January, 22:00 BST. A schedule will be put in place with suggested dates; teams are free to play their games earlier or later, as long as they are complete before the deadline. If a date cannot be agreed, the match will be forced on a Sunday of that game week. A schedule will be put in place for the knockout phase. Again, If a date cannot be agreed, the match will be forced on a Sunday of that game week. Only sign up if you are willing to complete all of your scheduled games! Not completing the fixtures will have an impact on your chances of entering future competitions.
 
