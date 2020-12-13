@@ -80,3 +80,39 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * **northernk1ngz – kArrii#8056:** kArrii (3bb81aa3), zEn (b57fb3df), toMi (9464273d), Proster (55ef5a76), Kzah (c0cbaca9), azzloCK (6eb88a0e), ATTE (230479f8), Zigii (05a29437), Hatcheriii (acef1061), karmA (e3654b80), TjEEbi (63e2e2db), GAS (c17903c1), AERO (168370e0), FUKSI (c17903c1), jeLZ (73ac0286), n00bster (cf6f35f6)
 * **Affecto Gaming – MAZU#2568:** MAZU (3d66ead8), pl3b (b7e022c8), MORTEK (a029ca98), vdk (0c5ab238), skz (5fc35d87), fe@r (e81bc4f3), loftzu (8379bf96), snockz (c980a809), virax (9a8b5a02)
 * **CLANNAME? – rapidzjeh#9994:** rapidzjeh (597c3c5c), bombel (8440ffd4), ryo (a2cd19b6), serezhkee (6eb98274), Malibuu (6d574eb6), rOb (2e8adb13), ixc (55d0af7d)
+
+**Suggested Schedule:**
+
+![](/images/wintercupsched.PNG)
+
+**Results - Group A:**
+
+* d\`logics. vs barbeque \~ Tigertown & Neuville
+* CLANNAME? vs EURO| \~ Tigertown & Neuville
+* d\`logics. vs EURO| \~ Dawnville & Hurtgen
+* CLANNAME? vs lobiiX \~ Dawnville & Hurtgen
+* d\`logics. vs lobiiX \~ Railyard & Pavlov
+* EURO| vs barbeque \~ Railyard & Pavlov
+* CLANNAME? vs barbeque \~ Harbor & Rocket
+* lobiiX vs EURO| \~ Harbor & Rocket
+* d\`logics. vs CLANNAME? \~ Bocage & Carentan
+* lobiiX vs barbeque \~ Bocage & Carentan
+
+**Results - Group B:**
+
+* #AFFECTO vs intuitive - \~ Tigertown & Neuville
+* unionsqd. vs fatality \~ Tigertown & Neuville
+* #AFFECTO vs fatality \~ Dawnville & Hurtgen
+* unionsqd. vs nK \~ Dawnville & Hurtgen
+* #AFFECTO vs nK \~ Railyard & Pavlov
+* fatality vs intuitive - \~ Railyard & Pavlov
+* unionsqd. vs intuitive - \~ Harbor & Rocket
+* nK vs fatality \~ Harbor & Rocket
+* #AFFECTO vs unionsqd. \~ Bocage & Carentan
+* nK vs intuitive - \~ Bocage & Carentan
+
+**Standings:**
+
+![](/images/wintcupa.PNG)
+
+![](/images/wintcupb.PNG)
