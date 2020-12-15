@@ -70,7 +70,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Registered Teams:**
 
-* **fatality – xa1ruZ#6662:** xa1ruZ (98ae2a96), opfii1ee (c9b894d4), prm-**EYE** (b1863fe5), VENXZRR (58a9ba94), Cillian (b322fa7c), qT-**EYE** (a54e60a9), snockz (c980a809), FLAAASH (e4c12abe), bAUMI (37748725), adaiiR (513e3892
+* **fatality – xa1ruZ#6662:** xa1ruZ (98ae2a96), opfii1ee (c9b894d4), prm-**EYE** (b1863fe5), VENXZRR (58a9ba94), Cillian (b322fa7c), qT-**EYE** (a54e60a9), snockz (c980a809), FLAAASH (e4c12abe), bAUMI (37748725), adaiiR (513e3892)
 * **the2gaming – f4KL#7044:** f4KL-**EYE** (abe343dd), DzR (6eb98274), vanja (d0737ecd), hepsio-**EYE** (b9b98af2), h (5e83660f), motya (418fd8f6), BaHec (e4fdfd90), edX (f53b116d)
 * **Defying Logics – razRR#9282:** razRR (49d5ce5c), rONOx (876cc5c5), tanek-**EYE** (45395642), n00bster (cf6f35f6), ED-**EYE** (64bd15c5), Shuya (34902b76), 1ceyyy (7a5a1c92), faa1th (df4ace91), fzU (64eca371), fasty (9464273d)
 * **EURO – Explode#9497:** Explode-**EYE** (2ebeed51), reazon (7e240cf1), fantasy-**EYE** (4dca5c58), extence-**EYE** (e3fdfb11), buzah-**EYE** (919bc974), sk4vs (2d03bccc), Roalty (8d078917), Faberjayy-**EYE** (759eb2d5)
