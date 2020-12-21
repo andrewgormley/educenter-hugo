@@ -113,6 +113,6 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Standings:**
 
-![](/images/wintcupa.PNG)
+![](/images/ro2ga1.PNG)
 
-![](/images/wintcupb.PNG)
+![](/images/ro2gb1.PNG)
