@@ -150,4 +150,4 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - Grand Final**
 
-* UNDERDOGZ vs fatality
+* UNDERDOGZ ([Neuville](https://i.imgur.com/fhL9xNi.jpg)) \[21\] - \[08\] ([Brecourt](https://i.imgur.com/duBzzqy.jpg)) fatality
