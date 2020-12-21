@@ -153,4 +153,5 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - Grand Final**
 
-* d\`logics. vs OVERIDE
+* d\`logics. \[07\] - \[14\] OVERIDE - [Depot](https://i.imgur.com/wvAnDhJ.jpg)
+* d\`logics. \[06\] - \[14\] OVERIDE - [Golden Map](https://i.imgur.com/XOTZlFX.jpg)
