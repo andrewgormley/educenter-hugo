@@ -100,7 +100,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - Group B:**
 
-* #AFFECTO vs intuitive - \~ Tigertown & Neuville
+* #AFFECTO \[21\] - \[07\] intuitive - \~ [Tigertown](https://i.imgur.com/qIjcOyX.jpg) & [Neuville](https://i.imgur.com/6qVVm4b.jpg)
 * unionsqd. vs fatality \~ Tigertown & Neuville
 * #AFFECTO vs fatality \~ Dawnville & Hurtgen
 * unionsqd. vs nK \~ Dawnville & Hurtgen
