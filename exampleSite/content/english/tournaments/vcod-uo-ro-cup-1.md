@@ -111,7 +111,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Knockouts:**
 
-![](/images/uobrackkket.PNG)
+![](/images/uocupfinalbracket.PNG)
 
 **Results - UB Quarter Finals:**
 
