@@ -87,8 +87,8 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - Group A:**
 
-* d\`logics. vs barbeque \~ Tigertown & Neuville
-* CLANNAME? vs EURO| \~ Tigertown & Neuville
+* d\`logics. \[21\] - \[13\] barbeque \~ Tigertown & Neuville
+* CLANNAME? - \[21\] EURO| \~ Tigertown & Neuville
 * d\`logics. vs EURO| \~ Dawnville & Hurtgen
 * CLANNAME? vs lobiiX \~ Dawnville & Hurtgen
 * d\`logics. vs lobiiX \~ Railyard & Pavlov
