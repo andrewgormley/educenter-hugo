@@ -118,8 +118,8 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - LB Round 4:**
 
-* zEr0-14 vs WHATTHEF4KL?
+* zEr0-14 \[14\] vs \[06\] WHATTHEF4KL? - [Neuville](https://i.imgur.com/8RmbJph.jpg)
 
 **Results - Grand Final**
 
-* qB \~ vs TBA
+* qB \~ vs zEr0-14
