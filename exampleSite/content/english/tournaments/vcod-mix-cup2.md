@@ -96,7 +96,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Knockouts:**
 
-![](/images/dgerg.PNG)
+![](/images/mcfinalbracket.PNG)
 
 **Results - UB Semi Finals:**
 
@@ -118,8 +118,8 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - LB Round 4:**
 
-* zEr0-14 \[14\] vs \[06\] WHATTHEF4KL? - [Neuville](https://i.imgur.com/8RmbJph.jpg)
+* zEr0-14 \[14\] - \[06\] WHATTHEF4KL? - [Neuville](https://i.imgur.com/8RmbJph.jpg)
 
 **Results - Grand Final**
 
-* qB \~ \[14\] vs \[09\] zEr0-14 - [Harbor](https://i.imgur.com/HcbQuiI.jpg)
+* qB \~ \[14\] - \[09\] zEr0-14 - [Harbor](https://i.imgur.com/HcbQuiI.jpg)
