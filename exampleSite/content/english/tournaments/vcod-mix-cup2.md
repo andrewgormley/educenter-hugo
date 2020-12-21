@@ -122,4 +122,4 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - Grand Final**
 
-* qB \~ vs zEr0-14
+* qB \~ \[14\] vs \[09\] zEr0-14 - [Harbor](https://i.imgur.com/HcbQuiI.jpg)
