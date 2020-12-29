@@ -1,29 +1,30 @@
-[[ hof ]]
-tournament = 'All Weapons Cup #1'
-first = 'OVERIDE'
-second = 'Defying Logics'
-link = 'vcod-aw-weekend-cup'
-
-[[ hof ]]
-tournament = 'Mix Cup #1'
-first = 'wsB!'
-second = 'xfire'
-link = 'vcod-mix-cup1'
-
-[[ hof ]]
-tournament = 'Divisions S1 - Diamond'
-first = 'EURO'
-second = 'fatality'
-link = 'vcod-div-s1'
-
-[[ hof ]]
-tournament = 'Divisions S1 - Gold'
-first = 'Intuitive'
-second = 'the2Gaming'
-link = 'vcod-div-s1'
-
-[[ hof ]]
-tournament = 'Rifles Only #1'
-first = 'Defying Logics'
-second = 'EURO'
-link = 'vcod-ro-cup-1'
+[[hof]]
+first = "qB ~"
+link = "vcod-mix-cup1"
+second = "zEr0-14"
+tournament = "Mix Cup #2"
+[[hof]]
+first = "OVERIDE"
+link = "vcod-aw-weekend-cup"
+second = "Defying Logics"
+tournament = "All Weapons Cup #1"
+[[hof]]
+first = "wsB!"
+link = "vcod-mix-cup1"
+second = "xfire"
+tournament = "Mix Cup #1"
+[[hof]]
+first = "EURO"
+link = "vcod-div-s1"
+second = "fatality"
+tournament = "Divisions S1 - Diamond"
+[[hof]]
+first = "Intuitive"
+link = "vcod-div-s1"
+second = "the2Gaming"
+tournament = "Divisions S1 - Gold"
+[[hof]]
+first = "Defying Logics"
+link = "vcod-ro-cup-1"
+second = "EURO"
+tournament = "Rifles Only #1"
