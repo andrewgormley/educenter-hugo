@@ -105,7 +105,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * #AFFECTO \[21\] vs \[16\] fatality \~ [Dawnville](https://i.imgur.com/vVuj6Mh.png) & [Hurtgen](https://i.imgur.com/tseKev0.jpg)
 * unionsqd. \[16\] vs \[21\] nK \~ [Dawnville](https://i.imgur.com/bOSYwQa.jpg) & [Hurtgen](https://i.imgur.com/IXvh8KO.jpg)
 * #AFFECTO vs nK \~ Railyard & Pavlov
-* fatality vs intuitive - \~ Railyard & Pavlov
+* fatality \[21\] vs \[12\] intuitive - \~ [Railyard](https://i.imgur.com/6ufFDYN.jpg) & [Pavlov](https://i.imgur.com/0L6jaAC.jpg)
 * unionsqd. vs intuitive - \~ Harbor & Rocket
 * nK vs fatality \~ Harbor & Rocket
 * #AFFECTO vs unionsqd. \~ Bocage & Carentan
