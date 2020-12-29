@@ -1,13 +1,13 @@
 [[hof]]
-first = "UNDERDOGZ"
-link = "vcod-uo-ro-cup-1"
-second = "fatality"
-tournament = "UO Rifles Reborn"
-[[hof]]
 first = "qB ~"
 link = "vcod-mix-cup2"
 second = "zEr0-14"
 tournament = "Mix Cup #2"
+[[hof]]
+first = "TBA"
+link = "vcod-ro-cup-2"
+second = "TBA"
+tournament = "Rifles Only #2"
 [[hof]]
 first = "OVERIDE"
 link = "vcod-aw-weekend-cup"
@@ -28,6 +28,11 @@ first = "Intuitive"
 link = "vcod-div-s1"
 second = "the2Gaming"
 tournament = "Divisions S1 - Gold"
+[[hof]]
+first = "UNDERDOGZ"
+link = "vcod-uo-ro-cup-1"
+second = "fatality"
+tournament = "UO Rifles Reborn"
 [[hof]]
 first = "Defying Logics"
 link = "vcod-ro-cup-1"
