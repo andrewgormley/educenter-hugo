@@ -94,7 +94,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * d\`logics. vs lobiiX \~ Railyard & Pavlov
 * EURO| \[21\] - \[16\] barbeque \~ [Railyard](https://i.imgur.com/OEcCBkC.jpg) & [Pavlov](https://i.imgur.com/4G54sWu.jpg)
 * CLANNAME? vs barbeque \~ Harbor & Rocket
-* lobiiX vs EURO| \~ Harbor & Rocket
+* lobiiX \[17\] vs \[21\] EURO| \~ [Harbor](https://i.imgur.com/iMzCESc.jpg) & [Rocket](https://i.imgur.com/d2aDyeD.jpg)
 * d\`logics. vs CLANNAME? \~ Bocage & Carentan
 * lobiiX \[02\] vs \[21\] barbeque \~ [Bocage](https://i.imgur.com/Wj61Bc1.jpg) & [Carentan](https://i.imgur.com/5zP3liI.jpg)
 
