@@ -102,7 +102,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 * #AFFECTO \[21\] - \[07\] intuitive - \~ [Tigertown](https://i.imgur.com/qIjcOyX.jpg) & [Neuville](https://i.imgur.com/6qVVm4b.jpg)
 * unionsqd. \[04\] - \[21\] fatality \~ [Tigertown](https://i.imgur.com/83oDv1F.jpg) & [Neuville](https://i.imgur.com/zBLEz13.jpg)
-* #AFFECTO vs fatality \~ Dawnville & Hurtgen
+* #AFFECTO \[21\] vs \[16\] fatality \~ [Dawnville](https://i.imgur.com/vVuj6Mh.png) & [Hurtgen](https://i.imgur.com/tseKev0.jpg)
 * unionsqd. \[16\] vs \[21\] nK \~ [Dawnville](https://i.imgur.com/bOSYwQa.jpg) & [Hurtgen](https://i.imgur.com/IXvh8KO.jpg)
 * #AFFECTO vs nK \~ Railyard & Pavlov
 * fatality vs intuitive - \~ Railyard & Pavlov
