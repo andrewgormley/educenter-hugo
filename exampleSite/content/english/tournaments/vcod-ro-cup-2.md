@@ -90,20 +90,20 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * d\`logics. \[21\] - \[13\] barbeque \~ [Tigertown](https://i.imgur.com/GTtdeIF.jpg) & [Neuville](https://i.imgur.com/wUQVKF7.jpg)
 * CLANNAME? \[09\] - \[21\] EURO| \~ [Tigertown](https://i.imgur.com/JTH4sBw.jpg) & [Neuville](https://i.imgur.com/brVIFWH.jpg)
 * d\`logics. vs EURO| \~ Dawnville & Hurtgen
-* CLANNAME? vs lobiiX \~ Dawnville & Hurtgen
+* CLANNAME? \[17\] vs \[21\] lobiiX \~ [Dawnville](https://i.imgur.com/zgQkw2W.jpg) & [Hurtgen](https://i.imgur.com/vq4xS55.jpg)
 * d\`logics. vs lobiiX \~ Railyard & Pavlov
 * EURO| \[21\] - \[16\] barbeque \~ [Railyard](https://i.imgur.com/OEcCBkC.jpg) & [Pavlov](https://i.imgur.com/4G54sWu.jpg)
 * CLANNAME? vs barbeque \~ Harbor & Rocket
 * lobiiX vs EURO| \~ Harbor & Rocket
 * d\`logics. vs CLANNAME? \~ Bocage & Carentan
-* lobiiX vs barbeque \~ Bocage & Carentan
+* lobiiX \[02\] vs \[21\] barbeque \~ [Bocage](https://i.imgur.com/Wj61Bc1.jpg) & [Carentan](https://i.imgur.com/5zP3liI.jpg)
 
 **Results - Group B:**
 
 * #AFFECTO \[21\] - \[07\] intuitive - \~ [Tigertown](https://i.imgur.com/qIjcOyX.jpg) & [Neuville](https://i.imgur.com/6qVVm4b.jpg)
 * unionsqd. \[04\] - \[21\] fatality \~ [Tigertown](https://i.imgur.com/83oDv1F.jpg) & [Neuville](https://i.imgur.com/zBLEz13.jpg)
 * #AFFECTO vs fatality \~ Dawnville & Hurtgen
-* unionsqd. vs nK \~ Dawnville & Hurtgen
+* unionsqd. \[16\] vs \[21\] nK \~ [Dawnville](https://i.imgur.com/bOSYwQa.jpg) & [Hurtgen](https://i.imgur.com/IXvh8KO.jpg)
 * #AFFECTO vs nK \~ Railyard & Pavlov
 * fatality vs intuitive - \~ Railyard & Pavlov
 * unionsqd. vs intuitive - \~ Harbor & Rocket
