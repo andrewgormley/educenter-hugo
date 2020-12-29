@@ -114,3 +114,5 @@ If you are clanless and looking for a team, then head over to the Community Disc
 **Standings:**
 
 ![](/images/ga21111.PNG)
+
+![](/images/gb211111.PNG)
