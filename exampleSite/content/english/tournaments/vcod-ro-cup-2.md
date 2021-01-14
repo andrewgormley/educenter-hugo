@@ -93,7 +93,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * CLANNAME? \[17\] vs \[21\] lobiiX \~ [Dawnville](https://i.imgur.com/zgQkw2W.jpg) & [Hurtgen](https://i.imgur.com/vq4xS55.jpg)
 * d\`logics. \[21\] vs \[05\] lobiiX \~ [Railyard](https://i.imgur.com/KvCVpT2.jpg) & [Pavlov](https://i.imgur.com/g1SV3ba.jpg)
 * EURO| \[21\] - \[16\] barbeque \~ [Railyard](https://i.imgur.com/OEcCBkC.jpg) & [Pavlov](https://i.imgur.com/4G54sWu.jpg)
-* CLANNAME? vs barbeque \~ Harbor & Rocket
+* CLANNAME? \[13\] vs \[21\] barbeque \~ [Harbor](https://i.imgur.com/Io16kd0.png) & [Rocket](https://i.imgur.com/l16uPfP.jpg)
 * lobiiX \[17\] vs \[21\] EURO| \~ [Harbor](https://i.imgur.com/iMzCESc.jpg) & [Rocket](https://i.imgur.com/d2aDyeD.jpg)
 * d\`logics. vs CLANNAME? \~ Bocage & Carentan
 * lobiiX \[02\] vs \[21\] barbeque \~ [Bocage](https://i.imgur.com/Wj61Bc1.jpg) & [Carentan](https://i.imgur.com/5zP3liI.jpg)
