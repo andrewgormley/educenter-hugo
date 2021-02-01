@@ -113,6 +113,40 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Standings:**
 
-![](/images/garocup2.PNG)
+![](/images/gafinalrocup2.PNG)
 
-![](/images/gbrocup2.PNG)
+![](/images/gbfinalrocup2.PNG)
+
+**Knockouts:**
+
+**Results - UB Quarter Finals:**
+
+* 
+
+**Results - LB Round 1:**
+
+* 
+
+**Results - UB Semi Finals:**
+
+* 
+
+**Results - LB Round 2:**
+
+* 
+
+**Results - LB Round 3:**
+
+* 
+
+**Results - UB Final:**
+
+* 
+
+**Results - LB Round 4:**
+
+* 
+
+**Results - Grand Final**
+
+* 
