@@ -89,27 +89,27 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 * d\`logics. \[21\] - \[13\] barbeque \~ [Tigertown](https://i.imgur.com/GTtdeIF.jpg) & [Neuville](https://i.imgur.com/wUQVKF7.jpg)
 * CLANNAME? \[09\] - \[21\] EURO| \~ [Tigertown](https://i.imgur.com/JTH4sBw.jpg) & [Neuville](https://i.imgur.com/brVIFWH.jpg)
-* d\`logics. \[21\] vs \[09\] EURO| \~ [Dawnville](https://i.imgur.com/Nt3QMDR.jpg) & [Hurtgen](https://i.imgur.com/edGubvN.jpg)
-* CLANNAME? \[17\] vs \[21\] lobiiX \~ [Dawnville](https://i.imgur.com/zgQkw2W.jpg) & [Hurtgen](https://i.imgur.com/vq4xS55.jpg)
-* d\`logics. \[21\] vs \[05\] lobiiX \~ [Railyard](https://i.imgur.com/KvCVpT2.jpg) & [Pavlov](https://i.imgur.com/g1SV3ba.jpg)
+* d\`logics. \[21\] - \[09\] EURO| \~ [Dawnville](https://i.imgur.com/Nt3QMDR.jpg) & [Hurtgen](https://i.imgur.com/edGubvN.jpg)
+* CLANNAME? \[17\] - \[21\] lobiiX \~ [Dawnville](https://i.imgur.com/zgQkw2W.jpg) & [Hurtgen](https://i.imgur.com/vq4xS55.jpg)
+* d\`logics. \[21\] - \[05\] lobiiX \~ [Railyard](https://i.imgur.com/KvCVpT2.jpg) & [Pavlov](https://i.imgur.com/g1SV3ba.jpg)
 * EURO| \[21\] - \[16\] barbeque \~ [Railyard](https://i.imgur.com/OEcCBkC.jpg) & [Pavlov](https://i.imgur.com/4G54sWu.jpg)
-* CLANNAME? \[13\] vs \[21\] barbeque \~ [Harbor](https://i.imgur.com/Io16kd0.png) & [Rocket](https://i.imgur.com/l16uPfP.jpg)
-* lobiiX \[17\] vs \[21\] EURO| \~ [Harbor](https://i.imgur.com/iMzCESc.jpg) & [Rocket](https://i.imgur.com/d2aDyeD.jpg)
-* d\`logics. \[21\] vs \[09\] CLANNAME? \~ [Bocage](https://i.imgur.com/xfqM3WY.jpg) & [Carentan](https://i.imgur.com/25oBNJU.jpg)
-* lobiiX \[02\] vs \[21\] barbeque \~ [Bocage](https://i.imgur.com/Wj61Bc1.jpg) & [Carentan](https://i.imgur.com/5zP3liI.jpg)
+* CLANNAME? \[13\] - \[21\] barbeque \~ [Harbor](https://i.imgur.com/Io16kd0.png) & [Rocket](https://i.imgur.com/l16uPfP.jpg)
+* lobiiX \[17\] - \[21\] EURO| \~ [Harbor](https://i.imgur.com/iMzCESc.jpg) & [Rocket](https://i.imgur.com/d2aDyeD.jpg)
+* d\`logics. \[21\] - \[09\] CLANNAME? \~ [Bocage](https://i.imgur.com/xfqM3WY.jpg) & [Carentan](https://i.imgur.com/25oBNJU.jpg)
+* lobiiX \[02\] - \[21\] barbeque \~ [Bocage](https://i.imgur.com/Wj61Bc1.jpg) & [Carentan](https://i.imgur.com/5zP3liI.jpg)
 
 **Results - Group B:**
 
 * #AFFECTO \[21\] - \[07\] intuitive - \~ [Tigertown](https://i.imgur.com/qIjcOyX.jpg) & [Neuville](https://i.imgur.com/6qVVm4b.jpg)
 * unionsqd. \[04\] - \[21\] fatality \~ [Tigertown](https://i.imgur.com/83oDv1F.jpg) & [Neuville](https://i.imgur.com/zBLEz13.jpg)
-* #AFFECTO \[21\] vs \[16\] fatality \~ [Dawnville](https://i.imgur.com/vVuj6Mh.png) & [Hurtgen](https://i.imgur.com/tseKev0.jpg)
-* unionsqd. \[16\] vs \[21\] nK \~ [Dawnville](https://i.imgur.com/bOSYwQa.jpg) & [Hurtgen](https://i.imgur.com/IXvh8KO.jpg)
-* #AFFECTO \[21\] vs \[04\] nK \~ [Railyard](https://i.imgur.com/FjnR2au.jpg) & [Pavlov](https://i.imgur.com/Q7glmHI.jpg)
-* fatality \[21\] vs \[12\] intuitive - \~ [Railyard](https://i.imgur.com/6ufFDYN.jpg) & [Pavlov](https://i.imgur.com/0L6jaAC.jpg)
-* unionsqd. vs intuitive - \~ Harbor & Rocket
-* nK vs fatality \~ Harbor & Rocket
-* #AFFECTO \[21\] vs \[08\] unionsqd. \~ [Bocage](https://i.imgur.com/1Xs2AHD.jpg) & [Carentan](https://i.imgur.com/KMB4QGl.jpg)
-* nK vs intuitive - \~ Bocage & Carentan
+* #AFFECTO \[21\] - \[16\] fatality \~ [Dawnville](https://i.imgur.com/vVuj6Mh.png) & [Hurtgen](https://i.imgur.com/tseKev0.jpg)
+* unionsqd. \[16\] - \[21\] nK \~ [Dawnville](https://i.imgur.com/bOSYwQa.jpg) & [Hurtgen](https://i.imgur.com/IXvh8KO.jpg)
+* #AFFECTO \[21\] - \[04\] nK \~ [Railyard](https://i.imgur.com/FjnR2au.jpg) & [Pavlov](https://i.imgur.com/Q7glmHI.jpg)
+* fatality \[21\] - \[12\] intuitive - \~ [Railyard](https://i.imgur.com/6ufFDYN.jpg) & [Pavlov](https://i.imgur.com/0L6jaAC.jpg)
+* unionsqd. \[21\] - \[00\] intuitive - \~ Harbor & Rocket - no show.
+* nK \[05\] - \[21\] fatality \~ [Harbor](https://i.imgur.com/DTnqqBT.jpg) & [Rocket](https://i.imgur.com/UZzcFD0.jpg)
+* #AFFECTO \[21\] - \[08\] unionsqd. \~ [Bocage](https://i.imgur.com/1Xs2AHD.jpg) & [Carentan](https://i.imgur.com/KMB4QGl.jpg)
+* nK \[16\] - \[21\] intuitive - \~ [Bocage](https://i.imgur.com/N8cetX2.jpg) & [Carentan](https://i.imgur.com/oEv2BZp.jpg)
 
 **Standings:**
 
