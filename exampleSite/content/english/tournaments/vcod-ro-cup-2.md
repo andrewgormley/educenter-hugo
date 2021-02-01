@@ -95,7 +95,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * EURO| \[21\] - \[16\] barbeque \~ [Railyard](https://i.imgur.com/OEcCBkC.jpg) & [Pavlov](https://i.imgur.com/4G54sWu.jpg)
 * CLANNAME? \[13\] vs \[21\] barbeque \~ [Harbor](https://i.imgur.com/Io16kd0.png) & [Rocket](https://i.imgur.com/l16uPfP.jpg)
 * lobiiX \[17\] vs \[21\] EURO| \~ [Harbor](https://i.imgur.com/iMzCESc.jpg) & [Rocket](https://i.imgur.com/d2aDyeD.jpg)
-* d\`logics. vs CLANNAME? \~ Bocage & Carentan
+* d\`logics. \[21\] vs \[09\] CLANNAME? \~ [Bocage](https://i.imgur.com/xfqM3WY.jpg) & [Carentan](https://i.imgur.com/25oBNJU.jpg)
 * lobiiX \[02\] vs \[21\] barbeque \~ [Bocage](https://i.imgur.com/Wj61Bc1.jpg) & [Carentan](https://i.imgur.com/5zP3liI.jpg)
 
 **Results - Group B:**
