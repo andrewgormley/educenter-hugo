@@ -141,7 +141,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 **Results - LB Round 2:**
 
 * TBA vs TBA
-* TBA vs barbeque
+* EURO| vs barbeque
 
 **Results - LB Round 3:**
 
