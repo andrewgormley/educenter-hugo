@@ -125,7 +125,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 * d\`logics. ([Neuville](https://i.imgur.com/uWPDBOl.jpg)) \[21\] - \[08\] ([Tigertown](https://i.imgur.com/RZuGnlO.jpg)) nK
 * fatality ([Dawnville](https://i.imgur.com/8H6DEky.jpg)) \[21\] - \[10\] ([Neuville](https://i.imgur.com/0IXSdt0.jpg)) barbeque
-* #AFFECTO - lobiiX
+* #AFFECTO ([Powcamp](https://i.imgur.com/rNSJ6LB.jpg)) \[21\] - \[06\] ([Stalingrad](https://i.imgur.com/tPVflYd.jpg)) lobiiX
 * EURO| ([Neuville](https://i.imgur.com/QHQk7ls.jpg)) \[21\] - \[09\] ([Pavlov](https://i.imgur.com/t8J8uFy.jpg)) unionsqd.
 
 **Results - LB Round 1:**
