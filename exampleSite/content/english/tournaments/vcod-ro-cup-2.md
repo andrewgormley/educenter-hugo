@@ -123,15 +123,15 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - UB Quarter Finals:**
 
-* d\`logics. vs nK 
-* fatality vs barbeque
+* d\`logics. vs nK
+* fatality ([Dawnville](https://i.imgur.com/8H6DEky.jpg)) \[21\] vs \[10\] ([Neuville](https://i.imgur.com/0IXSdt0.jpg)) barbeque
 * #AFFECTO vs lobiiX
 * EURO| vs unionsqd.
 
 **Results - LB Round 1:**
 
 * TBA vs TBA
-* TBA vs TBA
+* #AFFECTO ([Tigertown](https://i.imgur.com/BnQpb5z.jpg)) \[21\] vs \[08\] ([Powcamp](https://i.imgur.com/o4DdQo9.jpg)) EURO|
 
 **Results - UB Semi Finals:**
 
