@@ -123,7 +123,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - UB Quarter Finals:**
 
-* d\`logics. vs nK
+* d\`logics. ([Neuville](https://i.imgur.com/uWPDBOl.jpg)) \[21\] vs \[08\] ([Tigertown](https://i.imgur.com/RZuGnlO.jpg)) nK
 * fatality ([Dawnville](https://i.imgur.com/8H6DEky.jpg)) \[21\] vs \[10\] ([Neuville](https://i.imgur.com/0IXSdt0.jpg)) barbeque
 * #AFFECTO vs lobiiX
 * EURO| vs unionsqd.
