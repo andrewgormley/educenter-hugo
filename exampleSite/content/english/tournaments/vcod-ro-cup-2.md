@@ -130,8 +130,8 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - LB Round 1:**
 
-* TBA vs TBA
-* TBA vs TBA
+* nK vs unionsqd.
+* barbeque vs lobiiX
 
 **Results - UB Semi Finals:**
 
@@ -141,7 +141,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 **Results - LB Round 2:**
 
 * TBA vs TBA
-* TBA vs TBA
+* TBA vs barbeque
 
 **Results - LB Round 3:**
 
