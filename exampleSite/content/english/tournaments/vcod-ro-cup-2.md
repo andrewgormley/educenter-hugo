@@ -135,13 +135,13 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - UB Semi Finals:**
 
-* d\`logics. vs fatality
+* d\`logics. ([Tigertown](https://i.imgur.com/1rCHx9b.jpg)) \[21\] - \[13\] ([Carentan](https://i.imgur.com/PwPNDt4.jpg)) fatality
 * #AFFECTO ([Tigertown](https://i.imgur.com/BnQpb5z.jpg)) \[21\] - \[08\] ([Powcamp](https://i.imgur.com/o4DdQo9.jpg)) EURO|
 
 **Results - LB Round 2:**
 
-* TBA vs TBA
-* EURO| vs barbeque
+* TBA vs fatality
+* EURO| ([Pavlov](https://i.imgur.com/MXXuRy7.jpg)) \[05\] - \[21\] ([Brecourt](https://i.imgur.com/bEZHEWg.jpg)) barbeque
 
 **Results - LB Round 3:**
 
