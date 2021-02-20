@@ -71,7 +71,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 **Registered Teams:**
 
 * **fatality – opfii1ee#8123:** opfii1ee (c9b894d4), xa1ruZ (98ae2a96), nanaaa (22b45e3b), VENXZRR (58a9ba94), Cillian (b322fa7c), FLAAASH (e4c12abe), bAUMI (37748725), prm (b1863fe5), Kai (0f2c016b), qT (a54e60a9), adaiiR (513e3892)
-* **unionsquad.Gaming! – Frankthepunk#6594:** Fr@nKtHePuNk? (c20959aa), evaN (2167446e), f1ssurE (42d8a995), Mambuu (82033a3e), costaZ (11e20ccc), Andrew.G (69ab25e8), Ax1fer (0f363765), aczde (b0bf4dab), Cockeh (3d8f25a1), ravZ (82646aa8)
+* **unionsquad.Gaming! – Frankthepunk#6594:** Fr@nKtHePuNk? (c20959aa), evaN (2167446e), f1ssurE (42d8a995), Mambuu (82033a3e), costaZ (11e20ccc), Andrew.G (69ab25e8), Ax1fer (0f363765), aczde (b0bf4dab), Cockeh (3d8f25a1), ravZ (82646aa8), Sebaske (30917e98), LEGENDZ (505eee2c)
 * **EURO – Explode#9497:** Explode (2ebeed51), Buzah (919bc974), Fantasy (4dca5c58), Reazon (7e240cf1), Roalty (8d078917) Faberj4yy (759eb2d5), Vicious (bb9b4c66), F4KL (abe343dd), Sk4vs (2d03bccc), Arctic (a5f144e7), Yeti (581379bd)
 * **barbeque – dusty#1057:** dusty (78218880), iradexz (1ea998ee), Don (9b133c60), Crawler (38c4b307), Owner (668af291), Masi (dc2ccf68), BASSIE (e566d62c), eichh (5e83660f), azziee (9ba4157c)
 * **intuitive - \[OMBD\]Anglhz#7860:** anglhz (0b3c46f3), t1MSKE (0f5eaefe), alum (90e5682a), oane (3c94a672), PELE (8e11b236), majkiiEh (06a85fbb), HekRr (7a3d293e), jayhz (d025ed83)
