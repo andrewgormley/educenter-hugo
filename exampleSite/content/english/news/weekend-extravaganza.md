@@ -12,7 +12,7 @@ type = "post"
 +++
 ### **Weekend Extravaganza!**
 
-We are pleased to announce that the registration for our rifles only weekend competition is now live!
+We are pleased to announce that the registration for our rifles only weekend competition will be going live on the 22nd of February.
 
 If the competition proves to be a success, we may look into making weekend competitions a more regular thing. We are hoping that a short competition will bring in more players and teams.
 
