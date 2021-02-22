@@ -60,9 +60,9 @@ If your team is looking for players or you are clanless and looking for a team, 
 
 **Schedule:** The groups will be drawn on the 11th of March, after registration has closed. On the 12th of March, the competition will go live! Only sign up if you are willing to complete all of your games! Not completing the fixtures will have an impact on your chances of entering future competitions.
 
-**8 teams:** 2 groups of 4 will be drawn at random, taking into account seeding. At minimum, teams are expected to complete all group matches on the 11th of March. All teams will progress into the knockout bracket. At minimum, teams are expected to complete all knockout matches on the 12th of March. If there are unforeseen delays in the competition, the 13th of March will be used to complete the grand final.
+**8 teams:** 2 groups of 4 will be drawn at random, taking into account seeding. **12th March:** The competition begins between 18:00-19:00 GMT and teams are expected to complete all group matches. All teams will progress into the knockout bracket. **13th March:** The competition begins between 15:00-16:00 GMT and teams are expected to complete all knockout matches. If there are unforeseen delays in the competition, the 14th of March will be used to complete the grand final.
 
-**More than 8 teams:** Groups will be drawn at random, taking into account seeding. At minimum, teams are expected to complete all group matches on the 11th of March. 8 teams will progress into the knockouts. At minimum, teams are expected to complete all knockout matches on the 12th of March. If there are unforeseen delays in the competition, the 13th of March will be used to complete the grand final.
+**More than 8 teams:** Groups will be drawn at random, taking into account seeding. **12th March:** The competition begins between 18:00-19:00 GMT and teams are expected to complete all group matches. All teams will progress into the knockout bracket. **13th March:** The competition begins between 15:00-16:00 GMT and teams are expected to complete all knockout matches. If there are unforeseen delays in the competition, the 14th of March will be used to complete the grand final.
 
 **Players:** You are allowed to sign up a maximum of 8 players in 1 team. You will need to include the GUIDs of your players when registering - we will not accept teams with missing GUIDs.
 
