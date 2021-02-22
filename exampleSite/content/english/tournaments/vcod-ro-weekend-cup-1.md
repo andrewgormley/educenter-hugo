@@ -46,7 +46,7 @@ name = "qT"
 
 We are pleased to announce that the registration for our rifles only weekend competition is now live! Please find information about the upcoming competition below.
 
-If your team is looking for players or you are clanless and looking for a team, then head over to the Community Discord and check out the **#recruitment** channel: [**https://discord.com/invite/9RpWkEyzkY**](https://discord.com/invite/9RpWkEyzkY "https://discord.com/invite/9RpWkEyzkY").
+If your team is looking for players or you are clanless and looking for a team, then head over to the vcodd.gg Discord and check out the **#recruitment** channel: [**https://discord.com/invite/9RpWkEyzkY**](https://discord.com/invite/9RpWkEyzkY "https://discord.com/invite/9RpWkEyzkY").
 
 **Registration Opens:** 22nd of February 2020, 15:00 GMT.
 
