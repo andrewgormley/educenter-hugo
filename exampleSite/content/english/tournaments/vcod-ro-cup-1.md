@@ -7,7 +7,7 @@ fee = "Free"
 image = "/images/weareback_finalquestionmark.jpeg"
 location = "Call of Duty 1"
 publishDate = 2020-05-28T19:30:00Z
-title = "vcod.gg - Rifles Only #1"
+title = "Rifles Only #1"
 [[speaker]]
 designation = "Admin"
 image = "/images/razrr.png"

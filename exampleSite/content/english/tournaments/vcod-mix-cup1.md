@@ -7,7 +7,7 @@ fee = "Free"
 image = "/images/mixcupvcod.jpg"
 location = "Call of Duty 1"
 publishDate = 2020-11-01T22:00:00Z
-title = "vcod.gg - Mix Cup #1"
+title = "Mix Cup #1"
 [[speaker]]
 designation = "Admin"
 image = "/images/razrr.png"
