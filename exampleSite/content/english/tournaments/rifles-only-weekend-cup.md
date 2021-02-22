@@ -67,7 +67,7 @@ Groups of 5: teams are expected to complete their matches before the 24th of Jan
 
 **Stream:** [**https://www.twitch.tv/vcodgg**](https://www.twitch.tv/vcodgg).
 
-**Prize:** N/A
+**Prize:** N/A.
 
 If you are clanless and looking for a team, then head over to the Community Discord at: [**https://discord.com/invite/9RpWkEyzkY**](https://discord.com/invite/9RpWkEyzkY "https://discord.com/invite/9RpWkEyzkY").
 
