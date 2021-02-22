@@ -5,9 +5,9 @@ date = 2020-11-09T19:00:17Z
 description = ""
 draft = true
 fee = "Free"
-image = "/images/vcodggwintercup-min.jpg"
+image = "/images/hallo.png"
 location = "Call of Duty 1"
-publishDate = 2020-11-09T19:00:00Z
+publishDate = 2021-02-22T14:00:00Z
 title = "Rifles Weekend Cup"
 [[speaker]]
 designation = "Admin"
