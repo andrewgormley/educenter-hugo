@@ -7,7 +7,7 @@ fee = "Free"
 image = "/images/coduoriflesreborn.png"
 location = "Call of Duty: United Offensive"
 publishDate = 2020-08-20T13:00:00Z
-title = "vcod.gg - UO Rifles Reborn"
+title = "UO Rifles Reborn"
 [[speaker]]
 designation = "Admin"
 image = "/images/razrr.png"

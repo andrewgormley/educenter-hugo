@@ -7,7 +7,7 @@ fee = "Free"
 image = "/images/vcodtiers-min.png"
 location = "Call of Duty 1"
 publishDate = 2020-08-31T18:00:00Z
-title = "vcod.gg - Season #1"
+title = "Season #1"
 [[speaker]]
 designation = "Admin"
 image = "/images/razrr.png"
