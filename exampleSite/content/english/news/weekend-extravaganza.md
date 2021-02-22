@@ -1,6 +1,6 @@
 +++
 author = ""
-bg_image = ""
+bg_image = "/images/banner.jpg"
 categories = []
 date = 2021-02-22T14:00:00Z
 description = ""
@@ -11,7 +11,7 @@ title = "Weekend Extravaganza"
 type = "post"
 
 +++
-### **All Weapons - Weekend Cup!**
+### **Weekend Extravaganza!**
 
 We are pleased to announce that the registration for our first ever all weapons competition is now live!
 
