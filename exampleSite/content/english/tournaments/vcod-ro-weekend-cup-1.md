@@ -44,7 +44,7 @@ name = "qT"
 +++
 ### **Cup Information**
 
-We are pleased to announce that the registration for our rifles only weekend competition will be going live on the 22nd of February. Please find information about the upcoming competition below.
+We are pleased to announce that the registration for our rifles only weekend competition is now live! Please find information about the upcoming competition below.
 
 If your team is looking for players or you are clanless and looking for a team, then head over to the Community Discord and check out the #recruitment channel: [**https://discord.com/invite/9RpWkEyzkY**](https://discord.com/invite/9RpWkEyzkY "https://discord.com/invite/9RpWkEyzkY").
 
