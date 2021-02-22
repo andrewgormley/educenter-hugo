@@ -47,9 +47,9 @@ name = "qT"
 
 We are pleased to announce that the registration for our rifles only weekend competition will be going live on the 22nd of February. Please find information about the upcoming competition below.
 
-If your team is looking for players or you are clanless and looking for a team, then head over to the Community Discord at [**https://discord.com/invite/9RpWkEyzkY**](https://discord.com/invite/9RpWkEyzkY "https://discord.com/invite/9RpWkEyzkY") and check out the #recruitment channel.
+If your team is looking for players or you are clanless and looking for a team, then head over to the Community Discord and check out the #recruitment channel: [**https://discord.com/invite/9RpWkEyzkY**](https://discord.com/invite/9RpWkEyzkY "https://discord.com/invite/9RpWkEyzkY").
 
-**Registration Opens:** 22nd of March 2020, 15:00 GMT.
+**Registration Opens:** 22nd of February 2020, 15:00 GMT.
 
 **Registration Closes:** 11th of March 2020, 20:00 GMT.
 
@@ -59,11 +59,11 @@ If your team is looking for players or you are clanless and looking for a team, 
 
 **Map Pool:** Bocage, Brecourt, Carentan, Dawnville, Depot, German_Town, Harbor, Hurtgen, Neuville, Pavlov, Powcamp, Railyard, Rocket, Stalingrad and Tigertown.
 
-**Schedule:** The groups will be drawn on the 11th of March after registration has closed. On the 12th of March the competition will go live! Only sign up if you are willing to complete all of your scheduled games! Not completing the fixtures will have an impact on your chances of entering future competitions.
+**Schedule:** The groups will be drawn on the 11th of March, after registration has closed. On the 12th of March, the competition will go live! Only sign up if you are willing to complete all of your games! Not completing the fixtures will have an impact on your chances of entering future competitions.
 
-**8 teams:** 2 groups of 4 will be drawn at random, taking into account seeding. At minimum, teams are expected to complete all of their group matches on the 11th of March. All teams will progress into the knockout bracket. At minimum, teams are expected to complete all of their knockout matches on the 12th of March. If there are unforeseen delays in the competition, the 13th of March will be used to complete the grand final.
+**8 teams:** 2 groups of 4 will be drawn at random, taking into account seeding. At minimum, teams are expected to complete all group matches on the 11th of March. All teams will progress into the knockout bracket. At minimum, teams are expected to complete all knockout matches on the 12th of March. If there are unforeseen delays in the competition, the 13th of March will be used to complete the grand final.
 
-**More than 8 teams:** Groups will be drawn at random, taking into account seeding. At minimum, teams are expected to complete all of their group matches on the 11th of March. 8 teams will progress into the knockouts. At minimum, teams are expected to complete all of their knockout matches on the 12th of March. If there are unforeseen delays in the competition, the 13th of March will be used to complete the grand final.
+**More than 8 teams:** Groups will be drawn at random, taking into account seeding. At minimum, teams are expected to complete all group matches on the 11th of March. 8 teams will progress into the knockouts. At minimum, teams are expected to complete all knockout matches on the 12th of March. If there are unforeseen delays in the competition, the 13th of March will be used to complete the grand final.
 
 **Players:** You are allowed to sign up a maximum of 8 players in 1 team. You will need to include the GUIDs of your players when registering - we will not accept teams with missing GUIDs.
 
