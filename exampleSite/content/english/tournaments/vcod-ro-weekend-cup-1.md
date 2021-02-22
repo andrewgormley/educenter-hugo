@@ -1,12 +1,12 @@
 +++
 apply_url = "https://docs.google.com/forms/d/1b28QhVUnOm8BqfSMiUR5SXkIHe8WHq23WilL3_1FZQo/"
 bg_image = "/images/banner.jpg"
-date = 2020-11-09T14:00:17Z
+date = 2021-02-22T13:00:17Z
 description = ""
 fee = "Free"
 image = "/images/hallo.png"
 location = "Call of Duty 1"
-publishDate = 2021-02-22T14:00:00Z
+publishDate = 2021-02-22T13:00:00Z
 title = "Rifles Weekend Cup"
 [[speaker]]
 designation = "Admin"
