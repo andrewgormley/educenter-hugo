@@ -69,7 +69,7 @@ Groups of 5: teams are expected to complete their matches before the 24th of Jan
 
 **Prize:** N/A.
 
-If you are clanless and looking for a team, then head over to the Community Discord at: [**https://discord.com/invite/9RpWkEyzkY**](https://discord.com/invite/9RpWkEyzkY "https://discord.com/invite/9RpWkEyzkY").
+If your team is looking for players or you are clanless and looking for a team, then head over to the Community Discord at [**https://discord.com/invite/9RpWkEyzkY**](https://discord.com/invite/9RpWkEyzkY "https://discord.com/invite/9RpWkEyzkY") and check out the #recruitment channel.
 
 **Registered Teams:**
 
