@@ -145,11 +145,11 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - LB Round 3:**
 
-* TBA vs TBA
+* fatality vs barbeque
 
 **Results - UB Final:**
 
-* TBA vs #AFFECTO
+* d\`logics. vs #AFFECTO
 
 **Results - LB Round 4:**
 
