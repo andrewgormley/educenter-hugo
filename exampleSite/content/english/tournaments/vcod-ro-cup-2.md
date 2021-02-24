@@ -130,7 +130,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - LB Round 1:**
 
-* nK vs unionsqd.
+* nK \[00\] vs \[21\] unionsqd.
 * barbeque ([Harbor](https://i.imgur.com/7K16h5w.png)) \[21\] vs \[11\] ([Stalingrad](https://i.imgur.com/XzocsOB.png)) lobiiX
 
 **Results - UB Semi Finals:**
@@ -140,7 +140,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - LB Round 2:**
 
-* TBA vs fatality
+* unionsqd. ([Stalingrad](https://i.imgur.com/dkrn29A.jpg)) \[13\] vs \[21\] ([Powcamp](https://i.imgur.com/8RNBvF9.jpg)) fatality
 * EURO| ([Pavlov](https://i.imgur.com/MXXuRy7.jpg)) \[05\] - \[21\] ([Brecourt](https://i.imgur.com/bEZHEWg.jpg)) barbeque
 
 **Results - LB Round 3:**
