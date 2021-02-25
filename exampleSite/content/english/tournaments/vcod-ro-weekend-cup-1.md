@@ -74,7 +74,7 @@ A list of the registered teams, group standings, results from the competition an
 
 **Registered Teams:**
 
-* 
+* **Defying Logics – razRR#9282:** razRR (49d5ce5c), rONOx (876cc5c5), Shuya (34902b76), 1ceyyy (7a5a1c92), extence (e3fdfb11)
 
 **Suggested Schedule:**
 
