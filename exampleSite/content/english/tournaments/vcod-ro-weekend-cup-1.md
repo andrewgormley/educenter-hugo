@@ -75,6 +75,7 @@ A list of the registered teams, group standings, results from the competition an
 **Registered Teams:**
 
 * **Defying Logics – razRR#9282:** razRR (49d5ce5c), rONOx (876cc5c5), Shuya (34902b76), 1ceyyy (7a5a1c92), extence (e3fdfb11)
+* **EURO – Explode#9497:** Explode (2ebeed51), Fantasy (4dca5c58), Devin (3ab091be), Oane (3c94a672), Virax (9a8b5a02), t1MSKE (0f5eaefe)
 
 **Suggested Schedule:**
 
