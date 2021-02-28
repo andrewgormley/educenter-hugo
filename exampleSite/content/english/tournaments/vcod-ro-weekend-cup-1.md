@@ -76,6 +76,7 @@ A list of the registered teams, group standings, results from the competition an
 
 * **Defying Logics – razRR#9282:** razRR (49d5ce5c), rONOx (876cc5c5), Shuya (34902b76), 1ceyyy (7a5a1c92), extence (e3fdfb11)
 * **EURO – Explode#9497:** Explode (2ebeed51), Fantasy (4dca5c58), Devin (3ab091be), Oane (3c94a672), Virax (9a8b5a02), t1MSKE (0f5eaefe)
+* **barbeque – azziiee#6673:** dusty (78218880), iradexz (1ea998ee) Masi (dc2ccf68), azziee (9ba4157c) , alum (90e5682a) Crawler (38c4b307) , fenaa (will add)
 
 **Suggested Schedule:**
 
