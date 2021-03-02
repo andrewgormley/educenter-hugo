@@ -75,9 +75,12 @@ A list of the registered teams, group standings, results from the competition an
 **Registered Teams:**
 
 * **Defying Logics – razRR#9282:** razRR (49d5ce5c), rONOx (876cc5c5), Shuya (34902b76), 1ceyyy (7a5a1c92), extence (e3fdfb11)
-* **EURO – Explode#9497:** Explode (2ebeed51), Fantasy (4dca5c58), Devin (3ab091be), Oane (3c94a672), Virax (9a8b5a02), t1MSKE (0f5eaefe), Vicious (bb9b4c66), f4KL (abe343dd) - **FULL ROSTER**
-* **barbeque – azziiee#6673:** dusty (78218880), iradexz (1ea998ee), Masi (dc2ccf68), azziee (9ba4157c), aluM (90e5682a), Crawler (38c4b307), fenaa (will add), reazon (7e240cf1)
+* **EURO – Explode#9497:** Explode (2ebeed51), Fantasy (4dca5c58), Devin (3ab091be), Oane (3c94a672), Virax (9a8b5a02), t1MSKE (0f5eaefe), Vicious (bb9b4c66), f4KL (abe343dd) **–** **FULL ROSTER**
+* **barbeque – azziiee#6673:** dusty (78218880), iradexz (1ea998ee), Masi (dc2ccf68), azziee (9ba4157c), aluM (90e5682a), Crawler (38c4b307), fenaa (COMING), reazon (7e240cf1) **–** **FULL ROSTER**
 * **lobiiX – Stephano#8517:** WhiteShadow (fbb05bed), JANNUSZZZ (505373f9), Portiss (1f9e4109), Windje (59f1df04), Dieharder (3c46881f), BASSIE (e566d62c)
+* **Close 2 Insane – avjayhz#5735:** jayhz (d025ed83), Ba$sed God (76f04d72), ALAiA (3870003e), MR.T (75925c92), verzuL (312496cc), Ali (05f125f0), Mupz@kje (COMING)
+* **drunktality – FLAAASH#2583:** FLAAASH (e4c12abe), opfii1ee (c9b894d4), VENXZRR (58a9ba94), artreetis (b322fa7c), nanaaa (22b45e3b), qT (a54e60a9), prm (b1863fe5), bAUMI (37748725)
+* **LOGIK – spln#0405:** Spleen (4fa01519), Caillera (63a24b31), Commando (aa42e9f9), Champi (b528ddeb), Ice (cd84cfac), jAzz (46f7b774), Lithiumz (9c83253c)
 
 **Suggested Schedule:**
 
