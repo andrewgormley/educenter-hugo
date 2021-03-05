@@ -82,7 +82,7 @@ A list of the registered teams, group standings, results from the competition an
 * **drunktality – FLAAASH#2583:** FLAAASH (e4c12abe), opfii1ee (c9b894d4), VENXZRR (58a9ba94), artreetis (b322fa7c), nanaaa (22b45e3b), qT (a54e60a9), prm (b1863fe5), bAUMI (37748725) **–** **FULL ROSTER**
 * **LOGIK – spln#0405:** Spleen (4fa01519), Caillera (63a24b31), Commando (aa42e9f9), Champi (b528ddeb), Ice (cd84cfac), jAzz (46f7b774), Lithiumz (9c83253c)
 * **the2gaming – eichh#7615:** eichh (5e83660f), f4KL (abe343dd), DzR (6eb98274), vanja (d0737ecd), motya (418fd8f6), fanxler (2ac90578), onetwooz (68047edb), Cobra (41f3ef9d), trane (3c3d6f9e) **- TBC**
-* **Youhate – skz#2642:** skz (5fc35d87), MORTEK (a029ca98), fear (e81bc4f3), ![:flag](https://discord.com/assets/c1a36c711f0ae0ab46c7dce06f63a723.svg)inferN (COMING), Ozwao_o (COMING), Achille (ff171708), FURYY (COMING)
+* **Youhate – skz#2642:** skz (5fc35d87), MORTEK (a029ca98), fear (e81bc4f3), inferN (COMING), Ozwao_o (COMING), Achille (ff171708), FURYY (COMING)
 
 **Suggested Schedule:**
 
