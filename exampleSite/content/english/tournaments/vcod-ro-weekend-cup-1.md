@@ -78,7 +78,7 @@ A list of the registered teams, group standings, results from the competition an
 * **EURO – Explode#9497:** Explode (2ebeed51), Fantasy (4dca5c58), Devin (3ab091be), Oane (3c94a672), Virax (9a8b5a02), t1MSKE (0f5eaefe), Vicious (bb9b4c66), reazon (7e240cf1) **–** **FULL ROSTER**
 * **barbeque – K33NB34N#3227:** Masi (dc2ccf68), dusty (78218880), iradexz (1ea998ee), Crawler (38c4b307), fenaa (COMING)
 * **lobiiX – Stephano#8517:** WhiteShadow (fbb05bed), JANNUSZZZ (505373f9), Portiss (1f9e4109), Windje (59f1df04), Dieharder (3c46881f), BASSIE (e566d62c)
-* **Close 2 Insane – avjayhz#5735:** jayhz (d025ed83), Ba$sed God (76f04d72), ALAiA (3870003e), MR.T (75925c92), verzuL (312496cc), Ali (05f125f0), Mupz@kje (8ff1dacb)
+* **Close 2 Insane – avjayhz#5735:** jayhz (d025ed83), Ba$sed God (76f04d72), ALAiA (3870003e), MR.T (75925c92), verzuL (312496cc), Ali (05f125f0), Mupz@kje (8ff1dacb), FISSURE (42d8a995) **–** **FULL ROSTER**
 * **drunktality – FLAAASH#2583:** FLAAASH (e4c12abe), opfii1ee (c9b894d4), VENXZRR (58a9ba94), artreetis (b322fa7c), nanaaa (22b45e3b), qT (a54e60a9), prm (b1863fe5), bAUMI (37748725) **–** **FULL ROSTER**
 * **LOGIK – spln#0405:** Spleen (4fa01519), Caillera (63a24b31), Commando (aa42e9f9), Champi (b528ddeb), Ice (cd84cfac), jAzz (46f7b774), Lithiumz (9c83253c)
 * **the2gaming – eichh#7615:** eichh (5e83660f), f4KL (abe343dd), DzR (6eb98274), vanja (d0737ecd), motya (418fd8f6), fanxler (2ac90578), onetwooz (68047edb), Cobra (41f3ef9d), trane (3c3d6f9e) **–** **FULL ROSTER**
