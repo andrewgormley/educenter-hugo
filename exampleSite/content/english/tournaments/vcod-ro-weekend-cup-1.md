@@ -83,7 +83,6 @@ A list of the registered teams, group standings, results from the competition an
 * **LOGIK – spln#0405:** Spleen (4fa01519), Caillera (63a24b31), Commando (aa42e9f9), Ice (cd84cfac), jAzz (46f7b774), Lithiumz (9c83253c), sAYAAA (COMING), KaRa (COMING) **–** **FULL ROSTER**
 * **the2gaming – eichh#7615:** eichh (5e83660f), f4KL (abe343dd), DzR (6eb98274), vanja (d0737ecd), motya (418fd8f6), fanxler (2ac90578), onetwooz (68047edb), Cobra (41f3ef9d), trane (3c3d6f9e) **–** **FULL ROSTER**
 * **Youhate – skz#2642:** skz (5fc35d87), MORTEK (a029ca98), fe@r (e81bc4f3), inferN (a5d2e9f0), Ozwao_o (d1411f95), Achille (ff171708), FURYY (0c42765b), CladZR (COMING), rizah (aece53e9) **–** **FULL ROSTER**
-* **intuitive – azziiee#6673:** azziee (9ba4157c), loftzu (8379bf96), anglhz (0b3c46f3), aluM (90e5682a), majkiiEh (06a85fbb), JDX (035652eb), Faberj4yy (759eb2d5)
 
 **Suggested Schedule:**
 
