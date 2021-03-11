@@ -54,7 +54,7 @@ If your team is looking for players or you are clanless and looking for a team, 
 
 **Cup Format:** Group stage followed by a double elimination knockout.
 
-**Maps:** Group stage – veto. Knockout stage - veto.
+**Maps:** Group stage – pre-picked. Knockout stage - pre-picked. Grand Final - teams pick their own map.
 
 **Map Pool:** Bocage, Brecourt, Carentan, Dawnville, Depot, German_Town, Harbor, Hurtgen, Neuville, Pavlov, Powcamp, Railyard, Rocket, Stalingrad and Tigertown.
 
