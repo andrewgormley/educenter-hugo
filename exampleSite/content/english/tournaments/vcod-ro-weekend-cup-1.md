@@ -85,9 +85,9 @@ A list of the registered teams, group standings, results from the competition an
 * **Affecto – MAZU#2568:** MAZU (3d66ead8), pl3b (b7e022c8), MORTEK (a029ca98), loftzu (8379bf96), azziee (9ba4157c)
 * **A7X – ax1fer#7504:** ax1fer (0f363765), braun (f80cd14c), fissure (42d8a995)), majkieh (06a85fbb), ravz (82646aa8)
 
-**Suggested Schedule:**
+**Results – Group A:**
 
-**Results:**
+**Results** **– Group B:**
 
 **Standings:**
 
