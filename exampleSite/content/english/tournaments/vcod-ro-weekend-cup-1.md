@@ -127,8 +127,8 @@ A list of the registered teams, group standings, results from the competition an
 
 **Results - LB Round 1:**
 
-* TBA vs TBA \~ (Depot + Rocket) - Golden Map (Depot)
-* TBA vs TBA \~ (Depot + Rocket) - Golden Map (Depot)
+* TBA vs TBA \~ (Depot + Rocket) - Golden Map (Carentan)
+* TBA vs TBA \~ (Depot + Rocket) - Golden Map (Carentan)
 
 **Results - UB Semi Finals:**
 
