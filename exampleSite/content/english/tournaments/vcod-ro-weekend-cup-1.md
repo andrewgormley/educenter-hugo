@@ -80,9 +80,9 @@ A list of the registered teams, group standings, results from the competition an
 * **lobiiX – Stephano#8517:** WhiteShadow (fbb05bed), JANNUSZZZ (505373f9), Portiss (1f9e4109), Windje (59f1df04), Dieharder (3c46881f), BASSIE (e566d62c)
 * **Close 2 Insane – avjayhz#5735:** jayhz (d025ed83), Ba$sed God (76f04d72), ALAiA (3870003e), MR.T (75925c92), verzuL (312496cc), Ali (05f125f0), Mupz@kje (8ff1dacb), FISSURE (42d8a995) **–** **FULL ROSTER**
 * **drunktality – FLAAASH#2583:** FLAAASH (e4c12abe), opfii1ee (c9b894d4), VENXZRR (58a9ba94), artreetis (b322fa7c), nanaaa (22b45e3b), qT (a54e60a9), prm (b1863fe5), bAUMI (37748725) **–** **FULL ROSTER**
-* **LOGIK – spln#0405:** Spleen (4fa01519), Caillera (63a24b31), Commando (aa42e9f9), Ice (cd84cfac), jAzz (46f7b774), Lithiumz (9c83253c), sAYAAA (COMING), KaRa (COMING) **–** **FULL ROSTER**
+* **LOGIK – spln#0405:** Spleen (4fa01519), Caillera (63a24b31), Commando (aa42e9f9), Ice (cd84cfac), jAzz (46f7b774), Lithiumz (9c83253c), Pol (12c95aad), Many (0643008b) **–** **FULL ROSTER**
 * **the2gaming – eichh#7615:** eichh (5e83660f), f4KL (abe343dd), DzR (6eb98274), vanja (d0737ecd), motya (418fd8f6), fanxler (2ac90578), onetwooz (68047edb), Cobra (41f3ef9d), trane (3c3d6f9e) **–** **FULL ROSTER**
-* **Youhate – skz#2642:** skz (5fc35d87), MORTEK (a029ca98), fe@r (e81bc4f3), inferN (a5d2e9f0), Ozwao_o (d1411f95), Achille (ff171708), FURYY (0c42765b), CladZR (COMING), rizah (aece53e9) **–** **FULL ROSTER**
+* **Youhate – skz#2642:** skz (a2c0b9de), fe@r (e81bc4f3), inferN (a5d2e9f0), Achille (ff171708), FURYY (0c42765b), Clad (a9f0cc76), rizah (aece53e9), vdk (0c5ab238) **–** **FULL ROSTER**
 
 **Suggested Schedule:**
 
