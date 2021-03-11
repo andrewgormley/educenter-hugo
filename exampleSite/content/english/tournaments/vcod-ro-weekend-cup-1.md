@@ -76,7 +76,7 @@ A list of the registered teams, group standings, results from the competition an
 
 * **Defying Logics – razRR#9282:** razRR (49d5ce5c), rONOx (876cc5c5), Shuya (34902b76), 1ceyyy (7a5a1c92), extence (e3fdfb11), faa1th (df4ace91), f z U (64eca371), ryaaaN (289b74e8) **–** **FULL ROSTER**
 * **EURO – Explode#9497:** Explode (2ebeed51), Fantasy (4dca5c58), Devin (3ab091be), Oane (3c94a672), Virax (9a8b5a02), t1MSKE (0f5eaefe), Vicious (bb9b4c66), reazon (7e240cf1) **–** **FULL ROSTER**
-* **barbeque – K33NB34N#3227:** Masi (dc2ccf68), dusty (78218880), iradexz (1ea998ee), Crawler (38c4b307), fenaa (COMING)
+* **barbeque – K33NB34N#3227:** Masi (dc2ccf68), dusty (78218880), iradexz (1ea998ee), Crawler (38c4b307), fenaa (COMING), Don (9b133c60)
 * **lobiiX – Stephano#8517:** WhiteShadow (fbb05bed), JANNUSZZZ (505373f9), Portiss (1f9e4109), Windje (59f1df04), Dieharder (3c46881f), BASSIE (e566d62c)
 * **drunktality – FLAAASH#2583:** FLAAASH (e4c12abe), opfii1ee (c9b894d4), VENXZRR (58a9ba94), artreetis (b322fa7c), nanaaa (22b45e3b), qT (a54e60a9), prm (b1863fe5), bAUMI (37748725) **–** **FULL ROSTER**
 * **LOGIK – spln#0405:** Spleen (4fa01519), Caillera (63a24b31), Commando (aa42e9f9), Ice (cd84cfac), jAzz (46f7b774), Lithiumz (9c83253c), Pol (12c95aad), Many (0643008b) **–** **FULL ROSTER**
@@ -88,7 +88,7 @@ A list of the registered teams, group standings, results from the competition an
 **Results – Group A:**
 
 * #AFFECTO vx A7X \~ (Pavlov + Brecourt)
-* LOGIK - vs EURO| \~ (Pavlov + Brecourt) 
+* LOGIK - vs EURO| \~ (Pavlov + Brecourt)
 * drunkality vs EURO| \~ (Depot + Hurtgen)
 * #AFFECTO vs LOGIK - \~ (Depot + Hurtgen)
 * drunkality vs A7X \~ (Carentan + Dawnville)
@@ -101,7 +101,7 @@ A list of the registered teams, group standings, results from the competition an
 **Results** **– Group B:**
 
 * lobiiX vx >youhate# \~ (Pavlov + Brecourt)
-* t2g - vs barbeque \~ (Pavlov + Brecourt) 
+* t2g - vs barbeque \~ (Pavlov + Brecourt)
 * d\`logics. vs barbeque \~ (Depot + Hurtgen)
 * lobiiX vs t2g \~ (Depot + Hurtgen)
 * d\`logics. vs >youhate# \~ (Carentan + Dawnville)
