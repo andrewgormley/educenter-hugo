@@ -90,7 +90,7 @@ A list of the registered teams, group standings, results from the competition an
 * #AFFECTO vx A7X \~ (Pavlov + Brecourt)
 * LOGIK - vs EURO| \~ (Pavlov + Brecourt) 
 * drunkality vs EURO| \~ (Depot + Hurtgen)
-* #AFFECTO vs LOGIK \~ (Depot + Hurtgen)
+* #AFFECTO vs LOGIK - \~ (Depot + Hurtgen)
 * drunkality vs A7X \~ (Carentan + Dawnville)
 * #AFFECTO vs drunkality \~ (Carentan + Dawnville)
 * LOGIK - vs drunkality \~ (Neuville + Rocket)
@@ -101,15 +101,15 @@ A list of the registered teams, group standings, results from the competition an
 **Results** **– Group B:**
 
 * lobiiX vx >youhate# \~ (Pavlov + Brecourt)
-* LOGIK - vs EURO| \~ (Pavlov + Brecourt) 
-* drunkality vs EURO| \~ (Depot + Hurtgen)
-* lobiiX vs LOGIK \~ (Depot + Hurtgen)
-* drunkality vs >youhate# \~ (Carentan + Dawnville)
-* lobiiX vs drunkality \~ (Carentan + Dawnville)
-* LOGIK - vs drunkality \~ (Neuville + Rocket)
-* EURO| vs >youhate# \~ (Neuville + Rocket)
-* lobiiX vs EURO| \~ (Stalingrad + Bocage)
-* LOGIK - vs >youhate# \~ (Stalingrad + Bocage)
+* t2g - vs barbeque \~ (Pavlov + Brecourt) 
+* d\`logics. vs barbeque \~ (Depot + Hurtgen)
+* lobiiX vs t2g \~ (Depot + Hurtgen)
+* d\`logics. vs >youhate# \~ (Carentan + Dawnville)
+* lobiiX vs d\`logics. \~ (Carentan + Dawnville)
+* t2g vs d\`logics. \~ (Neuville + Rocket)
+* barbeque vs >youhate# \~ (Neuville + Rocket)
+* lobiiX vs barbeque \~ (Stalingrad + Bocage)
+* t2g vs >youhate# \~ (Stalingrad + Bocage)
 
 **Standings:**
 
