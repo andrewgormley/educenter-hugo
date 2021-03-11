@@ -91,6 +91,9 @@ A list of the registered teams, group standings, results from the competition an
 
 **Standings:**
 
+![](/images/rowcga.PNG)  
+![](/images/rowcgb.PNG)
+
 **Knockouts:**
 
 **Results - UB Quarter Finals:**
