@@ -74,7 +74,7 @@ A list of the registered teams, group standings, results from the competition an
 
 **Registered Teams:**
 
-* **Defying Logics – razRR#9282:** razRR (49d5ce5c), rONOx (876cc5c5), Shuya (34902b76), 1ceyyy (7a5a1c92), extence (e3fdfb11), faa1th (df4ace91), f z U (64eca371), ryaaaN (COMING) **–** **FULL ROSTER**
+* **Defying Logics – razRR#9282:** razRR (49d5ce5c), rONOx (876cc5c5), Shuya (34902b76), 1ceyyy (7a5a1c92), extence (e3fdfb11), faa1th (df4ace91), f z U (64eca371), ryaaaN (289b74e8) **–** **FULL ROSTER**
 * **EURO – Explode#9497:** Explode (2ebeed51), Fantasy (4dca5c58), Devin (3ab091be), Oane (3c94a672), Virax (9a8b5a02), t1MSKE (0f5eaefe), Vicious (bb9b4c66), reazon (7e240cf1) **–** **FULL ROSTER**
 * **barbeque – K33NB34N#3227:** Masi (dc2ccf68), dusty (78218880), iradexz (1ea998ee), Crawler (38c4b307), fenaa (COMING)
 * **lobiiX – Stephano#8517:** WhiteShadow (fbb05bed), JANNUSZZZ (505373f9), Portiss (1f9e4109), Windje (59f1df04), Dieharder (3c46881f), BASSIE (e566d62c)
@@ -87,7 +87,29 @@ A list of the registered teams, group standings, results from the competition an
 
 **Results – Group A:**
 
+* #AFFECTO vx A7X \~ (Pavlov + Brecourt)
+* LOGIK - vs EURO| \~ (Pavlov + Brecourt) 
+* drunkality vs EURO| \~ (Depot + Hurtgen)
+* #AFFECTO vs LOGIK \~ (Depot + Hurtgen)
+* drunkality vs A7X \~ (Carentan + Dawnville)
+* #AFFECTO vs drunkality \~ (Carentan + Dawnville)
+* LOGIK - vs drunkality \~ (Neuville + Rocket)
+* EURO| vs A7X \~ (Neuville + Rocket)
+* #AFFECTO vs EURO| \~ (Stalingrad + Bocage)
+* LOGIK - vs A7X \~ (Stalingrad + Bocage)
+
 **Results** **– Group B:**
+
+* lobiiX vx >youhate# \~ (Pavlov + Brecourt)
+* LOGIK - vs EURO| \~ (Pavlov + Brecourt) 
+* drunkality vs EURO| \~ (Depot + Hurtgen)
+* lobiiX vs LOGIK \~ (Depot + Hurtgen)
+* drunkality vs >youhate# \~ (Carentan + Dawnville)
+* lobiiX vs drunkality \~ (Carentan + Dawnville)
+* LOGIK - vs drunkality \~ (Neuville + Rocket)
+* EURO| vs >youhate# \~ (Neuville + Rocket)
+* lobiiX vs EURO| \~ (Stalingrad + Bocage)
+* LOGIK - vs >youhate# \~ (Stalingrad + Bocage)
 
 **Standings:**
 
