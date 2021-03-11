@@ -83,6 +83,7 @@ A list of the registered teams, group standings, results from the competition an
 * **the2gaming – eichh#7615:** eichh (5e83660f), DzR (6eb98274), vanja (d0737ecd), motya (418fd8f6), fanxler (2ac90578), onetwooz (68047edb), trane (3c3d6f9e)
 * **Youhate – skz#2642:** skz (a2c0b9de), fe@r (e81bc4f3), inferN (a5d2e9f0), Achille (ff171708), FURYY (0c42765b), Clad (a9f0cc76), rizah (aece53e9), vdk (0c5ab238) **–** **FULL ROSTER**
 * **Affecto – MAZU#2568:** MAZU (3d66ead8), pl3b (b7e022c8), MORTEK (a029ca98), loftzu (8379bf96), azziee (9ba4157c)
+* **A7X – ax1fer#7504:** ax1fer (0f363765), braun (f80cd14c), fissure (42d8a995)), majkieh (06a85fbb), ravz (82646aa8)
 
 **Suggested Schedule:**
 
