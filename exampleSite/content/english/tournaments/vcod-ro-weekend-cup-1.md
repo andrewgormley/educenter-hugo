@@ -120,37 +120,37 @@ A list of the registered teams, group standings, results from the competition an
 
 **Results - UB Quarter Finals:**
 
-* TBA vs TBA
-* TBA vs TBA
-* TBA vs TBA
-* TBA vs TBA
+* TBA vs TBA \~ (Railyard + Dawnville) - Golden Map (German_Town)
+* TBA vs TBA \~ (Railyard + Dawnville) - Golden Map (German_Town)
+* TBA vs TBA \~ (Railyard + Dawnville) - Golden Map (German_Town)
+* TBA vs TBA \~ (Railyard + Dawnville) - Golden Map (German_Town)
 
 **Results - LB Round 1:**
 
-* TBA vs TBA
-* TBA vs TBA
+* TBA vs TBA \~ (Depot + Rocket) - Golden Map (Depot)
+* TBA vs TBA \~ (Depot + Rocket) - Golden Map (Depot)
 
 **Results - UB Semi Finals:**
 
-* TBA vs TBA
-* TBA vs TBA
+* TBA vs TBA \~ (Harbor + Brecourt) - Golden Map (Powcamp)
+* TBA vs TBA \~ (Harbor + Brecourt) - Golden Map (Powcamp)
 
 **Results - LB Round 2:**
 
-* TBA vs TBA
-* TBA vs TBA
+* TBA vs TBA \~ (Stalingrad + Tigertown) - Golden Map (Neuville)
+* TBA vs TBA \~ (Stalingrad + Tigertown) - Golden Map (Neuville)
 
 **Results - LB Round 3:**
 
-* TBA vs TBA
+* TBA vs TBA \~ (Pavlov + Bocage) - Golden Map (Tigertown)
 
 **Results - UB Final:**
 
-* TBA vs TBA
+* TBA vs TBA \~ (German_Town + Powcamp) - Golden Map (Brecourt)
 
 **Results - LB Round 4:**
 
-* TBA vs TBA
+* TBA vs TBA \~ (Neuville + Hurtgen) - Golden Map (Pavlov)
 
 **Results - Grand Final**
 
