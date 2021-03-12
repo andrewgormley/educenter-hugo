@@ -103,7 +103,7 @@ A list of the registered teams, group standings, results from the competition an
 * lobiiX vs youhate# \~ (Pavlov + Brecourt)
 * t2g vs barbeque \~ (Pavlov + Brecourt)
 * lobiiX vs t2g \~ (Depot + Hurtgen)
-* barbeque vs d\`logics. \~ (Depot + Hurtgen)
+* barbeque \[1\] - \[1\] d\`logics. \~ ([Depot](https://i.imgur.com/aih375e.jpg) + [Hurtgen](https://i.imgur.com/PUDTWhP.jpg)) ([Hurtgen OT](https://i.imgur.com/t1yWIoX.jpg))
 * lobiiX vs barbeque \~ (Carentan + Dawnville)
 * youhate# vs d\`logics. \~ (Carentan + Dawnville)
 * lobiiX vs d\`logics. \~ (Neuville + Rocket)
