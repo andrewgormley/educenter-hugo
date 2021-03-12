@@ -109,7 +109,7 @@ A list of the registered teams, group standings, results from the competition an
 * lobiiX vs d\`logics. \~ (Neuville + Rocket)
 * youhate# vs t2g \~ (Neuville + Rocket)
 * youhate# vs barbeque \~ (Stalingrad + Bocage)
-* t2g vs d\`logics. \~ (Stalingrad + Bocage)
+* t2g \[0\] - \[2\] d\`logics. \~ ([Stalingrad](https://i.imgur.com/ee1Rpcu.jpg) + [Bocage](https://i.imgur.com/pMBH9ZF.jpg))
 
 **Standings:**
 
