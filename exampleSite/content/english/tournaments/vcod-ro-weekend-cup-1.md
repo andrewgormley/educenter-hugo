@@ -95,7 +95,7 @@ A list of the registered teams, group standings, results from the competition an
 * A7X \[0\] - \[2\] drunkality \~ ([Carentan](https://i.imgur.com/OvNMviL.jpg) + [Dawnville](https://i.imgur.com/BQpFM6R.jpg))
 * #AFFECTO vs drunkality \~ (Neuville + Rocket)
 * A7X vs LOGIK - (Neuville + Rocket)
-* A7X vs EURO| \~ (Stalingrad + Bocage)
+* A7X \[0\] - \[2\] EURO| \~ ([Stalingrad](https://i.imgur.com/Xl71VtL.jpg) + [Bocage](https://i.imgur.com/F94syyc.jpg))
 * LOGIK - \[0\] - \[2\] drunkality \~ ([Stalingrad](https://i.imgur.com/QOPNRXK.jpg) + [Bocage](https://i.imgur.com/yg8HDe1.jpg))
 
 **Results** **– Group B:**
