@@ -96,7 +96,7 @@ A list of the registered teams, group standings, results from the competition an
 * #AFFECTO vs drunkality \~ (Neuville + Rocket)
 * A7X vs LOGIK - (Neuville + Rocket)
 * A7X vs EURO| \~ (Stalingrad + Bocage)
-* LOGIK - vs drunkality \~ (Stalingrad + Bocage)
+* LOGIK - \[0\] - \[2\] drunkality \~ ([Stalingrad](https://i.imgur.com/QOPNRXK.jpg) + [Bocage](https://i.imgur.com/yg8HDe1.jpg))
 
 **Results** **– Group B:**
 
