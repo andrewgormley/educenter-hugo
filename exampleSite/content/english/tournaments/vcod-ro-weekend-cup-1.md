@@ -105,16 +105,10 @@ A list of the registered teams, group standings, results from the competition an
 * lobiiX vs t2g \~ (Depot + Hurtgen)
 * barbeque vs d\`logics. \~ (Depot + Hurtgen)
 * lobiiX vs barbeque \~ (Carentan + Dawnville)
-* 
-
-  > youhate# vs d\`logics. \~ (Carentan + Dawnville)
+* >youhate# vs d\`logics. \~ (Carentan + Dawnville)
 * lobiiX vs d\`logics. \~ (Neuville + Rocket)
-* 
-
-  > youhate# vs t2g \~ (Neuville + Rocket)
-* 
-
-  > youhate# vs barbeque \~ (Stalingrad + Bocage)
+* >youhate# vs t2g \~ (Neuville + Rocket)
+* >youhate# vs barbeque \~ (Stalingrad + Bocage)
 * t2g vs d\`logics. \~ (Stalingrad + Bocage)
 
 **Standings:**
