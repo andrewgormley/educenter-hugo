@@ -80,7 +80,7 @@ A list of the registered teams, group standings, results from the competition an
 * **lobiiX – Stephano#8517:** WhiteShadow (fbb05bed), JANNUSZZZ (505373f9), Portiss (1f9e4109), Windje (59f1df04), Dieharder (3c46881f), Yeti (581379bd)
 * **drunktality – FLAAASH#2583:** FLAAASH (e4c12abe), opfii1ee (c9b894d4), VENXZRR (58a9ba94), artreetis (b322fa7c), nanaaa (22b45e3b), qT (a54e60a9), prm (b1863fe5), bAUMI (37748725) **–** **FULL ROSTER**
 * **LOGIK – spln#0405:** Spleen (4fa01519), Caillera (63a24b31), Commando (aa42e9f9), Ice (cd84cfac), jAzz (46f7b774), Lithiumz (9c83253c), Pol (12c95aad), Many (0643008b) **–** **FULL ROSTER**
-* **the2gaming – eichh#7615:** eichh (5e83660f), DzR (6eb98274), vanja (d0737ecd), motya (418fd8f6), fanxler (2ac90578), onetwooz (68047edb), trane (3c3d6f9e)
+* **the2gaming – eichh#7615:** eichh (5e83660f), DzR (6eb98274), vanja (d0737ecd), motya (418fd8f6), fanxler (2ac90578), onetwooz (68047edb), trane (3c3d6f9e), cheekz (0b23f157) **–** **FULL ROSTER**
 * **Youhate – skz#2642:** skz (a2c0b9de), fe@r (e81bc4f3), inferN (a5d2e9f0), Achille (ff171708), FURYY (0c42765b), Clad (a9f0cc76), rizah (aece53e9), vdk (0c5ab238), Blizzard (5fc35d87) **–** **FULL ROSTER**
 * **Affecto – MAZU#2568:** MAZU (3d66ead8), pl3b (b7e022c8), MORTEK (a029ca98), loftzu (8379bf96), azziee (9ba4157c)
 * **A7X – ax1fer#7504:** ax1fer (0f363765), braun (f80cd14c), fissure (42d8a995)), majkieh (06a85fbb), ravz (82646aa8), voy4k (a1f91310)
