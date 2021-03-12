@@ -92,7 +92,7 @@ A list of the registered teams, group standings, results from the competition an
 * #AFFECTO vs LOGIK - \~ (Depot + Hurtgen)
 * EURO| vs drunkality \~ (Depot + Hurtgen)
 * #AFFECTO vs EURO| \~ (Carentan + Dawnville)
-* A7X vs drunkality \~ (Carentan + Dawnville)
+* A7X \[0\] - \[2\] drunkality \~ ([Carentan](https://i.imgur.com/OvNMviL.jpg) + [Dawnville](https://i.imgur.com/BQpFM6R.jpg))
 * #AFFECTO vs drunkality \~ (Neuville + Rocket)
 * A7X vs LOGIK - (Neuville + Rocket)
 * A7X vs EURO| \~ (Stalingrad + Bocage)
