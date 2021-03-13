@@ -113,8 +113,9 @@ A list of the registered teams, group standings, results from the competition an
 
 **Standings:**
 
-![](/images/rowcga.PNG)  
-![](/images/rowcgb.PNG)
+![](/images/rowcga1.PNG)
+
+![](/images/rowcgb1.PNG)
 
 **Knockouts:**
 
