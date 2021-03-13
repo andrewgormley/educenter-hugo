@@ -100,7 +100,7 @@ A list of the registered teams, group standings, results from the competition an
 
 **Results** **– Group B:**
 
-* lobiiX vs youhate# \~ (Pavlov + Brecourt)
+* lobiiX \[0\] - \[2\] youhate# \~ ([Pavlov](https://i.imgur.com/YZqDjQW.jpg) + [Brecourt](https://i.imgur.com/AJjNduj.jpg))
 * t2g \[0\] - \[2\] barbeque \~ ([Pavlov](https://i.imgur.com/q8sIPVa.jpg) + [Brecourt](https://i.imgur.com/XHBI2Xs.jpg))
 * lobiiX vs t2g \~ (Depot + Hurtgen)
 * barbeque \[1\] - \[1\] d\`logics. \~ ([Depot](https://i.imgur.com/aih375e.jpg) + [Hurtgen](https://i.imgur.com/PUDTWhP.jpg)) ([Hurtgen OT](https://i.imgur.com/t1yWIoX.jpg))
