@@ -107,7 +107,7 @@ A list of the registered teams, group standings, results from the competition an
 * lobiiX vs barbeque \~ (Carentan + Dawnville)
 * youhate# vs d\`logics. \~ (Carentan + Dawnville)
 * lobiiX vs d\`logics. \~ (Neuville + Rocket)
-* youhate# vs t2g \~ (Neuville + Rocket)
+* youhate# \[2\] - \[0\] t2g \~ ([Neuville](https://i.imgur.com/wFOwCDL.jpg) + [Rocket](https://i.imgur.com/8SpcfBT.jpg))
 * youhate# \[0\] - \[2\] barbeque \~ ([Stalingrad](https://i.imgur.com/SK9vaUE.jpg) + [Bocage](https://i.imgur.com/z2U0lrD.jpg))
 * t2g \[0\] - \[2\] d\`logics. \~ ([Stalingrad](https://i.imgur.com/ee1Rpcu.jpg) + [Bocage](https://i.imgur.com/pMBH9ZF.jpg))
 
