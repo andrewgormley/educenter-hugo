@@ -106,7 +106,7 @@ A list of the registered teams, group standings, results from the competition an
 * barbeque \[1\] - \[1\] d\`logics. \~ ([Depot](https://i.imgur.com/aih375e.jpg) + [Hurtgen](https://i.imgur.com/PUDTWhP.jpg)) ([Hurtgen OT](https://i.imgur.com/t1yWIoX.jpg))
 * lobiiX \[0\] - \[2\] barbeque \~ ([Carentan](https://i.imgur.com/scGUnWh.png) + [Dawnville](https://i.imgur.com/A4J9klR.jpg))
 * youhate# \[1\] - \[1\] d\`logics. \~ ([Carentan](https://i.imgur.com/XjVfhJ8.jpg) + [Dawnville](https://i.imgur.com/cZwK9Qy.jpg)) ([Carentan OT](https://i.imgur.com/ZfdPs6H.jpg))
-* lobiiX vs d\`logics. \~ (Neuville + Rocket)
+* lobiiX \[0\] - \[2\] d\`logics. \~ ([Neuville](https://i.imgur.com/eQNlIQr.jpg) + [Rocket](https://i.imgur.com/VVTw357.jpg))
 * youhate# \[2\] - \[0\] t2g \~ ([Neuville](https://i.imgur.com/wFOwCDL.jpg) + [Rocket](https://i.imgur.com/8SpcfBT.jpg))
 * youhate# \[0\] - \[2\] barbeque \~ ([Stalingrad](https://i.imgur.com/SK9vaUE.jpg) + [Bocage](https://i.imgur.com/z2U0lrD.jpg))
 * t2g \[0\] - \[2\] d\`logics. \~ ([Stalingrad](https://i.imgur.com/ee1Rpcu.jpg) + [Bocage](https://i.imgur.com/pMBH9ZF.jpg))
