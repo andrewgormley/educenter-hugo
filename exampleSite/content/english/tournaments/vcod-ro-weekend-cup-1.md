@@ -128,13 +128,13 @@ A list of the registered teams, group standings, results from the competition an
 
 **Results - LB Round 1:**
 
-* drunkality vs d\`logics. \~ (Depot + Rocket) - Golden Map (Carentan)
-* barbeque vs EURO| \~ (Depot + Rocket) - Golden Map (Carentan)
+* TBA vs TBA \~ (Depot + Rocket) - Golden Map (Carentan)
+* TBA vs TBA \~ (Depot + Rocket) - Golden Map (Carentan)
 
 **Results - UB Semi Finals:**
 
-* TBA vs TBA \~ (Harbor + Brecourt) - Golden Map (Powcamp)
-* TBA vs TBA \~ (Harbor + Brecourt) - Golden Map (Powcamp)
+* drunkality vs d\`logics. \~ (Harbor + Brecourt) - Golden Map (Powcamp)
+* barbeque vs EURO| \~ (Harbor + Brecourt) - Golden Map (Powcamp)
 
 **Results - LB Round 2:**
 
