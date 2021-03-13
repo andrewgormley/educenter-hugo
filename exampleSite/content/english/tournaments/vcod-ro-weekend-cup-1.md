@@ -121,10 +121,10 @@ A list of the registered teams, group standings, results from the competition an
 
 **Results - UB Quarter Finals:**
 
-* TBA vs TBA \~ (Railyard + Dawnville) - Golden Map (German_Town)
-* TBA vs TBA \~ (Railyard + Dawnville) - Golden Map (German_Town)
-* TBA vs TBA \~ (Railyard + Dawnville) - Golden Map (German_Town)
-* TBA vs TBA \~ (Railyard + Dawnville) - Golden Map (German_Town)
+* drunkality vs t2g \~ (Railyard + Dawnville) - Golden Map (German_Town)
+* d\`logics. vs #AFFECTO \~ (Railyard + Dawnville) - Golden Map (German_Town)
+* barbeque vs A7X \~ (Railyard + Dawnville) - Golden Map (German_Town)
+* EURO| vs youhate# \~ (Railyard + Dawnville) - Golden Map (German_Town)
 
 **Results - LB Round 1:**
 
