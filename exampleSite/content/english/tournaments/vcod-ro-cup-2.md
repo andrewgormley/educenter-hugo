@@ -106,7 +106,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 * unionsqd. \[16\] - \[21\] nK \~ [Dawnville](https://i.imgur.com/bOSYwQa.jpg) & [Hurtgen](https://i.imgur.com/IXvh8KO.jpg)
 * #AFFECTO \[21\] - \[04\] nK \~ [Railyard](https://i.imgur.com/FjnR2au.jpg) & [Pavlov](https://i.imgur.com/Q7glmHI.jpg)
 * fatality \[21\] - \[12\] intuitive - \~ [Railyard](https://i.imgur.com/6ufFDYN.jpg) & [Pavlov](https://i.imgur.com/0L6jaAC.jpg)
-* unionsqd. \[21\] - \[00\] intuitive - \~ Harbor & Rocket - no show.
+* unionsqd. \[21\] - \[00\] intuitive - \~ [Harbor](https://i.imgur.com/hdnsdJ5.jpg) & [Rocket](https://i.imgur.com/hdnsdJ5.jpg) - [no show](https://i.imgur.com/hdnsdJ5.jpg).
 * nK \[05\] - \[21\] fatality \~ [Harbor](https://i.imgur.com/DTnqqBT.jpg) & [Rocket](https://i.imgur.com/UZzcFD0.jpg)
 * #AFFECTO \[21\] - \[08\] unionsqd. \~ [Bocage](https://i.imgur.com/1Xs2AHD.jpg) & [Carentan](https://i.imgur.com/KMB4QGl.jpg)
 * nK \[16\] - \[21\] intuitive - \~ [Bocage](https://i.imgur.com/N8cetX2.jpg) & [Carentan](https://i.imgur.com/oEv2BZp.jpg)
