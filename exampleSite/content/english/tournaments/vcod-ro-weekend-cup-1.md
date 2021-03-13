@@ -89,7 +89,7 @@ A list of the registered teams, group standings, results from the competition an
 
 * #AFFECTO vs A7X \~ (Pavlov + Brecourt)
 * LOGIK - vs EURO| \~ (Pavlov + Brecourt)
-* #AFFECTO vs LOGIK - \~ (Depot + Hurtgen)
+* #AFFECTO \[2\] - \[0\] LOGIK - \~ ([Depot](https://i.imgur.com/O26dNws.jpg) + [Hurtgen](https://i.imgur.com/4RPSU8d.jpg))
 * EURO| vs drunkality \~ (Depot + Hurtgen)
 * #AFFECTO \[1\] - \[1\] EURO| \~ ([Carentan](https://i.imgur.com/4vnqA0L.jpg) + [Dawnville](https://i.imgur.com/6wDpQlq.jpg)) ([Carentan OT](https://i.imgur.com/xKq1juH.jpg))
 * A7X \[0\] - \[2\] drunkality \~ ([Carentan](https://i.imgur.com/OvNMviL.jpg) + [Dawnville](https://i.imgur.com/BQpFM6R.jpg))
