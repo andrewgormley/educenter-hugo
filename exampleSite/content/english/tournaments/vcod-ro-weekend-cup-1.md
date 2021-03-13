@@ -87,7 +87,7 @@ A list of the registered teams, group standings, results from the competition an
 
 **Results – Group A:**
 
-* #AFFECTO vs A7X \~ (Pavlov + Brecourt)
+* #AFFECTO \[2\] - \[0\] A7X \~ ([Pavlov](https://i.imgur.com/srq0Zlc.jpg) + [Brecourt](https://i.imgur.com/85puFvu.jpg))
 * LOGIK - vs EURO| \~ (Pavlov + Brecourt)
 * #AFFECTO \[2\] - \[0\] LOGIK - \~ ([Depot](https://i.imgur.com/O26dNws.jpg) + [Hurtgen](https://i.imgur.com/4RPSU8d.jpg))
 * EURO| vs drunkality \~ (Depot + Hurtgen)
