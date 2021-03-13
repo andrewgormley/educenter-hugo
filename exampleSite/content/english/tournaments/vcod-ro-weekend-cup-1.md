@@ -94,7 +94,7 @@ A list of the registered teams, group standings, results from the competition an
 * #AFFECTO \[1\] - \[1\] EURO| \~ ([Carentan](https://i.imgur.com/4vnqA0L.jpg) + [Dawnville](https://i.imgur.com/6wDpQlq.jpg)) ([Carentan OT](https://i.imgur.com/xKq1juH.jpg))
 * A7X \[0\] - \[2\] drunkality \~ ([Carentan](https://i.imgur.com/OvNMviL.jpg) + [Dawnville](https://i.imgur.com/BQpFM6R.jpg))
 * #AFFECTO \[0\] - \[2\] drunkality \~ ([Neuville ](https://i.imgur.com/ntvlCLi.jpg)+ [Rocket](https://i.imgur.com/qn5IH1T.jpg)) ([Neuville OT1](https://i.imgur.com/ZUiWKlm.jpg)) ([Neuville OT2](https://i.imgur.com/k685zgb.jpg))
-* A7X \[2\] - \[0\] LOGIK - (Neuville + Rocket) - forfeit win.
+* A7X \[2\] - \[0\] LOGIK - ([Neuville](https://i.imgur.com/3rK3lZr.png) + [Rocket](https://i.imgur.com/3rK3lZr.png)) - [forfeit win](https://i.imgur.com/3rK3lZr.png).
 * A7X \[0\] - \[2\] EURO| \~ ([Stalingrad](https://i.imgur.com/Xl71VtL.jpg) + [Bocage](https://i.imgur.com/F94syyc.jpg))
 * LOGIK - \[0\] - \[2\] drunkality \~ ([Stalingrad](https://i.imgur.com/QOPNRXK.jpg) + [Bocage](https://i.imgur.com/yg8HDe1.jpg))
 
