@@ -140,8 +140,8 @@ A list of the registered teams, group standings, results from the competition an
 
 **Results - LB Round 2:**
 
-* TBA vs TBA \~ (Stalingrad + Tigertown) - Golden Map (Neuville)
-* TBA vs TBA \~ (Stalingrad + Tigertown) - Golden Map (Neuville)
+* youhate# vs drunkality \~ (Stalingrad + Tigertown) - Golden Map (Neuville)
+* EURO| \[2\] - \[0\] #AFFECTO \~ ([Stalingrad](https://i.imgur.com/xtJ5JcF.jpg) + [Tigertown](https://i.imgur.com/OffdH1d.jpg)) - ([Stalingrad OT](https://i.imgur.com/ELyycQA.jpg))
 
 **Results - LB Round 3:**
 
