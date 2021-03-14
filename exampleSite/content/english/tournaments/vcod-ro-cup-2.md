@@ -153,7 +153,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - LB Round 4:**
 
-* TBA vs TBA
+* barbeque ([Depot](https://i.imgur.com/W76JgqF.jpg)) \[10\] - \[21\] ([Railyard](https://i.imgur.com/9QgRR8s.jpg)) d\`logics.
 
 **Results - Grand Final**
 
