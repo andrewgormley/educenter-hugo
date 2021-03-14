@@ -145,11 +145,11 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - LB Round 3:**
 
-* fatality vs barbeque
+* fatality ([Harbor](https://i.imgur.com/gpwlgHE.jpg)) \[18\] - \[21\] ([Bocage](https://i.imgur.com/p0A4CqF.jpg)) barbeque
 
 **Results - UB Final:**
 
-* d\`logics. vs #AFFECTO
+* d\`logics. ([Powcamp](https://i.imgur.com/iQGKNsa.jpg)) \[15\] - \[21\] ([Brecourt](https://i.imgur.com/DJtpGPV.jpg)) #AFFECTO
 
 **Results - LB Round 4:**
 
@@ -157,4 +157,4 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - Grand Final**
 
-* TBA vs TBA
+* #AFFECTO vs d\`logics.
