@@ -130,7 +130,7 @@ A list of the registered teams, group standings, results from the competition an
 
 **Results - LB Round 1:**
 
-* t2g vs youhate# \~ ([Depot](https://i.imgur.com/PEBMyyH.jpg) + Rocket) - Golden Map (Carentan)
+* t2g vs youhate# \~ ([Depot](https://i.imgur.com/PEBMyyH.jpg) + [Rocket](https://i.imgur.com/3vdqJi8.jpg)) - Golden Map ([Carentan](https://i.imgur.com/I3qgfCm.jpg))
 * #AFFECTO vs A7X \~ (Depot + Rocket) - Golden Map (Carentan)
 
 **Results - UB Semi Finals:**
