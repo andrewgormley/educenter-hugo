@@ -135,7 +135,7 @@ A list of the registered teams, group standings, results from the competition an
 
 **Results - UB Semi Finals:**
 
-* drunkality vs d\`logics. \~ (Harbor + Brecourt) - Golden Map (Powcamp)
+* drunkality vs d\`logics. \~ ([Harbor](https://imgur.com/a/2p8R5Q0) + [Brecourt](https://i.imgur.com/XecJICr.jpg)) - Golden Map ([Powcamp](https://i.imgur.com/efVTW1Z.jpg)) ([Powcamp OT](https://i.imgur.com/bsikT1P.jpg))
 * barbeque vs EURO| \~ (Harbor + Brecourt) - Golden Map (Powcamp)
 
 **Results - LB Round 2:**
