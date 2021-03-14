@@ -119,7 +119,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Knockouts:**
 
-![](/images/updko2.PNG)
+![](/images/rocup2gfko.PNG)
 
 **Results - UB Quarter Finals:**
 
