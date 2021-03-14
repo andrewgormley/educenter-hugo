@@ -126,11 +126,11 @@ A list of the registered teams, group standings, results from the competition an
 * drunkality \[2\] - \[0\] t2g \~ ([Railyard](https://i.imgur.com/24vcFQf.jpg) + [Dawnville](https://i.imgur.com/mKaTM5C.jpg))
 * d\`logics. \[2\] - \[1\] #AFFECTO \~ ([Railyard](https://i.imgur.com/CN3A4LW.jpg) + [Dawnville](https://i.imgur.com/AT1Y2lX.jpg)) - Golden Map ([Neuville](https://i.imgur.com/Ci4Cf9B.jpg))
 * barbeque \[2\] - \[0\] A7X \~ (Railyard + Dawnville)
-* EURO| \[2\] - \[0\] youhate# \~ ([Railyard](https://i.imgur.com/D1mNAmn.jpg) + Dawnville)
+* EURO| \[2\] - \[0\] youhate# \~ ([Railyard](https://i.imgur.com/D1mNAmn.jpg) + [Dawnville](https://i.imgur.com/UGzj01z.jpg))
 
 **Results - LB Round 1:**
 
-* t2g vs youhate# \~ (Depot + Rocket) - Golden Map (Carentan)
+* t2g vs youhate# \~ ([Depot](https://i.imgur.com/PEBMyyH.jpg) + Rocket) - Golden Map (Carentan)
 * #AFFECTO vs A7X \~ (Depot + Rocket) - Golden Map (Carentan)
 
 **Results - UB Semi Finals:**
