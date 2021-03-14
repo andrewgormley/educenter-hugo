@@ -126,7 +126,7 @@ A list of the registered teams, group standings, results from the competition an
 * drunkality \[2\] - \[0\] t2g \~ ([Railyard](https://i.imgur.com/24vcFQf.jpg) + [Dawnville](https://i.imgur.com/mKaTM5C.jpg))
 * d\`logics. \[2\] - \[1\] #AFFECTO \~ ([Railyard](https://i.imgur.com/CN3A4LW.jpg) + [Dawnville](https://i.imgur.com/AT1Y2lX.jpg)) - Golden Map ([Neuville](https://i.imgur.com/Ci4Cf9B.jpg))
 * barbeque \[2\] - \[0\] A7X \~ (Railyard + Dawnville)
-* EURO| \[2\] - \[0\] youhate# \~ (Railyard + Dawnville)
+* EURO| \[2\] - \[0\] youhate# \~ ([Railyard](https://i.imgur.com/D1mNAmn.jpg) + Dawnville)
 
 **Results - LB Round 1:**
 
