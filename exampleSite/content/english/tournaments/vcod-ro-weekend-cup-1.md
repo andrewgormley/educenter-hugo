@@ -119,7 +119,7 @@ A list of the registered teams, group standings, results from the competition an
 
 **Knockouts:**
 
-![](/images/kogridwc.PNG)
+![](/images/wc2koting.PNG)
 
 **Results - UB Quarter Finals:**
 
