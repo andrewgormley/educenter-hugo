@@ -130,7 +130,7 @@ If you are clanless and looking for a team, then head over to the Community Disc
 
 **Results - LB Round 1:**
 
-* nK \[00\] vs \[21\] unionsqd. - no show.
+* nK ([Bocage](https://i.imgur.com/FH1FSsl.jpg)) \[00\] vs \[21\] ([Hurtgen](https://i.imgur.com/FH1FSsl.jpg)) unionsqd. - [no show](https://i.imgur.com/FH1FSsl.jpg).
 * barbeque ([Harbor](https://i.imgur.com/7K16h5w.png)) \[21\] vs \[11\] ([Stalingrad](https://i.imgur.com/XzocsOB.png)) lobiiX
 
 **Results - UB Semi Finals:**
