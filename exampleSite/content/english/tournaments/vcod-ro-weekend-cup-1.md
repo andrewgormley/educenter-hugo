@@ -123,7 +123,7 @@ A list of the registered teams, group standings, results from the competition an
 
 **Results - UB Quarter Finals:**
 
-* drunkality \[2\] - \[0\] t2g \~ (Railyard + Dawnville)
+* drunkality \[2\] - \[0\] t2g \~ ([Railyard](https://i.imgur.com/24vcFQf.jpg) + [Dawnville](https://i.imgur.com/mKaTM5C.jpg))
 * d\`logics. \[2\] - \[1\] #AFFECTO \~ ([Railyard](https://i.imgur.com/CN3A4LW.jpg) + [Dawnville](https://i.imgur.com/AT1Y2lX.jpg)) - Golden Map ([Neuville](https://i.imgur.com/Ci4Cf9B.jpg))
 * barbeque \[2\] - \[0\] A7X \~ (Railyard + Dawnville)
 * EURO| \[2\] - \[0\] youhate# \~ (Railyard + Dawnville)
@@ -135,8 +135,8 @@ A list of the registered teams, group standings, results from the competition an
 
 **Results - UB Semi Finals:**
 
-* drunkality vs d\`logics. \~ ([Harbor](https://imgur.com/a/2p8R5Q0) + [Brecourt](https://i.imgur.com/XecJICr.jpg)) - Golden Map ([Powcamp](https://i.imgur.com/efVTW1Z.jpg)) ([Powcamp OT](https://i.imgur.com/bsikT1P.jpg))
-* barbeque vs EURO| \~ (Harbor + Brecourt) - Golden Map (Powcamp)
+* drunkality \[1\] - \[2\] d\`logics. \~ ([Harbor](https://imgur.com/a/2p8R5Q0) + [Brecourt](https://i.imgur.com/XecJICr.jpg)) - Golden Map ([Powcamp](https://i.imgur.com/efVTW1Z.jpg)) ([Powcamp OT](https://i.imgur.com/bsikT1P.jpg))
+* barbeque \[2\] - \[0\] EURO| \~ ([Harbor](https://i.imgur.com/MZLcTwK.jpg) + [Brecourt](https://i.imgur.com/EVXcS6g.jpg)) - ([Harbor OT](https://i.imgur.com/fmFbWju.jpg))
 
 **Results - LB Round 2:**
 
