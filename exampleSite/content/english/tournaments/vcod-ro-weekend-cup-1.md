@@ -119,6 +119,8 @@ A list of the registered teams, group standings, results from the competition an
 
 **Knockouts:**
 
+![](/images/kogridwc.PNG)
+
 **Results - UB Quarter Finals:**
 
 * drunkality \[2\] - \[0\] t2g \~ (Railyard + Dawnville) - Golden Map (German_Town)
