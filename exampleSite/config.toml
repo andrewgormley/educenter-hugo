@@ -46,24 +46,24 @@ name = "Tournaments"
 weight = "2"
 [[menu.main]]
 URL = "rules"
+hasChilden = true
 name = "Rules"
 weight = "3"
-hasChilden = true
-  [[menu.main]]
-    parent = "Rules"
-    name = "vCoD RO"
-    url = "rules/vcod"
-    weight = 1
-  [[menu.main]]
-    parent = "Rules"
-    name = "vCoD AW"
-    url = "rules/vcodaw"
-    weight = 2
-  [[menu.main]]
-    parent = "Rules"
-    name = "CoD:UO"
-    url = "rules/coduo"
-    weight = 3
+[[menu.main]]
+name = "vCoD RO"
+parent = "Rules"
+url = "rules/vcod"
+weight = 1
+[[menu.main]]
+name = "vCoD AW"
+parent = "Rules"
+url = "rules/vcodaw"
+weight = 2
+[[menu.main]]
+name = "CoD:UO"
+parent = "Rules"
+url = "rules/coduo"
+weight = 3
 [[menu.main]]
 URL = "halloffame"
 name = "Hall of Fame"
@@ -123,7 +123,7 @@ mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463e
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
 [[params.social]]
 icon = "ti-facebook"
-link = "https://discord.gg/FA5vxDa"
+link = "https://discord.com/invite/9RpWkEyzkY"
 title = "Discord"
 [[params.social]]
 icon = "ti-twitter-alt"
