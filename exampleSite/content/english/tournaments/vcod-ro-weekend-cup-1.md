@@ -153,8 +153,8 @@ A list of the registered teams, group standings, results from the competition an
 
 **Results - LB Round 4:**
 
-* TBA vs TBA \~ (Neuville + Hurtgen) - Golden Map (Pavlov)
+* drunkality vs barbeque \~ (Neuville + Hurtgen) - Golden Map (Pavlov)
 
 **Results - Grand Final**
 
-* TBA vs TBA
+* d\`logics. vs TBA
